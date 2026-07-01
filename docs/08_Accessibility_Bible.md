@@ -8,11 +8,13 @@ Accessibility is the foundation of Resonance. Every gameplay mechanic must be pl
 
 Accessibility options are independent. Players may combine any options they wish. One option never disables another.
 
+## Configuration by experience, not diagnosis
+
+Accessibility is configured based on experience rather than diagnosis. The game never asks whether a player has a condition; it asks how they want to interact with the world. This keeps the setup respectful and future-proof, because a player might wear hearing aids one day, cochlear implant processors another day, or use no auditory input at all.
+
 ## Initial accessibility interview
 
-Faience begins by learning how the player experiences the world. The interview is framed around experience rather than diagnosis, so it stays respectful and future-proof. A player might wear hearing aids one day, cochlear implant processors another day, or use no auditory input at all. The interview does not ask whether the player has a condition; it asks how they want to interact.
-
-The player may change any of these choices at any time. Faience learns preferences over time but never locks the player into a profile.
+Faience begins by learning how the player experiences the world. The player may change any of these choices at any time. Faience learns preferences over time but never locks the player into a profile.
 
 ### How would you like me to communicate with you?
 
@@ -41,20 +43,22 @@ The player may change any of these choices at any time. Faience learns preferenc
 - Running
 - Manual wheelchair
 - Power wheelchair
-- Guide dog
 - White cane
+- Guide dog
 - Mixed mobility
 - Stationary play
 - Other
 
-## Accessible output
+## DeafBlind gameplay
+
+DeafBlind play is a first-class, supported way to experience Resonance, configured by experience rather than diagnosis. Players may freely combine any output method, any listening method, and any movement method from the initial accessibility interview.
 
 If the player selects no auditory input, the game immediately does the following.
 
-- Enables captions.
-- Removes action timers unless required by multiplayer.
-- Enables braille display support if available.
-- Replaces spoken urgency with haptics, visual cues, and tactile music patterns.
+- Captions are automatically enabled.
+- Braille display support is enabled if available.
+- Timed actions are removed or greatly extended in single-player.
+- Spoken urgency is replaced with tactile patterns, captions, and visual indicators.
 
 Important information must never depend on sound alone.
 
@@ -64,54 +68,64 @@ Every important action must support multiple activation methods. Examples includ
 
 - Double tap
 - Shake device
-- Back Tap, where supported by the platform
+- iOS Back Tap
+- Android Quick Tap, when available
 - Custom gesture
-- External switch devices
+- External switch device
 - Game controller
 - Keyboard
 - Braille display commands
-- Voice command
+- Voice commands, where appropriate
 
-Players may bind any action to any supported input. Examples of bindable actions include the following.
+Players may bind any gameplay action to any supported input. Examples of bindable actions include the following.
 
-- Retrieve object
+- Fire
 - Interact
-- Fire weapon
-- Reload
+- Retrieve object
 - Scan
+- Reload
 - Repeat Faience
 - Pause
-- Emergency accessibility menu
+- Accessibility menu
 
-No interaction should require a single mandatory gesture.
+No action should ever depend upon one mandatory gesture.
 
-## Orientation layer
+## Tactile language
 
-Reality always has priority over immersion. Faience maintains two simultaneous models: the real world and the game world.
+Haptics are an intentional, authored communication channel. Do not simply convert music into vibration. Instead, design a deliberate tactile language that communicates specific meaning.
 
-When navigation becomes important, Faience lowers game volume and announces real-world orientation, then lets immersion fade naturally back in. Examples of orientation announcements include the following.
+The tactile language communicates information such as the following.
 
-- Turning left onto West Market Street.
-- Destination five blocks ahead.
-- Crosswalk approaching.
-- Construction ahead.
+- Direction
+- Threat
+- Distance
+- Object proximity
+- AI urgency
+- Environmental hazards
+- Navigation
+- Success
+- Failure
 
-Players may replay the last orientation announcement instantly through any assigned input.
+Music may influence tactile patterns, but haptics are designed as an independent communication channel, not a byproduct of the soundtrack.
 
-## Environmental profiles
+## Reality-integrated navigation
 
-Faience remembers preferred settings for different environments. Examples include the following.
+Reality-integrated navigation is a core gameplay mechanic, not merely an accessibility feature. It lets the player move through the real world safely while the game world is rendered around them.
 
-- Home
-- Busy city
-- Quiet neighbourhood
-- Museum
-- Forest
-- Airport
-- Hospital
-- Convention
-- Public transport
-- Night travel
+The mechanic includes the following elements.
+
+- Real-world orientation always overrides immersion.
+- Faience maintains two separate models: the real world and the game world.
+- Environmental transformation turns real surroundings into the game world, for example a sidewalk into a corridor, gravel into wreckage, a park into an alien forest, or a doorway into an airlock. The full catalogue lives in the Systems Bible.
+- Terrain-based discovery lets real-world changes trigger in-game discoveries. The full catalogue lives in the Systems Bible.
+- Reality announcements smoothly fade in and out, lowering game volume when navigation matters and letting immersion return afterward.
+- Navigation announcements are replayable instantly through any assigned input.
+- Environmental audio profiles remember preferred settings for real-world environments such as home, a busy city, a quiet neighbourhood, a museum, a forest, an airport, a hospital, a convention, public transport, and night travel.
+- Accessibility learning lets Faience adapt to the player's preferences over time without ever locking them into a fixed profile.
+- A safety override always prioritizes the player's real-world safety over immersion.
+- Real-world movement is optional and always has a stationary alternative.
+
+Supported movement methods include walking, running, manual wheelchair, power wheelchair, white cane, guide dog, mixed mobility, stationary play, and other. Every movement mechanic must have a stationary alternative so no player is excluded because of disability. Faience's orientation layer, which drives these announcements, is described in the AI Bible.
 
 ## Independent volume channels
 
@@ -126,10 +140,6 @@ The player controls separate volume levels for each of the following.
 - Accessibility prompts
 - Reality announcements
 
-## Movement alternatives
-
-Every movement mechanic must have a stationary alternative. Real-world movement is always optional, and no player is excluded because of disability. The full list of movement methods is in the Systems Bible.
-
 ## Accessibility in multiplayer
 
-Accessibility preferences remain individual. One player's accessibility settings must never alter another player's experience. See the Network and Multiplayer Bible for details.
+Accessibility preferences remain individual to each player. One player's accessibility settings must never alter another player's experience. See the Network and Multiplayer Bible for details.

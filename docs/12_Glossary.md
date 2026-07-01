@@ -14,6 +14,10 @@ A design-notes space for prototyping emerging accessibility technology, such as 
 
 A major self-contained story within the franchise. Campaign One is Resonance: Fractured Frequency.
 
+## DeafBlind gameplay
+
+A first-class, supported way to play Resonance, configured by experience rather than diagnosis, in which players freely combine output, listening, and movement methods.
+
 ## Environmental profile
 
 A remembered set of preferred settings for a real-world environment, such as home, a busy city, or a museum.
@@ -58,6 +62,10 @@ The player's chosen role, such as Medic, Scientist, Engineer, Maintenance, Secur
 
 Optional gameplay in which real-world movement becomes part of the game and Faience narratively transforms the surroundings, while the player stays safely in the real world.
 
+## Reality-integrated navigation
+
+The core gameplay mechanic through which the player navigates the real world safely while the game world is rendered around them, including reality announcements, environmental audio profiles, and a safety override.
+
 ## Resonance
 
 The franchise, and the principle that the world is rendered primarily through sound.
@@ -66,6 +74,14 @@ The franchise, and the principle that the world is rendered primarily through so
 
 Campaign One of the Resonance franchise.
 
+## Safety override
+
+The principle and mechanism by which real-world safety always takes priority over immersion during reality-integrated navigation.
+
 ## Shawabti
 
 The ancient alien civilization that created adaptive AI for deep-space exploration, inspired by Egyptian Shawabti and Ushabti figures.
+
+## Tactile language
+
+An intentional, authored system of haptic patterns that communicates meaning such as direction, threat, distance, and urgency. It is an independent communication channel, not a direct conversion of music into vibration.

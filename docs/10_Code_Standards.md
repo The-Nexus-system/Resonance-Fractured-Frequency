@@ -44,15 +44,40 @@ Code documentation follows the same rules as design documentation.
 - Accessibility behaviour should be tested, not assumed.
 - Prefer tests that verify a mechanic is reachable and operable through more than one input method.
 
+## Playtesting discipline
+
+Accessibility testing is a first-class development discipline, equal to programming, audio, and design. Every significant feature must be validated against the player groups and testing dimensions defined in the Playtesting Bible before it is considered complete.
+
 ## Current prototype
 
 The current playable web prototype is a React, Vite, and TypeScript application in the pnpm monorepo under `artifacts/resonance`. It demonstrates accessibility-first patterns, local-first saves, and a modular campaign registry. It is a foundation and a reference, not the final shared codebase. Decisions about the long-term shared-codebase technology are tracked in Open Questions until they are made and recorded in the Decision Log.
+
+## Repository structure
+
+The repository separates applications from generated artifacts.
+
+The target application layout, adopted once the shared architecture is established, is the following.
+
+- `apps/web` — the web application.
+- `apps/ios` — the native iOS application.
+- `apps/android` — the native Android application.
+
+The `artifacts/` folder is reserved for generated outputs rather than source applications.
+
+- Playtest builds
+- Release builds
+- Demonstrations
+- Recordings
+- Exported packages
+- Temporary prototype artifacts
+
+The current playable web prototype still lives under `artifacts/resonance` and will move to `apps/web` once the shared architecture is established. Until then it remains the working reference. The migration is tracked in Open Questions.
 
 ## Repository conventions
 
 - `docs/` holds living design documents.
 - `docs/design_notes/` holds early ideas not yet promoted to canon.
 - `assets/` holds art, audio, and media.
-- `src/` holds application source code.
+- `src/` holds shared application source code.
 - `tests/` holds automated tests.
 - `tools/` holds developer tooling and scripts.

@@ -58,4 +58,4 @@ The soundtrack tells part of the story rather than only setting a mood.
 
 ## Audio and accessibility
 
-Important information must never depend on sound alone. For players with no auditory input, urgency and information are conveyed through captions, haptics, visual cues, and tactile music patterns. The Accessibility Bible defines these output paths in full.
+Important information must never depend on sound alone. For players with no auditory input, urgency and information are conveyed through captions, visual cues, haptics, and an authored tactile language. Haptics are designed as an independent communication channel rather than a direct conversion of music into vibration; music may influence tactile patterns but does not define them. The Accessibility Bible defines the tactile language and these output paths in full.

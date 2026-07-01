@@ -5,7 +5,7 @@ This document tracks decisions that have not yet been made. When a question is r
 ## Technology and architecture
 
 - What technology will the long-term shared codebase use to deliver true native mobile applications alongside desktop and web from one source? The current web prototype uses React, Vite, and TypeScript, but the shared-codebase choice is not yet decided.
-- How does the documented repository structure of `src/`, `tests/`, `tools/`, and `assets/` relate to the existing pnpm monorepo, which currently holds the web prototype under `artifacts/resonance`? A migration or reconciliation plan is needed.
+- When will the web prototype move from `artifacts/resonance` to `apps/web`, and what specifically counts as "the shared architecture is established"? The target layout (`apps/web`, `apps/ios`, `apps/android`, with `artifacts/` reserved for generated outputs) is decided, but the migration timing and steps are not.
 
 ## Multiplayer and networking
 

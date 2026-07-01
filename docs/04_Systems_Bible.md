@@ -52,7 +52,7 @@ Supported ways to move include the following, and every movement mechanic must h
 - Indoor treadmill
 - Stationary touch controls
 
-Reality always has priority over immersion. The orientation layer that keeps players safe in the real world is defined in the Accessibility Bible and the AI Bible.
+Reality always has priority over immersion, and this is now treated as a core gameplay mechanic. The full mechanic, including the safety override, reality announcements, replayable navigation, and environmental audio profiles, is defined as reality-integrated navigation in the Accessibility Bible. The AI Bible covers Faience's orientation layer that drives the announcements.
 
 ## Environmental transformation
 

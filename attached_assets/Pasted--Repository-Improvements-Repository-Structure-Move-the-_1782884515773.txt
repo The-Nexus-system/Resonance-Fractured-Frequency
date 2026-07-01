@@ -1,0 +1,281 @@
+# Repository Improvements
+
+## Repository Structure
+
+Move the current playable web application out of `artifacts/` once the shared architecture is established.
+
+Suggested structure:
+
+/apps/
+
+    web/
+
+    ios/
+
+    android/
+
+Keep `artifacts/` for:
+
+- Playtest builds
+
+- Release builds
+
+- Demonstrations
+
+- Recordings
+
+- Exported packages
+
+- Temporary prototype artifacts
+
+This keeps applications separate from generated artifacts.
+
+---
+
+## Accessibility Bible
+
+Add a dedicated section:
+
+# Reality-Integrated Navigation
+
+Include:
+
+- Real-world orientation always overrides immersion.
+
+- Faience maintains separate models of reality and the game world.
+
+- Environmental transformation (sidewalk → corridor, gravel → wreckage, park → alien forest, doorway → airlock, etc.).
+
+- Terrain-based discovery.
+
+- Reality announcements that smoothly fade in and out.
+
+- Replayable navigation announcements.
+
+- Environmental audio profiles.
+
+- Accessibility learning.
+
+- Safety override.
+
+- Optional real-world movement with stationary alternatives.
+
+This is now considered a core gameplay mechanic rather than simply an accessibility feature.
+
+---
+
+## Accessibility Bible
+
+Add a dedicated section:
+
+# DeafBlind Gameplay
+
+Accessibility should be configured based on experience rather than diagnosis.
+
+Players may choose any combination of:
+
+Output
+
+- Speech
+
+- Captions
+
+- Braille
+
+- Speech + Captions
+
+- Speech + Braille
+
+- Captions + Braille
+
+- Speech + Captions + Braille
+
+Listening Method
+
+- Hearing aids
+
+- Cochlear implants
+
+- Open-ear headphones
+
+- Bone-conduction headphones
+
+- Earbuds
+
+- Speakers
+
+- No auditory input
+
+- Other
+
+Movement
+
+- Walking
+
+- Running
+
+- Manual wheelchair
+
+- Power wheelchair
+
+- White cane
+
+- Guide dog
+
+- Mixed mobility
+
+- Stationary play
+
+- Other
+
+If "No auditory input" is selected:
+
+- Captions are automatically enabled.
+
+- Braille support is enabled if available.
+
+- Timed actions are removed or greatly extended in single-player.
+
+- Spoken urgency is replaced with tactile patterns, captions and visual indicators.
+
+---
+
+## Accessible Input
+
+Every important action must support multiple activation methods.
+
+Examples include:
+
+- Double tap
+
+- Shake device
+
+- iOS Back Tap
+
+- Android Quick Tap (when available)
+
+- Custom gesture
+
+- External switch device
+
+- Game controller
+
+- Keyboard
+
+- Braille display commands
+
+- Voice commands (where appropriate)
+
+Players may bind any gameplay action to any supported input.
+
+Examples include:
+
+- Fire
+
+- Interact
+
+- Retrieve object
+
+- Scan
+
+- Reload
+
+- Repeat Faience
+
+- Pause
+
+- Accessibility menu
+
+No action should ever depend upon one mandatory gesture.
+
+---
+
+## Tactile Language
+
+Do not simply convert music into vibration.
+
+Instead, create an intentional tactile language.
+
+Use authored vibration patterns to communicate:
+
+- Direction
+
+- Threat
+
+- Distance
+
+- Object proximity
+
+- AI urgency
+
+- Environmental hazards
+
+- Navigation
+
+- Success
+
+- Failure
+
+Music may influence tactile patterns, but haptics should be designed as an independent communication channel.
+
+---
+
+## New Documentation
+
+Create:
+
+docs/14_Playtesting_Bible.md
+
+Contents should include testing standards for:
+
+- Blind players
+
+- Low-vision players
+
+- DeafBlind players
+
+- Deaf players
+
+- Hearing-aid users
+
+- Cochlear implant users
+
+- White cane users
+
+- Guide dog teams
+
+- Manual wheelchair users
+
+- Power wheelchair users
+
+- Neurodivergent players
+
+- Cognitive accessibility
+
+- Motion sensitivity
+
+- Fatigue
+
+- Multiplayer accessibility
+
+- Mobile-only players
+
+- Touch-only players
+
+Accessibility testing should be treated as a first-class development discipline equal to programming, audio and design.
+
+---
+
+## Overall Development Direction
+
+The project has successfully moved from brainstorming into pre-production.
+
+From this point forward:
+
+- The GitHub repository is the single source of truth.
+
+- Every approved design decision becomes an edit to an existing Markdown document.
+
+- Avoid creating new competing documents.
+
+- Continue refining the existing documentation before expanding the scope of the game.
