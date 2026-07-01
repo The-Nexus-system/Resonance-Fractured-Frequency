@@ -692,6 +692,16 @@ Every civilization should feel capable of producing the full range of people who
 
 The Resonance universe is populated by societies of people rather than by stereotypes. This rule extends the same principle applied to the recurring human cast to every species and civilization in the universe.
 
+## Knowledge Is Historical
+
+The repository records objective canon, and characters record subjective knowledge, and these two are not always identical.
+
+A document written from an in-universe perspective remains canonical because it accurately represents what its author knew at the time. Such a document may contain incomplete observations, incorrect conclusions, competing scientific theories, political bias, cultural assumptions, historical misunderstanding, or missing evidence, and it remains canon nonetheless.
+
+As new operations, expeditions, and perspectives are experienced, humanity's understanding grows. Knowledge is corrected through discovery rather than through retcon. The universe itself remains internally consistent, while the player's understanding evolves.
+
+This rule extends the principle that history and understanding are earned separately, applying it to the whole recorded knowledge of the universe's species and civilizations, so that what a people believe is recorded distinctly from what is objectively true.
+
 ## Relationship to Other Documents
 
 This document is the master list of canon rules and holds precedence for the wording of a rule. Several rules are elaborated in depth elsewhere, and those documents remain the place for detail while this document remains the place for the complete set. Where another document restates a rule, that restatement is explanatory, not a second source of truth; if the wording drifts, the statement here governs. Only the Project Constitution has authority over this document.
@@ -707,6 +717,7 @@ This document is the master list of canon rules and holds precedence for the wor
 - The Crew Progression System, the Operation One Character Schedule, and the Universe Bible elaborate the recurring characters, the Vale System and its four members, how fronting is recognized in play, and how each character's identity, representation, and presentation are realized.
 - The Universe Bible elaborates the crew identity and identification technology and the personal beacon.
 - The Universe Bible is the definitive reference for every intelligent species and civilization, and it elaborates the species and civilization frameworks, humanity, the CSV Hearth community, the Shawabti, artificial minds, first contact, and multi-species communities.
+- The Universe Bible elaborates historical knowledge as distinct from objective history, recording what humanity currently believes about the Shawabti and about Faience separately from what is objectively true.
 - The Player Identity and Character Presentation Bible elaborates each recurring character's complete presentation profile and everyday carry, the presentation of the Vale System and its members, and the recognition cues by which each character is known.
 - The Decision Log records when each rule was adopted or amended.
 
