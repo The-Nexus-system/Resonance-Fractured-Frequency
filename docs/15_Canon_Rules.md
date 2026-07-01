@@ -470,6 +470,16 @@ Gender identities are not mutually exclusive when they are not in conflict.
 
 The goal of the recurring cast is not to check demographic boxes. The goal is to portray a diverse range of authentic human experiences through fully realized characters. Every recurring character is defined first by their personality, relationships, profession, values, strengths, flaws, goals, and growth, and their gender identity is one meaningful aspect of who they are rather than the whole of it.
 
+## Pronouns Reflect Current Presentation
+
+A character whose gender identity changes over time naturally changes the pronouns they use.
+
+Crew members, friends, and family respect and use a character's current pronouns as an ordinary part of daily life, and the game never treats these changes as unusual.
+
+The player learns a character's current pronouns through natural interaction, dialogue, and observation rather than through intrusive interface prompts.
+
+Pronouns are part of a person's present presentation and always reflect how that character currently identifies.
+
 ## Disability Shapes Characters Without Defining Them
 
 Disability is foundational to Resonance, and characters experience disability in many different ways.
