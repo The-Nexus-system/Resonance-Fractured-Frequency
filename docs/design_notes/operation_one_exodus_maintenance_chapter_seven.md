@@ -874,3 +874,9 @@ The player closes the Archive. Behind them, life continues. Children laugh. Some
 The player is no longer listening as a survivor. The player is listening as someone who has found a home.
 
 Operation One ends. The Resonance franchise begins.
+
+## Related documents
+
+- For the definitive rules on sound, music, and acoustic identity, see the Audio Bible in docs/07_Audio_Bible.md.
+- For the definitive accessibility standards, see the Accessibility Bible in docs/08_Accessibility_Bible.md.
+- For species and civilization rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.

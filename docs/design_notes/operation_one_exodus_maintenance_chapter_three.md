@@ -646,3 +646,8 @@ As normal routines begin to resume, the unknown signal returns. This time it is 
 Someone, or something, knows the station exists.
 
 End Chapter Three.
+
+## Related documents
+
+- For the definitive rules on sound, music, and acoustic identity, see the Audio Bible in docs/07_Audio_Bible.md.
+- For the definitive accessibility standards, see the Accessibility Bible in docs/08_Accessibility_Bible.md.

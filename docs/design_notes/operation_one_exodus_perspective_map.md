@@ -251,6 +251,9 @@ This perspective map is the vantage layer of the Operation One canon and should 
 - docs/design_notes/operation_one_exodus_maintenance_chapter_one.md through docs/design_notes/operation_one_exodus_maintenance_chapter_seven.md, which are the fully designed maintenance perspective this map treats as its reference.
 - docs/07_Audio_Bible.md, which owns the sound of every perspective in detail.
 - docs/11_Decision_Log.md, which records the decisions that produced this map.
+- For the definitive accessibility standards, see the Accessibility Bible in docs/08_Accessibility_Bible.md.
+- For character recognition, presentation, everyday carry, identity badges, and avatar rules, see the Player Identity and Character Presentation Bible in docs/presentation_bible/ (index at docs/presentation_bible/README.md).
+- For species and civilization rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
 
 ## End State
 

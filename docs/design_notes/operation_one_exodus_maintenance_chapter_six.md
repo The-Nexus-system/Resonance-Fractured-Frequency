@@ -1111,3 +1111,9 @@ The Living Archive has become part of the community. Faience has become a true m
 One final question remains before Operation One concludes: now that humanity has inherited this legacy, what kind of civilization will we choose to become?
 
 End Chapter Six.
+
+## Related documents
+
+- For the definitive rules on sound, music, and acoustic identity, see the Audio Bible in docs/07_Audio_Bible.md.
+- For the definitive accessibility standards, see the Accessibility Bible in docs/08_Accessibility_Bible.md.
+- For species and civilization rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.

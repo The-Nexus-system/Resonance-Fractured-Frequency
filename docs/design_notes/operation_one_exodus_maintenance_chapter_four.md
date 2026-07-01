@@ -1198,3 +1198,8 @@ These systems become the foundation for every exploration chapter that follows t
 Chapter Four ends with the station preparing for a future that extends far beyond simple survival, and with one question still open: what was Hearth carrying that someone still wants?
 
 End Chapter Four.
+
+## Related documents
+
+- For the definitive rules on sound, music, and acoustic identity, see the Audio Bible in docs/07_Audio_Bible.md.
+- For the definitive accessibility standards, see the Accessibility Bible in docs/08_Accessibility_Bible.md.

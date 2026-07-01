@@ -612,5 +612,8 @@ This document supports and should remain synchronized with:
 - docs/08_Accessibility_Bible.md
 - docs/09_Network_and_Multiplayer_Bible.md
 - docs/11_Decision_Log.md
+- For character recognition, presentation, everyday carry, identity badges, and avatar rules, see the Player Identity and Character Presentation Bible in docs/presentation_bible/ (index at docs/presentation_bible/README.md).
+- For reusable rooms and architecture modules, see the Modular Architecture Bible in docs/design_notes/modular_architecture_bible.md.
+- For how every form of progression is unified across the franchise, see the Gameplay Progression Matrix in docs/design_notes/gameplay_progression_matrix.md.
 
 Changes to this document may require updates to those documents whenever canon progression systems change.

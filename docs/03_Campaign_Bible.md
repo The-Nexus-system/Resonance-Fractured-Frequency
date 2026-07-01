@@ -104,3 +104,8 @@ Every major mission should reinforce at least one of these emotional pillars.
 - Adaptation
 - Belonging
 - Curiosity
+
+## Related documents
+
+- For species and civilization rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
+- For how every form of progression is unified across the franchise, see the Gameplay Progression Matrix in docs/design_notes/gameplay_progression_matrix.md.

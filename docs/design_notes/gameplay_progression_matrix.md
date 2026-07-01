@@ -212,3 +212,4 @@ This document gathers progression that is defined in full elsewhere. It holds no
 - The Crew Progression System defines community progression crew by crew, and the master timeline, the character schedule, and the Perspective Map fix the history the campaign matrix follows.
 - The chapter design notes hold the detailed design of each chapter this matrix summarizes.
 - The Decision Log records when this reference was adopted.
+- For species and civilization rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.

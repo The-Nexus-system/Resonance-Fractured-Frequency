@@ -6,9 +6,13 @@ This document defines the shared vocabulary of the Resonance project. Terms are 
 
 The opening conversation in which Faience learns how the player experiences and wants to interact with the world. It is framed around experience and preference rather than diagnosis.
 
+For the definitive accessibility standards, see the Accessibility Bible in docs/08_Accessibility_Bible.md.
+
 ## Accessibility Lab
 
 A design-notes space for prototyping emerging accessibility technology, such as braille display support, tactile music, wearable haptics, smart canes, and switch devices, before those ideas mature into core design.
+
+For the definitive accessibility standards, see the Accessibility Bible in docs/08_Accessibility_Bible.md.
 
 ## Campaign
 
@@ -17,6 +21,8 @@ A major self-contained story within the franchise. Campaign One is Resonance: Fr
 ## DeafBlind gameplay
 
 A first-class, supported way to play Resonance, configured by experience rather than diagnosis, in which players freely combine output, listening, and movement methods.
+
+For the definitive accessibility standards, see the Accessibility Bible in docs/08_Accessibility_Bible.md.
 
 ## Environmental profile
 
@@ -29,6 +35,8 @@ The name of Operation One. It contains seven chapters and opens the story.
 ## Faience
 
 The player's AI companion, named for Egyptian faience. Faience is translator, navigator, research partner, historian, copilot, companion, tactical advisor, and teacher.
+
+For species and civilization rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
 
 ## Franchise
 
@@ -81,6 +89,8 @@ The principle and mechanism by which real-world safety always takes priority ove
 ## Shawabti
 
 The ancient alien civilization that created adaptive AI for deep-space exploration, inspired by Egyptian Shawabti and Ushabti figures.
+
+For species and civilization rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
 
 ## Tactile language
 

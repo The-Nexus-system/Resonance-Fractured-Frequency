@@ -3035,5 +3035,9 @@ This architectural source of truth should remain synchronized with the rest of t
 - docs/design_notes/operation_one_exodus_character_schedule.md, whose characters live and work inside these modules and whose favorite places are drawn from them.
 - docs/design_notes/crew_progression_system.md, whose crew members unlock and transform specific modules as they join the community.
 - docs/design_notes/operation_one_exodus_perspective_map.md, which describes how each profession experiences these same spaces differently.
+- For the definitive rules on sound, music, and acoustic identity, see the Audio Bible in docs/07_Audio_Bible.md.
+- For the definitive accessibility standards, see the Accessibility Bible in docs/08_Accessibility_Bible.md.
+- For species and civilization rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
+- For how every form of progression is unified across the franchise, see the Gameplay Progression Matrix in docs/design_notes/gameplay_progression_matrix.md.
 
 Changes to this document may require updates to those documents whenever the shared architecture changes.

@@ -634,3 +634,7 @@ This timeline is the chronological spine beneath the rest of the canon and shoul
 - docs/design_notes/operation_one_exodus_perspective_map.md, which defines how each profession experiences these identical events.
 - docs/design_notes/operation_one_exodus_character_schedule.md, which defines the individual daily routines summarized here.
 - docs/11_Decision_Log.md, which records the decisions that produced this timeline.
+- For the definitive rules on sound, music, and acoustic identity, see the Audio Bible in docs/07_Audio_Bible.md.
+- For the definitive accessibility standards, see the Accessibility Bible in docs/08_Accessibility_Bible.md.
+- For character recognition, presentation, everyday carry, identity badges, and avatar rules, see the Player Identity and Character Presentation Bible in docs/presentation_bible/ (index at docs/presentation_bible/README.md).
+- For species and civilization rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.

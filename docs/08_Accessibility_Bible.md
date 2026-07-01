@@ -140,6 +140,8 @@ The player controls separate volume levels for each of the following.
 - Accessibility prompts
 - Reality announcements
 
+For the definitive rules on sound, music, and acoustic identity, see the Audio Bible in docs/07_Audio_Bible.md.
+
 ## Accessibility in multiplayer
 
 Accessibility preferences remain individual to each player. One player's accessibility settings must never alter another player's experience. See the Network and Multiplayer Bible for details.

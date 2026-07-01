@@ -1355,3 +1355,9 @@ How much control should the player have during the first impact?
 Where exactly is the player when General Quarters begins?
 
 What exact escape pod or survival craft configuration does each NPC use in Chapter Two?
+
+## Related documents
+
+- For the definitive rules on sound, music, and acoustic identity, see the Audio Bible in docs/07_Audio_Bible.md.
+- For the definitive accessibility standards, see the Accessibility Bible in docs/08_Accessibility_Bible.md.
+- For character recognition, presentation, everyday carry, identity badges, and avatar rules, see the Player Identity and Character Presentation Bible in docs/presentation_bible/ (index at docs/presentation_bible/README.md).

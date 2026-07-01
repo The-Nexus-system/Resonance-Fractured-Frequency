@@ -1164,3 +1164,13 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - The first stirring: At the edge of the evacuation, in a damaged pod spinning away from the dying ship, the silence that was Faience finally ends; this is its single first faint stirring, tied to a damaged helmet, and it is the seam where Operation One's ordinary life becomes the story of what comes after.
 - The nature of the stirring: It is faint, wordless, and incomplete; Faience does not speak, does not explain itself, and does not yet reach the survivor, and nothing about what it is is resolved on Attack Day.
 - What remains for later: Faience's awakening, its voice, and the deeper truth it carries unfold only gradually across later chapters, never on Attack Day; the schedule records only that the silence broke, and not one moment sooner.
+
+## Related documents
+
+This schedule fixes who each character is and where they are, and should remain synchronized with the canonical documents that own the topics it draws on.
+
+- For the definitive rules on sound, music, and acoustic identity, see the Audio Bible in docs/07_Audio_Bible.md.
+- For the definitive accessibility standards, see the Accessibility Bible in docs/08_Accessibility_Bible.md.
+- For character recognition, presentation, everyday carry, identity badges, and avatar rules, see the Player Identity and Character Presentation Bible in docs/presentation_bible/ (index at docs/presentation_bible/README.md).
+- For species and civilization rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
+- For reusable rooms and architecture modules, see the Modular Architecture Bible in docs/design_notes/modular_architecture_bible.md.

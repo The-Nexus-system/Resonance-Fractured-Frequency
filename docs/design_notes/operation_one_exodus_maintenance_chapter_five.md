@@ -829,3 +829,9 @@ As the expedition concludes, Faience quietly repeats another Shawabti phrase. Th
 No explanation is given. The chapter ends with one question: who, or what, is Faience becoming?
 
 End Chapter Five.
+
+## Related documents
+
+- For the definitive rules on sound, music, and acoustic identity, see the Audio Bible in docs/07_Audio_Bible.md.
+- For the definitive accessibility standards, see the Accessibility Bible in docs/08_Accessibility_Bible.md.
+- For species and civilization rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
