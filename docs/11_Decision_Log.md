@@ -87,3 +87,7 @@ The full part-by-part design for Chapter Two: Roll Call, from the Maintenance pe
 ### Crew progression system established as canonical, franchise-wide reference
 
 People, not equipment, drive progression throughout Resonance. A dedicated design note now defines what permanently changes when each crew member joins: gameplay, environments, soundscape, conversations, Knowledge Archive topics, future missions, and accessibility. Canon rules were locked: a portrait illuminates only once a crew member settles and begins contributing (portraits represent belonging, not rescue); every rescue changes the soundscape so the community is heard before it is seen; and every crew member must unlock at least one of each major category. A franchise rule requires every future crew member to answer what gameplay they unlock, how they change the soundscape, and how they expand the understanding of community. The document lists per-member unlocks for Rowan Ives, Mara Chen, Samira Kade, Jonah Briggs, Talia Rusk, Soren Qadir, Mira Ives, and the Vale System.
+
+### Primary crew members stay relevant for the whole campaign
+
+A canon rule was added to the crew progression system: every primary crew member must remain mechanically and emotionally relevant throughout the entire campaign. No primary crew member exists only to unlock a system and then become background decoration. Every chapter should give every crew member meaningful opportunities to contribute according to their expertise, and people remain progression from the first rescue to the final chapter.

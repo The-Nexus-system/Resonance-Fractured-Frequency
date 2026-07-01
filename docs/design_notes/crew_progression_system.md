@@ -75,6 +75,18 @@ Every rescued crew member permanently unlocks:
 - At least one accessibility improvement.
 - At least one long-term upgrade path.
 
+## Canon Rule: Crew Members Stay Relevant
+
+Every primary crew member must remain mechanically and emotionally relevant throughout the entire campaign.
+
+No primary crew member exists only to unlock a system and then become background decoration.
+
+Every chapter should provide meaningful opportunities for every crew member to contribute according to their expertise.
+
+As the station grows, the community grows with it.
+
+People remain progression from the first rescue to the final chapter.
+
 ## Rowan Ives
 
 ### Role
