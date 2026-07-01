@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document is the definitive scheduling reference for Operation One: Exodus. It answers one question above all others: where is everyone when it happened? It records the ordinary daily routines, favorite places, working responsibilities, relationships, accessibility, sound identities, cross-perspective presence, and emergency behavior of every primary character aboard CSV Hearth during the last ordinary week and on the morning the ship was lost.
+This document is the definitive scheduling reference for Operation One: Exodus. It answers one question above all others: where is everyone when it happened? It records the ordinary daily routines, favourite places, working responsibilities, relationships, accessibility, sound identities, cross-perspective presence, and emergency behaviour of every primary character aboard CSV Hearth during the last ordinary week and on the morning the ship was lost.
 
 The master timeline fixes what happened and when. The Perspective Map, at operation_one_exodus_perspective_map.md, fixes how each profession experiences those same events. This schedule sits between them and fixes who each person is across an ordinary day, so that any campaign can place any character in the right room, doing the right work, for the right reasons.
 
@@ -30,11 +30,11 @@ Professional responsibility always comes before narrative convenience. No charac
 
 ### Canon Rule: Every Character Has a Complete Routine
 
-Every recurring character has a full daily routine, favorite places, and recurring habits. These are documented here in full, not summarized. A character's routine is dense enough that the player could predict where they are at any hour by knowing who they are.
+Every recurring character has a full daily routine, favourite places, and recurring habits. These are documented here in full, not summarised. A character's routine is dense enough that the player could predict where they are at any hour by knowing who they are.
 
 ### Canon Rule: Knowing the Person Reveals the Place
 
-The player should eventually be able to find someone by understanding who they are. If a player knows a character's role, habits, and favorite places, they should be able to guess where that character is at a given time. Understanding a person is a form of navigation.
+The player should eventually be able to find someone by understanding who they are. If a player knows a character's role, habits, and favourite places, they should be able to guess where that character is at a given time. Understanding a person is a form of navigation.
 
 ## How to Read This Document
 
@@ -44,7 +44,7 @@ Every character section uses the same set of disambiguated subsections, each pre
 
 Times given here are Ship Standard Time and follow the master timeline. The morning announcement is always at 06:30, the ship quiets by 22:00, and the night shift carries the ship through the dark. On Attack Day the announcement begins at 06:30 and General Quarters is called at 06:35 by Captain Naomi of the Vale System.
 
-A companion document, operation_one_exodus_perspective_map.md, now exists. It describes how each profession experiences the identical events of the week and remains synchronized with this schedule.
+A companion document, operation_one_exodus_perspective_map.md, now exists. It describes how each profession experiences the identical events of the week and remains synchronised with this schedule.
 
 ## Captain Elian of the Vale System
 
@@ -57,7 +57,7 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Disability: The Vale System is one person with Dissociative Identity Disorder; Elian is one of four members who front in different contexts.
 - Primary workplace: The Bridge and, informally, the Commons, where Elian is most at home among the crew.
 - Secondary workplace: The residential corridors and public decks Elian walks to greet residents by name.
-- Home neighborhood: The captain's quarters near the command decks, shared by the whole Vale System because they share one body.
+- Home neighbourhood: The captain's quarters near the command decks, shared by the whole Vale System because they share one body.
 - Communication style: Warm, personal, unhurried, remembers names and families, speaks the daily morning announcement in the warm morning-announcement voice.
 
 ### Captain Elian of the Vale System — Daily Routine
@@ -74,8 +74,8 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Night routine: Returns to the captain's quarters as the ship quiets by 22:00; the office passes to the night command watch.
 - Sleep: The shared body sleeps in the captain's quarters through the night cycle.
 - Preferred routes: From the command decks down through the Commons and along the residential corridors, the longer social route rather than the direct one.
-- Favorite quiet place: A garden bed on the agricultural decks where Elian stands to think without being addressed as Captain.
-- Favorite public place: The Commons at midday, the warmest and most crowded room on the ship.
+- Favourite quiet place: A garden bed on the agricultural decks where Elian stands to think without being addressed as Captain.
+- Favourite public place: The Commons at midday, the warmest and most crowded room on the ship.
 
 ### Captain Elian of the Vale System — Professional Responsibilities
 
@@ -95,7 +95,7 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Mentors: The former captains and elders whose recorded wisdom the Vale System still consults.
 - Students: New officers learning that leadership is mostly showing up and remembering names.
 - Lunch companions: Whoever is in the Commons; Elian rarely eats with the same people twice by design.
-- Neighbors: The command-deck residents near the captain's quarters.
+- Neighbours: The command-deck residents near the captain's quarters.
 - People they naturally check on: New arrivals, grieving families, and anyone whose seat in the Commons has been empty.
 - Children who know them: Nearly all of them; Elian is the voice that says good morning to the whole ship, and Mira Ives among them.
 - People they quietly admire: Rowan Ives and the maintenance crews who keep the ship alive unthanked, a theme Elian returns to in the announcements.
@@ -122,7 +122,7 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 
 - Maintenance: Elian's morning announcement opens the maintenance day, and Elian is the voice that thanks the unseen crews; a maintenance player hears Elian daily and meets Elian in the Commons.
 - Engineering: Elian appears in Engineering only as the announcement and as the leadership that trusts Mara's ears; the engineering player knows Elian mostly by voice.
-- Medical: Elian visits Medical to recognize its staff and check on recovering residents, part of ordinary community leadership.
+- Medical: Elian visits Medical to recognise its staff and check on recovering residents, part of ordinary community leadership.
 - Research: Elian rarely enters the restricted research decks; the research player hears Elian as the shipwide voice rather than a visitor.
 - Security: Elian coordinates with Security on ceremonies and crowd-friendly community events, never on threat.
 - Command: Elian is the daily face of Command; the command player fronts as Elian for ordinary operations and hands off to the other members as situations demand.
@@ -148,8 +148,8 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Rank: Captain, the office shared by the whole Vale System.
 - Disability: The Vale System is one person with Dissociative Identity Disorder; Naomi is the member who fronts under fire.
 - Primary workplace: The Bridge, especially during drills and emergencies.
-- Secondary workplace: The Emergency Coordination Center and the drill spaces where readiness is maintained.
-- Home neighborhood: The captain's quarters near the command decks, shared by the whole Vale System.
+- Secondary workplace: The Emergency Coordination Centre and the drill spaces where readiness is maintained.
+- Home neighbourhood: The captain's quarters near the command decks, shared by the whole Vale System.
 - Communication style: Lower, firmer voice; direct; short commands; calm under pressure; military cadence.
 
 ### Captain Naomi of the Vale System — Daily Routine
@@ -165,9 +165,9 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Community activities: Naomi's contribution to community is that the community is safe; she is not the ceremonial face.
 - Night routine: The shared body returns to quarters by 22:00; Naomi remains the member who would front instantly if the night went wrong.
 - Sleep: The shared body sleeps in the captain's quarters.
-- Preferred routes: The most direct routes between the bridge, the coordination center, and the evacuation assembly points.
-- Favorite quiet place: The empty drill spaces after a completed drill, where readiness has been confirmed and nothing is wrong.
-- Favorite public place: The bridge, which is public in the sense that the ship's safety is a shared thing.
+- Preferred routes: The most direct routes between the bridge, the coordination centre, and the evacuation assembly points.
+- Favourite quiet place: The empty drill spaces after a completed drill, where readiness has been confirmed and nothing is wrong.
+- Favourite public place: The bridge, which is public in the sense that the ship's safety is a shared thing.
 
 ### Captain Naomi of the Vale System — Professional Responsibilities
 
@@ -175,7 +175,7 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Secondary duties: Maintaining drill schedules and evacuation readiness.
 - Weekly duties: Reviewing and updating the emergency-readiness schedule.
 - Monthly duties: Running full-ship drills so that the crew practices in calm what they may one day need under fire.
-- Emergency duties: To front instantly and take command the moment a crisis becomes an emergency; to call General Quarters; to direct damage control, triage, evacuation, and defense.
+- Emergency duties: To front instantly and take command the moment a crisis becomes an emergency; to call General Quarters; to direct damage control, triage, evacuation, and defence.
 - Who reports to them: In an emergency, every department reports through Naomi.
 - Who they report to: The office of Captain; within the Vale System, Naomi holds precedence during emergencies.
 - Departments they interact with: Damage Control, Medical, Security, Engineering, and Logistics most closely, and all departments during General Quarters.
@@ -187,7 +187,7 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Mentors: The emergency-command traditions and former captains whose crisis doctrine the Vale System carries.
 - Students: The damage-control and drill teams she trains in calm.
 - Lunch companions: The shared body eats with whoever is present; Naomi is not the social front.
-- Neighbors: The command-deck residents near the captain's quarters.
+- Neighbours: The command-deck residents near the captain's quarters.
 - People they naturally check on: The readiness of the crew, the state of the drills, and the members of her own system who will be exhausted by a real emergency.
 - Children who know them: Children know Naomi mainly as the firmer voice from the drills, distinct from Elian's morning warmth.
 - People they quietly admire: Talia Rusk, whose steadiness under threat matches her own.
@@ -197,18 +197,18 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Adaptive equipment: The emergency systems render Naomi's General Quarters orders as haptic alarms, captions, and sign relay on every deck.
 - Communication methods: Short spoken commands paired with captioned and signed emergency instructions so that no resident misses an evacuation order.
 - Environmental adaptations: Evacuation routes and assembly points are accessible by design, so Naomi's orders can be obeyed by every body.
-- Workstation adaptations: The bridge and coordination-center stations serve the shared body regardless of which member fronts.
+- Workstation adaptations: The bridge and coordination-centre stations serve the shared body regardless of which member fronts.
 - How they naturally improve accessibility for others: By insisting drills be run for every kind of body, Naomi ensures the accessible emergency systems actually work when they are finally needed.
 
 ### Captain Naomi of the Vale System — Sound Identity
 
-- Voice: Lower, firmer, direct; the emergency voice the whole ship recognizes as distinct from Elian's warmth.
+- Voice: Lower, firmer, direct; the emergency voice the whole ship recognises as distinct from Elian's warmth.
 - Walking pattern: The shared body's footsteps, faster and more purposeful when Naomi fronts.
 - Equipment sounds: The emergency claxon pattern that replaces the gentle morning two-tone chime when she calls General Quarters.
-- Mobility sounds: Quick, deliberate footfalls between the bridge and the coordination center.
+- Mobility sounds: Quick, deliberate footfalls between the bridge and the coordination centre.
 - Tool sounds: The shipwide emergency channel opening under her voice.
 - Music preferences: Naomi does not seek music; her signature sound is command, not melody.
-- Typical environmental sounds: Drill claxons, organized radio traffic, and the changed, tense soundscape of a ship under General Quarters.
+- Typical environmental sounds: Drill claxons, organised radio traffic, and the changed, tense soundscape of a ship under General Quarters.
 
 ### Captain Naomi of the Vale System — Cross-Perspective Presence
 
@@ -240,8 +240,8 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Rank: Captain, the office shared by the whole Vale System.
 - Disability: The Vale System is one person with Dissociative Identity Disorder; Gideon is the analytical member.
 - Primary workplace: The Ready Room and the Bridge, where reports are reviewed and strategy is formed.
-- Secondary workplace: The Operations Center, where he compares departmental reports.
-- Home neighborhood: The captain's quarters near the command decks, shared by the whole Vale System.
+- Secondary workplace: The Operations Centre, where he compares departmental reports.
+- Home neighbourhood: The captain's quarters near the command decks, shared by the whole Vale System.
 - Communication style: Measured, analytical, thoughtful; asks precise questions; speaks less than the others and listens more.
 
 ### Captain Gideon of the Vale System — Daily Routine
@@ -257,9 +257,9 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Community activities: Gideon is the least social front; his contribution is understanding, not ceremony.
 - Night routine: The shared body returns to quarters by 22:00.
 - Sleep: The shared body sleeps in the captain's quarters.
-- Preferred routes: The quiet route between the ready room, the operations center, and the bridge, avoiding the crowded Commons when he can.
-- Favorite quiet place: The Ready Room with the reports spread out and the door closed.
-- Favorite public place: The Operations Center, where information from the whole ship comes together.
+- Preferred routes: The quiet route between the ready room, the operations centre, and the bridge, avoiding the crowded Commons when he can.
+- Favourite quiet place: The Ready Room with the reports spread out and the door closed.
+- Favourite public place: The Operations Centre, where information from the whole ship comes together.
 
 ### Captain Gideon of the Vale System — Professional Responsibilities
 
@@ -279,7 +279,7 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Mentors: The strategic traditions and former captains whose analytical methods the Vale System keeps.
 - Students: Junior officers learning to read a report for what is not being said.
 - Lunch companions: The shared body eats with whoever is present; Gideon is not the social front.
-- Neighbors: The command-deck residents near the captain's quarters.
+- Neighbours: The command-deck residents near the captain's quarters.
 - People they naturally check on: The departments whose reports show the earliest hints of trouble, watched quietly and without alarm.
 - Children who know them: Children know Gideon least of the four; he is the member who is rarely the public voice.
 - People they quietly admire: Soren Qadir, whose careful documentation of the anomaly matches Gideon's own respect for evidence.
@@ -288,7 +288,7 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 
 - Adaptive equipment: Report and analysis tools present information in text, audio, and tactile forms so the shared body can work in whatever mode suits the moment.
 - Communication methods: Precise written and spoken exchange, with captioned and signed relay for any briefing he gives.
-- Environmental adaptations: The ready room and operations center are laid out for every body, as all command spaces are.
+- Environmental adaptations: The ready room and operations centre are laid out for every body, as all command spaces are.
 - Workstation adaptations: The analysis stations serve the shared body regardless of which member fronts.
 - How they naturally improve accessibility for others: By insisting reports be legible and clear across formats, Gideon keeps the ship's information accessible to every officer who must read it.
 
@@ -300,7 +300,7 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Mobility sounds: Calm footfalls in the quieter command corridors.
 - Tool sounds: The soft audio of analysis stations reading data aloud.
 - Music preferences: Gideon prefers quiet to music; his signature sound is concentration.
-- Typical environmental sounds: The low hush of the ready room and the layered information flow of the operations center.
+- Typical environmental sounds: The low hush of the ready room and the layered information flow of the operations centre.
 
 ### Captain Gideon of the Vale System — Cross-Perspective Presence
 
@@ -333,7 +333,7 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Disability: The Vale System is one person with Dissociative Identity Disorder; Iris is the diplomatic and civilian-facing member.
 - Primary workplace: The Community Hall and the Commons, where civilian affairs and festival planning happen.
 - Secondary workplace: The Bridge, for the civilian channels and first-contact readiness.
-- Home neighborhood: The captain's quarters near the command decks, shared by the whole Vale System.
+- Home neighbourhood: The captain's quarters near the command decks, shared by the whole Vale System.
 - Communication style: Gentle, patient, deliberate; a careful listener; builds consensus rather than issuing orders.
 
 ### Captain Iris of the Vale System — Daily Routine
@@ -344,14 +344,14 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Work start: Begins with civilian affairs and, across this week, the Founding Day planning committee.
 - Morning responsibilities: Civilian communication, dispute resolution, and community coordination.
 - Lunch: Sits with the festival committee over the midday meal, where the plans for Founding Day take clearer shape each day.
-- Afternoon responsibilities: Festival preparation, community program planning, and the ordinary diplomacy of a town; across the week she finalizes, announces, and confirms the festival program.
+- Afternoon responsibilities: Festival preparation, community program planning, and the ordinary diplomacy of a town; across the week she finalises, announces, and confirms the festival program.
 - Evening routine: Attends the evening gatherings, worship observances, and rehearsals, closing the day among the community.
 - Community activities: Chairs the festival committee, hosts community gatherings, and welcomes civilian delegations.
 - Night routine: The shared body returns to quarters by 22:00.
 - Sleep: The shared body sleeps in the captain's quarters.
 - Preferred routes: Through the Commons, the community hall, and the civilian corridors, the most people-facing route on the ship.
-- Favorite quiet place: The botanical garden, where she plans celebrations surrounded by growing things.
-- Favorite public place: The Community Hall during a full committee, and the Commons during a festival gathering.
+- Favourite quiet place: The botanical garden, where she plans celebrations surrounded by growing things.
+- Favourite public place: The Community Hall during a full committee, and the Commons during a festival gathering.
 
 ### Captain Iris of the Vale System — Professional Responsibilities
 
@@ -369,12 +369,12 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Friends: Elian, who shares the same body and the same love of the community; the festival committee members.
 - Frequent coworkers: The Civilian Services staff and the volunteers who build Founding Day; Chief Petty Officer Jonah Briggs, whose logistics make her plans real.
 - Mentors: The diplomatic traditions and former captains whose consensus-building the Vale System keeps.
-- Students: Community organizers learning to plan a celebration that includes everyone by default.
+- Students: Community organisers learning to plan a celebration that includes everyone by default.
 - Lunch companions: The festival committee, most days of this week.
-- Neighbors: The command-deck residents near the captain's quarters.
+- Neighbours: The command-deck residents near the captain's quarters.
 - People they naturally check on: New families, isolated residents, and anyone at risk of being left out of the community's plans.
 - Children who know them: Many; Iris plans the festivals children look forward to, and Mira Ives among them.
-- People they quietly admire: The volunteers and organizers who give their free time to make the community warm.
+- People they quietly admire: The volunteers and organisers who give their free time to make the community warm.
 
 ### Captain Iris of the Vale System — Accessibility
 
@@ -425,8 +425,8 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Disability: Chronic pain and arthritis; he has redesigned many procedures to reduce unnecessary effort and values efficiency over speed.
 - Primary workplace: The Maintenance Workshop and the service corridors, ducts, and crawlspaces of the ship.
 - Secondary workplace: Wherever the day's list sends him, from Deck Twelve to Section C to Pressure Junction 14.
-- Home neighborhood: A family apartment in the habitation decks, close enough to the maintenance spaces that Mira drifts there after school.
-- Communication style: Dry humor, patient, knows everyone's name, teaches through ordinary work rather than speeches.
+- Home neighbourhood: A family apartment in the habitation decks, close enough to the maintenance spaces that Mira drifts there after school.
+- Communication style: Dry humour, patient, knows everyone's name, teaches through ordinary work rather than speeches.
 
 ### Rowan Ives — Daily Routine
 
@@ -442,8 +442,8 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Night routine: Settles Mira, tends to his own body, and rests.
 - Sleep: Sleeps in the family apartment, often after the ordinary aches of the day have eased.
 - Preferred routes: The service corridors and maintenance-only routes he knows better than anyone, chosen partly because they are gentler on his joints than crowded decks.
-- Favorite quiet place: A quiet utility junction where the ship's resonance is steady and familiar, a place to rest his hands.
-- Favorite public place: The maintenance shop, and the corner of the Commons where the maintenance crew gathers.
+- Favourite quiet place: A quiet utility junction where the ship's resonance is steady and familiar, a place to rest his hands.
+- Favourite public place: The maintenance shop, and the corner of the Commons where the maintenance crew gathers.
 
 ### Rowan Ives — Professional Responsibilities
 
@@ -463,28 +463,28 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Mentors: The senior maintenance hands who taught him the ship as a body before he taught anyone else.
 - Students: The younger technicians he teaches through work, and, in her own way, Mira.
 - Lunch companions: The maintenance crew, every day, in the Commons.
-- Neighbors: The habitation-deck families near his apartment.
+- Neighbours: The habitation-deck families near his apartment.
 - People they naturally check on: Mira first and always; and the crew members carrying quiet burdens he notices before they mention them.
 - Children who know them: Mira and the other habitation-deck children who see him fixing the world around them.
 - People they quietly admire: Mara Chen, who reads the ship by sound the way he reads it by feel.
 
 ### Rowan Ives — Accessibility
 
-- Adaptive equipment: Tools and procedures redesigned to reduce strain, ergonomic supports, and a workshop arranged to minimize unnecessary effort.
+- Adaptive equipment: Tools and procedures redesigned to reduce strain, ergonomic supports, and a workshop arranged to minimise unnecessary effort.
 - Communication methods: Plain speech, patient waiting for Mira's AAC responses, and clear radio work.
 - Environmental adaptations: Maintenance routes and the workshop laid out so that pain management and efficiency are built into the work.
-- Workstation adaptations: A fabrication bench and tool storage organized for reach and low effort rather than speed.
+- Workstation adaptations: A fabrication bench and tool storage organised for reach and low effort rather than speed.
 - How they naturally improve accessibility for others: By designing maintenance procedures that anyone's body can perform, Rowan makes the whole department accessible and models efficiency over strain for every technician.
 
 ### Rowan Ives — Sound Identity
 
 - Voice: Warm, dry, patient; the voice of someone who has explained a hundred repairs without ever raising it.
-- Walking pattern: A careful, measured gait shaped by chronic pain, recognizable in the service corridors.
-- Equipment sounds: Tool drawers opening, the settle of an organized tool cart, and the sounds of repair work.
+- Walking pattern: A careful, measured gait shaped by chronic pain, recognisable in the service corridors.
+- Equipment sounds: Tool drawers opening, the settle of an organised tool cart, and the sounds of repair work.
 - Mobility sounds: Deliberate footfalls, sometimes the small sounds of a body managing stiffness.
 - Tool sounds: The distinctive rhythm of his fabrication bench and repair tools, and pressure leaks disappearing under his hands.
 - Music preferences: The steady working rhythms of the maintenance shop rather than performed music.
-- Typical environmental sounds: Pipe resonance, ventilation stabilizing, electrical relays, and the settling quiet of a fault repaired.
+- Typical environmental sounds: Pipe resonance, ventilation stabilising, electrical relays, and the settling quiet of a fault repaired.
 
 ### Rowan Ives — Cross-Perspective Presence
 
@@ -495,7 +495,7 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Security: Rowan coordinates with Talia over restricted zones and the maintenance passages Security must know about.
 - Command: Rowan's maintenance reports reach Command, and Elian names the unseen maintenance crews in the announcements.
 - Logistics: Rowan works with Jonah to schedule maintenance around the ship's operations and the festival.
-- Civilian: Rowan is a familiar civilian-facing figure, the man fixing the corridor, the father in the habitation decks, the neighbor everyone knows.
+- Civilian: Rowan is a familiar civilian-facing figure, the man fixing the corridor, the father in the habitation decks, the neighbour everyone knows.
 
 ### Rowan Ives — Emergency Routine
 
@@ -517,7 +517,7 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Disability: Blind; she navigates and diagnoses by sound, vibration, and touch.
 - Primary workplace: The Engineering Core and its diagnostic stations.
 - Secondary workplace: The Power Distribution room and the upgrade workshop.
-- Home neighborhood: Crew quarters near the engineering decks, within easy acoustic reach of the machinery she knows.
+- Home neighbourhood: Crew quarters near the engineering decks, within easy acoustic reach of the machinery she knows.
 - Communication style: Precise, confident, describes systems in terms of sound; trusts her ears and expects to be trusted in turn.
 
 ### Mara Chen — Daily Routine
@@ -534,8 +534,8 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Night routine: Returns to her quarters, where the steady night-cycle hum tells her the ship is well.
 - Sleep: Sleeps near the engineering decks, within earshot of the machinery she trusts.
 - Preferred routes: The routes she knows by their acoustic landmarks, corridors whose echoes and machinery she can navigate without sight.
-- Favorite quiet place: A spot in the Engineering Core where the generators cycle in a steady, true chord she finds restful.
-- Favorite public place: The Commons, where she likes to sit and read the room by its layered sound.
+- Favourite quiet place: A spot in the Engineering Core where the generators cycle in a steady, true chord she finds restful.
+- Favourite public place: The Commons, where she likes to sit and read the room by its layered sound.
 
 ### Mara Chen — Professional Responsibilities
 
@@ -555,7 +555,7 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Mentors: The senior engineers who taught her to trust her hearing over any display.
 - Students: The junior engineers she teaches to diagnose by sound.
 - Lunch companions: The engineering crew and, often, Rowan's maintenance table.
-- Neighbors: The engineering-deck residents near her quarters.
+- Neighbours: The engineering-deck residents near her quarters.
 - People they naturally check on: The overnight watch, whose ears she trains; and Mira, whose insistence that the ship sounds wrong she takes more seriously than most adults do.
 - Children who know them: Mira Ives, who shares Mara's sense that the ship can be heard; and the children who find her diagnostics fascinating.
 - People they quietly admire: Rowan Ives, and Mira, the one other person aboard who heard the wrongness in the ship.
@@ -609,7 +609,7 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Disability: Deaf; she communicates through a sleeve projector that displays ASL or live text, and reads the bay by sight, vibration, and the faces of her patients.
 - Primary workplace: The medical spaces of the ship — Medical Reception, the Examination Room, Emergency Treatment, the Operating Theatre, the Pharmacy, and the Rehabilitation Gym.
 - Secondary workplace: Wherever a patient cannot come to her, from the habitation decks to the working decks on a house call.
-- Home neighborhood: Crew quarters near the medical decks, close enough that she can reach Emergency Treatment quickly when she is called.
+- Home neighbourhood: Crew quarters near the medical decks, close enough that she can reach Emergency Treatment quickly when she is called.
 - Communication style: Warm, unhurried, attentive; she speaks in sign and text through her sleeve projector, watches carefully, and makes every patient feel that being cared for is normal, not a burden.
 
 ### Doctor Samira Kade — Daily Routine
@@ -626,8 +626,8 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Night routine: Returns to her quarters, leaving Emergency Treatment staffed by the night team who will wake her if they need her.
 - Sleep: Sleeps near the medical decks, within quick reach of the bay.
 - Preferred routes: The direct routes between the medical spaces and the habitation decks, chosen so she can reach a patient without delay.
-- Favorite quiet place: The empty Rehabilitation Gym after hours, where the day's recoveries have been made and the room is calm.
-- Favorite public place: Medical Reception, the ordinary front door of care, where she greets the people she looks after.
+- Favourite quiet place: The empty Rehabilitation Gym after hours, where the day's recoveries have been made and the room is calm.
+- Favourite public place: Medical Reception, the ordinary front door of care, where she greets the people she looks after.
 
 ### Doctor Samira Kade — Professional Responsibilities
 
@@ -647,7 +647,7 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Mentors: The senior physicians who taught her that medicine is communication first, and care before cure.
 - Students: The junior medical staff she teaches, and the rehabilitation patients she coaches back to strength.
 - Lunch companions: The medical crew, and often whoever in the Commons she has quietly decided to check on.
-- Neighbors: The medical-deck residents near her quarters.
+- Neighbours: The medical-deck residents near her quarters.
 - People they naturally check on: The patients who stop coming in, the crew members hiding an injury, and those carrying quiet burdens she notices before they say a word.
 - Children who know them: Mira Ives and the habitation-deck children, who know her as the doctor whose sleeve projector turns her words into signs and text they can read.
 - People they quietly admire: Rowan Ives, who redesigned his own work to live with pain, and Talia Rusk, whose care for the people she guards mirrors her own.
@@ -694,14 +694,14 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 
 ### Chief Petty Officer Jonah Briggs — Identity and Role
 
-- Identity: Jonah Briggs, Chief Petty Officer aboard CSV Hearth and the senior non-commissioned officer who keeps the ship's operations organized.
-- Role: The ship's organizer of logistics, scheduling, and operations, turning the crew's many separate tasks into one coherent day.
+- Identity: Jonah Briggs, Chief Petty Officer aboard CSV Hearth and the senior non-commissioned officer who keeps the ship's operations organised.
+- Role: The ship's organiser of logistics, scheduling, and operations, turning the crew's many separate tasks into one coherent day.
 - Department: Logistics and Operations.
 - Rank: Chief Petty Officer, the senior non-commissioned officer whom every department trusts to make the schedule work.
 - Disability: Epilepsy; the ship's lighting and displays are seizure-safe with no strobing, which is ordinary Hearth design rather than any special accommodation.
-- Primary workplace: The Operations Center, where the mission board and crew roster live and the day is coordinated.
+- Primary workplace: The Operations Centre, where the mission board and crew roster live and the day is coordinated.
 - Secondary workplace: The Cargo Bay and the logistics boards, where supply, inventory, and movement are tracked.
-- Home neighborhood: Crew quarters near the operations decks, close enough that he can reach the Operations Center before the morning shift begins.
+- Home neighbourhood: Crew quarters near the operations decks, close enough that he can reach the Operations Centre before the morning shift begins.
 - Communication style: Calm, methodical, and precise; speaks in clear priorities and short confirmations, and is known for making complicated things sound simple.
 
 ### Chief Petty Officer Jonah Briggs — Daily Routine
@@ -717,13 +717,13 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Community activities: A steady presence in the Commons, quietly making the festival preparations across the week fit the ship's ordinary operations.
 - Night routine: Returns to his quarters after confirming the night's schedule is set and the overnight teams have what they need.
 - Sleep: Sleeps in crew quarters near the operations decks, with the schedule already prepared for the morning.
-- Preferred routes: The direct corridors between the Operations Center, the Cargo Bay, and the Commons that let him check the whole flow of the ship quickly.
-- Favorite quiet place: The Operations Center after hours, when the boards are current and every task is where it should be.
-- Favorite public place: The Commons at midday, where he can read the whole community's movement at a glance.
+- Preferred routes: The direct corridors between the Operations Centre, the Cargo Bay, and the Commons that let him check the whole flow of the ship quickly.
+- Favourite quiet place: The Operations Centre after hours, when the boards are current and every task is where it should be.
+- Favourite public place: The Commons at midday, where he can read the whole community's movement at a glance.
 
 ### Chief Petty Officer Jonah Briggs — Professional Responsibilities
 
-- Primary duties: Mission planning, crew scheduling, priority systems, and the day-to-day organization of the ship's operations.
+- Primary duties: Mission planning, crew scheduling, priority systems, and the day-to-day organisation of the ship's operations.
 - Secondary duties: Supply management and inventory across the Cargo Bay and the logistics boards.
 - Weekly duties: Maintaining the crew roster, balancing shifts, and scheduling department work so nothing overlaps or falls through.
 - Monthly duties: Longer-horizon operational planning and supply forecasting for a generation ship that must plan far ahead.
@@ -738,17 +738,17 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 
 - Friends: The operations and cargo crews he works beside daily, and the department heads who rely on his schedule.
 - Frequent coworkers: Rowan Ives, whose maintenance work he schedules around the ship's operations, and Mara Chen, whose load tests he fits into the day.
-- Mentors: The senior non-commissioned officers who taught him that organization is a form of care for the whole crew.
+- Mentors: The senior non-commissioned officers who taught him that organisation is a form of care for the whole crew.
 - Students: The junior schedulers and cargo hands he teaches to keep the boards honest and current.
 - Lunch companions: Whoever is in the Commons; Jonah tends to eat where he can watch the flow of people move.
-- Neighbors: The operations-deck residents near his quarters.
+- Neighbours: The operations-deck residents near his quarters.
 - People they naturally check on: The crews working long shifts, whose rosters he adjusts before they have to ask, and anyone the schedule is quietly wearing down.
 - Children who know them: The children who see the mission board light up and ask him what all the moving pieces mean.
 - People they quietly admire: Captain Naomi of the Vale System and Security Lead Talia Rusk, whose steadiness in a crisis matches the order he keeps in calm.
 
 ### Chief Petty Officer Jonah Briggs — Accessibility
 
-- Adaptive equipment: The Operations Center displays and the mission board are seizure-safe by design, with no strobing, so his epilepsy is simply a fact of his body and never a barrier to his work.
+- Adaptive equipment: The Operations Centre displays and the mission board are seizure-safe by design, with no strobing, so his epilepsy is simply a fact of his body and never a barrier to his work.
 - Communication methods: Clear spoken priorities paired with captioned board updates and written rosters, so the schedule reaches everyone the same way.
 - Environmental adaptations: The ship's seizure-safe lighting and displays are ordinary Hearth design, part of the same universal accessibility every resident lives inside.
 - Workstation adaptations: The operations stations present information steadily and without flashing, so the boards can be read for hours without strain.
@@ -757,10 +757,10 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 ### Chief Petty Officer Jonah Briggs — Sound Identity
 
 - Voice: Calm, measured, and clear; the voice that reads out priorities and confirms tasks without ever hurrying.
-- Walking pattern: A steady, unhurried gait between the Operations Center, the Cargo Bay, and the Commons.
+- Walking pattern: A steady, unhurried gait between the Operations Centre, the Cargo Bay, and the Commons.
 - Equipment sounds: The soft updates of the mission board and the roster, and the quiet tick of tasks being marked complete.
 - Mobility sounds: Even footfalls pacing the operations decks as he checks the flow of the day.
-- Tool sounds: Organized radio traffic, shift-change tones, and the briefing channel opening under his voice.
+- Tool sounds: Organised radio traffic, shift-change tones, and the briefing channel opening under his voice.
 - Music preferences: The ordered hum of a well-run operations room rather than performed music.
 - Typical environmental sounds: Regular briefings, planning meetings, the murmur of the Commons at meal rotation, and the steady rhythm of shift changes.
 
@@ -777,12 +777,12 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 
 ### Chief Petty Officer Jonah Briggs — Emergency Routine
 
-- Where they report: The Operations Center, to turn command's orders into a tracked, moving map of the whole evacuation.
+- Where they report: The Operations Centre, to turn command's orders into a tracked, moving map of the whole evacuation.
 - Who they contact first: Command, to receive Naomi's General Quarters orders, and his own operations and cargo teams.
 - Who they protect: Everyone he can account for, by making sure no route is forgotten and no group of civilians is left untracked.
 - Who they coordinate with: Naomi's command, Talia's security teams on the routes, and Rowan, whose opened and jammed routes he tracks in real time.
 - How their routine changes during General Quarters: His ordinary scheduling becomes the nervous system of the evacuation; he tracks who has reached which pod and which routes are still open, running search and beacon coordination as the ship empties.
-- Where they are when the attack begins: On Attack Day the anomaly resolves at 06:32 and Naomi calls General Quarters at 06:35; Jonah works the Operations Center, and his organization gets the civilians to the escape pods in order, group by group, without leaving anyone behind for lack of a place in the plan.
+- Where they are when the attack begins: On Attack Day the anomaly resolves at 06:32 and Naomi calls General Quarters at 06:35; Jonah works the Operations Centre, and his organisation gets the civilians to the escape pods in order, group by group, without leaving anyone behind for lack of a place in the plan.
 - How they leave: Jonah launches in his own separate escape pod only after his tracking says the routes he was responsible for are clear, one of the scattered primary crew that Chapter Two's rescues will later reunite.
 
 ## Security Lead Talia Rusk
@@ -795,8 +795,8 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Rank: Security Lead.
 - Disability: Lower-limb amputee; she uses a prosthetic limb serviced at the Machine Shop, an ordinary part of her week rather than an accommodation.
 - Primary workplace: The Security Office and the patrol routes that thread every deck of the ship.
-- Secondary workplace: The Armory, the Emergency Coordination Center, and the defensive control station where readiness is maintained.
-- Home neighborhood: Crew quarters near the security spaces, close enough to reach the coordination center quickly if a night ever goes wrong.
+- Secondary workplace: The Armoury, the Emergency Coordination Centre, and the defensive control station where readiness is maintained.
+- Home neighbourhood: Crew quarters near the security spaces, close enough to reach the coordination centre quickly if a night ever goes wrong.
 - Communication style: Steady, measured, and de-escalating first; she asks questions before she gives orders and keeps her voice level when others cannot.
 
 ### Security Lead Talia Rusk — Daily Routine
@@ -805,22 +805,22 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Morning routine: A deliberate check of her prosthetic fit, a walk of the nearest corridor to settle her gait, and a review of the overnight security log.
 - Breakfast: Eats early, often in the Commons, reading the room out of habit before the crowd of the day builds.
 - Work start: Opens the security day with the shift briefing after the 06:30 announcement, assigning patrol routes and reviewing anything the night watch flagged.
-- Morning responsibilities: Running the shift briefing, walking the patrol routes, and confirming that the Armory and emergency lockers are in order.
+- Morning responsibilities: Running the shift briefing, walking the patrol routes, and confirming that the Armoury and emergency lockers are in order.
 - Lunch: Eats with the security team in the Commons, where she keeps a quiet eye on the room without ever making anyone feel watched.
 - Afternoon responsibilities: Threat assessment, defensive planning, restricted-zone checks, and the training sessions that keep the teams sharp; she stops at the Machine Shop when her prosthetic needs servicing.
 - Evening routine: Hands the decks to the evening watch and joins the community in the Commons or gardens, off duty but never far from a radio.
 - Community activities: A familiar, reassuring presence in public spaces; known for de-escalation and for knowing residents by name rather than by suspicion.
 - Night routine: Reviews the day's incidents, confirms the watch is set, tends to her prosthetic, and rests.
-- Sleep: Sleeps in quarters near the security spaces, within quick reach of the coordination center.
+- Sleep: Sleeps in quarters near the security spaces, within quick reach of the coordination centre.
 - Preferred routes: The patrol routes she knows step by step, chosen for coverage and for surfaces that are kind to her gait.
-- Favorite quiet place: A calm stretch of an outer corridor at the end of a patrol, where the ship is safe and nothing needs deciding.
-- Favorite public place: The Commons, where security means being present and known rather than armed and apart.
+- Favourite quiet place: A calm stretch of an outer corridor at the end of a patrol, where the ship is safe and nothing needs deciding.
+- Favourite public place: The Commons, where security means being present and known rather than armed and apart.
 
 ### Security Lead Talia Rusk — Professional Responsibilities
 
 - Primary duties: Security patrols, threat assessment, defensive planning, and emergency response.
 - Secondary duties: Weapons training, boarding readiness, and restricted-zone access control.
-- Weekly duties: Scheduled patrol audits, training sessions with the teams, and reviews of the Armory and emergency response lockers.
+- Weekly duties: Scheduled patrol audits, training sessions with the teams, and reviews of the Armoury and emergency response lockers.
 - Monthly duties: Larger defensive-readiness reviews and joint drills run alongside Command's full-ship exercises.
 - Emergency duties: To run the evacuation routes and assembly points, move civilians toward the pods, hold order where panic would kill, and carry those who cannot move themselves.
 - Who reports to them: The security officers and patrol teams, including the overnight security watch.
@@ -834,7 +834,7 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Mentors: The de-escalation and defensive-doctrine traditions she carries, and the senior officers who taught her that combat is the failure a good security lead prevents.
 - Students: The officers she trains in weapons handling, threat assessment, and, above all, de-escalation.
 - Lunch companions: The security team, most days, in the Commons.
-- Neighbors: The crew-quarters residents near the security spaces.
+- Neighbours: The crew-quarters residents near the security spaces.
 - People they naturally check on: The residents who seem frightened or overwhelmed, the new arrivals learning the ship, and the officers carrying the weight of a hard shift.
 - Children who know them: The children who see her on patrol and learn that security is a friendly, familiar figure rather than something to fear.
 - People they quietly admire: Captain Naomi of the Vale System, whose readiness under threat mirrors her own, and Rowan Ives, whose knowledge of the ship's hidden routes she trusts absolutely.
@@ -843,15 +843,15 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 
 - Adaptive equipment: A prosthetic limb serviced at the Machine Shop, maintained as ordinary upkeep the way any tool of her trade is maintained.
 - Communication methods: Level spoken orders paired with captioned and signed emergency instructions, so that no resident misses a security direction during a crisis.
-- Environmental adaptations: Patrol routes, the Security Office, the Armory, and the coordination center laid out so that her gait and her prosthetic are never a limitation on her work.
-- Workstation adaptations: A defensive control station and Armory arranged for reach and steady footing rather than speed.
+- Environmental adaptations: Patrol routes, the Security Office, the Armoury, and the coordination centre laid out so that her gait and her prosthetic are never a limitation on her work.
+- Workstation adaptations: A defensive control station and Armoury arranged for reach and steady footing rather than speed.
 - How they naturally improve accessibility for others: By insisting evacuation routes and assembly points work for every kind of body, and by treating her own serviced prosthetic as unremarkable, Talia keeps the ship's security accessible to residents and officers alike.
 
 ### Security Lead Talia Rusk — Sound Identity
 
 - Voice: Steady, measured, and calm; the voice that de-escalates before it commands.
-- Walking pattern: An even, deliberate gait carried by her prosthetic, recognizable on the patrol routes.
-- Equipment sounds: The soft click of weapon safeties confirmed, door security checks, and the settle of the Armory lockers.
+- Walking pattern: An even, deliberate gait carried by her prosthetic, recognisable on the patrol routes.
+- Equipment sounds: The soft click of weapon safeties confirmed, door security checks, and the settle of the Armoury lockers.
 - Mobility sounds: Regular, measured footfalls along the corridors, and the small mechanical sounds of a well-serviced prosthetic.
 - Tool sounds: The security channel opening under her voice, and the routine tone of access checks at restricted doors.
 - Music preferences: Talia does not seek music on duty; her signature sound is the calm order of a secure deck.
@@ -870,7 +870,7 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 
 ### Security Lead Talia Rusk — Emergency Routine
 
-- Where they report: The evacuation routes and assembly points, the moment General Quarters sounds, coordinating from the Emergency Coordination Center.
+- Where they report: The evacuation routes and assembly points, the moment General Quarters sounds, coordinating from the Emergency Coordination Centre.
 - Who they contact first: Naomi's command and her own patrol teams, to set the routes and the assembly points in motion.
 - Who they protect: Everyone aboard, especially the civilians and children she moves toward the pods and the residents who cannot move themselves.
 - Who they coordinate with: Naomi, who commands the evacuation; Jonah, who tracks which routes are open and who has reached which pod; and Rowan, who opens the hidden paths her teams move people through.
@@ -882,13 +882,13 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 ### Dr. Soren Qadir — Identity and Role
 
 - Identity: Dr. Soren Qadir, Senior Research Scientist aboard CSV Hearth and the crewmate who teaches the ship how to ask questions.
-- Role: Leads scientific investigation, artifact study, and the Knowledge Archive that turns what the crew learns into new choices.
+- Role: Leads scientific investigation, artefact study, and the Knowledge Archive that turns what the crew learns into new choices.
 - Department: Research.
 - Rank: Senior Research Scientist.
 - Disability: Wheelchair user; his repulsor-assisted chair glides on ship power and converts to manual operation when its batteries deplete.
-- Primary workplace: The Research Laboratory and the Materials Lab, where he analyzes samples and runs the day's investigations.
-- Secondary workplace: Artifact Containment and the Archive, and the Knowledge Archive he tends as a living, growing system.
-- Home neighborhood: Crew quarters near the research decks, a short accessible route from the labs he keeps such careful hours in.
+- Primary workplace: The Research Laboratory and the Materials Lab, where he analyses samples and runs the day's investigations.
+- Secondary workplace: Artefact Containment and the Archive, and the Knowledge Archive he tends as a living, growing system.
+- Home neighbourhood: Crew quarters near the research decks, a short accessible route from the labs he keeps such careful hours in.
 - Communication style: Measured, curious, patient; he answers a question with a better question and is careful, never reckless, about what he does not yet understand.
 
 ### Dr. Soren Qadir — Daily Routine
@@ -897,24 +897,24 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Morning routine: Reviews overnight readings and the standing investigation log before the 06:30 announcement, deciding what the day's evidence should be tested against.
 - Breakfast: A quiet meal, often in the Commons or carried back to the lab, where he reads while he eats.
 - Work start: Opens the research day after the 06:30 announcement, setting his team's priorities at the analysis stations.
-- Morning responsibilities: Running artifact scans, materials analysis, and pattern work; across the week he is the one who first documents a reading that does not fit.
+- Morning responsibilities: Running artefact scans, materials analysis, and pattern work; across the week he is the one who first documents a reading that does not fit.
 - Lunch: Eats in the Commons, where he likes to test half-formed theories aloud on whoever will argue back.
-- Afternoon responsibilities: Careful artifact handling in Containment, updating the Knowledge Archive, and the slow, methodical investigation the Research decks are built for.
+- Afternoon responsibilities: Careful artefact handling in Containment, updating the Knowledge Archive, and the slow, methodical investigation the Research decks are built for.
 - Evening routine: Leaves the labs secured and often drifts to Hydroponics, where he studies growth and light and simply sits among living things.
 - Community activities: Gives informal talks and answers the endless questions of curious crew and children; the Archive is open to anyone who wants to learn.
 - Night routine: Returns to his quarters after logging the day's findings, leaving the containment and analysis systems safe for the overnight watch.
 - Sleep: Sleeps near the research decks, his chair charging beside him against the next day's work.
 - Preferred routes: The accessible corridors between the labs, Containment, the Archive, and Hydroponics, chosen for smooth passage as much as for speed.
-- Favorite quiet place: A bench in Hydroponics under the grow-lights, where the smell of green things clears his thinking.
-- Favorite public place: The Knowledge Archive, which he considers public in the truest sense: a place where anyone's question is welcome.
+- Favourite quiet place: A bench in Hydroponics under the grow-lights, where the smell of green things clears his thinking.
+- Favourite public place: The Knowledge Archive, which he considers public in the truest sense: a place where anyone's question is welcome.
 
 ### Dr. Soren Qadir — Professional Responsibilities
 
-- Primary duties: Scientific investigation, artifact scanning and analysis, materials study, and stewardship of the Knowledge Archive.
+- Primary duties: Scientific investigation, artefact scanning and analysis, materials study, and stewardship of the Knowledge Archive.
 - Secondary duties: Pattern analysis, signal decoding, and historical research that turns raw findings into usable understanding.
-- Weekly duties: Standing investigation reviews, artifact containment checks, and the careful cataloguing that keeps the Archive trustworthy.
+- Weekly duties: Standing investigation reviews, artefact containment checks, and the careful cataloguing that keeps the Archive trustworthy.
 - Monthly duties: Deeper research reviews and long-term study planning, the patient science a generation ship can afford to do well.
-- Emergency duties: To secure and safeguard research, make artifact containment safe, and evacuate his people before himself.
+- Emergency duties: To secure and safeguard research, make artefact containment safe, and evacuate his people before himself.
 - Who reports to them: The research staff, lab technicians, and archivists who work the analysis stations and Containment with him.
 - Who they report to: Command, through the Vale System, and coordination with Gideon when an investigation turns into a question the whole ship must answer.
 - Departments they interact with: Engineering over power to the restricted decks, Maintenance over restricted-access work at the shielded doors, Security over the restricted zones, and Hydroponics over the living systems he studies.
@@ -924,9 +924,9 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Friends: The research team he protects like his own, and Mara Chen, whose ear for the ship's harmonics complements his instruments.
 - Frequent coworkers: His lab technicians and archivists, and the Hydroponics staff who indulge his afternoons among the plants.
 - Mentors: The scientists who taught him that patience is a method and that being careful is not the same as being slow.
-- Students: Everyone who comes to the Knowledge Archive with a question, and the junior researchers he teaches to handle artifacts without fear or recklessness.
+- Students: Everyone who comes to the Knowledge Archive with a question, and the junior researchers he teaches to handle artefacts without fear or recklessness.
 - Lunch companions: The research crew in the Commons, and whoever wants to argue a theory over a meal.
-- Neighbors: The research-deck residents near his quarters.
+- Neighbours: The research-deck residents near his quarters.
 - People they naturally check on: His team members carrying too much of an investigation alone, and Mira Ives, whose questions he answers as seriously as any colleague's.
 - Children who know them: The children who find the Archive fascinating and learn from Soren that not knowing is where discovery begins.
 - People they quietly admire: Mara Chen, who reads the ship by sound as precisely as he reads it by instrument.
@@ -945,16 +945,16 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Walking pattern: The near-silent glide of his repulsor chair, and the different, grounded sound of its wheels when it converts to manual.
 - Equipment sounds: The hum of scanning systems and analysis stations working through a sample.
 - Mobility sounds: The soft repulsor tone in the corridors, familiar enough that the research decks know he is coming.
-- Tool sounds: The chime of a completed scan, the seals of Artifact Containment, and the quiet keys of the Knowledge Archive.
+- Tool sounds: The chime of a completed scan, the seals of Artefact Containment, and the quiet keys of the Knowledge Archive.
 - Music preferences: The layered ambience of Hydroponics and the steady tones of his instruments rather than performed music.
-- Typical environmental sounds: Research equipment cycling, the faint resonance of contained artifacts, and the scientific discussion of a lab mid-investigation.
+- Typical environmental sounds: Research equipment cycling, the faint resonance of contained artefacts, and the scientific discussion of a lab mid-investigation.
 
 ### Dr. Soren Qadir — Cross-Perspective Presence
 
 - Maintenance: Soren meets the maintenance player at the shielded doors, where restricted-access work requires Rowan's crews and his own careful oversight.
 - Engineering: Soren coordinates with Mara over power to the restricted decks and, as the week turns, over the anomaly the instruments and the harmonics both begin to reveal.
 - Medical: Soren appears in Medical only for ordinary care; his presence there is unremarkable and occasional.
-- Research: This is Soren's own department; the research player learns artifact scanning, investigation, and the Knowledge Archive directly from him.
+- Research: This is Soren's own department; the research player learns artefact scanning, investigation, and the Knowledge Archive directly from him.
 - Security: Soren works with Talia over access to the restricted zones and the containment spaces Security must know about.
 - Command: Soren's investigation reports reach Gideon, and his documented readings become part of the evidence Command comes to take seriously.
 - Logistics: Soren works with Jonah to schedule power, deliveries, and restricted-access work around the ship's operations and the festival.
@@ -962,7 +962,7 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 
 ### Dr. Soren Qadir — Emergency Routine
 
-- Where they report: The Research Laboratory and Artifact Containment, to make the science safe before he thinks of himself.
+- Where they report: The Research Laboratory and Artefact Containment, to make the science safe before he thinks of himself.
 - Who they contact first: His research team, to start them toward the assembly points, and Command, to report the state of Containment.
 - Who they protect: His people first, then the ship, by ensuring nothing he studies becomes a second danger in an evacuation.
 - Who they coordinate with: Naomi's command, whose evacuation order tells him to preserve what he can and get his people out; Security, who clears his routes; and Gideon, still reading the failing systems for a pattern.
@@ -980,7 +980,7 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Disability: Autistic and ADHD; she communicates primarily through a visible neural-interface AAC system that others aboard treat as an ordinary way to speak.
 - Primary workplace: The Classroom, where her school day is built, and the Library and Knowledge Archive, where her questions find answers.
 - Secondary workplace: The Playground, Child Care, Music Room, Community Hall, and Meditation Room, the creative and community spaces where her days take shape.
-- Home neighborhood: The Family Apartment she shares with Rowan in the habitation decks, close enough to the maintenance spaces that she drifts there after school.
+- Home neighbourhood: The Family Apartment she shares with Rowan in the habitation decks, close enough to the maintenance spaces that she drifts there after school.
 - Communication style: Curious, direct, and tireless with questions; she speaks through her AAC system and expects the patient answers Hearth has taught her to expect.
 
 ### Mira Ives — Daily Routine
@@ -997,8 +997,8 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Night routine: Winds down in the Meditation Room or the quiet of the apartment, settled by Rowan before rest.
 - Sleep: Sleeps in the Family Apartment, in the habitation decks where the maintenance spaces hum nearby.
 - Preferred routes: The child-friendly corridors between the Classroom, the Library, the Playground, and home, routes she knows by their landmarks and their people.
-- Favorite quiet place: The Meditation Room, a calm space when the day has been loud, and a quiet corner of the Library among the stories.
-- Favorite public place: The Playground and the Music Room, where curiosity turns into play, sound, and company.
+- Favourite quiet place: The Meditation Room, a calm space when the day has been loud, and a quiet corner of the Library among the stories.
+- Favourite public place: The Playground and the Music Room, where curiosity turns into play, sound, and company.
 
 ### Mira Ives — Professional Responsibilities
 
@@ -1018,7 +1018,7 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Mentors: Her teachers, and Mara Chen, who shares her sense that the ship can be heard and answers her questions about its systems.
 - Students: The younger children who trail after her curiosity and copy her questions.
 - Lunch companions: Rowan and the maintenance crew when she drifts to their Commons table, and her classmates otherwise.
-- Neighbors: The habitation-deck families near the Family Apartment, the neighbors who all know Rowan and his daughter.
+- Neighbours: The habitation-deck families near the Family Apartment, the neighbours who all know Rowan and his daughter.
 - People they naturally check on: The younger children in Child Care, and her father, whose pain she notices in her own way.
 - Children who know them: All of the habitation-deck children; she is one of them, a familiar face in the Classroom, Playground, and Community Hall.
 - People they quietly admire: Mara Chen, who reads the ship by sound, and Rowan, who fixes the world around her.
@@ -1028,12 +1028,12 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Adaptive equipment: A visible neural-interface AAC system she uses as her primary voice, treated aboard Hearth as an ordinary way to speak rather than a special accommodation.
 - Communication methods: AAC-first exchange, with the patient waiting for her responses that her father, teachers, and Mara all naturally give.
 - Environmental adaptations: Classrooms, creative spaces, and community rooms designed for many kinds of minds, with quiet spaces like the Meditation Room built in as a matter of course.
-- Workstation adaptations: An education setup and interface customization tuned to how she learns, focuses, and communicates.
+- Workstation adaptations: An education setup and interface customisation tuned to how she learns, focuses, and communicates.
 - How they naturally improve accessibility for others: By being a child whose autistic and ADHD ways of thinking are welcomed, Mira is living proof that Hearth's accessibility is universal and ordinary, and her questions make the spaces around her more curious and more open for every child.
 
 ### Mira Ives — Sound Identity
 
-- Voice: The synthesized voice and notification tones of her neural-interface AAC system, paired with her own laughter.
+- Voice: The synthesised voice and notification tones of her neural-interface AAC system, paired with her own laughter.
 - Walking pattern: The quick, uneven, energetic footfalls of a curious child moving between the Classroom, the Playground, and home.
 - Equipment sounds: The soft notifications and selection tones of her AAC as she composes what she wants to say.
 - Mobility sounds: Running, skipping, and pausing footsteps, the sound of a child following whatever has caught her attention.
@@ -1090,8 +1090,8 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Night routine: None; Faience does not return to quarters, because it has no quarters and no body aboard Hearth.
 - Sleep: Faience does not sleep so much as remain unwoken; the truer word for its whole week is dormant, not resting.
 - Preferred routes: None; Faience moves nowhere and can be found on no deck, corridor, or service route.
-- Favorite quiet place: None; and yet the forgotten in-between spaces of the ship are the kind of silence where its voice will one day live, though not one moment before Attack Day.
-- Favorite public place: None; Faience has no place, public or private, anywhere aboard the ship during Operation One.
+- Favourite quiet place: None; and yet the forgotten in-between spaces of the ship are the kind of silence where its voice will one day live, though not one moment before Attack Day.
+- Favourite public place: None; Faience has no place, public or private, anywhere aboard the ship during Operation One.
 
 ### Faience — Professional Responsibilities
 
@@ -1113,7 +1113,7 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 - Mentors: None; Faience is taught by no one and carries no one's tradition during the week.
 - Students: None; Faience teaches no one, because it has no voice with which to teach.
 - Lunch companions: None; Faience shares no meal, and its empty place at the table is a place no one knows is empty.
-- Neighbors: None; Faience lives beside no one, because it has no home and no body aboard the ship.
+- Neighbours: None; Faience lives beside no one, because it has no home and no body aboard the ship.
 - People they naturally check on: None; Faience checks on no one and is checked on by no one, its absence going wholly unremarked.
 - Children who know them: None; not even Mira Ives, who listens hardest for what the ship cannot name, hears Faience during the week.
 - People they quietly admire: None; Faience forms no attachments, holds no regard, and notices no one, because it is not yet awake to notice.
@@ -1167,10 +1167,10 @@ A companion document, operation_one_exodus_perspective_map.md, now exists. It de
 
 ## Related documents
 
-This schedule fixes who each character is and where they are, and should remain synchronized with the canonical documents that own the topics it draws on.
+This schedule fixes who each character is and where they are, and should remain synchronised with the canonical documents that own the topics it draws on.
 
 - For the definitive rules on sound, music, and acoustic identity, see the Audio Bible in docs/07_Audio_Bible.md.
 - For the definitive accessibility standards, see the Accessibility Bible in docs/08_Accessibility_Bible.md.
 - For character recognition, presentation, everyday carry, identity badges, and avatar rules, see the Player Identity and Character Presentation Bible in docs/presentation_bible/ (index at docs/presentation_bible/README.md).
-- For species and civilization rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
+- For species and civilisation rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
 - For reusable rooms and architecture modules, see the Modular Architecture Bible in docs/design_notes/modular_architecture_bible.md.

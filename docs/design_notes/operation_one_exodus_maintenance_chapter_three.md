@@ -4,7 +4,7 @@ This is a gameplay design document for the Maintenance perspective of Chapter Th
 
 ## Purpose
 
-Chapter Three marks the transition from survival to civilization.
+Chapter Three marks the transition from survival to civilisation.
 
 Chapter One taught the player their profession. Chapter Two taught the player how to rescue people. Chapter Three teaches the player how communities function.
 
@@ -65,7 +65,7 @@ The player wakes to a station that sounds alive.
 
 - Ventilation.
 - Coffee brewing.
-- Tools being organized.
+- Tools being organised.
 - Medical monitors.
 - Someone humming while working.
 - AAC notifications.
@@ -95,7 +95,7 @@ Every crew member teaches something simply by living their routine.
 - Rowan teaches preventative maintenance. The player learns that fixing small problems early prevents larger failures later.
 - Mara teaches active listening. She demonstrates identifying equipment problems entirely through sound.
 - Samira teaches preventative medicine. She explains that healthy communities prevent illness rather than waiting to treat it.
-- Jonah teaches organization. The player learns that planning saves more time than rushing.
+- Jonah teaches organisation. The player learns that planning saves more time than rushing.
 - Talia teaches situational awareness. Security begins with observation, not weapons.
 - Soren teaches curiosity. He demonstrates recording questions before searching for answers.
 - Mira teaches perspective. She notices details every adult has ignored.
@@ -122,7 +122,7 @@ Every first visit permanently unlocks one gameplay concept. The player is expect
 ### First Visit: Mara Chen
 
 - Player learns: active listening. Mara teaches identifying system health entirely by sound.
-- Gameplay unlock: Engineering Diagnostics. The player begins recognizing different machinery states through their acoustic signatures.
+- Gameplay unlock: Engineering Diagnostics. The player begins recognising different machinery states through their acoustic signatures.
 - Benefits:
   - Earlier warning of equipment failures.
   - Improved engineering puzzles.
@@ -142,12 +142,12 @@ Every first visit permanently unlocks one gameplay concept. The player is expect
 ### First Visit: Chief Petty Officer Jonah Briggs
 
 - Player learns: planning saves time.
-- Gameplay unlock: Mission Planning Board. The player can organize projects, prioritize work and schedule future tasks.
+- Gameplay unlock: Mission Planning Board. The player can organise projects, prioritise work and schedule future tasks.
 - Benefits:
   - Projects complete more efficiently.
   - Reduced idle time.
   - Additional cooperative projects become available.
-- Future dialogue: Jonah increasingly trusts the player's organizational ability.
+- Future dialogue: Jonah increasingly trusts the player's organisational ability.
 
 ### First Visit: Security Lead Talia Rusk
 
@@ -293,7 +293,7 @@ Each crew member's report reflects what the player did during the first morning.
 - Rowan reports on structural integrity, the maintenance backlog, repair priorities, and fabrication capacity. Hidden maintenance concerns the player discovered earlier alter his report. If the player completed preventative inspections, Rowan has fewer urgent repairs to discuss.
 - Mara reports on power reserves, engineering capacity, upgrade opportunities, and energy shortages. If the player visited Mara first earlier that morning, additional engineering options become available because the player already understands her diagnostic terminology.
 - Samira reports on crew health, mental wellbeing, medical inventory, fatigue, and preventative care priorities. If the player visited Samira first, optional wellness projects become available and crew morale begins slightly higher.
-- Jonah reports on supply inventory, mission readiness, construction schedules, and outstanding requests. If the player organized tasks earlier, Jonah's report reflects improved efficiency.
+- Jonah reports on supply inventory, mission readiness, construction schedules, and outstanding requests. If the player organised tasks earlier, Jonah's report reflects improved efficiency.
 - Talia reports on security concerns, hazard assessments, emergency preparedness, and external risks. If the player previously completed environmental assessments, fewer unknown risks remain.
 - Soren reports on research progress, questions requiring investigation, Knowledge Archive updates, and strange signal observations. If the player documented additional observations earlier, Soren incorporates those discoveries into future research.
 - Mira does not report formally. Instead she interrupts. She asks questions. Those questions expose assumptions adults have made. At least one optional project should become available because of something Mira notices. Curiosity changes planning.
@@ -316,7 +316,7 @@ The available priorities are as follows.
 - Expand research capabilities.
   - Immediate result: the Knowledge Archive develops faster; new discoveries occur earlier.
   - Future result: additional dialogue options; earlier diplomatic advantages; engineering and construction improvements occur more gradually.
-- Strengthen station defenses.
+- Strengthen station defences.
   - Immediate result: security systems improve; future exploration becomes safer.
   - Future result: earlier defensive upgrades; reduced accidental damage; scientific progress slows slightly.
 - Search immediately for additional survivors.
@@ -457,7 +457,7 @@ Every construction project includes moments where the player assists different c
 - Rowan teaches fabrication and precision.
 - Mara teaches listening for system health.
 - Samira teaches preparation before action.
-- Jonah teaches organization before construction.
+- Jonah teaches organisation before construction.
 - Talia teaches identifying hazards before work begins.
 - Soren teaches documenting discoveries while building.
 - Mira notices practical improvements adults overlooked.
@@ -504,7 +504,7 @@ The player should revisit completed areas and notice:
 - Plants.
 - Personal belongings.
 
-The station becomes increasingly personalized.
+The station becomes increasingly personalised.
 
 ### Part Three — Accessibility
 
@@ -529,12 +529,12 @@ Every accessibility improvement benefits the entire community, not only disabled
 - Collaborative building.
 - Accessibility planning.
 - Long-term infrastructure.
-- Environmental customization.
+- Environmental customisation.
 - Station evolution.
 
 ### Part Three — Emotional Goal
 
-The player should understand that they are no longer repairing wreckage. They are helping build a civilization.
+The player should understand that they are no longer repairing wreckage. They are helping build a civilisation.
 
 Every completed project should make the station feel more like a home than a survival shelter.
 
@@ -562,7 +562,7 @@ Each completed test permanently reinforces a gameplay system introduced earlier 
 
 These are not examinations. These are ordinary problems experienced by a growing community.
 
-Nothing is world-ending. Nothing is a boss battle. These moments teach that civilization survives through countless small acts of cooperation.
+Nothing is world-ending. Nothing is a boss battle. These moments teach that civilisation survives through countless small acts of cooperation.
 
 ### Test One: Rowan Ives
 
@@ -590,7 +590,7 @@ Nothing is world-ending. Nothing is a boss battle. These moments teach that civi
 ### Test Four: Chief Petty Officer Jonah Briggs
 
 - Problem: three important projects now compete for the same resources.
-- Player learns: prioritization.
+- Player learns: prioritisation.
 - Player decision: determine which project receives available materials first. The remaining projects wait. Nothing is cancelled. Only delayed.
 - The player's priorities begin shaping the station's history.
 

@@ -82,7 +82,7 @@ Every chapter follows the same discipline so that gameplay and story grow togeth
 
 ## Chapter question spine
 
-Every chapter begins with a question and ends by asking a larger one. The progression grows from personal survival to civilization and gives the first campaign its narrative spine. The questions for Operation One are the following.
+Every chapter begins with a question and ends by asking a larger one. The progression grows from personal survival to civilisation and gives the first campaign its narrative spine. The questions for Operation One are the following.
 
 - Chapter One: Can I save my home? The answer is no.
 - Chapter Two: Can I find my people? The answer is yes.
@@ -90,7 +90,7 @@ Every chapter begins with a question and ends by asking a larger one. The progre
 - Chapter Four: Can we build something worth protecting?
 - Chapter Five: Who were the Shawabti, really?
 - Chapter Six: Why did they choose humanity?
-- Chapter Seven: What kind of civilization will we become?
+- Chapter Seven: What kind of civilisation will we become?
 
 ## Emotional pillars
 
@@ -107,5 +107,5 @@ Every major mission should reinforce at least one of these emotional pillars.
 
 ## Related documents
 
-- For species and civilization rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
+- For species and civilisation rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
 - For how every form of progression is unified across the franchise, see the Gameplay Progression Matrix in docs/design_notes/gameplay_progression_matrix.md.

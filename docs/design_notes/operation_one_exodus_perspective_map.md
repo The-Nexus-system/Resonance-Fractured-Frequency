@@ -14,14 +14,14 @@ These rules govern how perspective works across Operation One. They are stated h
 
 - History is fixed and perspective is not. Every profession lives the events of the master timeline in the same order, at the same minutes, with the same people in the same places. Only the vantage changes.
 - No single profession witnesses the whole of Attack Day. Each perspective sees only its own thread of the same minute-by-minute morning, which is precisely why the timeline records all threads and each campaign plays only one.
-- The player is a member of the chosen profession, not that profession's named department lead. The named leads are the player's colleagues, superiors, and neighbors, not the player's own character.
+- The player is a member of the chosen profession, not that profession's named department lead. The named leads are the player's colleagues, superiors, and neighbours, not the player's own character.
 - The named recurring crew are the crew the player finds again. Mara Chen, Doctor Samira Kade, Security Lead Talia Rusk, Dr. Soren Qadir, Chief Petty Officer Jonah Briggs, Rowan Ives, Mira Ives, and the Vale System launch from the pods the master timeline fixes for them, and are among those the player rescues one by one in Chapter Two, whatever profession the player chose.
 - Faience is absent from every profession's ordinary week. No profession hears Faience during the seven days or the last morning. Whatever profession the player chose, the player ends Attack Day in a separate, damaged pod, and it is in the player's own pod that Faience first stirs, not one moment sooner. This is the seam Chapter Two opens inside, and it is the same seam for all eight professions.
 - Every profession begins and moves through canonical spaces only. Starting locations and working spaces are drawn from the Modular Architecture Bible, and no profession introduces a room, a facility, or a person that the other documents do not already contain.
 
 ## Relationship to the Master Timeline and the Character Schedule
 
-These three documents form one spine and must remain synchronized whenever any of them changes.
+These three documents form one spine and must remain synchronised whenever any of them changes.
 
 - The master timeline answers what happened and when. It is canon over the order and timing of events.
 - The character schedule answers who is where and doing what. It is canon over any character's whereabouts and routine.
@@ -46,7 +46,7 @@ What follows is that shared spine lived eight ways.
 
 ## Medic
 
-The medic perspective lives the week as care. Where other professions prepare the ship, the medic prepares its people, and on Attack Day the medic is the profession the wounded come toward. The medic's world centers on the Medical department and its lead, Doctor Samira Kade, who communicates through a projector in sign and text and whose calm is the department's spine.
+The medic perspective lives the week as care. Where other professions prepare the ship, the medic prepares its people, and on Attack Day the medic is the profession the wounded come toward. The medic's world centres on the Medical department and its lead, Doctor Samira Kade, who communicates through a projector in sign and text and whose calm is the department's spine.
 
 ### Medic — Starting World and Locations
 
@@ -70,11 +70,11 @@ On Attack Day the medic hears Elian's announcement stop mid-sentence and, minute
 
 ## Scientist
 
-The scientist perspective lives the week closest to the anomaly. The quiet thread that every department half-notices is, for Research, the center of the week's work, which makes the scientist the profession that comes nearest to understanding what is happening and still cannot stop it. The scientist's world centers on the Research department and its lead, Dr. Soren Qadir, who moves through the ship in a chair and who will not leave on Attack Day until his team is away.
+The scientist perspective lives the week closest to the anomaly. The quiet thread that every department half-notices is, for Research, the centre of the week's work, which makes the scientist the profession that comes nearest to understanding what is happening and still cannot stop it. The scientist's world centres on the Research department and its lead, Dr. Soren Qadir, who moves through the ship in a chair and who will not leave on Attack Day until his team is away.
 
 ### Scientist — Starting World and Locations
 
-The scientist begins in the Research department and works across the Research Laboratory, the Materials Lab, Artifact Containment, and the Archive. The scientist knows the ship as a place of instruments and records, and reads the week through data before reading it through people.
+The scientist begins in the Research department and works across the Research Laboratory, the Materials Lab, Artefact Containment, and the Archive. The scientist knows the ship as a place of instruments and records, and reads the week through data before reading it through people.
 
 ### Scientist — Objectives and Professional Vocabulary
 
@@ -94,7 +94,7 @@ On Attack Day the scientist is set for the anomaly meeting when Elian's announce
 
 ## Engineer
 
-The engineer perspective lives the week as the ship's pulse. The engineer keeps power and life support and the ship's harmonics steady, and on Attack Day the engineer is the reason the lights and the air outlast the damage long enough for others to escape. The engineer's world centers on the Engineering department and its lead, Mara Chen, the blind engineer who works by sound and knows the ship's notes by heart, and who is not a member of the Vale System.
+The engineer perspective lives the week as the ship's pulse. The engineer keeps power and life support and the ship's harmonics steady, and on Attack Day the engineer is the reason the lights and the air outlast the damage long enough for others to escape. The engineer's world centres on the Engineering department and its lead, Mara Chen, the blind engineer who works by sound and knows the ship's notes by heart, and who is not a member of the Vale System.
 
 ### Engineer — Starting World and Locations
 
@@ -118,7 +118,7 @@ On Attack Day the engineer hears Elian's announcement stop, and moments later he
 
 ## Maintenance
 
-The maintenance perspective lives the week as the ship's hidden body. Maintenance does what no one sees, keeping the routes and doors and crawlspaces of the ship working, and on Attack Day that hidden knowledge becomes the difference between a blocked corridor and an open path to a pod. This is the fully designed perspective of Operation One, written in seven chapters, and this section records its shape and points to those chapters rather than re-deriving them. The maintenance world centers on the Maintenance department and its lead, Rowan Ives, whose first thought on Attack Day is for his daughter, Mira.
+The maintenance perspective lives the week as the ship's hidden body. Maintenance does what no one sees, keeping the routes and doors and crawlspaces of the ship working, and on Attack Day that hidden knowledge becomes the difference between a blocked corridor and an open path to a pod. This is the fully designed perspective of Operation One, written in seven chapters, and this section records its shape and points to those chapters rather than re-deriving them. The maintenance world centres on the Maintenance department and its lead, Rowan Ives, whose first thought on Attack Day is for his daughter, Mira.
 
 ### Maintenance — Starting World and Locations
 
@@ -142,15 +142,15 @@ On Attack Day the maintenance worker lives the morning as the work of keeping ev
 
 ## Security
 
-The security perspective lives the week as watchfulness. Security keeps order and readiness in the background of ordinary life, and on Attack Day security is the profession that runs the evacuation routes and the assembly points and refuses to leave until the civilians are moving. The security world centers on the Security department and its lead, Security Lead Talia Rusk.
+The security perspective lives the week as watchfulness. Security keeps order and readiness in the background of ordinary life, and on Attack Day security is the profession that runs the evacuation routes and the assembly points and refuses to leave until the civilians are moving. The security world centres on the Security department and its lead, Security Lead Talia Rusk.
 
 ### Security — Starting World and Locations
 
-The security officer begins in the Security department and works across the Security Office, the Armory, and the Emergency Coordination Center, and patrols the corridors, transit hubs, and assembly points of the whole ship. The security officer knows the ship as a set of routes, chokepoints, and gathering places, and reads it for where a crowd will move and where it might jam.
+The security officer begins in the Security department and works across the Security Office, the Armoury, and the Emergency Coordination Centre, and patrols the corridors, transit hubs, and assembly points of the whole ship. The security officer knows the ship as a set of routes, chokepoints, and gathering places, and reads it for where a crowd will move and where it might jam.
 
 ### Security — Objectives and Professional Vocabulary
 
-Across the ordinary week the security officer patrols, runs and reviews drills, keeps the armory and the coordination center ready, and prepares crowd safety for a shipwide celebration. The security officer thinks and speaks in the vocabulary of readiness: patrol, drill, route, assembly point, chokepoint, order, evacuation. The security officer measures the week in a ship that stays calm and a set of drills that stay sharp.
+Across the ordinary week the security officer patrols, runs and reviews drills, keeps the armoury and the coordination centre ready, and prepares crowd safety for a shipwide celebration. The security officer thinks and speaks in the vocabulary of readiness: patrol, drill, route, assembly point, chokepoint, order, evacuation. The security officer measures the week in a ship that stays calm and a set of drills that stay sharp.
 
 ### Security — Relationships, Dialogue, and Knowledge
 
@@ -158,7 +158,7 @@ The security officer knows the crew as a population to keep safe and knows Talia
 
 ### Security — Environmental Awareness and the Silent Companion
 
-The security officer reads the environment through the movement and mood of people: the sound of a calm corridor against a panicked one, the pace of a crowd, the places order is about to break. Communication runs through security channels, the coordination center, and the ship's announcements, and no AI rides along to steady a crowd; the place where Faience will one day help hold order is empty all week. That absence is answered only in the pod.
+The security officer reads the environment through the movement and mood of people: the sound of a calm corridor against a panicked one, the pace of a crowd, the places order is about to break. Communication runs through security channels, the coordination centre, and the ship's announcements, and no AI rides along to steady a crowd; the place where Faience will one day help hold order is empty all week. That absence is answered only in the pod.
 
 ### Security — Attack Day and the Pod
 
@@ -170,7 +170,7 @@ The commissioned officer perspective lives the week from the bridge. This is the
 
 ### Commissioned Officer — Starting World and Locations
 
-The commissioned officer begins on the command deck and works across the Bridge, the Ready Room, the Operations Center, and the Observation Dome. The commissioned officer knows the ship as a whole under command, reading it through reports, briefings, and the wide view from the bridge rather than through any single department.
+The commissioned officer begins on the command deck and works across the Bridge, the Ready Room, the Operations Centre, and the Observation Dome. The commissioned officer knows the ship as a whole under command, reading it through reports, briefings, and the wide view from the bridge rather than through any single department.
 
 ### Commissioned Officer — Objectives and Professional Vocabulary
 
@@ -182,7 +182,7 @@ The commissioned officer knows the ship through its department heads and knows t
 
 ### Commissioned Officer — Environmental Awareness and the Silent Companion
 
-The commissioned officer reads the environment through the bridge: the tone of the department reports, the shift in the Vale System's voice, the sound of a calm channel turning tense. Communication runs through the command channels and the ship's announcements, and even at the center of the ship there is no personal AI companion at the officer's side; the ship is commanded by the Vale System and served by its crew, and the place a companion like Faience will one day fill is not yet filled. That place is filled only in the pod.
+The commissioned officer reads the environment through the bridge: the tone of the department reports, the shift in the Vale System's voice, the sound of a calm channel turning tense. Communication runs through the command channels and the ship's announcements, and even at the centre of the ship there is no personal AI companion at the officer's side; the ship is commanded by the Vale System and served by its crew, and the place a companion like Faience will one day fill is not yet filled. That place is filled only in the pod.
 
 ### Commissioned Officer — Attack Day and the Pod
 
@@ -190,11 +190,11 @@ On Attack Day the commissioned officer is on the bridge for the Founding Day ann
 
 ## Non-Commissioned Officer
 
-The non-commissioned officer perspective lives the week as the ship's working backbone. Where the commissioned officer gives the order, the non-commissioned officer turns it into motion, and on Attack Day this profession becomes the nervous system of the evacuation. The non-commissioned officer world centers on logistics and operations and its lead, Chief Petty Officer Jonah Briggs.
+The non-commissioned officer perspective lives the week as the ship's working backbone. Where the commissioned officer gives the order, the non-commissioned officer turns it into motion, and on Attack Day this profession becomes the nervous system of the evacuation. The non-commissioned officer world centres on logistics and operations and its lead, Chief Petty Officer Jonah Briggs.
 
 ### Non-Commissioned Officer — Starting World and Locations
 
-The non-commissioned officer begins in the operations and logistics spaces and works across the Operations Center, the Cargo Bay, the Transit Hub, the Docking Bay, and the Communications Center. The non-commissioned officer knows the ship as a flow of people, supplies, and information, and reads it through what is moving and what is stuck.
+The non-commissioned officer begins in the operations and logistics spaces and works across the Operations Centre, the Cargo Bay, the Transit Hub, the Docking Bay, and the Communications Centre. The non-commissioned officer knows the ship as a flow of people, supplies, and information, and reads it through what is moving and what is stuck.
 
 ### Non-Commissioned Officer — Objectives and Professional Vocabulary
 
@@ -218,19 +218,19 @@ The civilian perspective lives the week as ordinary life itself. This is the pro
 
 ### Civilian — Starting World and Locations
 
-The civilian begins in the living heart of the ship and moves through its shared spaces across the week: the Community Hall, the Dining Hall, the Kitchen, the Cafe, Hydroponics, the Botanical Garden, the Classroom, the Lecture Hall, the Library, the Playground, Child Care, the Residential Corridor, a Family Apartment, the Music Room, the Performance Hall, and the Memorial Garden. The civilian knows the ship as home, as gardens and meals and classrooms and neighbors, and reads the week through the life of the community.
+The civilian begins in the living heart of the ship and moves through its shared spaces across the week: the Community Hall, the Dining Hall, the Kitchen, the Cafe, Hydroponics, the Botanical Garden, the Classroom, the Lecture Hall, the Library, the Playground, Child Care, the Residential Corridor, a Family Apartment, the Music Room, the Performance Hall, and the Memorial Garden. The civilian knows the ship as home, as gardens and meals and classrooms and neighbours, and reads the week through the life of the community.
 
 ### Civilian — Objectives and Professional Vocabulary
 
-Across the ordinary week the civilian lives the ordinary life the whole operation is built to protect: work in the gardens and kitchens and classrooms, care for children, make music, and prepare the community's part in Founding Day. The civilian thinks and speaks in the vocabulary of daily life rather than of any single trade: home, neighbor, garden, meal, class, festival, celebration. The civilian measures the week in a community that is well and a celebration coming together.
+Across the ordinary week the civilian lives the ordinary life the whole operation is built to protect: work in the gardens and kitchens and classrooms, care for children, make music, and prepare the community's part in Founding Day. The civilian thinks and speaks in the vocabulary of daily life rather than of any single trade: home, neighbour, garden, meal, class, festival, celebration. The civilian measures the week in a community that is well and a celebration coming together.
 
 ### Civilian — Relationships, Dialogue, and Knowledge
 
-The civilian knows the crew as neighbors and friends and knows the community's children, Mira Ives among them, as the ship's future. Dialogue in this perspective is warm, ordinary, and human, the talk of people who live together rather than serve together. The civilian's knowledge is the least technical and the most human: this profession does not read the anomaly in instruments or harmonics, but feels the week only as the small unease underneath a happy season, and lives Attack Day with the least warning and the most to lose.
+The civilian knows the crew as neighbours and friends and knows the community's children, Mira Ives among them, as the ship's future. Dialogue in this perspective is warm, ordinary, and human, the talk of people who live together rather than serve together. The civilian's knowledge is the least technical and the most human: this profession does not read the anomaly in instruments or harmonics, but feels the week only as the small unease underneath a happy season, and lives Attack Day with the least warning and the most to lose.
 
 ### Civilian — Environmental Awareness and the Silent Companion
 
-The civilian reads the environment through the life of the community: the sound of a full dining hall, a garden at work, a classroom, a festival being built. Communication runs through the ship's announcements and the ordinary talk of neighbors, and the civilian, like everyone, has no AI companion during the week; the accessible systems built into every deck serve the whole community, but the personal voice Faience will become is not yet present. It becomes present only in the pod.
+The civilian reads the environment through the life of the community: the sound of a full dining hall, a garden at work, a classroom, a festival being built. Communication runs through the ship's announcements and the ordinary talk of neighbours, and the civilian, like everyone, has no AI companion during the week; the accessible systems built into every deck serve the whole community, but the personal voice Faience will become is not yet present. It becomes present only in the pod.
 
 ### Civilian — Attack Day and the Pod
 
@@ -242,7 +242,7 @@ The maintenance perspective is the one fully designed in seven chapters, and it 
 
 ## Relationship to Other Documents
 
-This perspective map is the vantage layer of the Operation One canon and should remain synchronized with the following documents whenever any of them changes.
+This perspective map is the vantage layer of the Operation One canon and should remain synchronised with the following documents whenever any of them changes.
 
 - docs/03_Campaign_Bible.md, which defines the perspective system and the eight professions this map expands.
 - docs/design_notes/operation_one_exodus_master_timeline.md, which fixes the events every perspective crosses and is canon over their order and timing.
@@ -253,7 +253,7 @@ This perspective map is the vantage layer of the Operation One canon and should 
 - docs/11_Decision_Log.md, which records the decisions that produced this map.
 - For the definitive accessibility standards, see the Accessibility Bible in docs/08_Accessibility_Bible.md.
 - For character recognition, presentation, everyday carry, identity badges, and avatar rules, see the Player Identity and Character Presentation Bible in docs/presentation_bible/ (index at docs/presentation_bible/README.md).
-- For species and civilization rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
+- For species and civilisation rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
 
 ## End State
 

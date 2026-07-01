@@ -54,7 +54,7 @@ CSV Hearth is a civilian colony ark.
 
 It is not a warship.
 
-It should evoke the emotional feeling of the USS Enterprise NCC-1701-D: safe, welcoming, lived-in, familiar, and community-centered, without copying Star Trek.
+It should evoke the emotional feeling of the USS Enterprise NCC-1701-D: safe, welcoming, lived-in, familiar, and community-centred, without copying Star Trek.
 
 Hearth carries a full society, not just passengers.
 
@@ -90,7 +90,7 @@ Each deck has its own acoustic identity.
 
 ## Acoustic Geography
 
-Every deck aboard Hearth should have a recognizable sound signature.
+Every deck aboard Hearth should have a recognisable sound signature.
 
 Habitation decks:
 
@@ -318,7 +318,7 @@ First contact.
 
 Initially the player relies on the spoken introduction.
 
-As the story progresses, the player learns to recognize each Captain by voice, cadence, leadership style, and vocabulary before the introduction finishes.
+As the story progresses, the player learns to recognise each Captain by voice, cadence, leadership style, and vocabulary before the introduction finishes.
 
 Gameplay taught later:
 
@@ -416,7 +416,7 @@ Blind.
 
 Presentation:
 
-Mara wears an engineering helmet with a specialized navigation faceplate.
+Mara wears an engineering helmet with a specialised navigation faceplate.
 
 The faceplate is human-built, not Shawabti technology.
 
@@ -462,7 +462,7 @@ Gameplay taught later:
 
 Research.
 
-Artifacts.
+Artefacts.
 
 Scientific reasoning.
 
@@ -900,7 +900,7 @@ The sound is the clue.
 
 End condition:
 
-Pressure Junction 14 stabilizes.
+Pressure Junction 14 stabilises.
 
 ## Part Six: Under the Skin of Hearth
 
@@ -1044,7 +1044,7 @@ Day Six.
 
 Purpose:
 
-Foreshadow the attack and the artifact.
+Foreshadow the attack and the artefact.
 
 The player notices things that do not fit.
 
@@ -1106,7 +1106,7 @@ Choices create different histories.
 
 Design rule:
 
-Do not explain the artifact yet.
+Do not explain the artefact yet.
 
 Make the player curious.
 
@@ -1342,13 +1342,13 @@ Then each member reports in.
 
 "...reporting from Escape Pod Seven."
 
-The player immediately realizes the entire Vale System survived.
+The player immediately realises the entire Vale System survived.
 
 Rescuing the Captain becomes one of the defining emotional moments of Chapter Two.
 
 ## Remaining Open Questions
 
-What exact sound identifies the artifact's first audible signature?
+What exact sound identifies the artefact's first audible signature?
 
 How much control should the player have during the first impact?
 

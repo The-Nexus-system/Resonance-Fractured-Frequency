@@ -122,7 +122,7 @@ The mechanic includes the following elements.
 - Navigation announcements are replayable instantly through any assigned input.
 - Environmental audio profiles remember preferred settings for real-world environments such as home, a busy city, a quiet neighbourhood, a museum, a forest, an airport, a hospital, a convention, public transport, and night travel.
 - Accessibility learning lets Faience adapt to the player's preferences over time without ever locking them into a fixed profile.
-- A safety override always prioritizes the player's real-world safety over immersion.
+- A safety override always prioritises the player's real-world safety over immersion.
 - Real-world movement is optional and always has a stationary alternative.
 
 Supported movement methods include walking, running, manual wheelchair, power wheelchair, white cane, guide dog, mixed mobility, stationary play, and other. Every movement mechanic must have a stationary alternative so no player is excluded because of disability. Faience's orientation layer, which drives these announcements, is described in the AI Bible.

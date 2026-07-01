@@ -8,7 +8,7 @@ Every campaign references this timeline. Every cinematic references this timelin
 
 The purpose of this document is to fix the events of Operation One in a single, unchanging order so that every profession, every chapter, and every future retelling depicts the same history.
 
-A companion document, the Perspective Map, now exists at docs/design_notes/operation_one_exodus_perspective_map.md and describes how each profession experiences these events differently; it remains synchronized with this timeline. A further companion, the Character Schedule, now exists at docs/design_notes/operation_one_exodus_character_schedule.md and describes the ordinary routines of individual characters in fuller detail; it too remains synchronized with this timeline. Where any campaign, scene, or later document conflicts with the order of events recorded here, this document is canon.
+A companion document, the Perspective Map, now exists at docs/design_notes/operation_one_exodus_perspective_map.md and describes how each profession experiences these events differently; it remains synchronised with this timeline. A further companion, the Character Schedule, now exists at docs/design_notes/operation_one_exodus_character_schedule.md and describes the ordinary routines of individual characters in fuller detail; it too remains synchronised with this timeline. Where any campaign, scene, or later document conflicts with the order of events recorded here, this document is canon.
 
 The timeline answers one question and only one question: what happened, and when. It does not decide how any single player experiences a moment. It decides only that the moment occurred, that it occurred in this order, and that it occurred the same way for everyone aboard, whether they were on the bridge, in a garden, in a maintenance crawlspace, or asleep.
 
@@ -30,11 +30,11 @@ Characters continue living their lives when the player is elsewhere. Every recur
 
 ### Canon Rule: The Player Participates, Never Dominates
 
-The player participates in civilization. The player never becomes the only hero. CSV Hearth survives each ordinary day because thousands of people quietly perform their jobs together, and it is overwhelmed on its final day for reasons no single person could have prevented. The player is one competent member of a competent community, never its sole author.
+The player participates in civilisation. The player never becomes the only hero. CSV Hearth survives each ordinary day because thousands of people quietly perform their jobs together, and it is overwhelmed on its final day for reasons no single person could have prevented. The player is one competent member of a competent community, never its sole author.
 
 ### Canon Rule: Accessibility Is Ordinary Infrastructure
 
-Accessibility appears naturally throughout every day and is never treated as exceptional. Braille, speech, captions, sign language, augmentative and alternative communication, haptic systems, adaptive workstations, mobility equipment, accessible transportation, adaptive education, and accessible emergency systems are simply how this civilization functions. No character comments on accessibility as though it were unusual, because aboard Hearth it is not.
+Accessibility appears naturally throughout every day and is never treated as exceptional. Braille, speech, captions, sign language, augmentative and alternative communication, haptic systems, adaptive workstations, mobility equipment, accessible transportation, adaptive education, and accessible emergency systems are simply how this civilisation functions. No character comments on accessibility as though it were unusual, because aboard Hearth it is not.
 
 ### Canon Rule: Each Day Matters More Than the Last
 
@@ -58,7 +58,7 @@ Each day contains the following in order: the earliest hours before dawn and the
 
 The Chapter One maintenance design note labels its playable scenes by counting forward from the player's first morning, so that its "Day One" is the first day the player experiences aboard Hearth and its later parts move toward the attack. This master timeline counts in the opposite direction, downward toward the attack, so that its "Day One" is the last ordinary day.
 
-The two schemes describe the same week and are reconciled as follows: a Chapter One scene labeled forward day number N corresponds to this timeline's countdown day numbered eight minus N. Chapter One's first morning is this timeline's Day Seven. Chapter One's Pressure Junction 14 scene is this timeline's Day Six. Chapter One's hidden-route scene is this timeline's Day Four. Chapter One's little-emergency scene is this timeline's Day Three. The attack in both documents is Attack Day. Because Chapter One's first morning is this timeline's Day Seven, the morning announcement quoted in Chapter One is recorded here, unchanged, as the Day Seven announcement.
+The two schemes describe the same week and are reconciled as follows: a Chapter One scene labelled forward day number N corresponds to this timeline's countdown day numbered eight minus N. Chapter One's first morning is this timeline's Day Seven. Chapter One's Pressure Junction 14 scene is this timeline's Day Six. Chapter One's hidden-route scene is this timeline's Day Four. Chapter One's little-emergency scene is this timeline's Day Three. The attack in both documents is Attack Day. Because Chapter One's first morning is this timeline's Day Seven, the morning announcement quoted in Chapter One is recorded here, unchanged, as the Day Seven announcement.
 
 ## The Anomaly Across the Week
 
@@ -72,7 +72,7 @@ When the attack comes, it becomes clear that no department behaved incompetently
 
 Every morning at exactly 06:30 Ship Standard Time a gentle two-tone claxon sounds, and Captain Elian of the Vale System delivers the morning announcement in the warm morning-announcement voice. The office of Captain belongs to the Vale System as a whole, and different members lead in different situations, but the daily morning announcement is always Elian's.
 
-Every announcement is unique. Across the week they gradually reinforce the central themes of community, belonging, responsibility, hope, memory, and civilization. The Day Seven announcement is the one already recorded in Chapter One and is preserved here as canon. The Day One announcement, spoken on the eve of Founding Day, is written so that it becomes emotionally devastating once the player has finished Operation One and understands that no one aboard heard Elian speak again.
+Every announcement is unique. Across the week they gradually reinforce the central themes of community, belonging, responsibility, hope, memory, and civilisation. The Day Seven announcement is the one already recorded in Chapter One and is preserved here as canon. The Day One announcement, spoken on the eve of Founding Day, is written so that it becomes emotionally devastating once the player has finished Operation One and understands that no one aboard heard Elian speak again.
 
 ## Day Seven
 
@@ -106,7 +106,7 @@ Engineering runs its morning diagnostics. Mara Chen listens to the power harmoni
 
 ### Day Seven — The Living Departments
 
-The departments that are not about repair or defense are just as busy. In Education the school day begins, with adaptive tools laid out as ordinary equipment for every learner. In Hydroponics the agricultural decks run their morning irrigation and the growers walk the rows. In Cargo the day's manifest is checked and the lift platforms begin moving crates. Transportation keeps the transit loops and shuttle schedules running on time. Manufacturing spins up its fabrication lines. Civilian Services handles the ordinary business of a town: housing, supplies, disputes, and the hundred small requests that keep a community livable.
+The departments that are not about repair or defence are just as busy. In Education the school day begins, with adaptive tools laid out as ordinary equipment for every learner. In Hydroponics the agricultural decks run their morning irrigation and the growers walk the rows. In Cargo the day's manifest is checked and the lift platforms begin moving crates. Transportation keeps the transit loops and shuttle schedules running on time. Manufacturing spins up its fabrication lines. Civilian Services handles the ordinary business of a town: housing, supplies, disputes, and the hundred small requests that keep a community livable.
 
 ### Day Seven — Midday
 
@@ -128,7 +128,7 @@ On Day Seven the anomaly is present but effectively invisible. A single deep-spa
 
 The Vale System holds the captain's office as a single person with dissociative identity disorder, and its members lead as each situation calls for them. On Day Seven, Elian gives the morning announcement and walks the Commons at midday; Gideon reviews the overnight report; Naomi keeps the emergency-readiness schedule current; Iris sits with the Founding Day planning committee.
 
-Rowan Ives runs the maintenance briefing and moves through the decks by ear. Mara Chen tends the engineering harmonics. Doctor Samira Kade holds clinic hours. Chief Petty Officer Jonah Briggs keeps the day organized and the corridors flowing. Security Lead Talia Rusk patrols and mans the Research checkpoint. Dr. Soren Qadir reviews sensor logs behind the restricted doors. Mira Ives attends school and spends her free time near the maintenance shop, close to her father.
+Rowan Ives runs the maintenance briefing and moves through the decks by ear. Mara Chen tends the engineering harmonics. Doctor Samira Kade holds clinic hours. Chief Petty Officer Jonah Briggs keeps the day organised and the corridors flowing. Security Lead Talia Rusk patrols and mans the Research checkpoint. Dr. Soren Qadir reviews sensor logs behind the restricted doors. Mira Ives attends school and spends her free time near the maintenance shop, close to her father.
 
 Faience is not active. The presence the player will one day know as Faience has no voice aboard Hearth yet. On Day Seven there is only the ordinary silence where that voice will someday be, and no one aboard has any reason to listen for it.
 
@@ -164,11 +164,11 @@ At 05:30 the night shift again nears its handover. The overnight watch in Engine
 
 At 06:30 the claxon sounds and Elian speaks, this time on the theme of community:
 
-"Good morning, everyone. This is Captain Elian of the Vale System. It is now 0630 Ship Standard Time. Before the shift begins, I want to say something simple. A ship is only metal. What makes Hearth a place worth waking up on is the person across the table from you, the neighbor who saved you a seat, the crew that covers your shift when your child is sick. Look after each other today. That is the whole job, underneath all the other jobs. Morning shift begins in thirty minutes. Have a good morning, everyone."
+"Good morning, everyone. This is Captain Elian of the Vale System. It is now 0630 Ship Standard Time. Before the shift begins, I want to say something simple. A ship is only metal. What makes Hearth a place worth waking up on is the person across the table from you, the neighbour who saved you a seat, the crew that covers your shift when your child is sick. Look after each other today. That is the whole job, underneath all the other jobs. Morning shift begins in thirty minutes. Have a good morning, everyone."
 
 ### Day Six — Morning Routines Across Hearth
 
-The habitation decks wake into their now-recognizable pattern. Breakfast, children, greetings, and the short communal commute fill the corridors. The Commons gathers its first wave. A player who spent Day Seven listening will notice how much of this they can already predict, and how good that predictability feels.
+The habitation decks wake into their now-recognisable pattern. Breakfast, children, greetings, and the short communal commute fill the corridors. The Commons gathers its first wave. A player who spent Day Seven listening will notice how much of this they can already predict, and how good that predictability feels.
 
 ### Day Six — The Working Departments
 
@@ -178,7 +178,7 @@ Maintenance works its list, including the ongoing Deck Twelve pressure quirk. En
 
 ### Day Six — The Living Departments
 
-Education runs its second day of the week, and the mural in the corridor gains its first color. Hydroponics thins and tends the Founding Day crop. Cargo moves the festival supplies that have begun arriving from stores. Transportation keeps the loops on time. Manufacturing fabricates parts for both daily needs and festival structures. Civilian Services fields a rising number of small festival requests.
+Education runs its second day of the week, and the mural in the corridor gains its first colour. Hydroponics thins and tends the Founding Day crop. Cargo moves the festival supplies that have begun arriving from stores. Transportation keeps the loops on time. Manufacturing fabricates parts for both daily needs and festival structures. Civilian Services fields a rising number of small festival requests.
 
 ### Day Six — Midday
 
@@ -194,7 +194,7 @@ On Day Six the anomaly is documented for the first time. It is a single quiet lo
 
 ### Day Six — Character Presence
 
-Elian gives the announcement and moves through the day; Iris leads the festival committee; Gideon reviews the routine; Naomi keeps readiness current. Rowan briefs and roams Maintenance. Mara keeps Engineering singing true. Samira holds clinic. Jonah organizes. Talia patrols and grumbles about the restricted zone. Soren opens the anomaly log. Mira attends school and drifts toward the maintenance shop afterward. Faience remains silent and absent, a voice the ship does not yet have.
+Elian gives the announcement and moves through the day; Iris leads the festival committee; Gideon reviews the routine; Naomi keeps readiness current. Rowan briefs and roams Maintenance. Mara keeps Engineering singing true. Samira holds clinic. Jonah organises. Talia patrols and grumbles about the restricted zone. Soren opens the anomaly log. Mira attends school and drifts toward the maintenance shop afterward. Faience remains silent and absent, a voice the ship does not yet have.
 
 ### Day Six — The Sound of the Day
 
@@ -202,7 +202,7 @@ The soundscape is Day Seven's, subtly enriched: a little more festival talk in t
 
 ### Day Six — Environmental Storytelling
 
-The community board gains a Founding Day countdown. The garden crop is visibly taller. The mural has color. Festival supplies stack up in Cargo. Residents reference the previous day's conversations, so that the world remembers what the player did and said.
+The community board gains a Founding Day countdown. The garden crop is visibly taller. The mural has colour. Festival supplies stack up in Cargo. Residents reference the previous day's conversations, so that the world remembers what the player did and said.
 
 ### Day Six — Accessibility in Practice
 
@@ -246,7 +246,7 @@ Education's mural is half finished and clearly a picture of Hearth itself. Hydro
 
 ### Day Five — Midday
 
-The midday Commons hums with plans. Iris finalizes the festival's shape with the committee. Rowan checks on Mira, who has been unusually insistent, in her own way, that something in the ship "sounds funny." The adults treat it as a child's imagination, kindly and without dismissal. The afternoon returns everyone to work.
+The midday Commons hums with plans. Iris finalises the festival's shape with the committee. Rowan checks on Mira, who has been unusually insistent, in her own way, that something in the ship "sounds funny." The adults treat it as a child's imagination, kindly and without dismissal. The afternoon returns everyone to work.
 
 ### Day Five — Evening and Night
 
@@ -258,7 +258,7 @@ On Day Five the anomaly reaches instruments and ears beyond a single sensor. Nav
 
 ### Day Five — Character Presence
 
-Elian gives the announcement and walks the day; Iris leads the festival committee; Gideon reviews routine reports; Naomi runs a scheduled readiness check. Rowan briefs Maintenance and quietly worries about Mira's certainty. Mara hears the drift and logs it alone. Samira holds clinic. Jonah organizes. Talia patrols the widening restricted zone. Soren gathers more anomalous data. Mira insists, in her own way, that the ship sounds wrong, and is gently reassured. Faience is still absent, but Mira's insistence is the first time anyone aboard listens hard for something they cannot name.
+Elian gives the announcement and walks the day; Iris leads the festival committee; Gideon reviews routine reports; Naomi runs a scheduled readiness check. Rowan briefs Maintenance and quietly worries about Mira's certainty. Mara hears the drift and logs it alone. Samira holds clinic. Jonah organises. Talia patrols the widening restricted zone. Soren gathers more anomalous data. Mira insists, in her own way, that the ship sounds wrong, and is gently reassured. Faience is still absent, but Mira's insistence is the first time anyone aboard listens hard for something they cannot name.
 
 ### Day Five — The Sound of the Day
 
@@ -270,7 +270,7 @@ The countdown board reads five days. The mural is recognizably Hearth. The garde
 
 ### Day Five — Accessibility in Practice
 
-Accessibility remains ordinary. Notably, it is Mira's different way of perceiving the world, and the crew's habit of listening to her rather than correcting her, that first gives voice to the anomaly at all. The ship's willingness to take a disabled child seriously is, quietly, the first line of its defense, even though no one recognizes it as such.
+Accessibility remains ordinary. Notably, it is Mira's different way of perceiving the world, and the crew's habit of listening to her rather than correcting her, that first gives voice to the anomaly at all. The ship's willingness to take a disabled child seriously is, quietly, the first line of its defence, even though no one recognises it as such.
 
 ### Day Five — Cross-Perspective Anchor Scenes
 
@@ -296,7 +296,7 @@ At 06:30 Elian speaks on the theme of responsibility:
 
 ### Day Four — Morning Routines Across Hearth
 
-The decks wake into festival anticipation now at full strength. Children rehearse songs. The commute is cheerful. The Commons fills, and the celebration frames at its center are nearly built.
+The decks wake into festival anticipation now at full strength. Children rehearse songs. The commute is cheerful. The Commons fills, and the celebration frames at its centre are nearly built.
 
 ### Day Four — The Working Departments
 
@@ -322,7 +322,7 @@ On Day Four multiple departments begin, quietly and independently, to compare ob
 
 ### Day Four — Character Presence
 
-Elian gives the announcement and walks the day; Iris finalizes the festival program; Gideon notices the faint pattern in the reports; Naomi keeps readiness current. Rowan leads the player through the hidden routes of the ship and checks on Mira. Mara compares her drift with a colleague. Samira holds clinic. Jonah organizes the festival logistics. Talia escorts a Research request. Soren connects his data to Engineering's rumor. Mira stops mentioning the sound. Faience remains absent, and the ship has quietly stopped listening for the thing Mira heard.
+Elian gives the announcement and walks the day; Iris finalises the festival program; Gideon notices the faint pattern in the reports; Naomi keeps readiness current. Rowan leads the player through the hidden routes of the ship and checks on Mira. Mara compares her drift with a colleague. Samira holds clinic. Jonah organises the festival logistics. Talia escorts a Research request. Soren connects his data to Engineering's rumour. Mira stops mentioning the sound. Faience remains absent, and the ship has quietly stopped listening for the thing Mira heard.
 
 ### Day Four — The Sound of the Day
 
@@ -334,7 +334,7 @@ The countdown board reads four days. The mural is nearly complete. The celebrati
 
 ### Day Four — Accessibility in Practice
 
-Accessibility remains ordinary throughout. The quiet tragedy of Day Four is an accessibility failure that the ship does not recognize as one: a disabled child perceived something real, was gently not believed, and learned to stop saying it. The canon does not moralize about this. It simply records that Mira was right and was not heard.
+Accessibility remains ordinary throughout. The quiet tragedy of Day Four is an accessibility failure that the ship does not recognise as one: a disabled child perceived something real, was gently not believed, and learned to stop saying it. The canon does not moralise about this. It simply records that Mira was right and was not heard.
 
 ### Day Four — Cross-Perspective Anchor Scenes
 
@@ -402,7 +402,7 @@ The emergency response is a portrait of accessibility as ordinary competence. Sa
 
 ### Day Three — Cross-Perspective Anchor Scenes
 
-The Day Three anchors are the 06:30 announcement, the midday Commons, and, uniquely, the little emergency, which every profession experiences from its own angle: Maintenance frees the child, Medical stands ready, Security clears the route, Command coordinates, and Civilian perspectives watch a neighbor's child be saved. The cross-department anomaly meeting is a further anchor for the Engineer, Scientist, and Command perspectives.
+The Day Three anchors are the 06:30 announcement, the midday Commons, and, uniquely, the little emergency, which every profession experiences from its own angle: Maintenance frees the child, Medical stands ready, Security clears the route, Command coordinates, and Civilian perspectives watch a neighbour's child be saved. The cross-department anomaly meeting is a further anchor for the Engineer, Scientist, and Command perspectives.
 
 ### Day Three — Purpose, Goals, and End State
 
@@ -424,7 +424,7 @@ At 06:30 Elian speaks on the theme of memory:
 
 ### Day Two — Morning Routines Across Hearth
 
-The decks wake into near-festival fervor. Children can barely be kept to their routines. The commute is joyful. The Commons gathers around a celebration space fully dressed for the coming day.
+The decks wake into near-festival fervour. Children can barely be kept to their routines. The commute is joyful. The Commons gathers around a celebration space fully dressed for the coming day.
 
 ### Day Two — The Working Departments
 
@@ -438,7 +438,7 @@ Education holds its last full school day before the festival, and the children's
 
 ### Day Two — Midday
 
-The midday Commons is nearly a celebration in itself. Iris announces the finalized program. Rowan checks on Mira, who is entirely swept up in festival excitement now, the frightening morning of Day Three already a fading memory. The afternoon returns everyone to work, though the whole ship is leaning toward the day after tomorrow.
+The midday Commons is nearly a celebration in itself. Iris announces the finalised program. Rowan checks on Mira, who is entirely swept up in festival excitement now, the frightening morning of Day Three already a fading memory. The afternoon returns everyone to work, though the whole ship is leaning toward the day after tomorrow.
 
 ### Day Two — Evening and Night
 
@@ -450,7 +450,7 @@ On Day Two the evidence grows but remains insufficient for any conclusion. The p
 
 ### Day Two — Character Presence
 
-Elian gives the announcement and walks the day; Iris announces the festival program; Gideon asks to join the coming meeting; Naomi keeps readiness current. Rowan briefs Maintenance and shares Mira's excitement. Mara confirms the drift is consistent. Samira holds clinic. Jonah organizes the festival's logistics. Talia patrols. Soren helps arrange the interdisciplinary meeting. Mira is joyfully lost in festival anticipation. Faience remains absent, a silence about to be broken by something no one is expecting.
+Elian gives the announcement and walks the day; Iris announces the festival program; Gideon asks to join the coming meeting; Naomi keeps readiness current. Rowan briefs Maintenance and shares Mira's excitement. Mara confirms the drift is consistent. Samira holds clinic. Jonah organises the festival's logistics. Talia patrols. Soren helps arrange the interdisciplinary meeting. Mira is joyfully lost in festival anticipation. Faience remains absent, a silence about to be broken by something no one is expecting.
 
 ### Day Two — The Sound of the Day
 
@@ -482,9 +482,9 @@ At 05:30 the night shift hands over for the last time. The overnight teams compl
 
 ### Day One — The Morning Announcement
 
-At 06:30 the two-tone claxon sounds for the last time, and Captain Elian of the Vale System gives the last morning announcement anyone aboard Hearth will ever hear, on the theme of civilization:
+At 06:30 the two-tone claxon sounds for the last time, and Captain Elian of the Vale System gives the last morning announcement anyone aboard Hearth will ever hear, on the theme of civilisation:
 
-"Good morning, everyone. This is Captain Elian of the Vale System. It is now 0630 Ship Standard Time. Tomorrow is Founding Day. Tomorrow we celebrate the simple, impossible thing we have made together out here in the dark: a civilization. Not a ship, a civilization, with schools and gardens and songs and neighbors and a place set at the table for everyone. Whatever you do today, do it knowing that this, all of this, is what people dreamed of when they first looked up. We are the dream. Rest well tonight. Tomorrow, we celebrate what we are. Morning shift begins in thirty minutes. Have a good morning, everyone."
+"Good morning, everyone. This is Captain Elian of the Vale System. It is now 0630 Ship Standard Time. Tomorrow is Founding Day. Tomorrow we celebrate the simple, impossible thing we have made together out here in the dark: a civilisation. Not a ship, a civilisation, with schools and gardens and songs and neighbours and a place set at the table for everyone. Whatever you do today, do it knowing that this, all of this, is what people dreamed of when they first looked up. We are the dream. Rest well tonight. Tomorrow, we celebrate what we are. Morning shift begins in thirty minutes. Have a good morning, everyone."
 
 This is the announcement the timeline is built to make devastating. On first hearing it is warm and hopeful. After the player has finished Operation One, it becomes almost unbearable, because tomorrow never comes, the celebration never happens, and this is the last time Elian's voice ever fills the corridors of Hearth.
 
@@ -506,7 +506,7 @@ The midday Commons is the warmest moment of the entire week. The celebration spa
 
 ### Day One — Evening and Night
 
-The evening of Day One is the emotional summit of Operation One's ordinary life. There is music everywhere. The gardens are full. Worship is joyful. Families make plans for a tomorrow they are certain will come. Neighbors who were strangers on Day Seven say goodnight as friends. Slowly, happily, the ship goes to bed early, to be rested for Founding Day. By 22:00 Hearth is quiet, full, and hopeful. The last night shift takes its posts. The interdisciplinary meeting waits for morning. So does the anomaly.
+The evening of Day One is the emotional summit of Operation One's ordinary life. There is music everywhere. The gardens are full. Worship is joyful. Families make plans for a tomorrow they are certain will come. Neighbours who were strangers on Day Seven say goodnight as friends. Slowly, happily, the ship goes to bed early, to be rested for Founding Day. By 22:00 Hearth is quiet, full, and hopeful. The last night shift takes its posts. The interdisciplinary meeting waits for morning. So does the anomaly.
 
 ### Day One — The Anomaly
 
@@ -514,11 +514,11 @@ On Day One the anomaly does only one thing: it becomes the subject of a meeting 
 
 ### Day One — Character Presence
 
-Elian gives the last announcement and walks the last ordinary day; Iris readies the festival; Gideon confirms tomorrow's meeting; Naomi, unknowingly, spends the last quiet day before she will be needed most. Rowan finishes his checks and shares the meal with Mira. Mara confirms the ship is ready and plans to bring her drift data to the morning meeting. Samira prepares Medical for a festival. Jonah organizes the celebration logistics. Talia plans the crowd flow. Soren readies his anomaly data for the meeting. Mira spends a perfect eve-of-festival day with her father and her friends. Faience remains absent for one more night, the last night the ship is whole.
+Elian gives the last announcement and walks the last ordinary day; Iris readies the festival; Gideon confirms tomorrow's meeting; Naomi, unknowingly, spends the last quiet day before she will be needed most. Rowan finishes his checks and shares the meal with Mira. Mara confirms the ship is ready and plans to bring her drift data to the morning meeting. Samira prepares Medical for a festival. Jonah organises the celebration logistics. Talia plans the crowd flow. Soren readies his anomaly data for the meeting. Mira spends a perfect eve-of-festival day with her father and her friends. Faience remains absent for one more night, the last night the ship is whole.
 
 ### Day One — The Sound of the Day
 
-The soundscape of Day One is the richest, warmest, and most crowded of the week, a whole civilization audibly happy on the eve of its celebration. The anomalous note is still there beneath it, but the joy is so total that even an attentive player may let themselves stop hearing it. That is deliberate. The timeline wants the player, like the crew, to be looking the other way when morning comes.
+The soundscape of Day One is the richest, warmest, and most crowded of the week, a whole civilisation audibly happy on the eve of its celebration. The anomalous note is still there beneath it, but the joy is so total that even an attentive player may let themselves stop hearing it. That is deliberate. The timeline wants the player, like the crew, to be looking the other way when morning comes.
 
 ### Day One — Environmental Storytelling
 
@@ -526,7 +526,7 @@ The countdown board reads one day. The celebration space is finished and beautif
 
 ### Day One — Accessibility in Practice
 
-Accessibility is total and invisible on Day One. Tomorrow's festival is designed so that every resident could take full part. The eve-of-festival gatherings are already accessible to everyone present. On the last full day of Hearth's life, the ship is at its most completely inclusive, a finished portrait of the civilization Elian names in the morning announcement.
+Accessibility is total and invisible on Day One. Tomorrow's festival is designed so that every resident could take full part. The eve-of-festival gatherings are already accessible to everyone present. On the last full day of Hearth's life, the ship is at its most completely inclusive, a finished portrait of the civilisation Elian names in the morning announcement.
 
 ### Day One — Cross-Perspective Anchor Scenes
 
@@ -534,7 +534,7 @@ The Day One anchors are the final 06:30 announcement, heard shipwide, and the mi
 
 ### Day One — Purpose, Goals, and End State
 
-The narrative purpose of Day One is to raise ordinary life to its absolute peak so that its loss is total. Its gameplay purpose is to give the player one last, unpressured day fully at home in a ship they now know by sound. Its emotional goal is joy so complete that it becomes grief in memory. The end state of Day One is a sleeping, hopeful, finished civilization, one night from a celebration, one night from the attack, entirely unaware that it has just lived its last ordinary day.
+The narrative purpose of Day One is to raise ordinary life to its absolute peak so that its loss is total. Its gameplay purpose is to give the player one last, unpressured day fully at home in a ship they now know by sound. Its emotional goal is joy so complete that it becomes grief in memory. The end state of Day One is a sleeping, hopeful, finished civilisation, one night from a celebration, one night from the attack, entirely unaware that it has just lived its last ordinary day.
 
 ## Attack Day
 
@@ -550,7 +550,7 @@ By 06:00 the earliest festival volunteers are awake and moving. Bakers in the Co
 
 At 06:30 the two-tone claxon sounds. Captain Elian of the Vale System begins the Founding Day morning announcement, warm and joyful, wishing the ship a happy Founding Day.
 
-At 06:32, partway through Elian's words, the anomaly stops being a mystery. Every instrument that had held a fragment of it registers the same thing at once. The announcement stops mid-sentence. For a few seconds there is only the open channel and the sound of the bridge realizing what it is seeing. It is the last time the ship hears Elian's daily voice.
+At 06:32, partway through Elian's words, the anomaly stops being a mystery. Every instrument that had held a fragment of it registers the same thing at once. The announcement stops mid-sentence. For a few seconds there is only the open channel and the sound of the bridge realising what it is seeing. It is the last time the ship hears Elian's daily voice.
 
 ### Attack Day — First Contact With the Phenomenon
 
@@ -579,7 +579,7 @@ From 06:35 the timeline tracks every department at once.
 
 ### Attack Day — The Civilians and the Children
 
-From 06:37 the civilian evacuation is the heart of the tragedy and the proof of the ship's design. The accessible emergency systems built into every deck do exactly what they were built for. Haptic alarms, spoken and captioned instructions, accessible routes, and adaptive transport move a whole town toward the pods without leaving anyone behind for lack of a standard body. The civilization Elian named that morning is, in its last hour, still trying to save every single one of its members.
+From 06:37 the civilian evacuation is the heart of the tragedy and the proof of the ship's design. The accessible emergency systems built into every deck do exactly what they were built for. Haptic alarms, spoken and captioned instructions, accessible routes, and adaptive transport move a whole town toward the pods without leaving anyone behind for lack of a standard body. The civilisation Elian named that morning is, in its last hour, still trying to save every single one of its members.
 
 Mira Ives is with the other children when General Quarters sounds. Her teachers account for her. Rowan reaches her assembly point through the service corridors he knows better than anyone. For a moment, father and daughter are together in the chaos. Then the evacuation separates them, as it separates every primary member of the crew, each toward a different pod.
 
@@ -605,7 +605,7 @@ At the edge of the evacuation, in a damaged pod, the presence the player will co
 
 ### Attack Day — The Final Moments of CSV Hearth
 
-In the last minutes, with the pods away, CSV Hearth ends. The ship that carried a whole civilization, that woke every morning at 06:30 to Elian's voice, that remembered its people in the wear of its handrails, is lost with the celebration still hung in its Commons and the feast still warm in its galley. The registry CSV-0101-H goes silent. The single timeline of Hearth as a living home ends here.
+In the last minutes, with the pods away, CSV Hearth ends. The ship that carried a whole civilisation, that woke every morning at 06:30 to Elian's voice, that remembered its people in the wear of its handrails, is lost with the celebration still hung in its Commons and the feast still warm in its galley. The registry CSV-0101-H goes silent. The single timeline of Hearth as a living home ends here.
 
 ### Attack Day — The Player Wakes Alone
 
@@ -625,16 +625,16 @@ Perspective changes. Knowledge changes. History does not.
 
 ## Relationship to Other Documents
 
-This timeline is the chronological spine beneath the rest of the canon and should remain synchronized with the following documents whenever any of them changes.
+This timeline is the chronological spine beneath the rest of the canon and should remain synchronised with the following documents whenever any of them changes.
 
 - docs/03_Campaign_Bible.md, which defines the franchise, the perspective system, and the seven-chapter shape of Operation One.
 - docs/design_notes/operation_one_exodus_maintenance_chapter_one.md, which lives Day Seven through Attack Day from the maintenance perspective and whose forward scene-day labels are reconciled with this document above.
 - docs/design_notes/operation_one_exodus_maintenance_chapter_two.md, which begins at the exact moment this timeline ends.
 - docs/design_notes/crew_progression_system.md, which defines how the scattered crew, once found, change the player's home.
 - docs/design_notes/operation_one_exodus_perspective_map.md, which defines how each profession experiences these identical events.
-- docs/design_notes/operation_one_exodus_character_schedule.md, which defines the individual daily routines summarized here.
+- docs/design_notes/operation_one_exodus_character_schedule.md, which defines the individual daily routines summarised here.
 - docs/11_Decision_Log.md, which records the decisions that produced this timeline.
 - For the definitive rules on sound, music, and acoustic identity, see the Audio Bible in docs/07_Audio_Bible.md.
 - For the definitive accessibility standards, see the Accessibility Bible in docs/08_Accessibility_Bible.md.
 - For character recognition, presentation, everyday carry, identity badges, and avatar rules, see the Player Identity and Character Presentation Bible in docs/presentation_bible/ (index at docs/presentation_bible/README.md).
-- For species and civilization rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
+- For species and civilisation rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.

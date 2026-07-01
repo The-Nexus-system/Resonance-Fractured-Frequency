@@ -31,7 +31,7 @@ Faience remembers the things that make the player feel remembered.
 - Control profile
 - Environmental profiles
 
-The player's archive belongs to the player. Saves are local-first, with optional encrypted cloud synchronization and optional cross-platform synchronization. Faience learns preferences over time but never locks the player into a fixed profile.
+The player's archive belongs to the player. Saves are local-first, with optional encrypted cloud synchronisation and optional cross-platform synchronisation. Faience learns preferences over time but never locks the player into a fixed profile.
 
 ## Orientation layer
 

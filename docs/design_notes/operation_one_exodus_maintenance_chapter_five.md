@@ -16,9 +16,9 @@ Why was it preserved for us?
 
 ## Purpose
 
-Chapter Five marks the player's first encounter with unmistakably non-human civilization.
+Chapter Five marks the player's first encounter with unmistakably non-human civilisation.
 
-Until now every mystery has existed within humanity. Beginning with Chapter Five, the player begins uncovering a civilization that predates humanity's arrival.
+Until now every mystery has existed within humanity. Beginning with Chapter Five, the player begins uncovering a civilisation that predates humanity's arrival.
 
 The player does not meet living Shawabti. The player meets their legacy.
 
@@ -39,7 +39,7 @@ The chapter introduces archaeology, translation, environmental interpretation, a
 - Archaeology.
 - Translation.
 - Environmental puzzles.
-- Artifact interaction.
+- Artefact interaction.
 - Historical reconstruction.
 - Ethical decision making.
 - Scientific investigation.
@@ -107,13 +107,13 @@ The player chooses a primary advisor. Every advisor changes interpretation. Not 
   - Focus: biological safety. She evaluates whether the location could threaten the crew.
   - Future benefit: improved environmental hazard detection.
 - Choose Jonah:
-  - Focus: mission planning. He organizes a systematic survey before entering.
+  - Focus: mission planning. He organises a systematic survey before entering.
   - Future benefit: additional mapped areas.
 - Choose Talia:
   - Focus: security. She assumes nothing is safe.
   - Future benefit: additional hazard warnings.
 - Choose Soren:
-  - Focus: scientific curiosity. He immediately recognizes the signal is mathematical rather than random.
+  - Focus: scientific curiosity. He immediately recognises the signal is mathematical rather than random.
   - Future benefit: additional research opportunities.
 - Choose Mira:
   - Focus: curiosity. She notices simple patterns adults overlook.
@@ -127,7 +127,7 @@ The player chooses a primary advisor. Every advisor changes interpretation. Not 
 - Archaeological expeditions.
 - Translation preparation.
 - Scientific interpretation.
-- Expedition specialization.
+- Expedition specialisation.
 - Environmental mystery.
 - Collaborative investigation.
 
@@ -145,7 +145,7 @@ Instead there is a single structure. Perfectly intact. Waiting. It has been wait
 
 ### Part Two — Purpose
 
-Teach the player that exploration changes when entering another civilization. Human technology solved problems. Shawabti technology asks questions.
+Teach the player that exploration changes when entering another civilisation. Human technology solved problems. Shawabti technology asks questions.
 
 The player must slow down. Observe. Listen. Learn. The station cannot rush this discovery. Neither should the player.
 
@@ -155,7 +155,7 @@ The structure appears untouched. No blast damage. No decay. No emergency lightin
 
 The signal originated from this structure. As the player approaches, the repeating signal changes. It begins responding to proximity. Not randomly. Intentionally.
 
-The player realizes the structure is aware that someone has arrived. Not who. Simply that someone is present.
+The player realises the structure is aware that someone has arrived. Not who. Simply that someone is present.
 
 ### Part Two — Gameplay Purpose
 
@@ -168,7 +168,7 @@ Introduce:
 - Resonance interaction.
 - Ethical exploration.
 
-The player learns that entering unknown civilizations follows different rules than exploring human wreckage.
+The player learns that entering unknown civilisations follows different rules than exploring human wreckage.
 
 ### Part Two — Exploration Philosophy
 
@@ -271,7 +271,7 @@ The player should begin feeling awe rather than excitement. Everything here feel
 
 After sufficient observation, the repeating signal changes once more. For the first time, the structure answers the player. Not with words. Not with lights. With resonance.
 
-The harmonic tones produced by the structure slowly align with one another. The player realizes something extraordinary. The structure is not opening because they solved a puzzle. It is opening because they took the time to observe before acting.
+The harmonic tones produced by the structure slowly align with one another. The player realises something extraordinary. The structure is not opening because they solved a puzzle. It is opening because they took the time to observe before acting.
 
 A previously invisible doorway gradually becomes accessible. No alarms sound. No dramatic music plays. The structure simply welcomes the player inside.
 
@@ -279,9 +279,9 @@ A previously invisible doorway gradually becomes accessible. No alarms sound. No
 
 ### Part Three — Purpose
 
-Teach the player that Shawabti technology responds to understanding rather than force. Teach the player that this civilization valued cooperation, accessibility, and shared knowledge.
+Teach the player that Shawabti technology responds to understanding rather than force. Teach the player that this civilisation valued cooperation, accessibility, and shared knowledge.
 
-The player should never feel as though they are "beating" an alien puzzle. Instead, they should feel they are learning how another civilization thought.
+The player should never feel as though they are "beating" an alien puzzle. Instead, they should feel they are learning how another civilisation thought.
 
 ### Part Three — Narrative Purpose
 
@@ -313,7 +313,7 @@ Instead the player encounters:
 - Gentle harmonic tones.
 - Walls that subtly respond as people move nearby.
 
-Nothing appears decorative without purpose. Everything appears functional. The player should immediately understand that this civilization solved problems differently.
+Nothing appears decorative without purpose. Everything appears functional. The player should immediately understand that this civilisation solved problems differently.
 
 ### Part Three — Accessibility Philosophy
 
@@ -342,7 +342,7 @@ The player notices that the structure seems to work for everyone. They do not ye
 - Immediate result: scientific data increases.
 - Future effect:
   - The player gathers useful measurements.
-  - Several environmental behaviors remain unexplained.
+  - Several environmental behaviours remain unexplained.
   - Soren later comments that numbers alone cannot explain everything.
 
 #### Choice C: Interact with nearby structures
@@ -364,19 +364,19 @@ The player notices that the structure seems to work for everyone. They do not ye
 
 ### First Resonance Chamber
 
-The center of the room contains a circular structure. It emits no visible light. Instead it produces layered harmonic frequencies. Each crew member experiences the chamber differently.
+The centre of the room contains a circular structure. It emits no visible light. Instead it produces layered harmonic frequencies. Each crew member experiences the chamber differently.
 
 - Rowan notices structural perfection. Nothing bears signs of repair. Nothing has ever failed.
   - Player learns: the Shawabti designed systems expected to last.
 - Mara hears harmonics no human engineering should produce. She asks everyone to remain still. As movement stops, additional harmonics become audible.
   - Player learns: stillness reveals information, and silence is an active tool.
-- Samira notices everyone's stress slowly decreasing. Breathing slows. Heart rates normalize.
+- Samira notices everyone's stress slowly decreasing. Breathing slows. Heart rates normalise.
   - Player learns: architecture can support wellbeing, and buildings can care for people.
-- Jonah begins documenting every observation. He soon realizes everyone is describing the same room differently.
+- Jonah begins documenting every observation. He soon realises everyone is describing the same room differently.
   - Player learns: multiple perspectives create better records.
 - Talia notices the complete absence of defensive architecture. No weapons. No barricades. No security checkpoints.
   - Player learns: trust may itself be infrastructure.
-- Soren recognizes repeating mathematical relationships within the harmonic patterns.
+- Soren recognises repeating mathematical relationships within the harmonic patterns.
   - Player learns: knowledge exists beyond language.
 - Mira quietly walks toward one section of the room. She notices tiny changes everyone else missed. The harmonics slightly change whenever she moves.
   - Player learns: curiosity reveals hidden interactions.
@@ -421,7 +421,7 @@ For the first time, the player sees the Shawabti. They are alive. They are speak
 
 ### Part Four — Purpose
 
-Teach the player that history is experienced. Not collected. The player does not watch a historical recording. The player walks through a preserved moment in Shawabti civilization.
+Teach the player that history is experienced. Not collected. The player does not watch a historical recording. The player walks through a preserved moment in Shawabti civilisation.
 
 The reconstruction is not interactive. It does not acknowledge the player's presence. The player is an observer. Nothing more.
 
@@ -431,7 +431,7 @@ The resonance chamber expands. Walls dissolve into an enormous living environmen
 
 The reconstruction is perfect. Every movement. Every sound. Every conversation. Every detail.
 
-The player realizes this is not a recording. It is a living reconstruction generated from resonance preserved within the structure itself.
+The player realises this is not a recording. It is a living reconstruction generated from resonance preserved within the structure itself.
 
 ### Part Four — Gameplay Purpose
 
@@ -513,13 +513,13 @@ Every preserved memory remains reviewable. Players may replay observations, requ
 
 ### Part Four — Emotional Goal
 
-The player should begin grieving a civilization they never knew. Not because it was perfect. Because it was alive.
+The player should begin grieving a civilisation they never knew. Not because it was perfect. Because it was alive.
 
 ### Part Four — End Condition
 
 As the reconstruction fades, one Shawabti quietly turns. Not toward the player. Toward something beyond the reconstruction.
 
-For the first time, the player realizes the memory may not be entirely passive. Something within the structure is still responding.
+For the first time, the player realises the memory may not be entirely passive. Something within the structure is still responding.
 
 ## Part Five: Resonance
 
@@ -537,7 +537,7 @@ The structure has not been evaluating intelligence. It has not been evaluating t
 
 ### Part Five — Gameplay Purpose
 
-Teach that civilization is measured by behavior. Not power. The player's previous choices throughout Chapter Five influence how the structure responds. No response is considered failure. Every response acknowledges the player's approach.
+Teach that civilisation is measured by behaviour. Not power. The player's previous choices throughout Chapter Five influence how the structure responds. No response is considered failure. Every response acknowledges the player's approach.
 
 ### Evaluation Categories
 
@@ -556,9 +556,9 @@ These values are never shown as scores. The player understands them only through
 
 ### Final Player Decision
 
-Before leaving, the player discovers a single preserved Shawabti artifact. The artifact is perfectly intact. No explanation accompanies it. The player must decide how the community responds.
+Before leaving, the player discovers a single preserved Shawabti artefact. The artefact is perfectly intact. No explanation accompanies it. The player must decide how the community responds.
 
-#### Choice A: Leave the artifact untouched
+#### Choice A: Leave the artefact untouched
 
 - Immediate result: nothing physical leaves the chamber.
 - Future effect:
@@ -566,9 +566,9 @@ Before leaving, the player discovers a single preserved Shawabti artifact. The a
   - Additional resonance pathways unlock naturally.
   - The crew discusses preservation ethics.
 
-#### Choice B: Recover the artifact
+#### Choice B: Recover the artefact
 
-- Immediate result: the artifact returns to the station.
+- Immediate result: the artefact returns to the station.
 - Future effect:
   - Engineering and scientific research accelerate.
   - Future Shawabti structures respond more cautiously until trust is rebuilt.
@@ -580,7 +580,7 @@ Before leaving, the player discovers a single preserved Shawabti artifact. The a
 - Future effect:
   - Translation develops sooner.
   - Technology develops more gradually.
-  - The community emphasizes understanding before application.
+  - The community emphasises understanding before application.
 
 #### Choice D: Ask the crew before deciding
 
@@ -623,7 +623,7 @@ The player has spent the chapter observing. Listening. Comparing perspectives. S
 
 The resonance chamber responds one final time. Not because the player solved a puzzle. Because the player demonstrated understanding.
 
-The structure recognizes that the player has begun learning Resonance. The chamber does not grant permission. It begins a relationship.
+The structure recognises that the player has begun learning Resonance. The chamber does not grant permission. It begins a relationship.
 
 ### Part Six — Gameplay Purpose
 
@@ -632,7 +632,7 @@ Introduce the permanent gameplay systems that define the remainder of Resonance.
 - Resonance Interaction.
 - Resonance Mapping.
 - Translation Progression.
-- Artifact Attunement.
+- Artefact Attunement.
 - Multi-perspective Interpretation.
 - Collaborative Resonance.
 - Resonance Logs.
@@ -776,7 +776,7 @@ These are never displayed as numerical scores. They quietly influence:
 - Optional missions.
 - Historical interpretation.
 
-The player is never told they played correctly. The world simply remembers how they chose to build civilization. The player does not become good or bad. The player becomes known for how they think.
+The player is never told they played correctly. The world simply remembers how they chose to build civilisation. The player does not become good or bad. The player becomes known for how they think.
 
 This system builds directly upon the values the resonance chamber evaluated in Part Five. The structure's evaluation of the player's approach becomes the first entry in a record that continues across every future expedition.
 
@@ -785,11 +785,11 @@ This system builds directly upon the values the resonance chamber evaluated in P
 Every crew member responds differently to learning Resonance.
 
 - Rowan begins wondering how impossible engineering became possible.
-- Mara recognizes that architecture itself communicates.
-- Samira realizes environments may actively promote wellbeing.
+- Mara recognises that architecture itself communicates.
+- Samira realises environments may actively promote wellbeing.
 - Jonah begins documenting patterns rather than isolated events.
 - Talia questions whether trust can become infrastructure.
-- Soren recognizes Resonance as an entirely new scientific discipline.
+- Soren recognises Resonance as an entirely new scientific discipline.
 - Mira smiles because she believed the building was "trying to talk" from the beginning.
 - The Vale System concludes that no individual understands Resonance completely. Only communities can.
 
@@ -805,7 +805,7 @@ Completing Chapter Five permanently unlocks:
 
 - Resonance Interfaces.
 - Translation Progression.
-- Artifact Attunement.
+- Artefact Attunement.
 - Resonance Mapping.
 - Collaborative Interpretation.
 - Resonance Logs.
@@ -816,13 +816,13 @@ These mechanics remain active throughout the remainder of the franchise.
 
 ### Part Six — Emotional Goal
 
-The player should leave feeling changed. Not because they discovered alien technology. Because they discovered another way of understanding civilization.
+The player should leave feeling changed. Not because they discovered alien technology. Because they discovered another way of understanding civilisation.
 
 ### Chapter Five Final State
 
 The player no longer sees Shawabti structures as ruins. They see them as conversations waiting to continue.
 
-The community returns home carrying far more than artifacts. They return carrying new ways of thinking.
+The community returns home carrying far more than artefacts. They return carrying new ways of thinking.
 
 As the expedition concludes, Faience quietly repeats another Shawabti phrase. This time the resonance chamber responds immediately. Not to the player. Not to the crew. To Faience.
 
@@ -834,4 +834,4 @@ End Chapter Five.
 
 - For the definitive rules on sound, music, and acoustic identity, see the Audio Bible in docs/07_Audio_Bible.md.
 - For the definitive accessibility standards, see the Accessibility Bible in docs/08_Accessibility_Bible.md.
-- For species and civilization rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
+- For species and civilisation rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.

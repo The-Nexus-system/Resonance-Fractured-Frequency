@@ -13,7 +13,7 @@ Accessibility in Resonance is standard equipment, not special equipment. The pre
 These principles apply to every section that follows.
 
 - Accessibility is foundational, so it is never framed as inspirational, tragic, or exceptional. A character using an access method is simply a person living their life.
-- Recognition emerges through observation and lived experience, not intrusive interface labels. Access methods are part of how the player learns to recognize a character, not a badge the interface announces.
+- Recognition emerges through observation and lived experience, not intrusive interface labels. Access methods are part of how the player learns to recognise a character, not a badge the interface announces.
 - Every important piece of information reaches the player through more than one channel, so no player is excluded by their own access needs.
 - Access methods are presented as competence, not limitation. The camera, the microphone, the caption, and the haptic pattern all treat the method as effective and complete.
 - Characters accommodate one another as an ordinary part of the world, without praise, permission, or spectacle.
@@ -44,19 +44,19 @@ Blind-first description is the discipline of describing people, places, and even
 ### Principles of Blind-First Description
 
 - Lead with what can be heard, felt, and inferred, then add visual detail as enrichment rather than as the load-bearing information.
-- Describe function and behavior before surface appearance. What a person is doing and how they move tells the player more than what color something is.
-- Prioritize the information the player needs to act. Spatial relationships, distance, direction, and change over time come first.
+- Describe function and behaviour before surface appearance. What a person is doing and how they move tells the player more than what colour something is.
+- Prioritise the information the player needs to act. Spatial relationships, distance, direction, and change over time come first.
 - Keep descriptions concrete and specific. Replace vague visual adjectives with sound, motion, texture, temperature, and rhythm.
 - Never require sight to resolve a puzzle, identify a character, or understand a story beat. If a beat currently depends on sight, it must be re-authored to carry through sound or touch.
 
 ### Blind-First Description of Characters
 
-Characters are recognized through observation. Blind-first description gives the non-visual player the same recognition signals a sighted player receives, expressed through channels that do not depend on sight.
+Characters are recognised through observation. Blind-first description gives the non-visual player the same recognition signals a sighted player receives, expressed through channels that do not depend on sight.
 
 - Describe a character through voice, speech rhythm, movement, professional habits, environmental sound, and relationships, consistent with the recognition signals defined in canon.
 - For Mara Chen, the chief engineering systems specialist, present recognition through a sure, listening gait, the habit of describing systems as sounds, and the audio and tactile cues of her engineering helmet's navigation faceplate. Her blindness is presented as expertise expressed through sound and touch, never as helplessness.
 - For Samira Kade, the senior medical officer, present recognition through the soft mechanical whisper of her sleeve projector, her attentiveness to sight and vibration, and the visible rhythm of sign or text she projects. A blind-first description conveys her presence through the projector's sound and the responses of those around her.
-- For the members of the Vale System, present recognition through voice, accent, vocabulary, breathing, posture, gait, gesture, and priorities, because the body is constant and the presentation changes with whoever is fronting. A blind-first description must let the player recognize which member is fronting through these audible and behavioral cues rather than through appearance.
+- For the members of the Vale System, present recognition through voice, accent, vocabulary, breathing, posture, gait, gesture, and priorities, because the body is constant and the presentation changes with whoever is fronting. A blind-first description must let the player recognise which member is fronting through these audible and behavioural cues rather than through appearance.
 - For Talia Rusk, the security lead, present recognition through steady movement, the sound and rhythm of a prosthetic limb in motion, and a habit of placing herself between others and a threat.
 - For Soren Qadir, the senior research scientist, present recognition through the sound of a repulsor-assisted chair, a persistent investigative manner, and the way he refuses to leave until his team is away.
 - For Jonah Briggs, the senior non-commissioned officer, present recognition through a calm voice reading out priorities and a steady logistical cadence.
@@ -65,8 +65,8 @@ Characters are recognized through observation. Blind-first description gives the
 
 ### Blind-First Description of Spaces and Events
 
-- Establish the acoustic identity of a location first, so the player recognizes where they are by sound, consistent with the canon rule that every location has an acoustic identity.
-- Describe scale and enclosure through reverberation, echo, and the behavior of sound in the space rather than through visual dimensions alone.
+- Establish the acoustic identity of a location first, so the player recognises where they are by sound, consistent with the canon rule that every location has an acoustic identity.
+- Describe scale and enclosure through reverberation, echo, and the behaviour of sound in the space rather than through visual dimensions alone.
 - Describe motion and danger through direction, distance, approach, and retreat, so the player can act without sight.
 - Use silence deliberately, as a storytelling tool that communicates emotion, danger, absence, distance, or anticipation, never as an absence of finished audio.
 
@@ -83,7 +83,7 @@ Audio-first description is the broader craft of building the world so that sound
 
 ### Audio Identity for Recurring Characters
 
-Every recurring character has an audio identity that lets the player recognize them without a label. The following are presentation anchors drawn from the locked identity facts; the detailed voice profiles live in each character's presentation profile.
+Every recurring character has an audio identity that lets the player recognise them without a label. The following are presentation anchors drawn from the locked identity facts; the detailed voice profiles live in each character's presentation profile.
 
 - Mara Chen is anchored by a listening gait and by the audio output of her navigation faceplate, which turns visual data into audio and tactile cues.
 - Samira Kade is anchored by the soft mechanical whisper of her sleeve projector, which shows sign or live text; her audio identity is defined partly by the sounds of her equipment rather than by her own speech.
@@ -96,7 +96,7 @@ Every recurring character has an audio identity that lets the player recognize t
 
 ### Faience and Audio-First Presentation
 
-Faience is a Shawabti artificial intelligence and stands outside human race, ethnicity, and gender. Faience is silent through Operation One and first stirs, wordlessly, in a damaged pod on Attack Day. Audio-first presentation must honor that silence.
+Faience is a Shawabti artificial intelligence and stands outside human race, ethnicity, and gender. Faience is silent through Operation One and first stirs, wordlessly, in a damaged pod on Attack Day. Audio-first presentation must honour that silence.
 
 - Through Operation One, Faience contributes no spoken audio identity. The world is carried by human voices, environmental sound, and silence.
 - Faience's first stirring is wordless. It is presented through sound and sensation rather than language, and its meaning must reach the player through more than one channel.
@@ -119,7 +119,7 @@ Captions are a primary output channel, not a courtesy. They must convey everythi
 Captions for the Vale System require special care, because the body is one person and the fronting member changes. Captions must never present the members as four separate people and must never invent a single name such as "Captain Mara Vale".
 
 - Speaker identification in captions uses the name the currently fronting member answers to, consistent with the personal identifiers that update automatically as ordinary ship operations.
-- Before the player has learned to recognize a member, captions may identify the speaker by the constant office rather than by a member name, so that recognition still emerges through observation rather than through the caption doing the work.
+- Before the player has learned to recognise a member, captions may identify the speaker by the constant office rather than by a member name, so that recognition still emerges through observation rather than through the caption doing the work.
 - Captions reflect the audible differences between members, such as changes in vocabulary and speech rhythm, without adding narration that explains the switch. The switch is shown, not announced.
 - Captions never contradict the canon that the body is constant and the presentation changes.
 
@@ -135,23 +135,23 @@ Some recurring characters communicate through channels other than spoken voice, 
 
 - Captions use high-contrast, resizable text with adjustable background opacity so they remain legible against any scene.
 - Caption placement avoids obscuring information the player needs, and speaker labels remain consistent in position and style.
-- Captions never depend on color alone to convey speaker identity or meaning, because color is not available to every player.
+- Captions never depend on colour alone to convey speaker identity or meaning, because colour is not available to every player.
 
 ## Braille Descriptions
 
-Braille output is a first-class communication channel. Braille display support is enabled when available, and it is automatically prioritized for players who use no auditory input, including DeafBlind players. Braille is not a transcript of captions; it is authored so that a braille reader receives complete, well-paced information.
+Braille output is a first-class communication channel. Braille display support is enabled when available, and it is automatically prioritised for players who use no auditory input, including DeafBlind players. Braille is not a transcript of captions; it is authored so that a braille reader receives complete, well-paced information.
 
 ### Principles of Braille Description
 
 - Braille output conveys the same meaning as speech and captions, including speaker identity, tone where it changes meaning, and meaningful non-speech events.
-- Braille is paced for reading by touch. Information is prioritized and sequenced so the most important content reaches the reader first.
+- Braille is paced for reading by touch. Information is prioritised and sequenced so the most important content reaches the reader first.
 - Braille descriptions avoid visual-only shorthand and translate visual cues into descriptions a braille reader can act on.
 - Braille output respects the reader's control over verbosity, so a reader can request more or less detail without losing essential information.
 
 ### Braille Description of Characters and Recognition
 
 - Braille recognition of a character follows the same observation-based signals as other channels, expressed as concise, readable descriptions of voice character, movement, habits, and relationships.
-- For the Vale System, braille descriptions identify the fronting member by the name they currently answer to and convey the behavioral differences between members, without ever presenting them as separate people.
+- For the Vale System, braille descriptions identify the fronting member by the name they currently answer to and convey the behavioural differences between members, without ever presenting them as separate people.
 - Braille descriptions of access methods present them as ordinary equipment, in the same neutral register used for uniforms and tools.
 
 ### Braille Description of Spaces and Events
@@ -173,7 +173,7 @@ Tactile information is an authored communication channel with its own deliberate
 
 ### Tactile Presentation of Characters and Environments
 
-- Tactile cues can encode the direction and distance of a recognized character, supporting recognition through movement even for players who use touch as a primary channel.
+- Tactile cues can encode the direction and distance of a recognised character, supporting recognition through movement even for players who use touch as a primary channel.
 - Tactile cues encode environmental identity and hazards, so a location's danger and layout can be felt as well as heard.
 - Tactile cues for access equipment, such as the operation of a navigation faceplate, are presented as ordinary feedback, consistent with accessibility as standard equipment.
 
@@ -186,19 +186,19 @@ Some characters in the fiction use tactile and haptic technology as part of thei
 
 ## Sign-Language Animation
 
-Sign language is a full language, and its animation must be authored with the same rigor as spoken dialogue. Sign language appears in the world, notably through Samira Kade, whose communication includes sign shown through her sleeve projector, and potentially between any characters who share it.
+Sign language is a full language, and its animation must be authored with the same rigour as spoken dialogue. Sign language appears in the world, notably through Samira Kade, whose communication includes sign shown through her sleeve projector, and potentially between any characters who share it.
 
 ### Principles of Sign-Language Animation
 
 - Sign is animated as language, with accurate handshapes, movement, and the non-manual markers, such as facial expression and posture, that carry grammar and meaning.
 - Sign animation is authored with expert input from fluent signers and, where a specific sign language is depicted, from members of that language's community. This document does not assign a specific sign language; that choice is made with community expertise.
 - Sign is never reduced to generic gesturing or decorative hand motion. Incorrect or invented signing is not acceptable placeholder content.
-- Non-manual markers are animated with the same care as the hands, because facial expression, eye behavior, and posture are grammatically essential, not optional flourish.
+- Non-manual markers are animated with the same care as the hands, because facial expression, eye behaviour, and posture are grammatically essential, not optional flourish.
 
 ### Sign-Language Presentation for Samira Kade
 
 - Samira Kade is Deaf and communicates through a sleeve projector that shows sign or live text. Her signing is presented as her natural, fluent language, and its content is conveyed to the player through captions and braille as her own words.
-- Her sleeve projector is presented as ordinary standard equipment, with its soft mechanical whisper as part of her recognizable presence.
+- Her sleeve projector is presented as ordinary standard equipment, with its soft mechanical whisper as part of her recognisable presence.
 - When Samira reads a room by sight and vibration, her attentiveness is animated as competence and command of her environment, never as a deficit to be pitied.
 - Other characters who sign with her are animated as fluent partners in conversation, reflecting a world where communication diversity is ordinary.
 
@@ -210,7 +210,7 @@ Sign language is a full language, and its animation must be authored with the sa
 
 ## Eye Gaze
 
-Eye gaze appears in Resonance in two ways: as an input method available to players, and as an expressive behavior that characters use to communicate. Both require careful, respectful presentation.
+Eye gaze appears in Resonance in two ways: as an input method available to players, and as an expressive behaviour that characters use to communicate. Both require careful, respectful presentation.
 
 ### Eye Gaze as Player Input
 
@@ -218,11 +218,11 @@ Eye gaze appears in Resonance in two ways: as an input method available to playe
 - Eye-gaze interactions are forgiving, with generous targets and timing, and always have alternative activation methods so no player is excluded.
 - Feedback for eye-gaze input reaches the player through more than one channel, so confirmation is not dependent on sight alone.
 
-### Eye Gaze as Character Behavior
+### Eye Gaze as Character Behaviour
 
-- Eye focus is part of how the Vale System's fronting members are told apart. Facial expression and eye focus change naturally with whoever is fronting, and animation should use eye behavior as one of the recognition signals.
+- Eye focus is part of how the Vale System's fronting members are told apart. Facial expression and eye focus change naturally with whoever is fronting, and animation should use eye behaviour as one of the recognition signals.
 - Eye gaze in characters is animated to reflect attention, intention, and relationship, and it is authored so that its meaning is also available through non-visual channels for players who do not use sight.
-- Eye behavior is never the only carrier of an important story beat, because not every player perceives it.
+- Eye behaviour is never the only carrier of an important story beat, because not every player perceives it.
 
 ## Lip-Reading Considerations
 
@@ -272,7 +272,7 @@ The most important accessibility presentation in Resonance is not a device; it i
 - Accommodation is mutual and reciprocal. Everyone teaches and everyone keeps learning, and access flows in every direction rather than from the able toward the disabled.
 - Accommodation is presented as competence and courtesy, the ordinary skill of working with the people you work with, not as charity.
 - No character asks permission to use standard equipment, and no character is thanked for meeting an ordinary access need.
-- Accommodation is shown through behavior rather than explained through dialogue. The player learns how the crew supports one another by observing them.
+- Accommodation is shown through behaviour rather than explained through dialogue. The player learns how the crew supports one another by observing them.
 
 ### Examples of Ordinary Accommodation in Presentation
 
@@ -298,7 +298,7 @@ These examples illustrate the register and are drawn only from locked identity f
 This document is the presentation reference for accessibility across the Resonance franchise. It elaborates how accessibility is presented; it does not create accessibility rules or character facts.
 
 - The Project Constitution defines the core philosophy this document serves and has authority over all documents.
-- The Canon Rules document is the canon authority, including the rules that accessibility is standard equipment, that characters are recognized through observation, and that the Vale System is one shared body.
+- The Canon Rules document is the canon authority, including the rules that accessibility is standard equipment, that characters are recognised through observation, and that the Vale System is one shared body.
 - The Character Identity Map is the locked source for each recurring character's profession, ethnicity, gender, pronouns, and disability.
 - The Accessibility Bible defines the accessibility systems, the initial accessibility interview, DeafBlind gameplay, tactile language, accessible input, and independent volume channels that this document presents.
 - The Audio Bible elaborates acoustic identity, silence, and sound as progression, which underpin blind-first and audio-first description.

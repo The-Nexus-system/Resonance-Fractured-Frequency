@@ -36,7 +36,7 @@ The name of Operation One. It contains seven chapters and opens the story.
 
 The player's AI companion, named for Egyptian faience. Faience is translator, navigator, research partner, historian, copilot, companion, tactical advisor, and teacher.
 
-For species and civilization rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
+For species and civilisation rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
 
 ## Franchise
 
@@ -88,9 +88,9 @@ The principle and mechanism by which real-world safety always takes priority ove
 
 ## Shawabti
 
-The ancient alien civilization that created adaptive AI for deep-space exploration, inspired by Egyptian Shawabti and Ushabti figures.
+The ancient alien civilisation that created adaptive AI for deep-space exploration, inspired by Egyptian Shawabti and Ushabti figures.
 
-For species and civilization rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
+For species and civilisation rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
 
 ## Tactile language
 

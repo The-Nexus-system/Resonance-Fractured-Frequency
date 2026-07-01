@@ -82,7 +82,7 @@ Hearth is gone.
 
 Large pieces remain in space as debris.
 
-Some sections remain pressurized.
+Some sections remain pressurised.
 
 Some remain powered.
 
@@ -196,7 +196,7 @@ This becomes one of Resonance's core mechanics.
 
 Player orientation.
 
-Escape pod stabilization.
+Escape pod stabilisation.
 
 Emergency battery management.
 
@@ -274,7 +274,7 @@ Silence.
 
 Occasional debris impacts.
 
-The player should realize that many people aboard Hearth did not survive.
+The player should realise that many people aboard Hearth did not survive.
 
 ### Part Two — Mechanics Introduced
 
@@ -296,7 +296,7 @@ Bookmark signal.
 
 Ignore signal.
 
-Prioritize signal.
+Prioritise signal.
 
 ### Part Two — Gameplay
 
@@ -334,7 +334,7 @@ Long pause.
 
 "...Anybody..."
 
-The player immediately recognizes Rowan because they spent an entire week working with him during Chapter One.
+The player immediately recognises Rowan because they spent an entire week working with him during Chapter One.
 
 ### Part Two — Emotional Goal
 
@@ -516,7 +516,7 @@ Manual hatch access.
 
 Emergency cutting tools.
 
-Pressure equalization.
+Pressure equalisation.
 
 Emergency decompression procedures.
 
@@ -590,7 +590,7 @@ Docking should feel like helping a trusted mentor rather than completing a puzzl
 
 Pods successfully dock.
 
-Pressure equalization begins.
+Pressure equalisation begins.
 
 The player prepares to enter Rowan's pod.
 
@@ -620,7 +620,7 @@ Loose equipment.
 
 Electrical hazards.
 
-The player must stabilize the environment before Rowan can safely transfer.
+The player must stabilise the environment before Rowan can safely transfer.
 
 ### Part Five — Mechanics Introduced
 
@@ -630,7 +630,7 @@ Interior scanning.
 
 Portable repair tools.
 
-Emergency environmental stabilization.
+Emergency environmental stabilisation.
 
 Crew extraction.
 
@@ -662,7 +662,7 @@ Battery conservation.
 
 Emergency repairs.
 
-Tool organization.
+Tool organisation.
 
 Salvage priorities.
 
@@ -702,7 +702,7 @@ He asks where emergency tools were stored.
 
 He begins inspecting systems.
 
-The player hears him organizing equipment.
+The player hears him organising equipment.
 
 Opening storage compartments.
 
@@ -734,9 +734,9 @@ Ventilation becomes smoother.
 
 Electrical interference decreases.
 
-Emergency lighting stabilizes.
+Emergency lighting stabilises.
 
-Storage becomes organized.
+Storage becomes organised.
 
 The pod simply feels safer.
 
@@ -768,7 +768,7 @@ Rowan is now part of the crew.
 
 Crew contribution.
 
-Passive NPC behavior.
+Passive NPC behaviour.
 
 Living soundscape progression.
 
@@ -828,7 +828,7 @@ Chapter continues.
 
 Rowan should never become passive after rescue.
 
-He should constantly be heard repairing, organizing, improving and maintaining the growing station.
+He should constantly be heard repairing, organising, improving and maintaining the growing station.
 
 His presence should permanently alter the audio environment.
 
@@ -846,7 +846,7 @@ Teach that every rescue permanently changes life aboard the player's growing sta
 
 The player is no longer simply surviving.
 
-The player is rebuilding civilization.
+The player is rebuilding civilisation.
 
 ### Structure
 
@@ -922,7 +922,7 @@ Advanced audio navigation.
 
 Environmental Change:
 
-Electrical hum stabilizes.
+Electrical hum stabilises.
 
 Power interruptions disappear.
 
@@ -970,7 +970,7 @@ Samira's portrait illuminates.
 
 Purpose:
 
-Restore organization.
+Restore organisation.
 
 Jonah has already begun coordinating other survivors over emergency radio.
 
@@ -982,7 +982,7 @@ Beacon locations.
 
 Supply estimates.
 
-He immediately begins organizing rescue priorities.
+He immediately begins organising rescue priorities.
 
 Gameplay unlocks:
 
@@ -998,7 +998,7 @@ Logistics.
 
 Environmental Change:
 
-Organized radio traffic.
+Organised radio traffic.
 
 Updated survivor boards.
 
@@ -1054,7 +1054,7 @@ Restore scientific understanding.
 
 Soren introduces:
 
-Artifact research.
+Artefact research.
 
 Knowledge Archive.
 
@@ -1072,7 +1072,7 @@ Environmental Change:
 
 Research equipment activates.
 
-Artifact scanners begin operating.
+Artefact scanners begin operating.
 
 Scientific discussions become audible.
 
@@ -1106,7 +1106,7 @@ Advanced AAC interaction.
 
 Alternative communication.
 
-Adaptive interface customization.
+Adaptive interface customisation.
 
 Patience.
 
@@ -1360,7 +1360,7 @@ Knowledge is progression.
 
 ## Chapter End
 
-The newly named vessel stabilizes.
+The newly named vessel stabilises.
 
 The crew finally rests.
 

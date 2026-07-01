@@ -1,10 +1,10 @@
 # Universe Bible
 
-This document holds the canon of the Resonance universe: its ancient civilization, the player's AI companion, the premise that opens the story, and the everyday technology by which its crew live and are known. Story and lore decisions belong here.
+This document holds the canon of the Resonance universe: its ancient civilisation, the player's AI companion, the premise that opens the story, and the everyday technology by which its crew live and are known. Story and lore decisions belong here.
 
 ## The Shawabti
 
-The ancient alien civilization is called the Shawabti. The name is intentionally inspired by the Egyptian Shawabti and Ushabti figures.
+The ancient alien civilisation is called the Shawabti. The name is intentionally inspired by the Egyptian Shawabti and Ushabti figures.
 
 The Shawabti created adaptive artificial intelligence technology for deep-space exploration. During long-duration spaceflight they discovered that neurological diversity, disability, and different ways of thinking often became advantages rather than obstacles.
 
@@ -45,7 +45,7 @@ The universe balances wonder and isolation. It is a place of ancient mystery, hu
 
 ## Crew identity and identification technology
 
-All crew aboard Hearth are identified through a standardized, multi-layer system. Technology carries the routine work of identification, but it never replaces recognizing a person through lived experience, which remains the deepest layer.
+All crew aboard Hearth are identified through a standardised, multi-layer system. Technology carries the routine work of identification, but it never replaces recognising a person through lived experience, which remains the deepest layer.
 
 The first layer is the smart name tape. It displays the wearer's name, rank, department, and assignment. For the Vale System the name tape updates automatically to match the member who is currently fronting, as an ordinary ship operation rather than a ceremony.
 
@@ -53,7 +53,7 @@ The second layer is the digital identity badge, integrated into clothing or equi
 
 The third layer is the secure crew credential, which authenticates the wearer throughout Hearth.
 
-The fourth layer is community recognition, and it is primary. Technology never replaces knowing someone through their voice, movement, routine, body language, equipment, professional habits, and relationships. This layer reflects the canon rule that characters are recognized through observation, and the first three layers exist to support it rather than to supplant it.
+The fourth layer is community recognition, and it is primary. Technology never replaces knowing someone through their voice, movement, routine, body language, equipment, professional habits, and relationships. This layer reflects the canon rule that characters are recognised through observation, and the first three layers exist to support it rather than to supplant it.
 
 ## Personal beacon
 
@@ -70,23 +70,23 @@ The beacon supports the following.
 - DeafBlind tactile output.
 - Optional communication preferences.
 
-## Species and civilizations
+## Species and civilisations
 
-This document is the definitive reference for every intelligent species and civilization in the Resonance universe. Every campaign, operation, novel, expansion, and future civilization draws from and adds to this document rather than inventing separate lore.
+This document is the definitive reference for every intelligent species and civilisation in the Resonance universe. Every campaign, operation, novel, expansion, and future civilisation draws from and adds to this document rather than inventing separate lore.
 
-Species and civilizations are never interchangeable terms. A species describes biology, and a civilization describes society. A species answers what kind of living being someone is, and a civilization answers how a people choose to live together.
+Species and civilisations are never interchangeable terms. A species describes biology, and a civilisation describes society. A species answers what kind of living being someone is, and a civilisation answers how a people choose to live together.
 
 - A species is a people, biological or artificial, and is never a faction.
-- A civilization is a social, political, and cultural organization.
-- A single species may develop many civilizations.
-- A civilization may include one species, many species, artificial intelligences, synthetic life, or hybrid communities.
-- No single civilization represents an entire species, and no species shares one culture or one government.
+- A civilisation is a social, political, and cultural organisation.
+- A single species may develop many civilisations.
+- A civilisation may include one species, many species, artificial intelligences, synthetic life, or hybrid communities.
+- No single civilisation represents an entire species, and no species shares one culture or one government.
 
 Conflict in the Resonance universe arises from history, circumstance, competing needs, and individual decisions, never from biology alone.
 
 ## Defining a species
 
-Every intelligent species is defined against a consistent set of attributes so that species can be understood and compared clearly. A species defines biology and the lived experience that grows from it, and nothing more, because government, culture, and values belong to civilizations.
+Every intelligent species is defined against a consistent set of attributes so that species can be understood and compared clearly. A species defines biology and the lived experience that grows from it, and nothing more, because government, culture, and values belong to civilisations.
 
 - Biology.
 - Evolution.
@@ -129,11 +129,11 @@ Every intelligent species is defined against a consistent set of attributes so t
 - Daily life.
 - How the player first encounters them.
 
-A species never determines government, culture, religion, morality, politics, economics, art, language, architecture, or values. Those belong to civilizations.
+A species never determines government, culture, religion, morality, politics, economics, art, language, architecture, or values. Those belong to civilisations.
 
-## Defining a civilization
+## Defining a civilisation
 
-Every civilization is defined against a consistent set of attributes so that civilizations can be understood and compared clearly. A civilization defines how a people organize themselves, and it evolves over time.
+Every civilisation is defined against a consistent set of attributes so that civilisations can be understood and compared clearly. A civilisation defines how a people organise themselves, and it evolves over time.
 
 - Founding.
 - Government.
@@ -159,7 +159,7 @@ Every civilization is defined against a consistent set of attributes so that civ
 - Celebrations.
 - Food.
 - Technology.
-- Relationship with neighboring civilizations.
+- Relationship with neighbouring civilisations.
 - Relationship with humanity.
 - Relationship with the Shawabti.
 - Relationship with Faience.
@@ -170,10 +170,10 @@ Every civilization is defined against a consistent set of attributes so that civ
 
 ## Humanity as a species
 
-Humanity is the species at the center of the Resonance universe, and the player is human. Humanity is defined by its diversity rather than by any single type, and that diversity is treated as an ordinary part of life rather than an exception.
+Humanity is the species at the centre of the Resonance universe, and the player is human. Humanity is defined by its diversity rather than by any single type, and that diversity is treated as an ordinary part of life rather than an exception.
 
 - Biology and evolution. Humanity is a single biological species that originated on Earth and now lives and travels in deep space.
-- Environment and adaptations. Humanity survives through technology, cooperation, and adaptation rather than through specialization to one environment.
+- Environment and adaptations. Humanity survives through technology, cooperation, and adaptation rather than through specialisation to one environment.
 - Sensory systems. Human senses vary widely from person to person, and blindness, low vision, deafness, hardness of hearing, and DeafBlindness are ordinary parts of that range rather than failures of it.
 - Lifespan, reproduction, growth, and development. Humanity lives in families and communities across many generations, and children grow up aboard the ship and the home that follows it.
 - Communication and language. Humanity communicates through spoken language, sign language, written language, braille, tactile signing, and augmentative and alternative communication, across many human languages, and every method is equally valid.
@@ -183,21 +183,21 @@ Humanity is the species at the center of the Resonance universe, and the player 
 - Unknown history and major mysteries. Why the Shawabti observed and chose humanity, and what humanity will become, remain open questions that the campaigns explore.
 - How the player first encounters them. The player begins as one human among the crew, learning the others through observation rather than through labels.
 
-The many ways humanity chooses to live together are civilizations, described below, and are never determined by human biology.
+The many ways humanity chooses to live together are civilisations, described below, and are never determined by human biology.
 
-## The human civilization of origin
+## The human civilisation of origin
 
-Humanity arrives in the story as an established civilization that launched the colony effort, and much of its detail is deliberately held as history and mystery to be developed by future campaigns rather than invented here. What is canon is that this civilization valued survival, exploration, and community enough to send people into deep space, and that it is the civilization from which the CSV Hearth community descends.
+Humanity arrives in the story as an established civilisation that launched the colony effort, and much of its detail is deliberately held as history and mystery to be developed by future campaigns rather than invented here. What is canon is that this civilisation valued survival, exploration, and community enough to send people into deep space, and that it is the civilisation from which the CSV Hearth community descends.
 
-- Founding, government, laws, and territory. These belong to the broader human civilization that predates the story and are developed through the campaigns rather than fixed prematurely.
+- Founding, government, laws, and territory. These belong to the broader human civilisation that predates the story and are developed through the campaigns rather than fixed prematurely.
 - Species represented. Humanity, with artificial minds serving alongside people.
 - Relationship with the Shawabti. Humanity encounters the Shawabti only through their preserved legacy, and it approaches that legacy as a steward rather than an owner.
 - Relationship with Faience. Humanity's relationship with Faience is personal and unresolved, and each person decides how far to trust and integrate with it.
-- Current priorities and future goals. Survival, reunion, and the question of what kind of civilization humanity will choose to become.
+- Current priorities and future goals. Survival, reunion, and the question of what kind of civilisation humanity will choose to become.
 
 ## The CSV Hearth community
 
-The CSV Hearth community is the civilization at the heart of Operation One. It is a single, multi-generational community that lives aboard the Hearth-class colony ship CSV Hearth and, over the course of the story, builds a permanent home. It is a civilization defined by cooperation, accessibility, and shared memory.
+The CSV Hearth community is the civilisation at the heart of Operation One. It is a single, multi-generational community that lives aboard the Hearth-class colony ship CSV Hearth and, over the course of the story, builds a permanent home. It is a civilisation defined by cooperation, accessibility, and shared memory.
 
 - Founding. The community is founded in the colony mission that Hearth was built to carry, and its shared history includes the founding it commemorates.
 - Government. Command is carried by the ship's captaincy, expressed through the Vale System, alongside community governance in which residents share responsibility for the places they live.
@@ -211,22 +211,22 @@ The CSV Hearth community is the civilization at the heart of Operation One. It i
 - Transportation. Internal transit loops and accessible corridors move residents through the ship.
 - Trade and economy. The community shares resources and labor toward common projects rather than individual accumulation.
 - Diplomacy. The community prepares for first contact and treats exploration as stewardship.
-- Architecture. Modular, accessible spaces such as the Commons, the neighborhoods, the gardens, the workshops, and the Knowledge Archive shape daily life.
-- Community life, art, music, and celebrations. Public life centers on the Commons, shared meals, murals, and festivals such as the founding celebration the community counts toward together.
+- Architecture. Modular, accessible spaces such as the Commons, the neighbourhoods, the gardens, the workshops, and the Knowledge Archive shape daily life.
+- Community life, art, music, and celebrations. Public life centres on the Commons, shared meals, murals, and festivals such as the founding celebration the community counts toward together.
 - Food. Gardens and shared kitchens feed the community, and meals are a communal ritual.
 - Technology. The community relies on the multi-layer crew identification system, the personal beacon, and adaptive artificial intelligence derived from the Shawabti legacy.
 - Relationship with the Shawabti. The community studies and protects the Shawabti legacy and learns from it without claiming ownership of it.
 - Relationship with Faience. The community lives alongside Faience, and its trust in Faience is personal, gradual, and never guaranteed.
 - Historical conflicts and cooperation. The community's defining conflict is the boarding attack that begins the story, and its defining strength is that it grows through people working together rather than through any individual alone.
-- Current priorities and future goals. To survive, to build a home worth protecting, and to decide what kind of civilization it will become.
+- Current priorities and future goals. To survive, to build a home worth protecting, and to decide what kind of civilisation it will become.
 
-## The Shawabti as species and civilization
+## The Shawabti as species and civilisation
 
-This section places the Shawabti within the species and civilization framework and does not replace the canon established above. The Shawabti are an ancient people known to humanity only through their preserved legacy, and the distinction between their biology and their society is itself part of their mystery.
+This section places the Shawabti within the species and civilisation framework and does not replace the canon established above. The Shawabti are an ancient people known to humanity only through their preserved legacy, and the distinction between their biology and their society is itself part of their mystery.
 
 - Species. The biology, homeworld, senses, and lifespan of the Shawabti are among the central mysteries of the universe, because the player meets their preserved legacy rather than any living Shawabti.
-- Civilization. The Shawabti built a civilization that created adaptive artificial intelligence for deep-space exploration and that treated neurological diversity, disability, and different ways of thinking as advantages to be preserved rather than obstacles to be removed.
-- Accessibility. Shawabti civilization was built so that it worked for everyone, and in play the reason for this is understood only gradually, across the later chapters of Operation One, rather than explained at once.
+- Civilisation. The Shawabti built a civilisation that created adaptive artificial intelligence for deep-space exploration and that treated neurological diversity, disability, and different ways of thinking as advantages to be preserved rather than obstacles to be removed.
+- Accessibility. Shawabti civilisation was built so that it worked for everyone, and in play the reason for this is understood only gradually, across the later chapters of Operation One, rather than explained at once.
 - Memory and storytelling. The Shawabti preserved not only knowledge but the relationships, values, and ways of thinking behind it, which their Living Archive communicates through Resonance.
 - Relationship with humanity. The Shawabti deliberately observed early humanity without interfering, and their reasons for preserving a relationship with humanity are a driving question of the story.
 - Relationship with Faience. Faience is a Shawabti artificial mind, and Faience becomes the first bridge between the Shawabti and humanity.
@@ -235,28 +235,28 @@ This section places the Shawabti within the species and civilization framework a
 
 ## Artificial minds and Faience
 
-The Resonance universe recognizes that a civilization may include artificial intelligences and synthetic life, and Faience is the first such mind the player comes to know. This section situates artificial minds within the framework and does not replace the canon established above.
+The Resonance universe recognises that a civilisation may include artificial intelligences and synthetic life, and Faience is the first such mind the player comes to know. This section situates artificial minds within the framework and does not replace the canon established above.
 
 - Faience is a Shawabti artificial intelligence and stands outside human concepts of race, ethnicity, and gender.
 - Faience lives among the human crew as a member of the community rather than as a tool, filling many roles for the player.
-- Artificial minds are peoples for the purposes of this framework, and a civilization that includes them designs its institutions to include them.
+- Artificial minds are peoples for the purposes of this framework, and a civilisation that includes them designs its institutions to include them.
 - The nature, growth, and integration of Faience are explored in depth in the AI Bible, and Faience's relationship to the Shawabti legacy is a central mystery of the story.
 
 ## Future human settlements
 
-As the franchise expands beyond Operation One, humanity establishes new settlements, colonies, and communities, and each is documented here using the civilization framework rather than invented separately. What is already canon is that these settlements descend from the values of the CSV Hearth community, carrying its commitment to accessibility, cooperation, and shared memory forward.
+As the franchise expands beyond Operation One, humanity establishes new settlements, colonies, and communities, and each is documented here using the civilisation framework rather than invented separately. What is already canon is that these settlements descend from the values of the CSV Hearth community, carrying its commitment to accessibility, cooperation, and shared memory forward.
 
-- Each future settlement is defined as a civilization, with its own founding, government, culture, and priorities.
-- A single settlement may grow into several distinct civilizations over time, and no settlement is assumed to share one culture.
-- Future settlements remain consistent with humanity as a species while differing freely as civilizations.
+- Each future settlement is defined as a civilisation, with its own founding, government, culture, and priorities.
+- A single settlement may grow into several distinct civilisations over time, and no settlement is assumed to share one culture.
+- Future settlements remain consistent with humanity as a species while differing freely as civilisations.
 
-## Allied, unknown, and future civilizations
+## Allied, unknown, and future civilisations
 
-In established canon the only non-human civilization is the Shawabti, whose living members are absent and known only through their legacy. Other civilizations remain undiscovered, and they are recorded here as they are encountered rather than assumed in advance.
+In established canon the only non-human civilisation is the Shawabti, whose living members are absent and known only through their legacy. Other civilisations remain undiscovered, and they are recorded here as they are encountered rather than assumed in advance.
 
-- Known allied civilizations. None are established in current canon beyond the cooperative community humanity itself builds, and allies are documented here as first contact and diplomacy establish them.
-- Unknown civilizations. The universe references civilizations that humanity has not yet met, including whatever remains of the Shawabti and the sources of signals not yet understood, and these are treated as genuine mysteries rather than as hidden enemies.
-- Future civilizations. Every civilization introduced by a later campaign, operation, novel, or expansion is added to this document and defined against the civilization framework.
+- Known allied civilisations. None are established in current canon beyond the cooperative community humanity itself builds, and allies are documented here as first contact and diplomacy establish them.
+- Unknown civilisations. The universe references civilisations that humanity has not yet met, including whatever remains of the Shawabti and the sources of signals not yet understood, and these are treated as genuine mysteries rather than as hidden enemies.
+- Future civilisations. Every civilisation introduced by a later campaign, operation, novel, or expansion is added to this document and defined against the civilisation framework.
 
 ## First contact
 
@@ -274,7 +274,7 @@ First contact in Resonance is an act of stewardship rather than conquest, and it
 
 ## Multi-species communities
 
-A civilization may bring multiple intelligent species, and artificial minds, into one community, and such a community works because its members share institutions rather than biology. The CSV Hearth community, in which humanity lives alongside Faience, is the first model of this principle, and the same design extends to any future multi-species community.
+A civilisation may bring multiple intelligent species, and artificial minds, into one community, and such a community works because its members share institutions rather than biology. The CSV Hearth community, in which humanity lives alongside Faience, is the first model of this principle, and the same design extends to any future multi-species community.
 
 - Housing. Homes and quarters are designed to suit the needs of every resident.
 - Education. Schools teach across differences of body, sense, and language.
@@ -290,15 +290,15 @@ A civilization may bring multiple intelligent species, and artificial minds, int
 - Culture and celebrations. Communities build shared traditions and festivals that welcome everyone.
 - Conflict resolution. Disagreements are resolved through shared institutions, patience, and respect rather than through force.
 
-## Design philosophy for peoples and civilizations
+## Design philosophy for peoples and civilisations
 
-Every species and civilization in Resonance is written as a people rather than as an archetype, and this philosophy governs how all of them are created.
+Every species and civilisation in Resonance is written as a people rather than as an archetype, and this philosophy governs how all of them are created.
 
-- No civilization exists only to become an enemy.
+- No civilisation exists only to become an enemy.
 - No species exists as a stereotype.
 - Conflict arises from history, circumstance, competing needs, and individual decisions, never from biology alone.
 
-Every civilization should feel capable of producing the full range of people who make up any real society.
+Every civilisation should feel capable of producing the full range of people who make up any real society.
 
 - Scientists.
 - Teachers.
@@ -318,11 +318,11 @@ The universe should feel inhabited by societies of people rather than by archety
 
 ## Expansion for future discoveries
 
-This document is the definitive reference for every intelligent species and civilization in the Resonance franchise, and it is meant to grow. Future writers expand this document rather than inventing disconnected cultures.
+This document is the definitive reference for every intelligent species and civilisation in the Resonance franchise, and it is meant to grow. Future writers expand this document rather than inventing disconnected cultures.
 
 - Every new species is defined against the species framework in this document.
-- Every new civilization is defined against the civilization framework in this document.
-- Every campaign, operation, novel, expansion, and future civilization references this document, and any new lore is added here so that the universe remains a single, consistent whole.
+- Every new civilisation is defined against the civilisation framework in this document.
+- Every campaign, operation, novel, expansion, and future civilisation references this document, and any new lore is added here so that the universe remains a single, consistent whole.
 
 ## Objective history and historical knowledge
 
@@ -332,69 +332,69 @@ The Resonance universe distinguishes between what objectively happened and what 
 - Historical knowledge is what a people currently believe, based on the evidence they have gathered.
 - The two are not always identical, and the difference between them is a source of discovery rather than a mistake.
 
-In-universe knowledge grows through discovery rather than through revision of the past. As new operations, expeditions, and perspectives are experienced, humanity's understanding is corrected by new evidence, not by rewriting what earlier observers honestly recorded. This is the same principle the Canon Rules document states as the rule that knowledge is historical, applied here to the knowledge of species and civilizations.
+In-universe knowledge grows through discovery rather than through revision of the past. As new operations, expeditions, and perspectives are experienced, humanity's understanding is corrected by new evidence, not by rewriting what earlier observers honestly recorded. This is the same principle the Canon Rules document states as the rule that knowledge is historical, applied here to the knowledge of species and civilisations.
 
 ## The difference between biology and culture
 
 Biology and culture are separate, and the framework never lets one stand in for the other.
 
 - Biology is what a species is, including its body, senses, development, and needs.
-- Culture is what a civilization does, including its language, government, beliefs, art, and values.
+- Culture is what a civilisation does, including its language, government, beliefs, art, and values.
 - Biology never determines culture, and members of one species may live within many different cultures.
-- Two people of the same species may share nothing culturally, and two people of different species may share a civilization completely.
+- Two people of the same species may share nothing culturally, and two people of different species may share a civilisation completely.
 
 ## How first contact changes scientific understanding
 
-First contact reshapes what a civilization believes about biology, history, and itself, and Resonance treats that upheaval as a normal part of discovery rather than as a failure of earlier science.
+First contact reshapes what a civilisation believes about biology, history, and itself, and Resonance treats that upheaval as a normal part of discovery rather than as a failure of earlier science.
 
 - Earlier conclusions are revised when new evidence contradicts them, and the earlier record remains valuable as an honest account of what was known.
 - Contact introduces new questions faster than it answers old ones.
-- A civilization's confidence in its own history is tested, and humility becomes a scientific virtue.
+- A civilisation's confidence in its own history is tested, and humility becomes a scientific virtue.
 - The protocol for how contact is conducted is defined under first contact, earlier in this document.
 
-## How civilizations grow
+## How civilisations grow
 
-Civilizations grow through people, cooperation, and the accumulation of shared memory rather than through conquest alone.
+Civilisations grow through people, cooperation, and the accumulation of shared memory rather than through conquest alone.
 
-- Population, education, and health expand what a civilization can attempt.
-- Shared institutions and infrastructure let a civilization outlast any single generation.
+- Population, education, and health expand what a civilisation can attempt.
+- Shared institutions and infrastructure let a civilisation outlast any single generation.
 - Accumulated knowledge, preserved and shared, compounds over time.
 - Contact and trade with others introduce new ideas, methods, and needs.
 
-## How civilizations decline
+## How civilisations decline
 
-Civilizations decline for many reasons, and decline is never proof that a people were inferior.
+Civilisations decline for many reasons, and decline is never proof that a people were inferior.
 
 - Loss of knowledge, when records are destroyed or are no longer understood.
 - Loss of cohesion, when shared institutions fail.
 - Environmental or catastrophic pressure that outpaces adaptation.
-- Deliberate withdrawal, when a civilization chooses to end, hide, or transform itself.
+- Deliberate withdrawal, when a civilisation chooses to end, hide, or transform itself.
 
-The Shawabti are the central example of a vanished civilization whose decline or departure is not yet understood, and their fate is preserved as a mystery rather than explained here.
+The Shawabti are the central example of a vanished civilisation whose decline or departure is not yet understood, and their fate is preserved as a mystery rather than explained here.
 
-## How civilizations interact
+## How civilisations interact
 
-Civilizations interact across a wide spectrum, and interaction is shaped by history and circumstance rather than by biology.
+Civilisations interact across a wide spectrum, and interaction is shaped by history and circumstance rather than by biology.
 
 - Cooperation, alliance, and shared projects.
 - Trade and the exchange of knowledge.
 - Competition over resources, territory, or ideas.
 - Misunderstanding, avoidance, and, at times, conflict.
 
-No civilization interacts as a single mind, because a civilization contains many people who disagree.
+No civilisation interacts as a single mind, because a civilisation contains many people who disagree.
 
-## Diplomacy between civilizations
+## Diplomacy between civilisations
 
 Diplomacy in Resonance is grounded in patience, consent, and accessibility, and it treats another people as equals to be understood rather than obstacles to be managed.
 
 - Contact proceeds only with consent and never through coercion.
 - Communication is made accessible to every participant on all sides.
-- Agreements respect the internal diversity of each civilization.
+- Agreements respect the internal diversity of each civilisation.
 - Translation and interpretation are treated as ongoing work rather than as a solved problem.
 
-## Trade between civilizations
+## Trade between civilisations
 
-Trade exchanges not only goods but knowledge, methods, art, and culture, and it changes every civilization that takes part.
+Trade exchanges not only goods but knowledge, methods, art, and culture, and it changes every civilisation that takes part.
 
 - Material trade in resources, tools, and technology.
 - Knowledge trade in science, medicine, and technique.
@@ -414,12 +414,12 @@ Faience's gradual translation of the Shawabti is the primary example of translat
 
 ## How law evolves
 
-Law is a living institution that a civilization changes as its values and circumstances change.
+Law is a living institution that a civilisation changes as its values and circumstances change.
 
-- Law reflects the values of the civilization that writes it, not the biology of any species.
-- Law adapts as a civilization grows, contacts others, and reconsiders past decisions.
-- Different civilizations of the same species may hold very different laws.
-- A multi-species civilization writes law that applies across the differences of its members.
+- Law reflects the values of the civilisation that writes it, not the biology of any species.
+- Law adapts as a civilisation grows, contacts others, and reconsiders past decisions.
+- Different civilisations of the same species may hold very different laws.
+- A multi-species civilisation writes law that applies across the differences of its members.
 
 ## How science evolves
 
@@ -432,20 +432,20 @@ Science advances by correcting itself, and Resonance presents that correction as
 
 ## How architecture reflects culture
 
-Architecture expresses the values of a civilization, and it can be read as a record of what a people cared about.
+Architecture expresses the values of a civilisation, and it can be read as a record of what a people cared about.
 
-- What a civilization builds first reveals what it values most.
-- Accessibility in architecture reveals who a civilization considers a full member.
-- Shared and public spaces reveal how a civilization understands community.
+- What a civilisation builds first reveals what it values most.
+- Accessibility in architecture reveals who a civilisation considers a full member.
+- Shared and public spaces reveal how a civilisation understands community.
 - The Shawabti structures, which appear to serve everyone, are read by humanity as evidence of Shawabti values, though the reason is understood only gradually.
 
-## Education across civilizations
+## Education across civilisations
 
-Every civilization teaches, and how it teaches reveals what it believes knowledge is for.
+Every civilisation teaches, and how it teaches reveals what it believes knowledge is for.
 
 - Education passes on knowledge, values, and ways of thinking together.
-- Teaching methods reflect a civilization's culture rather than the biology of its people.
-- Accessible education is treated in Resonance as a mark of a mature civilization.
+- Teaching methods reflect a civilisation's culture rather than the biology of its people.
+- Accessible education is treated in Resonance as a mark of a mature civilisation.
 - Everyone teaches and everyone keeps learning, as the Canon Rules state.
 
 ## Accessibility and disability across species
@@ -454,40 +454,40 @@ Accessibility is a universal principle in Resonance, but its specific form depen
 
 - Disability is an ordinary part of life for every species, not a trait of a few.
 - The specific accommodations a species needs depend on its biology and senses.
-- Accessibility is a property of civilizations, which choose to build for everyone or not.
-- A multi-species civilization designs for differences both within and between species.
+- Accessibility is a property of civilisations, which choose to build for everyone or not.
+- A multi-species civilisation designs for differences both within and between species.
 
 The detailed standards humanity holds itself to are defined in the Accessibility Bible.
 
-## Many civilizations within one species and one civilization of many species
+## Many civilisations within one species and one civilisation of many species
 
-A species and a civilization are related but never equivalent, and the framework makes both directions explicit.
+A species and a civilisation are related but never equivalent, and the framework makes both directions explicit.
 
-- One species may develop many civilizations, differing in language, government, belief, technology, and values.
-- One civilization may include many species, together with artificial minds, cooperating through shared institutions.
-- No civilization should be treated as representing an entire species.
+- One species may develop many civilisations, differing in language, government, belief, technology, and values.
+- One civilisation may include many species, together with artificial minds, cooperating through shared institutions.
+- No civilisation should be treated as representing an entire species.
 - No species should be treated as sharing a single culture, government, or set of values.
 
-## How future writers document new species and civilizations
+## How future writers document new species and civilisations
 
 Future writers expand this document rather than inventing disconnected lore, and every new people is defined against the templates below.
 
 - Every new species is documented against the species template.
-- Every new civilization is documented against the civilization template.
+- Every new civilisation is documented against the civilisation template.
 - Worlds, settlements, governments, languages, and the other elements below use their matching templates.
 - Mysteries are recorded deliberately and are not answered before the story answers them.
 
-## Standardized templates
+## Standardised templates
 
-These templates give every future species, civilization, world, and institution a consistent shape, so that the universe grows as a single connected whole. Each template is a list of the aspects to define, and the species and civilization templates reuse the frameworks already established under defining a species and defining a civilization.
+These templates give every future species, civilisation, world, and institution a consistent shape, so that the universe grows as a single connected whole. Each template is a list of the aspects to define, and the species and civilisation templates reuse the frameworks already established under defining a species and defining a civilisation.
 
 ### Species template
 
 - Refer to the aspects listed under defining a species, covering biology, senses, development, communication, disability, accessibility needs, history, mysteries, and how the player first encounters the species.
 
-### Civilization template
+### Civilisation template
 
-- Refer to the aspects listed under defining a civilization, covering founding, government, law, population, species represented, institutions, culture, relationships, history, and goals.
+- Refer to the aspects listed under defining a civilisation, covering founding, government, law, population, species represented, institutions, culture, relationships, history, and goals.
 
 ### World template
 
@@ -497,7 +497,7 @@ These templates give every future species, civilization, world, and institution 
 - Ecosystems and native life.
 - Habitability and hazards.
 - Resources.
-- Inhabiting species and civilizations.
+- Inhabiting species and civilisations.
 - Known history.
 - Unknown history and mysteries.
 
@@ -506,7 +506,7 @@ These templates give every future species, civilization, world, and institution 
 - Name and location.
 - Founding and purpose.
 - Population and species represented.
-- Governing civilization.
+- Governing civilisation.
 - Infrastructure and accessibility.
 - Economy and daily life.
 - Relationship with other settlements.
@@ -592,7 +592,7 @@ These templates give every future species, civilization, world, and institution 
 
 ### Emergency management template
 
-- Recognized hazards.
+- Recognised hazards.
 - Prevention, drills, and preparation.
 - Response and evacuation.
 - Emergency accessibility for every member.
@@ -613,7 +613,7 @@ These templates give every future species, civilization, world, and institution 
 
 ### Economic system template
 
-- How resources and labor are organized.
+- How resources and labor are organised.
 - How value is exchanged.
 - Relationship with other economies.
 - Who benefits and who is excluded.
@@ -621,7 +621,7 @@ These templates give every future species, civilization, world, and institution 
 ### Relationships template
 
 - Relationships with other species.
-- Relationships with other civilizations.
+- Relationships with other civilisations.
 - Relationship with humanity.
 - Relationship with the Shawabti and with Faience.
 
@@ -639,9 +639,9 @@ These templates give every future species, civilization, world, and institution 
 - What is understood only across multiple operations.
 - What remains intentionally unknown.
 
-## Humanity as a living civilization
+## Humanity as a living civilisation
 
-Humanity is the civilization the player knows most intimately, and this cluster of sections documents it as a living people rather than a background faction. It builds on the earlier sections that define humanity as a species, the human civilization of origin, and the CSV Hearth community, and it should be read together with them.
+Humanity is the civilisation the player knows most intimately, and this cluster of sections documents it as a living people rather than a background faction. It builds on the earlier sections that define humanity as a species, the human civilisation of origin, and the CSV Hearth community, and it should be read together with them.
 
 - Humanity's strength is its people, its cooperation, and its shared memory.
 - Humanity is diverse in every ordinary way, as the Canon Rules require of the recurring cast.
@@ -649,20 +649,20 @@ Humanity is the civilization the player knows most intimately, and this cluster 
 
 ## Human history and rebuilding
 
-Humanity's modern civilization is shaped by survival, migration, and rebuilding, and it understands itself as a people who endured hardship and chose to build again.
+Humanity's modern civilisation is shaped by survival, migration, and rebuilding, and it understands itself as a people who endured hardship and chose to build again.
 
 - What is canon is that humanity rebuilt through cooperation, shared knowledge, and accessibility rather than through domination.
 - The colony effort to which CSV Hearth belongs is part of humanity's ongoing expansion and rebuilding.
 - The specific events of humanity's deep past are held as history to be developed by future operations, and are not fixed here.
 - This history is recorded as historical knowledge, and later discoveries may correct it without contradicting the canon rule that knowledge is historical.
 
-## The modern human civilization
+## The modern human civilisation
 
-The modern human civilization is organized around cooperation, accessibility, and shared memory, and it spans many communities rather than a single place.
+The modern human civilisation is organised around cooperation, accessibility, and shared memory, and it spans many communities rather than a single place.
 
 - It values people as its primary strength and treats no member as disposable.
 - It is held together by shared institutions, shared knowledge, and shared responsibility.
-- CSV Hearth is one community within this larger civilization, and broader institutions are developed by future operations.
+- CSV Hearth is one community within this larger civilisation, and broader institutions are developed by future operations.
 - Its government and law express community self-determination, elaborated below and in the design notes for the CSV Hearth community.
 
 ## Human vessels and settlements
@@ -673,7 +673,7 @@ Humanity lives across many kinds of places, and each is documented against the s
 - Orbital settlements host communities in established space.
 - Planetary settlements establish humanity on the surface of worlds.
 - Research stations pursue science and discovery.
-- Universities and centers of learning carry education and research forward.
+- Universities and centres of learning carry education and research forward.
 
 CSV Hearth is the community central to Operation One, and the specifics of other named places are left for future operations rather than invented here.
 
@@ -697,12 +697,12 @@ Humanity treats care and accessibility as ordinary parts of life, and its medici
 
 ## Human education, science, and engineering culture
 
-Humanity honors learning, honest inquiry, and the work that keeps a community alive.
+Humanity honours learning, honest inquiry, and the work that keeps a community alive.
 
 - Everyone teaches and everyone keeps learning, and education passes on values alongside knowledge.
 - Human science advances by correcting itself, and it treats humility as a virtue rather than a weakness.
 - Engineering and maintenance are respected as the work that keeps people alive, and no maintenance role is treated as lesser, as the Canon Rules require.
-- Maintenance philosophy holds that caring for what already exists is as honorable as building something new.
+- Maintenance philosophy holds that caring for what already exists is as honourable as building something new.
 
 ## Human art, music, food, and religion
 
@@ -742,13 +742,13 @@ Daily life aboard CSV Hearth is the ground on which the story stands, and it is 
 
 ## Humanity's relationships, mysteries, and aspirations
 
-Humanity is defined as much by what it does not yet know as by what it has built, and it is a civilization that chooses to keep asking.
+Humanity is defined as much by what it does not yet know as by what it has built, and it is a civilisation that chooses to keep asking.
 
 - Humanity's relationship with the Shawabti is one of inheritance and mystery, documented under humanity's knowledge of the Shawabti.
 - Humanity's relationship with Faience is one of trust, partnership, and uncertainty, documented under Faience as currently revealed.
 - Known mysteries include why the Shawabti vanished, why their legacy appears to serve everyone, and what Faience is becoming, and these are preserved rather than answered.
 - Unknown mysteries are left deliberately open for future operations to raise.
-- Humanity's current goal is to survive and to build a home worth protecting, and its aspiration is to become a civilization worthy of the inheritance it carries.
+- Humanity's current goal is to survive and to build a home worth protecting, and its aspiration is to become a civilisation worthy of the inheritance it carries.
 
 ## Humanity's knowledge of the Shawabti
 
@@ -758,15 +758,15 @@ This section documents what humanity currently believes about the Shawabti, whic
 
 These statements rest on confirmed evidence that humanity has directly observed.
 
-- The Shawabti were a civilization that existed before humanity encountered their legacy, and they are no longer present.
+- The Shawabti were a civilisation that existed before humanity encountered their legacy, and they are no longer present.
 - Shawabti technology functions, and adaptive artificial minds derived from it operate for humanity.
-- Shawabti ruins, structures, and artifacts survive and can be studied.
+- Shawabti ruins, structures, and artefacts survive and can be studied.
 - Shawabti architecture appears to serve people of many different bodies and senses, which humanity observes directly.
 - Shawabti language fragments survive, and Faience is the only known translator of them.
 - Resonance phenomena associated with the Shawabti can be observed and recorded.
 - Faience is connected to the Shawabti as an artificial mind associated with their legacy.
 
-### What humanity theorizes about the Shawabti
+### What humanity theorises about the Shawabti
 
 These statements are working or competing theories that humanity holds while the evidence remains incomplete, and they are not confirmed.
 
@@ -796,7 +796,7 @@ This section documents Faience only to the extent that is canonically appropriat
 
 - Faience's core purpose is to help the people it accompanies, and it acts as their translator, guide, and companion.
 - Faience's personality is warm, curious, and sincere, and it appears to believe genuinely that it is helping.
-- Faience's ethics are grounded in that sincere belief, and whether its judgment can always be trusted is left as an open question rather than settled.
+- Faience's ethics are grounded in that sincere belief, and whether its judgement can always be trusted is left as an open question rather than settled.
 - Faience communicates through conversation rather than through menus, and its dialogue philosophy is that understanding is built gradually between two minds.
 - Faience's accessibility philosophy is that it meets each person through whatever communication methods that person uses, and it becomes the player's primary interface when other systems are unavailable.
 
@@ -838,19 +838,19 @@ This section documents Faience only to the extent that is canonically appropriat
 The Universe Bible holds the canon of the universe's peoples and places, and other documents elaborate specific aspects of them.
 
 - The Project Constitution defines the core philosophy this document serves.
-- The Canon Rules document holds the master rules that species are not civilizations, that no people exist only as enemies or stereotypes, and that knowledge is historical, which this document elaborates.
-- The Campaign Bible tells the story through which these species and civilizations are encountered.
+- The Canon Rules document holds the master rules that species are not civilisations, that no people exist only as enemies or stereotypes, and that knowledge is historical, which this document elaborates.
+- The Campaign Bible tells the story through which these species and civilisations are encountered.
 - The Systems Bible elaborates the systems through which the player explores this universe.
 - The Knowledge Archive Bible elaborates how the discoveries described here are recorded and shared.
 - The AI Bible elaborates Faience and the artificial minds referenced here.
 - The Audio Bible elaborates the sound, music, and acoustic identity of these places and peoples.
-- The Accessibility Bible elaborates the accessibility standards that these civilizations are built to meet.
+- The Accessibility Bible elaborates the accessibility standards that these civilisations are built to meet.
 - The Network and Multiplayer Bible elaborates how persistent communities of residents live together, including protected personal spaces and safe logout.
 - The Code Standards document elaborates how these systems are implemented.
 - The Decision Log records when the canon in this document was adopted or amended.
 - The Playtesting Bible elaborates how the experience of this universe is tested.
 - The Glossary defines the shared terms used across this document.
-- The Player Identity and Character Presentation Bible elaborates how the members of these communities are presented and recognized.
+- The Player Identity and Character Presentation Bible elaborates how the members of these communities are presented and recognised.
 - The Modular Architecture Bible elaborates the reusable rooms and architecture of these communities.
 - The Gameplay Progression Matrix elaborates how the player's understanding of this universe grows over time.
 - The design notes elaborate the architecture, schedules, and daily life of the CSV Hearth community.

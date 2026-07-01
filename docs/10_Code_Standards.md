@@ -19,7 +19,7 @@ Accessibility is not optional work. A feature is not complete until it meets the
 - Every gameplay mechanic must be playable through multiple input and output methods.
 - Important information must never depend on sound alone.
 - Every important action must support multiple activation methods.
-- Every gesture and binding must be customizable.
+- Every gesture and binding must be customisable.
 - Every movement mechanic must have a stationary alternative.
 
 ## Screen-reader and semantic standards
@@ -54,7 +54,7 @@ The current playable web prototype is a React, Vite, and TypeScript application 
 
 ## Repository structure
 
-The repository separates applications from generated artifacts.
+The repository separates applications from generated artefacts.
 
 The target application layout, adopted once the shared architecture is established, is the following.
 
@@ -69,7 +69,7 @@ The `artifacts/` folder is reserved for generated outputs rather than source app
 - Demonstrations
 - Recordings
 - Exported packages
-- Temporary prototype artifacts
+- Temporary prototype artefacts
 
 The current playable web prototype still lives under `artifacts/resonance` and will move to `apps/web` once the shared architecture is established. Until then it remains the working reference. The migration is tracked in Open Questions.
 

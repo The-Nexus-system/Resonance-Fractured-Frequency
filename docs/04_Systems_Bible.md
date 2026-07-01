@@ -21,7 +21,7 @@ The game is mobile-first. Every gameplay mechanic must be fully playable using t
 - No braille display required.
 - No screen reader required.
 
-The game provides its own spoken interface while allowing players to choose between the game's speech and their own screen reader where appropriate. Players may fully customize gestures.
+The game provides its own spoken interface while allowing players to choose between the game's speech and their own screen reader where appropriate. Players may fully customise gestures.
 
 ## Touch controls
 

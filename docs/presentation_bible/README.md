@@ -4,7 +4,7 @@ This is the definitive cross-discipline reference for how people are presented i
 
 This bible defers to the Canon Rules document, which remains the authority. Where any wording here appears to differ from a canon rule, the canon rule governs. The Character Identity Map is the locked source for each recurring character's profession, ethnicity, gender, pronouns, and disability, and every other part rests on it.
 
-## How This Bible Is Organized
+## How This Bible Is Organised
 
 The bible is a set of documents in this folder. Read the Character Identity Map first, then any part relevant to your discipline. Each part is self-contained but assumes the identities and philosophy established in the earlier foundational parts.
 
@@ -15,21 +15,21 @@ The bible is a set of documents in this folder. Read the Character Identity Map 
 ## The Twelve Parts
 
 - Part I, Philosophy of Character Presentation, in 01_Philosophy.md, explains why Resonance presents people the way it does.
-- Part II, Player Identity, in 02_Player_Identity.md, covers the player's original character, creation flow, and customization.
+- Part II, Player Identity, in 02_Player_Identity.md, covers the player's original character, creation flow, and customisation.
 - Part III, Visual Design Standards, in 03_Visual_Design_Standards.md, covers appearance, clothing, equipment, and silhouette recognition.
-- Part IV, Audio Identity, in 04_Audio_Identity.md, covers voice, cadence, and the signature sounds that make each person recognizable by ear.
+- Part IV, Audio Identity, in 04_Audio_Identity.md, covers voice, cadence, and the signature sounds that make each person recognisable by ear.
 - Part V, Accessibility Presentation, in 05_Accessibility_Presentation.md, covers blind-first and audio-first description, captions, sign, tactile information, and DeafBlind communication.
 - Part VI, Canonical Character Profiles, in 06_Canonical_Character_Profiles.md, gives each recurring character a full presentation profile.
 - Part VII, The Vale System, in 07_The_Vale_System.md, is the deep reference for the one shared body and its four members.
 - Part VIII, Cultural Presentation, in 08_Cultural_Presentation.md, covers cultural expression and the respect framework for Indigenous representation.
 - Part IX, Animation, in 09_Animation.md, covers movement and its required audio and tactile equivalents.
 - Part X, Portraits and Avatars, in 10_Portraits_and_Avatars.md, covers portrait standards and the player avatar.
-- Part XI, Technical Standards, in 11_Technical_Standards.md, covers naming conventions, accessibility metadata, localization, and modding.
-- Part XII, Future Expansion, in 12_Future_Expansion.md, covers how to add characters, species, and civilizations without breaking consistency.
+- Part XI, Technical Standards, in 11_Technical_Standards.md, covers naming conventions, accessibility metadata, localisation, and modding.
+- Part XII, Future Expansion, in 12_Future_Expansion.md, covers how to add characters, species, and civilisations without breaking consistency.
 
 ## The Recognition Matrix
 
-- The Recognition Matrix, in 13_Recognition_Matrix.md, records how each recurring character is recognized by a blind player, a Deaf player, a low-vision player, a child, a coworker, a close friend, and a stranger, and how recognition deepens after five minutes, five hours, and fifty hours of play.
+- The Recognition Matrix, in 13_Recognition_Matrix.md, records how each recurring character is recognised by a blind player, a Deaf player, a low-vision player, a child, a coworker, a close friend, and a stranger, and how recognition deepens after five minutes, five hours, and fifty hours of play.
 
 ## Open Development Items
 

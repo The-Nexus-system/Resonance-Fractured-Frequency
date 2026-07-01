@@ -1,6 +1,6 @@
 # Technical Standards
 
-This document defines the technical standards for naming, organizing, and describing the presentation assets of Resonance: Fractured Frequency. It is written for technical artists, animators, audio designers, UI designers, gameplay programmers, localization engineers, accessibility engineers, and tools developers. Consistent naming and organization are not bureaucracy; they are how a large, accessibility-first project keeps its promises across many contributors and many Operations. These standards make assets findable, reviewable, and safe to change.
+This document defines the technical standards for naming, organising, and describing the presentation assets of Resonance: Fractured Frequency. It is written for technical artists, animators, audio designers, UI designers, gameplay programmers, localisation engineers, accessibility engineers, and tools developers. Consistent naming and organisation are not bureaucracy; they are how a large, accessibility-first project keeps its promises across many contributors and many Operations. These standards make assets findable, reviewable, and safe to change.
 
 This document rests on two higher authorities and never contradicts them. The Canon Rules document is the canon authority. The Character Identity Map is the locked source for each recurring character's profession, ethnicity, gender, pronouns, and disability. Where any guidance here appears to differ from those documents, those documents govern. This file defines craft and pipeline standards; it does not invent character biography, ship history, place names, or new game systems.
 
@@ -10,14 +10,14 @@ The technical standards exist to serve the same pillars as the rest of the bible
 
 ### Consistency Over Cleverness
 
-- Naming conventions favor predictability and readability over brevity or cleverness, so any contributor can guess a name correctly.
+- Naming conventions favour predictability and readability over brevity or cleverness, so any contributor can guess a name correctly.
 - A convention, once adopted, is applied uniformly across every asset type rather than varied per team.
 - When a convention does not fit a case, the case is raised for a documented decision rather than solved with a one-off name.
 
 ### Every Visual Asset Has an Accessible Counterpart
 
 - No visual asset is considered complete without its accessible counterparts, which include an audio equivalent where relevant and an authored description for screen reader and braille output.
-- Naming and organization explicitly link a visual asset to its audio, tactile, and text-description counterparts so none can be shipped orphaned.
+- Naming and organisation explicitly link a visual asset to its audio, tactile, and text-description counterparts so none can be shipped orphaned.
 - Accessibility metadata travels with the asset and is never stored only in a separate document that can drift.
 
 ### Identity-Locked Naming
@@ -108,15 +108,15 @@ Animation naming extends the general structure with the specifics that animation
 - Tactile signing clips use a distinct descriptor such as sign-tactile so they are not confused with visual signing.
 - AAC animation clips use the aac category for Mira Ives, paired with an audio companion carrying her authored communication voice.
 
-## Portrait File Organization
+## Portrait File Organisation
 
-Portrait organization keeps every character's canonical portrait, its states, and its paired audio-first description together and findable, honoring the rule that portraits represent belonging.
+Portrait organisation keeps every character's canonical portrait, its states, and its paired audio-first description together and findable, honouring the rule that portraits represent belonging.
 
 ### Portrait Directory Structure Standards
 
-- Portraits are organized under a portraits root, then by subject using the character identifier, so each character has a single home for their portrait assets.
+- Portraits are organised under a portraits root, then by subject using the character identifier, so each character has a single home for their portrait assets.
 - Within a character's portrait directory, files are grouped by state and variant, including belonging and pre-belonging illumination states.
-- The player avatar's generated portrait is organized under the player-avatar subject so it never mixes with recurring character portraits.
+- The player avatar's generated portrait is organised under the player-avatar subject so it never mixes with recurring character portraits.
 
 ### Portrait File Name Standards
 
@@ -124,11 +124,11 @@ Portrait organization keeps every character's canonical portrait, its states, an
 - The illumination variant uses belonging for the illuminated belonging state and prebelonging for states before a character is fully home.
 - Emotional variants use the shared state vocabulary so a concerned portrait and its description are named consistently.
 
-### Vale System Portrait Organization
+### Vale System Portrait Organisation
 
 - The Vale System has one portrait home under the vale-system subject, containing the one shared body, with member presentation expressed through the member field, for example port_vale-system_member-iris_calm_belonging_01.
 - Constant-body reference assets omit the member field, for example port_vale-system_body_reference_01.
-- No portrait organization may create four separate portrait homes for the Vale System.
+- No portrait organisation may create four separate portrait homes for the Vale System.
 
 ### Paired Description File Standards
 
@@ -138,7 +138,7 @@ Portrait organization keeps every character's canonical portrait, its states, an
 
 ## Audio Naming
 
-Audio naming reflects that audio is gameplay, so audio assets are first-class and are organized with the same rigor as visual assets, and they route to the correct independent volume channels.
+Audio naming reflects that audio is gameplay, so audio assets are first-class and are organised with the same rigour as visual assets, and they route to the correct independent volume channels.
 
 ### Audio Asset Name Standards
 
@@ -177,7 +177,7 @@ Accessibility metadata is the structured information that makes every asset usab
 ### Description Metadata Standards
 
 - Text descriptions are authored for screen reader and braille output, are written as complete blind-friendly descriptions, and are stored in the paired description asset rather than as a terse stub.
-- Description metadata identifies the subject using the character identifier and honors the Character Identity Map, so a description never contradicts canon.
+- Description metadata identifies the subject using the character identifier and honours the Character Identity Map, so a description never contradicts canon.
 - Vale System descriptions describe one body presenting the current member, and Faience descriptions never assign human ethnicity or gender.
 
 ### Recognition and Non-Label Metadata Standards
@@ -192,33 +192,33 @@ Accessibility metadata is the structured information that makes every asset usab
 - Assets carry metadata for any strong sensory content so players can manage their experience through the independent settings described in the Accessibility Bible.
 - No asset relies on a single sensory channel for critical information, and metadata records which channels carry each critical cue.
 
-## Localization Support
+## Localisation Support
 
-Localization support ensures the game's language and communication can adapt across cultures and communication styles, consistent with the canon that communication diversity is ordinary and that no identity is the default.
+Localisation support ensures the game's language and communication can adapt across cultures and communication styles, consistent with the canon that communication diversity is ordinary and that no identity is the default.
 
-### Localizable Content Separation Standards
+### Localisable Content Separation Standards
 
-- All player-facing text, including audio-first descriptions and captions, is stored as localizable content keyed by a stable identifier rather than embedded in assets, so translation never requires rebuilding art or audio.
-- Localization keys derive from the asset name so a description key clearly maps to its portrait or animation, for example a key based on desc_jonah-briggs_calm_belonging_01.
-- Non-localizable technical identifiers, such as character identifiers and asset names, remain in stable ASCII form and are never translated.
+- All player-facing text, including audio-first descriptions and captions, is stored as localisable content keyed by a stable identifier rather than embedded in assets, so translation never requires rebuilding art or audio.
+- Localisation keys derive from the asset name so a description key clearly maps to its portrait or animation, for example a key based on desc_jonah-briggs_calm_belonging_01.
+- Non-localisable technical identifiers, such as character identifiers and asset names, remain in stable ASCII form and are never translated.
 
 ### Multilingual and Sign Language Support Standards
 
-- Localization accommodates multilingual communication and sign language as first-class content, and signed content is referenced by stable keys with the specific language defined by the writing team rather than invented here.
-- Captions and text descriptions are localizable for every supported language, and speech output is provided so no player depends on reading alone.
-- Braille output is supported for localized text so braille readers receive the same content as other players.
+- Localisation accommodates multilingual communication and sign language as first-class content, and signed content is referenced by stable keys with the specific language defined by the writing team rather than invented here.
+- Captions and text descriptions are localisable for every supported language, and speech output is provided so no player depends on reading alone.
+- Braille output is supported for localised text so braille readers receive the same content as other players.
 
-### Cultural Sensitivity in Localization Standards
+### Cultural Sensitivity in Localisation Standards
 
-- Localization respects cultural specificity and never flattens characters into stereotypes, consistent with representation being character-first and never tokenistic.
-- Content for characters whose culture is undeveloped in canon, such as Talia Rusk, is not given invented cultural or linguistic detail through localization, and such development waits for appropriate cultural consultation.
-- Pronoun and gender language is localized carefully so each character's current identity is expressed respectfully in every language.
+- Localisation respects cultural specificity and never flattens characters into stereotypes, consistent with representation being character-first and never tokenistic.
+- Content for characters whose culture is undeveloped in canon, such as Talia Rusk, is not given invented cultural or linguistic detail through localisation, and such development waits for appropriate cultural consultation.
+- Pronoun and gender language is localised carefully so each character's current identity is expressed respectfully in every language.
 
-### Localization Metadata Standards
+### Localisation Metadata Standards
 
-- Each localizable string carries metadata for its context, its speaker or subject where relevant, and any constraints such as length limits for captions.
-- Localization metadata records which output methods a string serves, including speech, captions, and braille, so no method is missed.
-- Localization metadata references the Character Identity Map for speaker identity so translators have accurate, canon-aligned context.
+- Each localisable string carries metadata for its context, its speaker or subject where relevant, and any constraints such as length limits for captions.
+- Localisation metadata records which output methods a string serves, including speech, captions, and braille, so no method is missed.
+- Localisation metadata references the Character Identity Map for speaker identity so translators have accurate, canon-aligned context.
 
 ## Modding Considerations
 
@@ -240,11 +240,11 @@ Modding considerations describe how community-created content can extend Resonan
 
 - Mod-added visual content is expected to provide the same accessible counterparts as canonical content, including audio equivalents where relevant, tactile equivalents for gameplay-relevant cues, and authored text descriptions.
 - Mod audio declares its channel so it integrates with the independent volume channels rather than overriding a player's settings.
-- Mod content honors seizure-safe presentation and never makes critical information depend on a single sensory channel.
+- Mod content honours seizure-safe presentation and never makes critical information depend on a single sensory channel.
 
 ### Mod Review and Safety Standards
 
-- Mod content is expected to pass a representation and accessibility review analogous to the review used before canonizing content, so community content upholds the project's promises.
+- Mod content is expected to pass a representation and accessibility review analogous to the review used before canonising content, so community content upholds the project's promises.
 - Mods never bypass a player's individual accessibility settings, and in shared play one player's mod content must not alter another player's experience, consistent with the multiplayer accessibility rule.
 - Cultural content in mods follows the same care as canon, and content touching undeveloped areas such as Talia Rusk's culture is held to the standard of respectful, consulted development rather than casual invention.
 
@@ -255,7 +255,7 @@ Every asset is checked against these technical standards before acceptance, so c
 ### Naming Compliance Criteria
 
 - The asset name follows the general structure, uses only approved delimiters and lowercase ASCII, and draws its fields from the shared vocabulary.
-- The subject field uses a canonical identifier that honors the Character Identity Map, and Vale System assets read as one body presenting a member.
+- The subject field uses a canonical identifier that honours the Character Identity Map, and Vale System assets read as one body presenting a member.
 - Any new vocabulary term used in the name has been added by documented decision rather than invented ad hoc.
 
 ### Accessibility Compliance Criteria
@@ -268,4 +268,4 @@ Every asset is checked against these technical standards before acceptance, so c
 
 - The asset does not contradict the Canon Rules or the Character Identity Map, and it preserves recognition without forcing interface labels.
 - Undeveloped cultural and gender content is kept open rather than invented, consistent with the open development items in the Character Identity Map.
-- Localizable content is separated from assets with stable keys, and mod content, where present, respects the mod namespace and content boundaries.
+- Localisable content is separated from assets with stable keys, and mod content, where present, respects the mod namespace and content boundaries.

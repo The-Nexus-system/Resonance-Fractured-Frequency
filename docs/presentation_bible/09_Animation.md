@@ -1,6 +1,6 @@
 # Animation
 
-This document defines the animation standards for the recurring cast of Resonance: Fractured Frequency. It is written for animators, technical animators, audio designers, gameplay programmers, and accessibility engineers. It treats movement as a language the player learns to read, the same way the player learns a voice or a professional habit. In Resonance, the player recognizes people through observation rather than labels, and animation is one of the strongest signals that carries recognition. Every posture, gait, and gesture in this bible is designed so a returning player knows who is present before a single word is spoken.
+This document defines the animation standards for the recurring cast of Resonance: Fractured Frequency. It is written for animators, technical animators, audio designers, gameplay programmers, and accessibility engineers. It treats movement as a language the player learns to read, the same way the player learns a voice or a professional habit. In Resonance, the player recognises people through observation rather than labels, and animation is one of the strongest signals that carries recognition. Every posture, gait, and gesture in this bible is designed so a returning player knows who is present before a single word is spoken.
 
 This document rests on two higher authorities and never contradicts them. The Canon Rules document is the canon authority. The Character Identity Map is the locked source for each recurring character's profession, ethnicity, gender, pronouns, and disability. Where any guidance here appears to differ from those documents, those documents govern. This file defines craft standards and presentation philosophy; it does not create character biography, ship history, or new game systems.
 
@@ -32,13 +32,13 @@ Because DeafBlind play is a first-class way to experience Resonance, animations 
 The player learns each recurring character as a moving silhouette with a signature rhythm. Animation is a recognition system first and a spectacle second.
 
 - Each recurring character should have a distinct movement signature made of gait rhythm, posture, gesture vocabulary, and characteristic pauses.
-- Recognition must be legible without the interface naming the character, honoring the canon rule that the world teaches the player who people are.
+- Recognition must be legible without the interface naming the character, honouring the canon rule that the world teaches the player who people are.
 - Movement signatures must remain consistent across chapters so returning players keep their hard-won recognition, while still allowing the character to change through fatigue, injury, growth, and emotion.
 - No two recurring characters should share a movement signature closely enough to be confused in normal play.
 
 ### Animation and the Vale System
 
-The Vale System is one shared body inhabited by four members who front in turn. Animation is one of the primary ways the player recognizes which member is present, because the body never transforms and only its presentation changes. This principle governs every Vale System animation in this document and is expanded in its own section below.
+The Vale System is one shared body inhabited by four members who front in turn. Animation is one of the primary ways the player recognises which member is present, because the body never transforms and only its presentation changes. This principle governs every Vale System animation in this document and is expanded in its own section below.
 
 - The body, height, build, and accessibility equipment stay constant across all four members.
 - Posture, gait rhythm, gesture vocabulary, resting stance, and breathing pattern change with whoever is fronting.
@@ -52,7 +52,7 @@ Disability shapes characters without defining them, so animation portrays disabi
 - Assistive equipment is standard equipment and is animated with the same care and confidence as any other tool, never as a burden or a symbol of pity.
 - Movements that express disability should read as skilled and habitual, because these characters have lived in their bodies their whole lives.
 - Animation must avoid inspiration framing, exaggerated effort, or camera emphasis that treats ordinary movement as remarkable.
-- Cultural movement, especially for Native characters, is never invented or stylized casually; where a character's culture is undeveloped in canon, animation stays with universal, personal movement rather than inventing cultural gesture.
+- Cultural movement, especially for Native characters, is never invented or stylised casually; where a character's culture is undeveloped in canon, animation stays with universal, personal movement rather than inventing cultural gesture.
 
 ## Idle Animations
 
@@ -84,7 +84,7 @@ Every idle is built from layers so it can express state without new full-body ca
 
 - Mara Chen rests with a listening orientation, head slightly turned to bring sound in, one hand often near a surface she can read by touch, her weight settled and ready to move by sound; her idle audio includes the soft cues of her engineering helmet and navigation faceplate.
 - Doctor Samira Kade holds a still, observant idle that reads a room by sight and vibration, with her sleeve projector producing a soft mechanical whisper that is her signature presence sound.
-- Rowan Ives favors an idle that protects his joints, shifting weight to manage chronic pain and arthritis, choosing supported stances and small position changes rather than long rigid holds.
+- Rowan Ives favours an idle that protects his joints, shifting weight to manage chronic pain and arthritis, choosing supported stances and small position changes rather than long rigid holds.
 - Mira Ives has a mobile, expressive child idle with self-regulating motion, and her neural-interface augmentative and alternative communication system is visibly and audibly present as an ordinary part of how she exists in a space.
 - Chief Petty Officer Jonah Briggs holds a calm, grounded idle with an even breathing rhythm, matching the calm voice that reads out priorities.
 - Security Lead Talia Rusk keeps a steady, aware idle with balanced weight over her prosthetic limb, oriented toward the people she is protecting.
@@ -98,7 +98,7 @@ Walking is the most frequent locomotion in the game and the strongest ongoing re
 
 ### Walking Cadence and Signature
 
-- Each walking character has an authored cadence, stride length, weight transfer, and arm motion that together form a recognizable rhythm.
+- Each walking character has an authored cadence, stride length, weight transfer, and arm motion that together form a recognisable rhythm.
 - Cadence must remain stable enough across chapters to preserve recognition while still responding to state.
 - Turning, starting, and stopping are authored transitions, not snapped changes, so the character's rhythm reads as continuous.
 
@@ -131,13 +131,13 @@ Running expresses urgency and effort and appears most often in emergencies. Run 
 
 ### Running Effort and Character
 
-- Running preserves recognizable cadence and posture so the player still knows who is present even at speed.
+- Running preserves recognisable cadence and posture so the player still knows who is present even at speed.
 - Effort is expressed through posture, breathing, and recovery rather than through exaggerated strain that undermines dignity.
 - Deceleration and recovery after running are authored so effort has a visible and audible aftermath.
 
 ### Running Audio Standards
 
-- Running footsteps are faster, heavier, and more forceful than walking, and remain individually recognizable per character.
+- Running footsteps are faster, heavier, and more forceful than walking, and remain individually recognisable per character.
 - Breathing becomes a prominent audio cue during and after running and is authored per character and per state.
 - Running audio carries urgency and therefore commonly reaches both the environmental ambience and navigation channels.
 
@@ -150,7 +150,7 @@ Running expresses urgency and effort and appears most often in emergencies. Run 
 ### Running Considerations for Mobility Diversity
 
 - Not every character runs on foot; for wheelchair users, the urgent locomotion equivalent is rapid propulsion, covered under wheelchair propulsion.
-- Characters with chronic pain, such as Rowan Ives, express urgency through the fastest movement their body sustains rather than an idealized sprint, and this is portrayed as capable and real.
+- Characters with chronic pain, such as Rowan Ives, express urgency through the fastest movement their body sustains rather than an idealised sprint, and this is portrayed as capable and real.
 - Talia Rusk's urgent movement over her prosthetic limb is authored as fast, controlled, and skilled.
 
 ## Wheelchair Propulsion
@@ -208,7 +208,7 @@ Mara Chen navigates by sound, vibration, and touch, using an engineering helmet 
 ### Cane Technique Standards
 
 - Cane travel is animated with authored, technique-accurate sweeps, contacts, and shorelining that read as skilled orientation.
-- The character's overall posture during cane travel is confident and upright, consistent with an experienced traveler.
+- The character's overall posture during cane travel is confident and upright, consistent with an experienced traveller.
 - For Mara, cane use, where shown, works together with her helmet and faceplate as complementary tools rather than competing ones.
 
 ### Cane Travel Audio Standards
@@ -255,13 +255,13 @@ Mira Ives communicates through a visible neural-interface augmentative and alter
 
 ### AAC Interaction Standards
 
-- Mira's use of her neural-interface system is animated as fluent and personal, expressing her own voice, humor, and urgency rather than reading as mechanical or slow.
+- Mira's use of her neural-interface system is animated as fluent and personal, expressing her own voice, humour, and urgency rather than reading as mechanical or slow.
 - The device is visibly present and is treated as an ordinary part of who Mira is, never hidden or framed as a limitation.
 - Body language and expression accompany AAC use so Mira's whole body participates in communicating, consistent with an expressive child.
 
 ### AAC Audio Standards
 
-- AAC output has an authored voice presentation that is consistent and recognizable as Mira's communication, delivered through the dialogue channel.
+- AAC output has an authored voice presentation that is consistent and recognisable as Mira's communication, delivered through the dialogue channel.
 - The act of composing and sending AAC communication has subtle authored audio so the interaction is legible, without turning ordinary speech into spectacle.
 
 ### AAC Tactile Standards
@@ -291,7 +291,7 @@ Emotional gesture is a core recognition and storytelling channel. Each recurring
 
 ### Emotional Expression and the Vale System
 
-- Emotional expression, sense of humor, and gesture vocabulary change with whoever is fronting in the Vale System, and are among the strongest signals of which member is present.
+- Emotional expression, sense of humour, and gesture vocabulary change with whoever is fronting in the Vale System, and are among the strongest signals of which member is present.
 - The four members' emotional gesture sets are distinct from one another, so the player reads the current member partly through how the shared body expresses feeling.
 
 ## Professional Movements
@@ -331,7 +331,7 @@ Fatigue is a state layer applied across idle, walking, running, propulsion, and 
 
 ### Fatigue State Standards
 
-- Fatigue biases posture, slows cadence, reduces gesture amplitude, and lengthens recovery, while keeping each character recognizable.
+- Fatigue biases posture, slows cadence, reduces gesture amplitude, and lengthens recovery, while keeping each character recognisable.
 - Fatigue is expressed truthfully and without pity, as an ordinary consequence of hard work.
 - Characters with chronic conditions, such as Rowan Ives with chronic pain and arthritis, express fatigue in ways specific to their bodies, and this is portrayed as lived experience rather than tragedy.
 
@@ -367,7 +367,7 @@ Injury is a state that alters movement to reflect harm, always within the bounds
 
 ## Recovery
 
-Recovery is the return from fatigue or injury toward a character's baseline, and it honors the canon that players recover from mistakes whenever narratively reasonable and that consequences become part of the continuing story. Recovery is animated as a real process rather than an instant reset.
+Recovery is the return from fatigue or injury toward a character's baseline, and it honours the canon that players recover from mistakes whenever narratively reasonable and that consequences become part of the continuing story. Recovery is animated as a real process rather than an instant reset.
 
 ### Recovery Process Standards
 
@@ -387,11 +387,11 @@ Recovery is the return from fatigue or injury toward a character's baseline, and
 
 ## Vale System Animation
 
-The Vale System is one shared body inhabited by four members who front in turn, and animation is central to how the player recognizes which member is present. This section governs every Vale System animation and always takes precedence over any general guidance above where the two meet.
+The Vale System is one shared body inhabited by four members who front in turn, and animation is central to how the player recognises which member is present. This section governs every Vale System animation and always takes precedence over any general guidance above where the two meet.
 
 ### Constant Body Standards for the Vale System
 
-- The shared body, its height and build, its face, hair, eye color, and skin tone, its scars and medical history, its accessibility equipment, its uniform design and rank insignia, its department, and its command authority never change between members.
+- The shared body, its height and build, its face, hair, eye colour, and skin tone, its scars and medical history, its accessibility equipment, its uniform design and rank insignia, its department, and its command authority never change between members.
 - The rig, proportions, and equipment are identical across all four members, because the body never transforms.
 - Personal identifiers such as name tape, badge, wrist display, communicator profile, terminal displays, and command login update automatically as ordinary ship operations when a member fronts, and any depiction of these updates is treated as routine rather than ceremony.
 
@@ -399,26 +399,26 @@ The Vale System is one shared body inhabited by four members who front in turn, 
 
 - Posture, resting stance, standing stance, gait rhythm, and preferred stance change with the fronting member and are authored distinctly for each.
 - Breathing pattern, facial expression, eye focus, head position, hand placement, and gesture vocabulary change with the fronting member.
-- Leadership philosophy, decision-making style, professional priorities, emotional expression, and sense of humor change with the fronting member and are reflected in how the body moves and holds itself.
+- Leadership philosophy, decision-making style, professional priorities, emotional expression, and sense of humour change with the fronting member and are reflected in how the body moves and holds itself.
 
 ### Fronting Recognition Through Animation
 
 - A change in fronting is almost never announced, so animation must carry it through a shift in posture, gait, gesture, and stance, supported by voice and audio.
 - The transition between members is authored so the player perceives a change in the person without the body transforming, and recognition emerges through observation rather than exposition.
-- The four members' movement signatures must be distinct enough that a practiced player recognizes the current member before they speak.
+- The four members' movement signatures must be distinct enough that a practiced player recognises the current member before they speak.
 
 ### Member Movement Signatures for the Vale System
 
 - Elian meets ordinary mornings and community leadership and should move with an approachable, community-facing ease, in keeping with genderfluid presentation whose specifics follow Elian's current identity.
 - Naomi meets emergencies, operations, and coordination and should move with decisive, efficient, operational energy.
 - Gideon meets strategy, navigation, and failing systems and should move with a measured, analytical, reading-the-situation stillness and precision.
-- Iris meets civilian planning and diplomacy and should move with a steadying, attentive, people-centered warmth.
+- Iris meets civilian planning and diplomacy and should move with a steadying, attentive, people-centred warmth.
 
 ### Vale System Audio and Tactile Standards
 
 - Voice, accent, vocabulary, breathing, and speech rhythm change with the fronting member and are among the strongest audio recognition cues, delivered through the dialogue channel.
 - Movement audio such as footstep cadence follows the fronting member's gait, so the body sounds different depending on who is present, while remaining one body.
-- Tactile approach cues for the Vale System carry the fronting member's cadence and energy so a practiced DeafBlind player can begin to recognize the current member through movement rhythm.
+- Tactile approach cues for the Vale System carry the fronting member's cadence and energy so a practiced DeafBlind player can begin to recognise the current member through movement rhythm.
 
 ## Special Animation Cases
 

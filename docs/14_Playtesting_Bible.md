@@ -38,10 +38,10 @@ Beyond player groups, testing must cover experiences and conditions that cut acr
 - Every important action can be reached and performed through more than one input method.
 - Important information is never conveyed by sound alone.
 - Captions, braille, speech, haptics, and the tactile language each carry the information they are responsible for.
-- Reality-integrated navigation always prioritizes real-world safety and can be replayed on demand.
+- Reality-integrated navigation always prioritises real-world safety and can be replayed on demand.
 - Timed actions are removed or greatly extended when no auditory input is selected in single-player.
 - Accessibility settings are individual in multiplayer and never change another player's experience.
-- Gestures and bindings are fully customizable, with no single mandatory gesture.
+- Gestures and bindings are fully customisable, with no single mandatory gesture.
 
 ## How testing informs the documents
 

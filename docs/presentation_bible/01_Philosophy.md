@@ -14,11 +14,11 @@ Resonance is a sound-first, accessibility-first game, and its approach to people
 
 Audio is gameplay in Resonance, and this changes what character presentation means. A character is not primarily a face and a silhouette that a player looks at; a character is a voice, a breathing pattern, a walking rhythm, a set of environmental sounds, and a way of communicating, any of which may reach the player before an image does or without an image at all. Presentation in this game is therefore designed to be legible by ear first, and legible by sight, touch, and text as equal partners rather than as fallbacks.
 
-This premise means that every recurring character must be recognizable through more than appearance. It also means that the audio identity of a character is not decoration added after the visual design is finished. Voice, accent, speech rhythm, movement sound, and environmental sound are authored as primary attributes of who a person is, and the Audio Bible owns the detail of how those attributes are produced.
+This premise means that every recurring character must be recognisable through more than appearance. It also means that the audio identity of a character is not decoration added after the visual design is finished. Voice, accent, speech rhythm, movement sound, and environmental sound are authored as primary attributes of who a person is, and the Audio Bible owns the detail of how those attributes are produced.
 
 ### Presentation as a Promise to the Player
 
-The canon treats each rule as a promise the game keeps to its players. Presentation is one of those promises. It promises that people will be shown as whole, that they will be recognizable through attention rather than through labels, that no one aboard will be reduced to a single trait, and that a player who cannot see, cannot hear, or moves differently will still meet everyone fully. Every presentation choice is measured against whether it keeps that promise.
+The canon treats each rule as a promise the game keeps to its players. Presentation is one of those promises. It promises that people will be shown as whole, that they will be recognisable through attention rather than through labels, that no one aboard will be reduced to a single trait, and that a player who cannot see, cannot hear, or moves differently will still meet everyone fully. Every presentation choice is measured against whether it keeps that promise.
 
 ### Presentation Serving the Central Themes
 
@@ -26,7 +26,7 @@ Every system in Resonance is meant to reinforce the central themes of community,
 
 ## Recognition Through Observation
 
-The single most important principle in this document is that people become known through observation rather than through labels. The canon states that recurring characters become recognizable naturally, that the interface should rarely identify a recurring character, and that the world teaches the player who people are. Everything about presentation is built to make that possible.
+The single most important principle in this document is that people become known through observation rather than through labels. The canon states that recurring characters become recognisable naturally, that the interface should rarely identify a recurring character, and that the world teaches the player who people are. Everything about presentation is built to make that possible.
 
 ### The Signals the Player Learns To Read
 
@@ -49,7 +49,7 @@ This restraint is not a refusal of information. Accessibility requires that play
 
 ### Understanding Earned Separately From History
 
-The canon separates the history the player's actions create from the understanding the player's observations create, and notes that the two are not always acquired at the same time. Presentation lives on the understanding side. A player may work beside a person for hours and only later come to recognize them fully, and that gradual arrival is intended. Presentation is designed to reward the patient, repeated attention through which understanding is earned, rather than to hand understanding over at first contact.
+The canon separates the history the player's actions create from the understanding the player's observations create, and notes that the two are not always acquired at the same time. Presentation lives on the understanding side. A player may work beside a person for hours and only later come to recognise them fully, and that gradual arrival is intended. Presentation is designed to reward the patient, repeated attention through which understanding is earned, rather than to hand understanding over at first contact.
 
 ## Accessibility as Presentation
 
@@ -57,19 +57,19 @@ Accessibility in Resonance is foundational, not an overlay, and this document tr
 
 ### Accessibility Is Standard Equipment, Not Special Equipment
 
-The canon states that no accessibility feature is special equipment, that accessibility technology is standard equipment aboard human vessels, and that crew members customize interfaces rather than requesting permission to use them. Presentation follows this exactly. A character's accessibility equipment is shown as ordinary working gear, never as a marker of struggle, never as a device the character must justify, and never as a spectacle. It is presented the way any competent professional's tools are presented, because that is what it is.
+The canon states that no accessibility feature is special equipment, that accessibility technology is standard equipment aboard human vessels, and that crew members customise interfaces rather than requesting permission to use them. Presentation follows this exactly. A character's accessibility equipment is shown as ordinary working gear, never as a marker of struggle, never as a device the character must justify, and never as a spectacle. It is presented the way any competent professional's tools are presented, because that is what it is.
 
 ### Accessibility Devices as Part of Identity
 
-The Character Identity Map records specific accessibility realities for recurring characters, and each is treated as part of that person's presentation rather than as an add-on. Mara Chen navigates by sound, vibration, and touch and uses an engineering helmet whose navigation faceplate turns visual data into audio and tactile cues, and this is presented as central to how she works and how she is recognized. Doctor Samira Kade is Deaf, reads a room by sight and vibration, and communicates through a sleeve projector that shows sign or live text, and the soft mechanical sound of that projector is part of how her presence is known. Rowan Ives lives with chronic pain and arthritis and has redesigned his work around his condition, which is presented as expertise and adaptation rather than limitation. Mira Ives communicates through a visible neural-interface augmentative and alternative communication system, presented as an ordinary and complete way of speaking. Chief Petty Officer Jonah Briggs lives with epilepsy, and the ship's seizure-safe lighting is standard design rather than an accommodation made for him. Talia Rusk is a lower-limb amputee who uses a prosthetic limb, presented as part of how she moves and works. Doctor Soren Qadir is a wheelchair user with a repulsor-assisted chair and a manual backup, presented as part of how he moves through the ship and how his presence sounds.
+The Character Identity Map records specific accessibility realities for recurring characters, and each is treated as part of that person's presentation rather than as an add-on. Mara Chen navigates by sound, vibration, and touch and uses an engineering helmet whose navigation faceplate turns visual data into audio and tactile cues, and this is presented as central to how she works and how she is recognised. Doctor Samira Kade is Deaf, reads a room by sight and vibration, and communicates through a sleeve projector that shows sign or live text, and the soft mechanical sound of that projector is part of how her presence is known. Rowan Ives lives with chronic pain and arthritis and has redesigned his work around his condition, which is presented as expertise and adaptation rather than limitation. Mira Ives communicates through a visible neural-interface augmentative and alternative communication system, presented as an ordinary and complete way of speaking. Chief Petty Officer Jonah Briggs lives with epilepsy, and the ship's seizure-safe lighting is standard design rather than an accommodation made for him. Talia Rusk is a lower-limb amputee who uses a prosthetic limb, presented as part of how she moves and works. Doctor Soren Qadir is a wheelchair user with a repulsor-assisted chair and a manual backup, presented as part of how he moves through the ship and how his presence sounds.
 
 ### Disability Shapes Characters Without Defining Them
 
-The canon states that disability shapes perspective, problem solving, communication, and relationships, and never defines a character's entire identity. Presentation holds both halves of this rule at once. A character's disability is never hidden, minimized, or treated as shameful, because it genuinely shapes who they are and how they work. At the same time, a character is never reduced to their disability, because they are a complete person with history, personality, strengths, flaws, relationships, goals, and growth. The craft goal is to present disability as one true and meaningful part of a whole person.
+The canon states that disability shapes perspective, problem solving, communication, and relationships, and never defines a character's entire identity. Presentation holds both halves of this rule at once. A character's disability is never hidden, minimised, or treated as shameful, because it genuinely shapes who they are and how they work. At the same time, a character is never reduced to their disability, because they are a complete person with history, personality, strengths, flaws, relationships, goals, and growth. The craft goal is to present disability as one true and meaningful part of a whole person.
 
 ### Presentation That Is Legible Through Every Channel
 
-Because important information may never depend on a single sense, presentation is authored to be legible through every channel. A character who is recognizable by voice must also be recognizable by movement and by environmental sound for a player who does not use audio, and by consistent visual design for a player who does not use text, and by described audio for a player who does not use sight. The blind-friendly, audio-first description that the canon requires for every recurring character is not a translation of the visual design; it is a first-class presentation of the character in its own right.
+Because important information may never depend on a single sense, presentation is authored to be legible through every channel. A character who is recognisable by voice must also be recognisable by movement and by environmental sound for a player who does not use audio, and by consistent visual design for a player who does not use text, and by described audio for a player who does not use sight. The blind-friendly, audio-first description that the canon requires for every recurring character is not a translation of the visual design; it is a first-class presentation of the character in its own right.
 
 ## Representation Philosophy
 
@@ -81,15 +81,15 @@ The canon states that representation informs identity and never replaces it, and
 
 ### The Breadth the Cast Is Built To Reflect
 
-The Character Identity Map records that the eight recurring human bodies fill the eight ethnic slots the canon names, that every gender identity named in the canon appears at least once, and that the eight recurring human characters correspond one to each of the eight professions. Presentation honors this structure by making each character specific rather than representative. A character is never presented as the Asian character or the non-binary character or the wheelchair-using character in general; each is presented as one particular person who happens to be all of the true things the map records.
+The Character Identity Map records that the eight recurring human bodies fill the eight ethnic slots the canon names, that every gender identity named in the canon appears at least once, and that the eight recurring human characters correspond one to each of the eight professions. Presentation honours this structure by making each character specific rather than representative. A character is never presented as the Asian character or the non-binary character or the wheelchair-using character in general; each is presented as one particular person who happens to be all of the true things the map records.
 
 ### Diversity Presented as Ordinary
 
-The canon states that no race, ethnicity, disability, communication style, or gender identity is treated as the default, and that human diversity is presented as an ordinary part of civilization. Presentation carries this by refusing to mark difference as remarkable. The crew do not comment on one another's identities as unusual, do not explain one another to the player, and do not treat any way of being human as the baseline against which others are measured. The ordinariness is the point, and it is achieved by presenting every character with equal completeness and equal respect.
+The canon states that no race, ethnicity, disability, communication style, or gender identity is treated as the default, and that human diversity is presented as an ordinary part of civilisation. Presentation carries this by refusing to mark difference as remarkable. The crew do not comment on one another's identities as unusual, do not explain one another to the player, and do not treat any way of being human as the baseline against which others are measured. The ordinariness is the point, and it is achieved by presenting every character with equal completeness and equal respect.
 
 ### Future Characters Continue the Breadth
 
-The canon states that future recurring characters continue this broad, global representation, and that the goal is not to check demographic boxes but to portray a diverse range of authentic human experiences through fully realized characters. Presentation standards therefore apply to characters not yet written as much as to those already fixed. Any new recurring character is held to the same character-first standard, and the breadth of the cast is maintained by design rather than by accident.
+The canon states that future recurring characters continue this broad, global representation, and that the goal is not to check demographic boxes but to portray a diverse range of authentic human experiences through fully realised characters. Presentation standards therefore apply to characters not yet written as much as to those already fixed. Any new recurring character is held to the same character-first standard, and the breadth of the cast is maintained by design rather than by accident.
 
 ## Character-First Design
 
@@ -109,11 +109,11 @@ The canon states that the player is never the smartest person in the room, that 
 
 ### Everyone Teaches and Everyone Keeps Learning
 
-The canon states that every crew member teaches, every crew member continues learning, and no crew member knows everything. Presentation shows both the teaching and the learning. A character is presented with the confidence of their expertise and the openness of someone still growing, and neither is dropped in favor of the other. This keeps characters human rather than making them either flawless authorities or perpetual novices.
+The canon states that every crew member teaches, every crew member continues learning, and no crew member knows everything. Presentation shows both the teaching and the learning. A character is presented with the confidence of their expertise and the openness of someone still growing, and neither is dropped in favour of the other. This keeps characters human rather than making them either flawless authorities or perpetual novices.
 
 ## Avoiding Stereotypes
 
-Character-first design and the ordinariness of diversity are the strongest defenses against stereotype, but avoiding stereotype also requires specific, deliberate craft. This document names the traps and the disciplines that keep presentation clear of them.
+Character-first design and the ordinariness of diversity are the strongest defences against stereotype, but avoiding stereotype also requires specific, deliberate craft. This document names the traps and the disciplines that keep presentation clear of them.
 
 ### Specificity as the Antidote to Stereotype
 
@@ -153,7 +153,7 @@ The canon states that the world adapts to people and people are never required t
 
 ## Respectful Portrayal of Plurality in the Vale System
 
-The Vale System requires its own presentation principles because it is unlike any other character in the cast. The canon is precise about what the Vale System is, and presentation must be equally precise, because the difference between honoring this portrayal and mishandling it lives entirely in the details.
+The Vale System requires its own presentation principles because it is unlike any other character in the cast. The canon is precise about what the Vale System is, and presentation must be equally precise, because the difference between honouring this portrayal and mishandling it lives entirely in the details.
 
 ### One Shared Body Inhabited by Four Members
 
@@ -168,7 +168,7 @@ The canon states that the Vale System is never written as four separate people a
 The canon fixes what never changes whichever member is fronting, and presentation treats this list as the physical anchor of the character.
 
 - The shared body, its height, and its build.
-- The face, hair, eye color, and skin tone.
+- The face, hair, eye colour, and skin tone.
 - Physical scars and medical history.
 - Accessibility equipment.
 - Uniform design and rank insignia.
@@ -176,7 +176,7 @@ The canon fixes what never changes whichever member is fronting, and presentatio
 - The command authority the body carries.
 - The history the crew has built with the Vale System.
 
-Because the body is constant, presentation never transforms it. The Vale System is not recognized by a change in appearance, and no visual costume change signals a switch.
+Because the body is constant, presentation never transforms it. The Vale System is not recognised by a change in appearance, and no visual costume change signals a switch.
 
 ### What Changes Naturally With the Member Fronting
 
@@ -190,14 +190,14 @@ The canon fixes what changes naturally with whoever is fronting, and presentatio
 - Hand placement and gesture vocabulary.
 - Leadership philosophy and decision-making style.
 - Professional priorities and attention focus.
-- Emotional expression and sense of humor.
+- Emotional expression and sense of humour.
 - Relationships with the crew.
-- Preferred routines, communication style, and favorite places aboard.
+- Preferred routines, communication style, and favourite places aboard.
 - The name the member answers to.
 
-Presentation makes each member unmistakable through these changes, so that no two members ever feel interchangeable and the player comes to recognize each member before they speak.
+Presentation makes each member unmistakable through these changes, so that no two members ever feel interchangeable and the player comes to recognise each member before they speak.
 
-### Recognizing Each Member as a Distinct Self
+### Recognising Each Member as a Distinct Self
 
 The four members carry distinct genders and pronouns, which the crew, friends, and family use as an ordinary part of daily life. Elian is genderfluid, with pronouns determined by Elian's current identity and presentation, and meets ordinary mornings and community leadership. Naomi is non-binary and uses they and them, and meets emergencies, operations, and coordination. Gideon is agender and uses they and them, and meets strategy, navigation, and failing systems. Iris is a demigirl and uses she and they, and meets civilian planning and diplomacy. Presentation gives each member a temperament and a way of leading that fits these roles, so that recognition of the current member emerges through observation rather than explanation.
 
@@ -207,7 +207,7 @@ The canon states that personal identifiers update naturally when a member fronts
 
 ### Fronting Presented as Purpose
 
-The canon states that fronting is gameplay, that a member comes forward because their knowledge, temperament, or expertise best fits the moment, and never for dramatic effect. Presentation reflects this by making each member's arrival feel motivated by the situation rather than staged for the player. The game almost never announces a switch; the player recognizes it through a different voice, posture, command style, humor, set of emotional priorities, and set of interactions with individual crew members, and through the updated name tape and command authentication. Reading the Vale System correctly is a skill the player builds the same way they learn to read anyone else, and presentation is what makes that skill learnable.
+The canon states that fronting is gameplay, that a member comes forward because their knowledge, temperament, or expertise best fits the moment, and never for dramatic effect. Presentation reflects this by making each member's arrival feel motivated by the situation rather than staged for the player. The game almost never announces a switch; the player recognises it through a different voice, posture, command style, humour, set of emotional priorities, and set of interactions with individual crew members, and through the updated name tape and command authentication. Reading the Vale System correctly is a skill the player builds the same way they learn to read anyone else, and presentation is what makes that skill learnable.
 
 ## Respectful Portrayal Across Race and Culture
 
@@ -235,7 +235,7 @@ The canon states that every recurring character is defined first by personality,
 
 ### Pronouns Reflecting Current Presentation
 
-The canon states that a character whose gender identity changes over time naturally changes the pronouns they use, that crew, friends, and family respect and use a character's current pronouns as an ordinary part of daily life, and that the player learns a character's current pronouns through natural interaction rather than intrusive interface prompts. Presentation honors current pronouns exactly, treats any change as ordinary, and teaches pronouns through dialogue and observation rather than labels. Pronouns are part of a person's present presentation and always reflect how that character currently identifies.
+The canon states that a character whose gender identity changes over time naturally changes the pronouns they use, that crew, friends, and family respect and use a character's current pronouns as an ordinary part of daily life, and that the player learns a character's current pronouns through natural interaction rather than intrusive interface prompts. Presentation honours current pronouns exactly, treats any change as ordinary, and teaches pronouns through dialogue and observation rather than labels. Pronouns are part of a person's present presentation and always reflect how that character currently identifies.
 
 ### Genders Held Distinct and Sometimes Overlapping
 
@@ -281,7 +281,7 @@ The canon names the ways the recurring cast communicates, and presentation gives
 - Other alternative communication systems.
 - Multilingual communication.
 
-Presentation never ranks these, never presents one as the real way and the others as accommodations, and never makes a character apologize for how they communicate. The world adapts to people, and people are never required to adapt to exclusion.
+Presentation never ranks these, never presents one as the real way and the others as accommodations, and never makes a character apologise for how they communicate. The world adapts to people, and people are never required to adapt to exclusion.
 
 ### Communication Method as a Recognition Signal
 
@@ -293,7 +293,7 @@ Because important information must never depend on a single channel, presentatio
 
 ### Presence and Absence of the Silent Companion
 
-Faience is a Shawabti artificial intelligence and stands outside human concepts of race, ethnicity, and gender, and none are assigned. Faience is silent through Operation One and first stirs, wordless, in a damaged pod on Attack Day. Presentation honors this silence as a deliberate choice rather than an absence of content, consistent with the canon that silence is a storytelling tool and never a gap where audio has not yet been made. The place a companion will one day fill is felt as empty throughout the ordinary week, and Faience's first wordless stirring is presented with the weight the canon gives it, marking the seam where a new kind of communication begins.
+Faience is a Shawabti artificial intelligence and stands outside human concepts of race, ethnicity, and gender, and none are assigned. Faience is silent through Operation One and first stirs, wordless, in a damaged pod on Attack Day. Presentation honours this silence as a deliberate choice rather than an absence of content, consistent with the canon that silence is a storytelling tool and never a gap where audio has not yet been made. The place a companion will one day fill is felt as empty throughout the ordinary week, and Faience's first wordless stirring is presented with the weight the canon gives it, marking the seam where a new kind of communication begins.
 
 ## How This Philosophy Governs the Rest of the Bible
 

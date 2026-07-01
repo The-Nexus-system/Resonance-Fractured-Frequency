@@ -45,7 +45,7 @@ The player should experience grief without despair. The player is returning to p
 - Environmental exploration.
 - Navigation.
 - Mapping.
-- Artifact recovery.
+- Artefact recovery.
 - Historical investigation.
 - Meaningful salvage.
 - Community growth.
@@ -70,7 +70,7 @@ The player should become familiar with this rhythm because it becomes the founda
 
 Teach expedition planning. Teach that preparation determines success. Teach that leaving home is a community effort rather than a solo activity.
 
-The player should never simply press a button labeled "Start Mission." Every expedition begins through conversation, planning, and preparation.
+The player should never simply press a button labelled "Start Mission." Every expedition begins through conversation, planning, and preparation.
 
 ### Part One — Narrative
 
@@ -123,7 +123,7 @@ The player must make three decisions before departure. These choices change the 
 
 #### Choice C: Historical Recovery
 
-- Primary goal: recover personal records, educational archives, and cultural artifacts.
+- Primary goal: recover personal records, educational archives, and cultural artefacts.
 - Immediate benefits:
   - The Knowledge Archive expands significantly.
   - Additional optional conversations.
@@ -199,7 +199,7 @@ The player may consult everyone. However, one crew member may be selected as the
   - Safer exploration routes.
 - Choose Soren:
   - Research observations.
-  - Artifact analysis.
+  - Artefact analysis.
   - Historical interpretation.
 - Choose Mira:
   - Additional optional discoveries.
@@ -232,7 +232,7 @@ Mission summaries must clearly explain:
 - Recommended crew expertise.
 - Accessibility considerations.
 
-No player should be required to memorize preparation choices.
+No player should be required to memorise preparation choices.
 
 ### Part One — Emotional Goal
 
@@ -263,7 +263,7 @@ Teach:
 - Safe travel.
 - Orientation outside the station.
 
-Players should learn that traveling away from home requires preparation.
+Players should learn that travelling away from home requires preparation.
 
 ### Sound Design
 
@@ -285,7 +285,7 @@ As distance increases:
 
 - The station grows quieter.
 - The surrounding debris field grows louder.
-- The player realizes how isolated they truly are.
+- The player realises how isolated they truly are.
 
 ### Part Two — Accessibility
 
@@ -299,7 +299,7 @@ At any point the player may request:
 - Mission objective.
 - Current destination.
 
-Orientation information is always available without interrupting gameplay. Blind players should never become disoriented while traveling.
+Orientation information is always available without interrupting gameplay. Blind players should never become disoriented while travelling.
 
 ### Player Decision: Route Toward Hearth
 
@@ -359,7 +359,7 @@ The selected advisor actively changes the journey.
 - Samira monitors environmental health.
 - Jonah tracks mission efficiency.
 - Talia identifies hazards.
-- Soren recognizes unusual scientific patterns.
+- Soren recognises unusual scientific patterns.
 - Mira notices details adults overlook.
 - The Vale System provides balanced strategic guidance.
 
@@ -391,7 +391,7 @@ The player chooses whether to investigate. Ignoring these discoveries never prev
 
 ### Part Two — Emotional Goal
 
-The player should gradually realize they are not simply traveling through wreckage. They are traveling through the remains of people's lives. Every object once belonged somewhere. Every location once mattered to someone.
+The player should gradually realise they are not simply travelling through wreckage. They are travelling through the remains of people's lives. Every object once belonged somewhere. Every location once mattered to someone.
 
 ### Part Two — End Condition
 
@@ -486,7 +486,7 @@ Resources alone are never sufficient rewards.
 
 ### Expedition Choice Three: Educational District
 
-- Primary question: what kind of civilization were people trying to build?
+- Primary question: what kind of civilisation were people trying to build?
 - Primary crew: Mira, Soren, and the player.
 - Player learns: knowledge survives disaster.
 - Gameplay introduced:
@@ -510,7 +510,7 @@ Resources alone are never sufficient rewards.
 
 - Primary question: who lived here?
 - Primary crew: the Vale System and the player.
-- Player learns: civilizations are remembered through ordinary life.
+- Player learns: civilisations are remembered through ordinary life.
 - Gameplay introduced:
   - Residential exploration.
   - Personal belongings.
@@ -529,7 +529,7 @@ Resources alone are never sufficient rewards.
 
 ### Canon Rule: Zones Are Chosen, Not Completed First
 
-Every expedition zone eventually becomes required. The player chooses exploration order. Not exploration completion. Different playthroughs emphasize different discoveries first. Canon remains unchanged.
+Every expedition zone eventually becomes required. The player chooses exploration order. Not exploration completion. Different playthroughs emphasise different discoveries first. Canon remains unchanged.
 
 ### Exploration Gameplay
 
@@ -538,7 +538,7 @@ Every location contains multiple categories of discoveries.
 - Recoverable technology.
 - Recoverable history.
 - Recoverable accessibility innovations.
-- Recoverable cultural artifacts.
+- Recoverable cultural artefacts.
 - Recoverable environmental recordings.
 - Recoverable scientific observations.
 - Recoverable personal stories.
@@ -597,7 +597,7 @@ Players should never depend upon one sensory modality to understand a location.
 
 ### Part Three — Emotional Goal
 
-The player should realize that Hearth was never simply a spacecraft. It was a city. A home. A school. A hospital. A workplace. A neighborhood.
+The player should realise that Hearth was never simply a spacecraft. It was a city. A home. A school. A hospital. A workplace. A neighbourhood.
 
 Exploration should feel like walking through memory rather than ruins.
 
@@ -605,7 +605,7 @@ Exploration should feel like walking through memory rather than ruins.
 
 The player successfully completes their first exploration zone. Before returning home, they receive a notification. Multiple additional locations have now been identified.
 
-The player realizes that they have explored only a tiny portion of Hearth. The journey home begins, leading into Part Four.
+The player realises that they have explored only a tiny portion of Hearth. The journey home begins, leading into Part Four.
 
 ## Part Four: Homecoming
 
@@ -629,7 +629,7 @@ Introduce:
 
 - Mission debriefing.
 - Salvage processing.
-- Artifact cataloging.
+- Artefact cataloguing.
 - Knowledge Archive integration.
 - Community reactions.
 - Project unlocking.
@@ -652,7 +652,7 @@ The player attends a community debrief. Every primary crew member responds accor
 - Samira evaluates medical discoveries.
 - Jonah updates station inventories and future priorities.
 - Talia evaluates risks introduced by recovered materials.
-- Soren begins cataloging discoveries.
+- Soren begins cataloguing discoveries.
 - Mira asks questions nobody else considered.
 - The Vale System facilitates discussion.
 
@@ -710,25 +710,25 @@ Every expedition ends with four major decisions. Every decision permanently affe
 
 - Immediate result: items remain unavailable.
 - Future effect:
-  - Later survivors recognize recovered belongings.
+  - Later survivors recognise recovered belongings.
   - Relationships deepen.
   - Future missions gain additional emotional significance.
 
 ### Decision Three: Recovered Resources
 
-#### Choice A: Prioritize station expansion
+#### Choice A: Prioritise station expansion
 
 - Immediate result: construction progresses rapidly.
-- Future effect: research and specialized equipment develop more slowly.
+- Future effect: research and specialised equipment develop more slowly.
 
-#### Choice B: Prioritize research
+#### Choice B: Prioritise research
 
 - Immediate result: the Knowledge Archive expands.
 - Future effect:
   - Construction progresses more gradually.
   - Additional discoveries become available sooner.
 
-#### Choice C: Prioritize community wellbeing
+#### Choice C: Prioritise community wellbeing
 
 - Immediate result:
   - Living spaces improve.
@@ -799,7 +799,7 @@ Every recovered accessibility innovation should become available to the player o
 - Enhanced wearable haptic support.
 - Adaptive workstation improvements.
 
-Accessibility evolves alongside civilization. It is never treated as optional content.
+Accessibility evolves alongside civilisation. It is never treated as optional content.
 
 ### Part Four — Emotional Goal
 
@@ -807,7 +807,7 @@ The player should feel relief upon returning home. The station should become emo
 
 ### Chapter Climax
 
-As the community finishes cataloging the expedition, Soren notices an anomaly. The recovered data does not match known records. Several engineering logs reference locations that should not exist. Historical timestamps contain impossible inconsistencies.
+As the community finishes cataloguing the expedition, Soren notices an anomaly. The recovered data does not match known records. Several engineering logs reference locations that should not exist. Historical timestamps contain impossible inconsistencies.
 
 The strange signal detected at the end of Chapter Three appears again. This time, it responds to something recovered during the expedition. Not to the station. Not to the player. To something brought home.
 
@@ -854,7 +854,7 @@ Introduce:
 - Incomplete discoveries.
 - Long-term exploration.
 - Expedition journals.
-- Artifact categorization.
+- Artefact categorisation.
 - Crew requests.
 - Mission consequences.
 - Adaptive exploration.
@@ -928,7 +928,7 @@ The player finds an object that cannot immediately be understood.
 
 Before every expedition at least one crew member asks the player to look for something personally meaningful. Examples include:
 
-- Rowan requests specialized maintenance tools.
+- Rowan requests specialised maintenance tools.
 - Mara requests engineering components.
 - Samira requests medical records.
 - Jonah requests logistics databases.
@@ -937,7 +937,7 @@ Before every expedition at least one crew member asks the player to look for som
 - Mira asks whether her old classroom still exists.
 - The Vale System requests command archives.
 
-The player chooses whether to prioritize the request.
+The player chooses whether to prioritise the request.
 
 #### Choice A: Complete the request
 
@@ -956,7 +956,7 @@ The player chooses whether to prioritize the request.
   - The request remains available for future expeditions.
   - Relationships are unchanged.
 
-### Artifact Classification
+### Artefact Classification
 
 Every recovered item belongs to one primary category.
 
@@ -971,7 +971,7 @@ Every recovered item belongs to one primary category.
 - Environmental.
 - Unknown.
 
-Artifact categories determine:
+Artefact categories determine:
 
 - Who studies the item.
 - Which gameplay systems expand.
@@ -979,7 +979,7 @@ Artifact categories determine:
 - Which conversations become available.
 - Which future expeditions are generated.
 
-Resources should never exist without context. Every artifact should tell part of Hearth's story.
+Resources should never exist without context. Every artefact should tell part of Hearth's story.
 
 ### Expedition Journal
 
@@ -1015,14 +1015,14 @@ Every exploration zone records:
 - Visited areas.
 - Unfinished discoveries.
 - Outstanding crew requests.
-- Artifact categories.
+- Artefact categories.
 - Remaining mysteries.
 
 Players may request summaries at any time through speech, captions, braille displays, or tactile interfaces. No player should need to remember unfinished exploration from memory alone.
 
 ### Part Five — Emotional Goal
 
-The player should leave Chapter Four understanding one central truth: nothing important has been lost forever if someone remembers it. Every expedition preserves part of a civilization. Every return home keeps that civilization alive.
+The player should leave Chapter Four understanding one central truth: nothing important has been lost forever if someone remembers it. Every expedition preserves part of a civilisation. Every return home keeps that civilisation alive.
 
 ### Chapter Four Design Outcome
 
@@ -1040,7 +1040,7 @@ Complete the player's decision framework for exploration. Every major expedition
 
 The player's inventory is nearly full. Not everything can be recovered. The player must decide what leaves Hearth first.
 
-#### Choice A: Prioritize People
+#### Choice A: Prioritise People
 
 - Examples:
   - Medical records.
@@ -1056,7 +1056,7 @@ The player's inventory is nearly full. Not everything can be recovered. The play
   - Historical understanding improves.
   - Future dialogue becomes richer.
 
-#### Choice B: Prioritize Technology
+#### Choice B: Prioritise Technology
 
 - Examples:
   - Fabricators.
@@ -1069,7 +1069,7 @@ The player's inventory is nearly full. Not everything can be recovered. The play
   - Community conversations about Hearth develop more slowly.
   - Some personal stories remain undiscovered until later expeditions.
 
-#### Choice C: Prioritize Knowledge
+#### Choice C: Prioritise Knowledge
 
 - Examples:
   - Research databases.

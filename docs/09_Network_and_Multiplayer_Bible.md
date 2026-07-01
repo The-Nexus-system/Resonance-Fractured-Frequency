@@ -1,6 +1,6 @@
 # Network and Multiplayer Bible
 
-This document is the definitive multiplayer and networking reference for the Resonance franchise. It defines how players play together, how the world persists around them, and how their data synchronizes across devices. Multiplayer in Resonance is built on cooperation and difference, and on a world that keeps living whether or not any one player is present. Multiplayer exists to strengthen community; it is never required to experience the complete story, and every campaign remains fully playable alone.
+This document is the definitive multiplayer and networking reference for the Resonance franchise. It defines how players play together, how the world persists around them, and how their data synchronises across devices. Multiplayer in Resonance is built on cooperation and difference, and on a world that keeps living whether or not any one player is present. Multiplayer exists to strengthen community; it is never required to experience the complete story, and every campaign remains fully playable alone.
 
 ## Purpose
 
@@ -86,7 +86,7 @@ A player may choose how they take part, and no role requires fast reflexes or pr
 - Accessibility assistant.
 - Mission coordinator.
 - Expedition planner.
-- Community organizer.
+- Community organiser.
 
 Every role is a meaningful way to contribute, so a player who cannot or does not wish to act under time pressure still shapes the community fully.
 
@@ -151,11 +151,11 @@ Because knowledge must always change something, shared knowledge changes how the
 
 ## World persistence
 
-The world never pauses because a player disconnects or logs out. A returning player comes back to a living civilization rather than a frozen save state. While a player is away, construction and community projects continue, research continues and may conclude, gardens grow, maintenance and medical care carry on, children attend school, community meetings happen, and other residents live their ordinary days.
+The world never pauses because a player disconnects or logs out. A returning player comes back to a living civilisation rather than a frozen save state. While a player is away, construction and community projects continue, research continues and may conclude, gardens grow, maintenance and medical care carry on, children attend school, community meetings happen, and other residents live their ordinary days.
 
-The world, not the player, hosts the game. The persistent entities are the stations, settlements, expeditions, communities, research missions, and recovery efforts, and they continue existing when any individual player leaves. A player who enters a world joins an existing civilization rather than opening a lobby or creating one, so residents already know one another, projects are already underway, and research is already progressing.
+The world, not the player, hosts the game. The persistent entities are the stations, settlements, expeditions, communities, research missions, and recovery efforts, and they continue existing when any individual player leaves. A player who enters a world joins an existing civilisation rather than opening a lobby or creating one, so residents already know one another, projects are already underway, and research is already progressing.
 
-Every persistent world accumulates its own history, infrastructure, community Knowledge Archive, rescued crew, community projects, accessibility improvements, engineering upgrades, memorials, and culture. Players contribute to that history and leave it richer, but never own it. This community Knowledge Archive is the world's shared record and is distinct from a player's personal archive, which remains the player's own as described under synchronization.
+Every persistent world accumulates its own history, infrastructure, community Knowledge Archive, rescued crew, community projects, accessibility improvements, engineering upgrades, memorials, and culture. Players contribute to that history and leave it richer, but never own it. This community Knowledge Archive is the world's shared record and is distinct from a player's personal archive, which remains the player's own as described under synchronisation.
 
 ## Protected personal spaces
 
@@ -184,7 +184,7 @@ No player is ever punished for logging out. Communities naturally adapt when mem
 
 If a player logs out during an active emergency, the game makes every reasonable effort to preserve both narrative continuity and the character's safety. Whenever possible, trusted characters escort the character to safety, the character withdraws from immediate danger, and the character is considered unavailable until the player returns.
 
-Only when absolutely necessary should the game record that the character took part in emergency actions while offline, and any such actions are limited to realistic defensive or evacuation behavior rather than major story decisions. A player's absence must never become the cause of catastrophic failure for the community.
+Only when absolutely necessary should the game record that the character took part in emergency actions while offline, and any such actions are limited to realistic defensive or evacuation behaviour rather than major story decisions. A player's absence must never become the cause of catastrophic failure for the community.
 
 ## Save system and progression
 
@@ -193,8 +193,8 @@ The save system defines who holds authority over shared state and how progressio
 - Host authority rests with the authoritative world rather than with any individual player. Whichever machine or server technically runs a session, the world simulation holds authority over shared state and persists beyond any single resident, consistent with the rule that the world hosts the game and players are its residents.
 - Shared progression records what the community accomplishes together, such as station upgrades and rescued crew.
 - Individual progression records what a player learns and carries between sessions and campaigns.
-- Knowledge synchronization keeps the Knowledge Archive consistent for everyone who has been given a piece of knowledge.
-- Crew rescue synchronization ensures rescued crew are recognized across the community that rescued them.
+- Knowledge synchronisation keeps the Knowledge Archive consistent for everyone who has been given a piece of knowledge.
+- Crew rescue synchronisation ensures rescued crew are recognised across the community that rescued them.
 - Station upgrades persist as part of the world's own history.
 - Accessibility profiles travel with the player and apply identically in every session.
 - Cross-campaign persistence carries a player's identity and learning between campaigns.
@@ -202,27 +202,27 @@ The save system defines who holds authority over shared state and how progressio
 
 Individual progression belongs to the player and shared progression belongs to the persistent world, which is why a player may move between solo and cooperative play without losing either.
 
-## Synchronization
+## Synchronisation
 
 The player's archive belongs to the player. Data is handled in a local-first way.
 
 - Local-first saves are the default.
-- Optional encrypted cloud synchronization is available.
-- Optional cross-platform synchronization is available.
+- Optional encrypted cloud synchronisation is available.
+- Optional cross-platform synchronisation is available.
 
-Cloud and cross-platform synchronization are always opt-in. Privacy is one of the themes the project explores, and the sync design must reflect that respect for the player's data.
+Cloud and cross-platform synchronisation are always opt-in. Privacy is one of the themes the project explores, and the sync design must reflect that respect for the player's data.
 
 ## Network design
 
-The franchise commits to an authoritative, world-centered network model. The authoritative simulation is the world, and connection technology serves that world rather than any single player.
+The franchise commits to an authoritative, world-centred network model. The authoritative simulation is the world, and connection technology serves that world rather than any single player.
 
 - An authoritative server model, in which the persistent world holds authority over shared state.
 - Peer-to-peer support only for local or small private sessions where no dedicated server is present, and never in a way that lets one player's connection override the world.
 - Dedicated servers for larger or long-lived communities.
 - An offline mode, in which solo play runs the authoritative world locally and remains fully playable without a connection.
-- Reconnect behavior that returns a player to their character safely and applies the safe-return summary.
+- Reconnect behaviour that returns a player to their character safely and applies the safe-return summary.
 - Host migration that preserves the world when a host leaves, consistent with communities continuing when any member leaves.
-- A latency philosophy that favors clarity and fairness over speed, so that no accessibility accommodation becomes a disadvantage.
+- A latency philosophy that favours clarity and fairness over speed, so that no accessibility accommodation becomes a disadvantage.
 - Bandwidth priorities that protect essential communication and accessibility data first.
 - Accessibility during connection loss, so that a player is never stranded without navigation, captions, or a safe withdrawal.
 - Cross-platform support across desktop, web, and native targets.
@@ -321,18 +321,18 @@ This bible is the definitive multiplayer and networking reference, and it depend
 - The AI Bible defines the world characters, including the Vale System, that continue living around absent players.
 - The Audio Bible defines the acoustic identity and perspective audio that each player experiences individually.
 - The Accessibility Bible defines the accommodations that are identical in solo and multiplayer play.
-- The Code Standards guide how the networking and synchronization code is written.
+- The Code Standards guide how the networking and synchronisation code is written.
 - The Decision Log records when the decisions in this bible were adopted.
 - The Glossary defines the shared terms used here.
 - The Open Questions document tracks the networking details that remain undecided.
 - The Playtesting Bible defines how multiplayer accessibility and fairness are tested.
 - The Canon Rules document holds the master rules on world persistence, player residency, safe logout, community as progression, and no profession becoming obsolete that this bible elaborates.
-- The Player Identity and Character Presentation Bible defines how characters are presented and recognized in shared play.
+- The Player Identity and Character Presentation Bible defines how characters are presented and recognised in shared play.
 - The design notes provide the station architecture, crew progression, character schedules, and timelines that shape persistent communities.
 
 ## Future work
 
-Detailed netcode, matchmaking, session structure, and concrete server technology are not yet decided. The network model in this bible is authoritative and world-centered, but the specific implementation of that model is tracked in Open Questions until it is resolved and recorded here.
+Detailed netcode, matchmaking, session structure, and concrete server technology are not yet decided. The network model in this bible is authoritative and world-centred, but the specific implementation of that model is tracked in Open Questions until it is resolved and recorded here.
 
 ## Guiding philosophy
 
@@ -340,5 +340,5 @@ Every multiplayer feature reinforces the central philosophy of Resonance.
 
 - Community is progression.
 - Knowledge is progression.
-- Accessibility is civilization.
+- Accessibility is civilisation.
 - Cooperation is the default way humanity survives.

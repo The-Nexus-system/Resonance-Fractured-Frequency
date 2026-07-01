@@ -8,7 +8,7 @@ The purpose of this document is to describe, in one navigable reference, how a p
 
 ## How Progression Works in Resonance
 
-Progression in Resonance is never arbitrary leveling. There is no experience bar that fills for its own sake and no number that grows only to grow.
+Progression in Resonance is never arbitrary levelling. There is no experience bar that fills for its own sake and no number that grows only to grow.
 
 - Every form of progression is something the player can hear, feel, or do, not a stat on a sheet.
 - People are the primary progression system. Knowledge, accessibility, sound, home, Faience, perspective, and expeditions all support the growth of the community.
@@ -83,7 +83,7 @@ Each progression system below is written against the same attributes so the syst
 - What advances it. Replaying the same fixed history from a different profession's vantage.
 - What it unlocks. A fuller picture of events, so that what is mysterious from one profession becomes understandable from another and no single profession tells the whole truth.
 - How the player perceives it. The same week and the same morning lived again from a new starting world, a new vocabulary, and a new set of relationships.
-- What it never becomes. A branching timeline. Operation One happens once; only perspective changes, and all profession campaigns stay synchronized to the same timeline.
+- What it never becomes. A branching timeline. Operation One happens once; only perspective changes, and all profession campaigns stay synchronised to the same timeline.
 - Where it is elaborated. The Perspective Map, the master timeline, and the character schedule.
 
 ### Expedition Progression
@@ -111,9 +111,9 @@ This section traces how the progression systems advance across the seven chapter
 ### Chapter One — The Ordinary Week
 
 - Focus. The prologue and tutorial: a full week aboard CSV Hearth before the attack, where the player learns to live in the ship and read it by sound and space.
-- Community. The crew are met as neighbors and colleagues rather than as rescues, so the player knows them before losing them.
+- Community. The crew are met as neighbours and colleagues rather than as rescues, so the player knows them before losing them.
 - Knowledge. The foundations of the Knowledge Archive are laid through daily life and conversation.
-- Accessibility. Accessibility is shown as standard equipment from the first minute, customized rather than requested.
+- Accessibility. Accessibility is shown as standard equipment from the first minute, customised rather than requested.
 - Sound. The ship's ordinary acoustic identity is established so that its later silence will mean something.
 - Home. CSV Hearth is established as the first home, so that its loss lands.
 - Faience. Absent. The place a companion will one day fill is simply empty all week.
@@ -132,7 +132,7 @@ This section traces how the progression systems advance across the seven chapter
 
 ### Chapter Three — Community
 
-- Focus. The transition from survival to civilization, taught through choice-driven daily life.
+- Focus. The transition from survival to civilisation, taught through choice-driven daily life.
 - Community. Rescued people become home as they unpack, settle, contribute, and change the space, and their portraits illuminate.
 - Knowledge. Daily life turns knowledge into shared practice across the community.
 - Accessibility. The community treats every access method as ordinary, and shared life makes that ordinariness visible.
@@ -165,10 +165,10 @@ This section traces how the progression systems advance across the seven chapter
 
 ### Chapter Six — The Living Archive
 
-- Focus. Reconstructing an entire Shawabti civilization from fragments as Faience begins to remember.
+- Focus. Reconstructing an entire Shawabti civilisation from fragments as Faience begins to remember.
 - Community. The whole community contributes to the reconstruction, and no one holds the whole picture.
 - Knowledge. Knowledge progression reaches its height as fragments become a living archive that opens new choices.
-- Accessibility. The reason the Shawabti built for every mind and body starts to come clear, as the civilization is revealed to have valued neurodiversity by design.
+- Accessibility. The reason the Shawabti built for every mind and body starts to come clear, as the civilisation is revealed to have valued neurodiversity by design.
 - Sound. The archive gains its own growing voice as it is reconstructed.
 - Home. The reconstructed history reshapes what the community believes it can become.
 - Faience. Faience begins to remember, and integration carries a sharper cost and a deeper pull.
@@ -176,10 +176,10 @@ This section traces how the progression systems advance across the seven chapter
 
 ### Chapter Seven — Resonance
 
-- Focus. The conclusion of Operation One, where every learned system combines and the community decides what kind of civilization it will become.
+- Focus. The conclusion of Operation One, where every learned system combines and the community decides what kind of civilisation it will become.
 - Community. Every primary crew member remains relevant and contributes to the ending.
 - Knowledge. Everything the player has learned converges into the final choices.
-- Accessibility. The truth planted at the first Shawabti site is fully understood, as accessibility is revealed to have been the civilization's foundation, exactly as it is the game's.
+- Accessibility. The truth planted at the first Shawabti site is fully understood, as accessibility is revealed to have been the civilisation's foundation, exactly as it is the game's.
 - Sound. The soundscape reaches its fullest expression as the community stands complete.
 - Home. The home stands as the sum of everything brought back and everyone who settled.
 - Faience. The integration relationship reaches its reckoning, framed by what the player has chosen to become.
@@ -210,6 +210,6 @@ This document gathers progression that is defined in full elsewhere. It holds no
 - The Knowledge Archive Bible defines knowledge progression, and the AI Bible defines Faience and integration.
 - The Audio Bible defines sound as progression, and the Accessibility Bible defines accessibility as the foundation.
 - The Crew Progression System defines community progression crew by crew, and the master timeline, the character schedule, and the Perspective Map fix the history the campaign matrix follows.
-- The chapter design notes hold the detailed design of each chapter this matrix summarizes.
+- The chapter design notes hold the detailed design of each chapter this matrix summarises.
 - The Decision Log records when this reference was adopted.
-- For species and civilization rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
+- For species and civilisation rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.

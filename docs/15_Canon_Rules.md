@@ -1,6 +1,6 @@
 # Canon Rules
 
-This document is the consolidated, authoritative list of canon rules for Resonance. A canon rule is a promise the game keeps to its players and a constraint every chapter, system, and profession must honor.
+This document is the consolidated, authoritative list of canon rules for Resonance. A canon rule is a promise the game keeps to its players and a constraint every chapter, system, and profession must honour.
 
 These rules apply across the whole franchise. Where another document elaborates a rule in detail, this document remains the single place to see every rule at once. If a design conflicts with a rule here, the design changes, or the rule is formally amended and the change is recorded in the Decision Log. The Project Constitution has authority over this document.
 
@@ -32,7 +32,7 @@ The player gains a fuller understanding of the story by replaying different prof
 
 Events that appear mysterious from one perspective become understandable from another.
 
-All profession campaigns must remain synchronized to the same timeline.
+All profession campaigns must remain synchronised to the same timeline.
 
 ## A Campaign Is Complete Only When Every Profession Exists
 
@@ -58,7 +58,7 @@ No accessibility feature is considered special equipment.
 
 Accessibility technology is standard equipment aboard human vessels.
 
-Crew members customize interfaces rather than requesting permission to use them.
+Crew members customise interfaces rather than requesting permission to use them.
 
 ## Everything Has an Acoustic Identity
 
@@ -68,7 +68,7 @@ If a player closes their eyes, they should still be able to learn where they are
 
 Audio is never decorative. Audio is part of the world's physical reality, and every sound communicates information.
 
-Every major location has an identifiable acoustic identity, and players should eventually recognize locations by sound before dialogue confirms where they are.
+Every major location has an identifiable acoustic identity, and players should eventually recognise locations by sound before dialogue confirms where they are.
 
 The deliberate use of quiet is governed by the rule that silence is a deliberate storytelling tool.
 
@@ -212,7 +212,7 @@ Major construction projects should require multiple crew members with different 
 
 ## The World Continues When a Player Is Away
 
-The world never pauses because a player disconnects or logs out. A returning player comes back to a living civilization rather than a frozen save state.
+The world never pauses because a player disconnects or logs out. A returning player comes back to a living civilisation rather than a frozen save state.
 
 While a player is away, ordinary life goes on around their character.
 
@@ -227,7 +227,7 @@ While a player is away, ordinary life goes on around their character.
 
 ## The World Hosts the Game and Players Are Its Residents
 
-The world hosts Resonance, and the player does not. A player who enters a world is joining an existing civilization rather than opening a lobby or creating one.
+The world hosts Resonance, and the player does not. A player who enters a world is joining an existing civilisation rather than opening a lobby or creating one.
 
 The persistent entities are the communities and the places they inhabit, and they continue existing whether or not any individual player is present.
 
@@ -271,7 +271,7 @@ When a player logs out from a Protected Personal Space, the world continues norm
 
 ## Unsafe Logouts Move a Character Toward Safety
 
-If a player disconnects outside a Protected Personal Space, the game acts to protect the character, always prioritizing player agency while maintaining world continuity.
+If a player disconnects outside a Protected Personal Space, the game acts to protect the character, always prioritising player agency while maintaining world continuity.
 
 The game follows this order of priority.
 
@@ -312,7 +312,7 @@ Whenever possible, the character is withdrawn from immediate danger.
 - The character withdraws from immediate danger.
 - The character is considered unavailable until the player returns.
 
-Only when absolutely necessary should the game record that the character took part in emergency actions while offline, and any such actions are limited to realistic defensive or evacuation behavior rather than major story decisions.
+Only when absolutely necessary should the game record that the character took part in emergency actions while offline, and any such actions are limited to realistic defensive or evacuation behaviour rather than major story decisions.
 
 ## Perspectives Complete Each Other Without Contradiction
 
@@ -376,7 +376,7 @@ Meaningful contributions include:
 - Knowledge.
 - History.
 - Technology.
-- Cultural artifacts.
+- Cultural artefacts.
 - Accessibility improvements.
 - Engineering discoveries.
 - Medical discoveries.
@@ -387,7 +387,7 @@ Resources support these discoveries. Resources are never the primary reward.
 
 ## Every Expedition Expands Understanding
 
-Every expedition must answer one important question, and every expedition must create at least two new questions. Understanding should continually expand, and curiosity should always outpace certainty. The player should finish every expedition knowing more than before while realizing there is still far more left to discover.
+Every expedition must answer one important question, and every expedition must create at least two new questions. Understanding should continually expand, and curiosity should always outpace certainty. The player should finish every expedition knowing more than before while realising there is still far more left to discover.
 
 ## Every Expedition Records How the Player Approached Discovery
 
@@ -416,7 +416,7 @@ These are never displayed as numerical scores. They quietly influence:
 - Optional missions.
 - Historical interpretation.
 
-The player is never told they played correctly. The world simply remembers how they chose to build civilization. The player does not become good or bad. The player becomes known for how they think.
+The player is never told they played correctly. The world simply remembers how they chose to build civilisation. The player does not become good or bad. The player becomes known for how they think.
 
 ## Every Recurring Character Is a Complete Person
 
@@ -434,13 +434,13 @@ The player never replaces a canonical character.
 
 The player creates an original professional assigned to the chosen department, whose story unfolds alongside the established crew.
 
-The player may customize this original professional freely.
+The player may customise this original professional freely.
 
-Customization never alters established canon. The existence, history, identity, relationships, and appearance of every recurring character remain unchanged by anything the player chooses in customization.
+Customisation never alters established canon. The existence, history, identity, relationships, and appearance of every recurring character remain unchanged by anything the player chooses in customisation.
 
-## Characters Are Recognized Through Observation
+## Characters Are Recognised Through Observation
 
-Recurring characters become recognizable naturally, through observation rather than labels.
+Recurring characters become recognisable naturally, through observation rather than labels.
 
 The player gradually learns people through many signals.
 
@@ -467,7 +467,7 @@ The following never change, whichever member is fronting.
 
 - The shared body.
 - Height and build.
-- Face, hair, eye color, and skin tone.
+- Face, hair, eye colour, and skin tone.
 - Physical scars and medical history.
 - Accessibility equipment.
 - Uniform design and rank insignia.
@@ -485,9 +485,9 @@ The following change naturally with whoever is fronting.
 - Hand placement and gesture vocabulary.
 - Leadership philosophy and decision-making style.
 - Professional priorities and attention focus.
-- Emotional expression and sense of humor.
+- Emotional expression and sense of humour.
 - Relationships with the crew.
-- Preferred routines, communication style, and favorite places aboard Hearth.
+- Preferred routines, communication style, and favourite places aboard Hearth.
 - The name the member answers to.
 
 Personal identifiers also update naturally when a member fronts, as ordinary ship operations rather than ceremony.
@@ -499,7 +499,7 @@ Personal identifiers also update naturally when a member fronts, as ordinary shi
 - Office and terminal displays.
 - Command terminal login and voice authentication.
 
-These updates happen automatically through normal ship systems, and the crew treat them as completely ordinary, remarking on them only when directly relevant to the conversation. No two members should ever feel interchangeable, and the player should come to recognize each member before they speak.
+These updates happen automatically through normal ship systems, and the crew treat them as completely ordinary, remarking on them only when directly relevant to the conversation. No two members should ever feel interchangeable, and the player should come to recognise each member before they speak.
 
 Mara Chen is the blind engineer and is not a member of the Vale System.
 
@@ -520,11 +520,11 @@ Fronting is purposeful. A member comes forward because their knowledge, temperam
 
 In Operation One this shows as Elian on the ordinary mornings, Naomi in emergencies, Gideon reading failing systems, and Iris steadying civilians, consistent with the master timeline and the character schedule.
 
-The game almost never announces a switch. Instead the player recognizes it through observation.
+The game almost never announces a switch. Instead the player recognises it through observation.
 
 - A different voice, accent, and vocabulary.
 - A different posture, gait, and body language.
-- A different command style, humor, and set of emotional priorities.
+- A different command style, humour, and set of emotional priorities.
 - Different interactions with individual crew members.
 - Updated name tape and command authentication.
 
@@ -534,7 +534,7 @@ Careful attention is always rewarded. Reading the Vale System correctly is a ski
 
 The recurring cast intentionally reflects the breadth of humanity, and representation is a design requirement rather than a decorative afterthought.
 
-Representation is never tokenistic. No race, ethnicity, disability, communication style, or gender identity is treated as the default, and human diversity is presented as an ordinary part of civilization.
+Representation is never tokenistic. No race, ethnicity, disability, communication style, or gender identity is treated as the default, and human diversity is presented as an ordinary part of civilisation.
 
 ## The Cast Represents a Range of Ethnic Backgrounds
 
@@ -578,7 +578,7 @@ Gender identities are not mutually exclusive when they are not in conflict.
 - A non-binary person may also identify as a demiboy or a demigirl.
 - An agender person generally would not identify with a gender, which makes that experience distinct.
 
-The goal of the recurring cast is not to check demographic boxes. The goal is to portray a diverse range of authentic human experiences through fully realized characters. Every recurring character is defined first by their personality, relationships, profession, values, strengths, flaws, goals, and growth, and their gender identity is one meaningful aspect of who they are rather than the whole of it.
+The goal of the recurring cast is not to check demographic boxes. The goal is to portray a diverse range of authentic human experiences through fully realised characters. Every recurring character is defined first by their personality, relationships, profession, values, strengths, flaws, goals, and growth, and their gender identity is one meaningful aspect of who they are rather than the whole of it.
 
 ## Pronouns Reflect Current Presentation
 
@@ -654,33 +654,33 @@ A character's everyday carry evolves naturally over the course of the franchise 
 
 ## Crew Identity Uses a Layered Identification System
 
-All crew members use a standardized, multi-layer identity system, and technology never replaces recognizing a person through lived experience.
+All crew members use a standardised, multi-layer identity system, and technology never replaces recognising a person through lived experience.
 
 - The smart name tape displays name, rank, department, and assignment, and for the Vale System it updates automatically to the currently fronting member.
 - The digital identity badge, integrated into clothing or equipment, projects portrait, name, pronouns, department, rank, and professional certifications, and, at the wearer's choice, communication, accessibility, and emergency information.
 - The secure crew credential authenticates the wearer throughout Hearth.
-- Community recognition is primary, and the layers above support recognizing a person through voice, movement, routine, body language, equipment, professional habits, and relationships rather than replacing it.
+- Community recognition is primary, and the layers above support recognising a person through voice, movement, routine, body language, equipment, professional habits, and relationships rather than replacing it.
 
 Every crew member also carries an encrypted personal beacon integrated into their communicator, with privacy settings controlled by the wearer. The beacon supports emergency location, navigation assistance, identity confirmation, accessibility support, emergency rescue, blind navigation, DeafBlind tactile output, and optional communication preferences.
 
 The Universe Bible elaborates this identification technology and the personal beacon in full.
 
-## Species Are Not Civilizations
+## Species Are Not Civilisations
 
-In Resonance, species and civilizations are never interchangeable. A species describes biology, and a civilization describes society. A species answers what kind of living being someone is, and a civilization answers how a people choose to live together.
+In Resonance, species and civilisations are never interchangeable. A species describes biology, and a civilisation describes society. A species answers what kind of living being someone is, and a civilisation answers how a people choose to live together.
 
 - A species is a people, biological or artificial, and is never a faction.
-- A civilization is a social, political, and cultural organization.
-- A single species may develop many civilizations.
-- A civilization may include one species, many species, artificial intelligences, synthetic life, or hybrid communities.
+- A civilisation is a social, political, and cultural organisation.
+- A single species may develop many civilisations.
+- A civilisation may include one species, many species, artificial intelligences, synthetic life, or hybrid communities.
 
-A species defines only biology and the lived experience that grows from it, and never determines government, culture, religion, morality, politics, economics, art, language, architecture, or values, which belong to civilizations. No single civilization represents an entire species, and no species is treated as sharing one culture or one government.
+A species defines only biology and the lived experience that grows from it, and never determines government, culture, religion, morality, politics, economics, art, language, architecture, or values, which belong to civilisations. No single civilisation represents an entire species, and no species is treated as sharing one culture or one government.
 
 ## No People Exist Only as Enemies or Stereotypes
 
-No species exists solely to be an enemy, and no civilization exists solely to create conflict. Conflict in the Resonance universe arises from history, circumstance, competing needs, and individual decisions, never from biology alone.
+No species exists solely to be an enemy, and no civilisation exists solely to create conflict. Conflict in the Resonance universe arises from history, circumstance, competing needs, and individual decisions, never from biology alone.
 
-Every civilization should feel capable of producing the full range of people who make up any real society.
+Every civilisation should feel capable of producing the full range of people who make up any real society.
 
 - Scientists.
 - Teachers.
@@ -696,7 +696,7 @@ Every civilization should feel capable of producing the full range of people who
 - Families.
 - Ordinary citizens.
 
-The Resonance universe is populated by societies of people rather than by stereotypes. This rule extends the same principle applied to the recurring human cast to every species and civilization in the universe.
+The Resonance universe is populated by societies of people rather than by stereotypes. This rule extends the same principle applied to the recurring human cast to every species and civilisation in the universe.
 
 ## Knowledge Is Historical
 
@@ -706,7 +706,7 @@ A document written from an in-universe perspective remains canonical because it 
 
 As new operations, expeditions, and perspectives are experienced, humanity's understanding grows. Knowledge is corrected through discovery rather than through retcon. The universe itself remains internally consistent, while the player's understanding evolves.
 
-This rule extends the principle that history and understanding are earned separately, applying it to the whole recorded knowledge of the universe's species and civilizations, so that what a people believe is recorded distinctly from what is objectively true.
+This rule extends the principle that history and understanding are earned separately, applying it to the whole recorded knowledge of the universe's species and civilisations, so that what a people believe is recorded distinctly from what is objectively true.
 
 ## Relationship to Other Documents
 
@@ -720,9 +720,9 @@ This document is the master list of canon rules and holds precedence for the wor
 - The Accessibility Bible elaborates accessibility as standard equipment.
 - The Network and Multiplayer Bible elaborates world persistence, the world as host, player residency, protected personal spaces, and safe logout and return.
 - The Crew Progression System design note elaborates the crew relevance, belonging, sound, and community rules.
-- The Crew Progression System, the Operation One Character Schedule, and the Universe Bible elaborate the recurring characters, the Vale System and its four members, how fronting is recognized in play, and how each character's identity, representation, and presentation are realized.
+- The Crew Progression System, the Operation One Character Schedule, and the Universe Bible elaborate the recurring characters, the Vale System and its four members, how fronting is recognised in play, and how each character's identity, representation, and presentation are realised.
 - The Universe Bible elaborates the crew identity and identification technology and the personal beacon.
-- The Universe Bible is the definitive reference for every intelligent species and civilization, and it elaborates the species and civilization frameworks, humanity, the CSV Hearth community, the Shawabti, artificial minds, first contact, and multi-species communities.
+- The Universe Bible is the definitive reference for every intelligent species and civilisation, and it elaborates the species and civilisation frameworks, humanity, the CSV Hearth community, the Shawabti, artificial minds, first contact, and multi-species communities.
 - The Universe Bible elaborates historical knowledge as distinct from objective history, recording what humanity currently believes about the Shawabti and about Faience separately from what is objectively true.
 - The Player Identity and Character Presentation Bible elaborates each recurring character's complete presentation profile and everyday carry, the presentation of the Vale System and its members, and the recognition cues by which each character is known.
 - The Decision Log records when each rule was adopted or amended.

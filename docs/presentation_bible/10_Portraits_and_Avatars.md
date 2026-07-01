@@ -31,15 +31,15 @@ No portrait is complete without an authored audio-first, blind-friendly descript
 Portraits support recognition but never replace the world's job of teaching who people are. The interface rarely identifies a recurring character, and portraits follow that restraint.
 
 - A portrait reinforces a recognition the player has already been building through voice, movement, and habit; it does not substitute for that learning.
-- Portrait descriptions avoid reducing a character to a label and instead express the observable qualities that make the person recognizable.
+- Portrait descriptions avoid reducing a character to a label and instead express the observable qualities that make the person recognisable.
 - The player should feel a portrait confirm someone they already know rather than being told who a stranger is.
 
 ### Portraits and the Vale System
 
-The Vale System is one shared body inhabited by four members who front in turn, and the portrait system honors this fully. The body is constant and only its presentation changes, so the portrait represents one body whose expression, posture, and identifiers reflect whoever is fronting.
+The Vale System is one shared body inhabited by four members who front in turn, and the portrait system honours this fully. The body is constant and only its presentation changes, so the portrait represents one body whose expression, posture, and identifiers reflect whoever is fronting.
 
 - There is one shared body portrait for the Vale System, never four separate character portraits and never a single person named Captain Mara Vale.
-- The portrait's constant elements, such as face, hair, eye color, skin tone, build, scars, accessibility equipment, uniform, and insignia, never change between members.
+- The portrait's constant elements, such as face, hair, eye colour, skin tone, build, scars, accessibility equipment, uniform, and insignia, never change between members.
 - The portrait's changing elements, such as expression, eye focus, head position, and posture, reflect the fronting member, and personal identifiers shown in or beside the portrait update automatically as ordinary ship operations.
 - The audio-first description of the Vale System portrait describes one body and expresses the current member through observable presentation rather than by treating them as a separate person.
 
@@ -64,8 +64,8 @@ This section defines the baseline requirements every recurring character portrai
 
 ### Portrait Consistency Standards
 
-- A character's portrait remains recognizably consistent across chapters so returning players keep their recognition, allowing for authored change through aging and growth described later in this document.
-- The constant identity facts from the Character Identity Map, such as profession, ethnicity, gender, pronouns, and disability, are honored consistently in every portrait and every description.
+- A character's portrait remains recognizably consistent across chapters so returning players keep their recognition, allowing for authored change through ageing and growth described later in this document.
+- The constant identity facts from the Character Identity Map, such as profession, ethnicity, gender, pronouns, and disability, are honoured consistently in every portrait and every description.
 - The visual likeness and the audio-first description must always describe the same person in the same state.
 
 ### Portrait Emotional Range Standards
@@ -78,7 +78,7 @@ This section defines the baseline requirements every recurring character portrai
 
 - A portrait has defined states along the arc from rescued to belonging, and the illuminated state is reserved for genuine belonging as the canon requires.
 - Each state is expressed both visually and in the audio-first description, so belonging is legible through either channel.
-- The transition to full illumination is meaningful and is accompanied by the community's acoustic growth, honoring sound as progression.
+- The transition to full illumination is meaningful and is accompanied by the community's acoustic growth, honouring sound as progression.
 
 ## Lighting
 
@@ -100,7 +100,7 @@ Lighting shapes how a portrait reads, and in Resonance it is always designed wit
 
 - Lighting must maintain sufficient contrast and clarity for low-vision players and must not rely on subtle lighting cues alone to convey state.
 - Any meaning carried by lighting, such as belonging or emotional tone, is always also carried in the audio-first description.
-- Lighting choices honor seizure-safe design consistent with the ship's standard seizure-safe lighting, avoiding harsh flashing in portrait presentation.
+- Lighting choices honour seizure-safe design consistent with the ship's standard seizure-safe lighting, avoiding harsh flashing in portrait presentation.
 
 ## Framing
 
@@ -108,8 +108,8 @@ Framing determines what a portrait includes and how the character is composed, a
 
 ### Portrait Framing Composition Standards
 
-- Portrait framing centers the character with composition that presents them as a confident, complete person.
-- Framing includes the elements that make a character recognizable, which may include their characteristic posture, professional presence, and assistive equipment as natural parts of who they are.
+- Portrait framing centres the character with composition that presents them as a confident, complete person.
+- Framing includes the elements that make a character recognisable, which may include their characteristic posture, professional presence, and assistive equipment as natural parts of who they are.
 - Framing avoids compositions that crop out or hide assistive equipment as if it were something to conceal.
 
 ### Portrait Framing for Mobility and Equipment
@@ -131,7 +131,7 @@ The player creates an original professional assigned to a chosen department whos
 ### Player Avatar Scope Standards
 
 - The player's avatar is always an original professional, never a recurring canonical character, and never the Vale System.
-- Avatar customization is free and expressive but never changes the existence, history, identity, relationships, or appearance of any recurring character.
+- Avatar customisation is free and expressive but never changes the existence, history, identity, relationships, or appearance of any recurring character.
 - The player selects a department from the eight professions, which are Medic, Scientist, Engineer, Maintenance, Security, Commissioned Officer, Non-Commissioned Officer, and Civilian, and the avatar presents accordingly.
 
 ### Accessible Avatar Creation Standards
@@ -171,7 +171,7 @@ Photogrammetry is identified here as a future capture technique for building por
 
 ### Photogrammetry Ethics and Consent Standards
 
-- Photogrammetry involving real people requires informed consent and respectful use, and cultural likeness is never captured or stylized casually.
+- Photogrammetry involving real people requires informed consent and respectful use, and cultural likeness is never captured or stylised casually.
 - For characters whose culture is undeveloped in canon, such as Talia Rusk, photogrammetry must not be used to invent cultural specificity, and such development waits for appropriate cultural consultation.
 
 ## Motion Capture
@@ -195,31 +195,31 @@ Motion capture is identified here as a technique for capturing performance to dr
 - Disability is portrayed authentically in captured performance, ideally with performers whose lived experience matches, and always with dignity and without tokenism.
 - Cultural movement is never invented through capture for characters whose culture is undeveloped in canon.
 
-## Portrait Aging Through Future Operations
+## Portrait Ageing Through Future Operations
 
-Resonance spans multiple Operations, and characters may age and change across them. Portrait aging is the deliberate practice of evolving portraits over time so the passage of Operations is visible and audible while recognition is preserved. This is described as forward-looking presentation guidance and does not assert specific future events as settled canon.
+Resonance spans multiple Operations, and characters may age and change across them. Portrait ageing is the deliberate practice of evolving portraits over time so the passage of Operations is visible and audible while recognition is preserved. This is described as forward-looking presentation guidance and does not assert specific future events as settled canon.
 
-### Portrait Aging Continuity Standards
+### Portrait Ageing Continuity Standards
 
-- Aging a portrait preserves the core recognition signals of a character so returning players still know them, while reflecting the time that has passed.
-- The constant identity facts from the Character Identity Map remain constant through aging; aging changes appearance over time, not who a person fundamentally is.
+- Ageing a portrait preserves the core recognition signals of a character so returning players still know them, while reflecting the time that has passed.
+- The constant identity facts from the Character Identity Map remain constant through ageing; ageing changes appearance over time, not who a person fundamentally is.
 - Each aged portrait is treated as the current living portrait of the character rather than a competing alternate, consistent with maintaining one living representation.
 
-### Portrait Aging and Growth Standards
+### Portrait Ageing and Growth Standards
 
-- Aging reflects growth, experience, and the continuing life of the community, honoring the canon that the home is always evolving.
-- For a growing child such as Mira Ives, aging is handled with a light, respectful touch that leaves room for the character's development, including the open development of her gender expression, and never fixes what canon leaves open.
-- Aging never erases assistive equipment or a character's disability, which remain ordinary parts of who they are across Operations.
+- Ageing reflects growth, experience, and the continuing life of the community, honouring the canon that the home is always evolving.
+- For a growing child such as Mira Ives, ageing is handled with a light, respectful touch that leaves room for the character's development, including the open development of her gender expression, and never fixes what canon leaves open.
+- Ageing never erases assistive equipment or a character's disability, which remain ordinary parts of who they are across Operations.
 
-### Portrait Aging Accessibility Standards
+### Portrait Ageing Accessibility Standards
 
 - Every aged portrait ships with an updated audio-first description that conveys the passage of time and the character's current presence.
-- The audio-first description makes aging perceivable to non-sighted players so the visible evolution of the community is not sight-dependent.
-- The acoustic identity of a character may also evolve across Operations, and portrait aging is coordinated with that so sound and image age together.
+- The audio-first description makes ageing perceivable to non-sighted players so the visible evolution of the community is not sight-dependent.
+- The acoustic identity of a character may also evolve across Operations, and portrait ageing is coordinated with that so sound and image age together.
 
-### Portrait Aging for the Vale System
+### Portrait Ageing for the Vale System
 
-- Aging the Vale System portrait ages the one shared body, and all four members share that aging because they share the body.
+- Ageing the Vale System portrait ages the one shared body, and all four members share that ageing because they share the body.
 - Each member's distinct presentation continues to read on the aged body, so recognition of the fronting member is preserved across Operations.
 - The audio-first description of the aged Vale System portrait continues to describe one body presenting the current member.
 
@@ -242,7 +242,7 @@ Every portrait and avatar is reviewed against consistent criteria before accepta
 
 ### Portrait and Avatar Consistency Checks
 
-- The portrait matches the character's established likeness and recognition signals from prior chapters, allowing for authored aging and growth.
+- The portrait matches the character's established likeness and recognition signals from prior chapters, allowing for authored ageing and growth.
 - The visual portrait and the audio-first description agree in identity, state, and mood.
 - Any cultural or gender content that is undeveloped in canon has been kept open rather than invented, consistent with the open development items in the Character Identity Map.
-- The player avatar honors the rule that customization never alters canon and never replaces a recurring character.
+- The player avatar honours the rule that customisation never alters canon and never replaces a recurring character.

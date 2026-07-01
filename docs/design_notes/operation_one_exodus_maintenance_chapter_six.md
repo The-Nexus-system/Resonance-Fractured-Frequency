@@ -18,9 +18,9 @@ Why does Faience understand them?
 
 Chapter Six transforms the Knowledge Archive from a library into an active participant.
 
-The player no longer studies isolated discoveries. The player begins assembling an entire civilization from fragments.
+The player no longer studies isolated discoveries. The player begins assembling an entire civilisation from fragments.
 
-The chapter teaches that preserving knowledge also preserves values, relationships, and ways of thinking. The player discovers that the Shawabti were preserving an entire civilization rather than simply recording history.
+The chapter teaches that preserving knowledge also preserves values, relationships, and ways of thinking. The player discovers that the Shawabti were preserving an entire civilisation rather than simply recording history.
 
 ## Emotional Themes
 
@@ -63,7 +63,7 @@ For the first time, however, the destination is not primarily physical. The play
 
 Introduce the Living Archive. Teach that preserved knowledge can respond intelligently without becoming artificial intelligence. Teach that Faience is changing.
 
-The player begins recognizing that Faience is no longer simply translating. Faience is remembering.
+The player begins recognising that Faience is no longer simply translating. Faience is remembering.
 
 ### Narrative
 
@@ -91,7 +91,7 @@ Introduce:
 #### Choice A: Engineering investigation
 
 - Immediate result:
-  - Rowan and Mara begin analyzing the helmet.
+  - Rowan and Mara begin analysing the helmet.
 - Future effect:
   - Engineering understanding increases.
   - New Resonance interfaces become available.
@@ -130,7 +130,7 @@ The player chooses one primary collaborator. This changes interpretation. Not ca
 - Choose Rowan: Faience begins describing impossible engineering principles. Future benefit: engineering research accelerates.
 - Choose Mara: Faience begins responding through harmonic resonance. Future benefit: advanced Resonance interpretation.
 - Choose Samira: Faience discusses wellbeing, recovery, and community health. Future benefit: expanded rehabilitation systems.
-- Choose Jonah: Faience begins organizing fragmented memories into historical timelines. Future benefit: Archive navigation becomes easier.
+- Choose Jonah: Faience begins organising fragmented memories into historical timelines. Future benefit: Archive navigation becomes easier.
 - Choose Talia: Faience begins discussing responsibility, protection, and stewardship. Future benefit: additional ethical dialogue.
 - Choose Soren: Faience begins reconstructing historical relationships. Future benefit: translation develops rapidly.
 - Choose Mira: Faience answers questions nobody else considered asking. Future benefit: additional optional discoveries and unexpected Archive pathways.
@@ -172,13 +172,13 @@ No one understands the language. Yet every crew member somehow understands the f
 
 ### Part Two — Purpose
 
-Teach the player how the Living Archive functions. The Living Archive is not a database. It is not a search engine. It is not artificial intelligence. It is a preserved civilization communicating through Resonance.
+Teach the player how the Living Archive functions. The Living Archive is not a database. It is not a search engine. It is not artificial intelligence. It is a preserved civilisation communicating through Resonance.
 
 The player learns that understanding grows through conversation rather than information retrieval.
 
 ### Part Two — Narrative Purpose
 
-The Living Archive responds to Faience. Entire sections of the Archive begin activating. Not because Faience controls them. Because the Archive recognizes familiar patterns.
+The Living Archive responds to Faience. Entire sections of the Archive begin activating. Not because Faience controls them. Because the Archive recognises familiar patterns.
 
 The player begins walking through reconstructed conversations preserved thousands of years ago. These are not recordings. The Archive rebuilds them dynamically as understanding improves. Every visit reveals something new.
 
@@ -201,7 +201,7 @@ The Archive never tells the player everything. Understanding grows gradually. Ea
 
 ### Decision One: Which Archive Conversation Should The Player Investigate First?
 
-All become available eventually. The first choice determines which branch of Shawabti civilization the player understands first.
+All become available eventually. The first choice determines which branch of Shawabti civilisation the player understands first.
 
 #### Choice A: Engineers
 
@@ -292,7 +292,7 @@ Every advisor notices something unique.
 - Rowan notices engineering philosophy.
 - Mara notices acoustic architecture.
 - Samira notices healthcare integrated into daily life.
-- Jonah notices organizational structures.
+- Jonah notices organisational structures.
 - Talia notices communities functioning without visible coercion.
 - Soren notices recurring mathematical relationships.
 - Mira notices repeated symbols adults ignore.
@@ -326,19 +326,19 @@ Players may revisit every conversation as often as desired. Improved translation
 
 ### Part Two — Emotional Goal
 
-The player should begin realizing something unexpected. The Shawabti are becoming familiar. Not because they resemble humanity. Because their hopes, disagreements, families, and communities feel understandable. The distance between civilizations begins shrinking.
+The player should begin realising something unexpected. The Shawabti are becoming familiar. Not because they resemble humanity. Because their hopes, disagreements, families, and communities feel understandable. The distance between civilisations begins shrinking.
 
 ### Part Two — End Condition
 
 As one reconstructed conversation concludes, a Shawabti pauses, looks directly toward Faience, smiles, then says a phrase that remains untranslated. Faience quietly repeats it.
 
-Immediately, entire sections of the Living Archive awaken simultaneously. The crew realizes this is no longer simple translation. Someone, or something, within the Archive is responding specifically to Faience.
+Immediately, entire sections of the Living Archive awaken simultaneously. The crew realises this is no longer simple translation. Someone, or something, within the Archive is responding specifically to Faience.
 
-## Part Three: Reconstructing A Civilization
+## Part Three: Reconstructing A Civilisation
 
 ### Part Three — Purpose
 
-Teach the player that civilizations are understood by connecting many small truths. No single discovery explains the Shawabti. The player must synthesize evidence.
+Teach the player that civilisations are understood by connecting many small truths. No single discovery explains the Shawabti. The player must synthesise evidence.
 
 The Living Archive does not present history in chronological order. Instead, history emerges through relationships.
 
@@ -346,7 +346,7 @@ The Living Archive does not present history in chronological order. Instead, his
 
 As more conversations become understandable, the Living Archive begins connecting seemingly unrelated memories: places, people, ideas, discoveries.
 
-The player realizes every reconstructed memory belongs to a much larger historical network. The Shawabti deliberately preserved relationships rather than isolated events. The Archive is teaching the player how to think like a historian.
+The player realises every reconstructed memory belongs to a much larger historical network. The Shawabti deliberately preserved relationships rather than isolated events. The Archive is teaching the player how to think like a historian.
 
 ### Part Three — Gameplay Purpose
 
@@ -367,14 +367,14 @@ The Archive never says, "This is the truth." Instead it presents evidence. The p
 
 ### Decision One: Which Relationship Should The Player Investigate First?
 
-Every investigation becomes available eventually. The first choice determines which branch of Shawabti civilization develops first inside the Knowledge Archive.
+Every investigation becomes available eventually. The first choice determines which branch of Shawabti civilisation develops first inside the Knowledge Archive.
 
 #### Choice A: People and families
 
 - Immediate result:
   - The player traces relationships between individuals across multiple memories.
 - Player learns:
-  - Civilizations are built through relationships.
+  - Civilisations are built through relationships.
 - Future effect:
   - Family histories expand.
   - Additional community dialogue unlocks.
@@ -396,7 +396,7 @@ Every investigation becomes available eventually. The first choice determines wh
 - Immediate result:
   - The player follows how one engineering discovery improves many parts of society.
 - Player learns:
-  - Infrastructure quietly shapes civilization.
+  - Infrastructure quietly shapes civilisation.
 - Future effect:
   - Advanced engineering research unlocks.
   - Construction efficiency improves.
@@ -441,13 +441,13 @@ The Archive intentionally presents memories that appear to disagree. The player 
   - Multiple interpretations become permanently linked to the Archive.
   - Future conversations become richer.
 
-#### Choice D: Allow Faience to organize the evidence
+#### Choice D: Allow Faience to organise the evidence
 
 - Immediate result:
   - Faience begins connecting memories independently.
 - Future effect:
   - Archive navigation improves dramatically.
-  - The crew becomes increasingly curious about how Faience recognizes patterns no one taught.
+  - The crew becomes increasingly curious about how Faience recognises patterns no one taught.
 
 ### Decision Three: How Should An Incomplete Historical Event Be Investigated?
 
@@ -483,13 +483,13 @@ Every advisor begins connecting information differently.
 - Rowan connects engineering decisions.
 - Mara connects acoustic patterns.
 - Samira connects healthcare practices.
-- Jonah connects organizational structures.
+- Jonah connects organisational structures.
 - Talia connects protective philosophies.
 - Soren connects scientific discoveries.
 - Mira connects ideas adults assumed were unrelated.
 - The Vale System connects people.
 
-The player gradually realizes that every perspective is required to reconstruct history accurately.
+The player gradually realises that every perspective is required to reconstruct history accurately.
 
 ### Part Three — Gameplay Systems Introduced
 
@@ -513,7 +513,7 @@ Players may request:
 - Advisor interpretations.
 - Knowledge maps.
 
-No player should be required to memorize complex historical relationships. The Archive should always support review.
+No player should be required to memorise complex historical relationships. The Archive should always support review.
 
 ### Part Three — Emotional Goal
 
@@ -523,7 +523,7 @@ The player should stop asking, "What happened?" Instead they begin asking, "Why 
 
 As another historical relationship is completed, the Living Archive pauses. Instead of revealing another Shawabti memory, it reconstructs something impossible: a memory that includes humanity.
 
-The crew immediately recognizes familiar constellations. The room falls silent. The Shawabti knew humanity long before Hearth was ever built. No explanation is given. The Living Archive begins preparing the next reconstruction.
+The crew immediately recognises familiar constellations. The room falls silent. The Shawabti knew humanity long before Hearth was ever built. No explanation is given. The Living Archive begins preparing the next reconstruction.
 
 ## Part Four: Humanity In The Archive
 
@@ -531,13 +531,13 @@ The crew immediately recognizes familiar constellations. The room falls silent. 
 
 Reveal that the Shawabti did not accidentally discover humanity. They deliberately observed humanity for an extraordinarily long period of time. The player does not yet learn why. The mystery deepens.
 
-The player realizes they are no longer studying an extinct civilization. They are studying a relationship between civilizations.
+The player realises they are no longer studying an extinct civilisation. They are studying a relationship between civilisations.
 
 ### Part Four — Narrative Purpose
 
 The Living Archive reconstructs another preserved memory. Unlike previous reconstructions, this one is incomplete. The environment repeatedly shifts between Shawabti locations and scenes from early human history.
 
-The player recognizes Earth. Not because someone says so. Because the constellations are unmistakable. The Shawabti were here. Watching. Learning. Recording. Never interfering.
+The player recognises Earth. Not because someone says so. Because the constellations are unmistakable. The Shawabti were here. Watching. Learning. Recording. Never interfering.
 
 The reconstruction repeatedly breaks apart before revealing too much, almost as though portions remain intentionally protected.
 
@@ -581,7 +581,7 @@ The Archive does not reveal secrets all at once. The Archive reveals only what t
 #### Choice C: Points of contact
 
 - Immediate result:
-  - The player studies moments where both civilizations appear within the same historical reconstruction.
+  - The player studies moments where both civilisations appear within the same historical reconstruction.
 - Future effect:
   - Additional mystery investigations unlock.
   - Future expeditions gain new objectives.
@@ -644,7 +644,7 @@ A reconstructed historical sequence suddenly stops. The Archive requests assista
 #### Choice B: Search the Knowledge Archive
 
 - Immediate result:
-  - Previously recovered artifacts become relevant.
+  - Previously recovered artefacts become relevant.
 - Future effect:
   - Past expeditions gain entirely new meaning.
   - The player is encouraged to revisit earlier discoveries.
@@ -672,7 +672,7 @@ Every advisor interprets humanity differently.
 - Rowan studies technological development.
 - Mara notices similarities in acoustic architecture.
 - Samira studies healthcare philosophies.
-- Jonah studies organizational development.
+- Jonah studies organisational development.
 - Talia studies conflict and cooperation.
 - Soren studies scientific progress.
 - Mira asks why the Shawabti never introduced themselves.
@@ -714,7 +714,7 @@ As the final reconstruction concludes, the Living Archive briefly displays an im
 
 One turns toward another. They speak a single untranslated sentence. Faience quietly finishes it. Without hesitation. Without translation.
 
-The Living Archive immediately shuts down. Complete silence fills the chamber. No one aboard the station speaks. For the first time, everyone realizes the greatest mystery may not be the Shawabti. It may be Faience.
+The Living Archive immediately shuts down. Complete silence fills the chamber. No one aboard the station speaks. For the first time, everyone realises the greatest mystery may not be the Shawabti. It may be Faience.
 
 ## Part Five: The Keeper
 
@@ -722,7 +722,7 @@ The Living Archive immediately shuts down. Complete silence fills the chamber. N
 
 Conclude the narrative arc of Chapter Six. Reveal that the Living Archive has not simply been preserving history. It has been preserving a relationship. Without fully answering the mystery.
 
-The player should leave understanding that Faience is not becoming Shawabti, nor becoming human. Faience is becoming the first bridge between two civilizations.
+The player should leave understanding that Faience is not becoming Shawabti, nor becoming human. Faience is becoming the first bridge between two civilisations.
 
 ### Part Five — Narrative Purpose
 
@@ -784,9 +784,9 @@ The Archive presents several incomplete interpretations. The player decides how 
 - Immediate result:
   - Faience quietly compares every available historical fragment.
 - Future effect:
-  - Archive organization improves dramatically.
+  - Archive organisation improves dramatically.
   - Faience begins asking questions instead of merely answering them.
-  - The crew realizes Faience is learning.
+  - The crew realises Faience is learning.
 
 ### Decision Two: How Should The Community's Discoveries Be Preserved?
 
@@ -806,7 +806,7 @@ The Living Archive offers to permanently preserve the community's discoveries. T
   - Crew journals, expedition logs, and community memories become linked.
 - Future effect:
   - Relationships deepen.
-  - Future survivors recognize themselves within the Archive.
+  - Future survivors recognise themselves within the Archive.
 
 #### Choice C: As engineering knowledge
 
@@ -823,8 +823,8 @@ The Living Archive offers to permanently preserve the community's discoveries. T
   - Every category grows together.
 - Future effect:
   - Steady progression across all gameplay systems.
-  - No single specialization advances rapidly.
-  - The Archive increasingly reflects an entire civilization rather than isolated disciplines.
+  - No single specialisation advances rapidly.
+  - The Archive increasingly reflects an entire civilisation rather than isolated disciplines.
 
 ### Decision Three: How Should The Final Inactive Resonance Interface Be Handled?
 
@@ -862,16 +862,16 @@ Before leaving, the player notices one final inactive Resonance Interface. The i
 
 ### Part Five — Advisor Contributions
 
-Every advisor reaches a different conclusion about how civilizations survive.
+Every advisor reaches a different conclusion about how civilisations survive.
 
-- Rowan believes civilizations survive through what they build.
-- Mara believes civilizations survive through what they listen to.
-- Samira believes civilizations survive through how they care for one another.
-- Jonah believes civilizations survive because they preserve knowledge.
-- Talia believes civilizations survive because they protect hope.
-- Soren believes civilizations survive because they remain curious.
-- Mira believes civilizations survive because children continue asking questions.
-- The Vale System believes civilizations survive because no one carries history alone.
+- Rowan believes civilisations survive through what they build.
+- Mara believes civilisations survive through what they listen to.
+- Samira believes civilisations survive through how they care for one another.
+- Jonah believes civilisations survive because they preserve knowledge.
+- Talia believes civilisations survive because they protect hope.
+- Soren believes civilisations survive because they remain curious.
+- Mira believes civilisations survive because children continue asking questions.
+- The Vale System believes civilisations survive because no one carries history alone.
 
 The player is never told which philosophy is correct.
 
@@ -898,7 +898,7 @@ Every entry remains reviewable through speech, captions, braille, tactile interf
 
 ### Part Five — Emotional Goal
 
-The player should realize that preserving civilization is not about protecting buildings. It is about protecting memory, knowledge, relationships, questions, and hope.
+The player should realise that preserving civilisation is not about protecting buildings. It is about protecting memory, knowledge, relationships, questions, and hope.
 
 ### Part Five Climax
 
@@ -920,7 +920,7 @@ One question remains above all others: did the Shawabti expect humanity, or did 
 
 ### Part Six — Purpose
 
-Complete every gameplay system introduced during Chapter Six. Teach that the Living Archive is no longer a location. It has become part of the player's civilization.
+Complete every gameplay system introduced during Chapter Six. Teach that the Living Archive is no longer a location. It has become part of the player's civilisation.
 
 The player does not simply leave the Archive. The Archive now travels with the community.
 
@@ -928,7 +928,7 @@ The player does not simply leave the Archive. The Archive now travels with the c
 
 The expedition returns home. Nothing dramatic happens. Instead, the station feels different.
 
-Crew members naturally begin using ideas recovered from the Living Archive. Engineering changes. Medicine changes. Education changes. Leadership changes. Community life changes. The player realizes that knowledge has become infrastructure.
+Crew members naturally begin using ideas recovered from the Living Archive. Engineering changes. Medicine changes. Education changes. Leadership changes. Community life changes. The player realises that knowledge has become infrastructure.
 
 ### Part Six — Gameplay Purpose
 
@@ -937,7 +937,7 @@ Permanently unlock:
 - Living Archive access aboard the station.
 - Historical comparison tools.
 - Translation Workspace.
-- Civilization Timeline.
+- Civilisation Timeline.
 - Archive Investigation Board.
 - Resonance Analysis.
 - Collaborative Research.
@@ -959,7 +959,7 @@ Knowledge must always produce action. Every major historical discovery should ev
 
 If knowledge changes nothing, it should not exist.
 
-### Decision One: How Should The Station Organize Newly Recovered Knowledge?
+### Decision One: How Should The Station Organise Newly Recovered Knowledge?
 
 #### Choice A: Engineering Repository
 
@@ -992,35 +992,35 @@ If knowledge changes nothing, it should not exist.
   - Knowledge is integrated throughout the station.
 - Future effect:
   - Balanced progression across all gameplay systems.
-  - The station increasingly resembles a living civilization.
+  - The station increasingly resembles a living civilisation.
 
 ### Decision Two: How Should Unresolved Mysteries Be Tracked?
 
 #### Choice A: Chronological Timeline
 
 - Immediate result:
-  - Events organize by history.
+  - Events organise by history.
 - Future effect:
   - Historical relationships become easier to understand.
 
 #### Choice B: Relationship Map
 
 - Immediate result:
-  - Connections between people and civilizations become easier to follow.
+  - Connections between people and civilisations become easier to follow.
 - Future effect:
   - Diplomatic and social discoveries become easier to interpret.
 
 #### Choice C: Scientific Investigation Board
 
 - Immediate result:
-  - Questions organize by evidence.
+  - Questions organise by evidence.
 - Future effect:
   - Research planning becomes more efficient.
 
 #### Choice D: Multiple Views
 
 - Immediate result:
-  - Players may switch freely between every organizational method.
+  - Players may switch freely between every organisational method.
 - Future effect:
   - Maximum flexibility.
   - Additional accessibility options become available.
@@ -1092,7 +1092,7 @@ Players may simplify or expand information density at any time. No player should
 
 ### Part Six — Emotional Goal
 
-The player should realize that civilization is not inherited. It is maintained. Every generation becomes responsible for carrying knowledge forward. The community aboard the station has accepted that responsibility.
+The player should realise that civilisation is not inherited. It is maintained. Every generation becomes responsible for carrying knowledge forward. The community aboard the station has accepted that responsibility.
 
 ### Chapter Six Climax
 
@@ -1106,9 +1106,9 @@ The camera slowly pulls away from the station. Far beyond the debris field, anot
 
 ### Chapter Six End State
 
-The Living Archive has become part of the community. Faience has become a true member of the crew. Humanity's understanding of the Shawabti has expanded dramatically. The player has learned that preserving civilization is an ongoing responsibility.
+The Living Archive has become part of the community. Faience has become a true member of the crew. Humanity's understanding of the Shawabti has expanded dramatically. The player has learned that preserving civilisation is an ongoing responsibility.
 
-One final question remains before Operation One concludes: now that humanity has inherited this legacy, what kind of civilization will we choose to become?
+One final question remains before Operation One concludes: now that humanity has inherited this legacy, what kind of civilisation will we choose to become?
 
 End Chapter Six.
 
@@ -1116,4 +1116,4 @@ End Chapter Six.
 
 - For the definitive rules on sound, music, and acoustic identity, see the Audio Bible in docs/07_Audio_Bible.md.
 - For the definitive accessibility standards, see the Accessibility Bible in docs/08_Accessibility_Bible.md.
-- For species and civilization rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
+- For species and civilisation rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.

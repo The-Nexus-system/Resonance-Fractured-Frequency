@@ -12,13 +12,13 @@ The core philosophy of Resonance shapes the form of every profile. Audio is game
 
 Every human profile in this document follows the same internal structure so that any two characters can be compared cleanly and so that a specialist can jump straight to the subsection they need. The subsection names are disambiguated with each character's name so that every heading in this file is unique and the document remains navigable by screen reader.
 
-Each human profile covers the same thirteen concerns. The physical description records what the character looks like. The audio description gives a blind-friendly, audio-first portrait. Personality records who the character is. Mannerisms and typical expressions record how they carry themselves and speak. Favorite clothing and accessibility equipment record what they wear and use. Habits record their daily texture. Professional posture and civilian posture record how they present on duty and at rest. Stress behaviors and emotional tells record how they show pressure and feeling. Recognition cues gather the signals by which a player learns them without being told.
+Each human profile covers the same thirteen concerns. The physical description records what the character looks like. The audio description gives a blind-friendly, audio-first portrait. Personality records who the character is. Mannerisms and typical expressions record how they carry themselves and speak. Favourite clothing and accessibility equipment record what they wear and use. Habits record their daily texture. Professional posture and civilian posture record how they present on duty and at rest. Stress behaviours and emotional tells record how they show pressure and feeling. Recognition cues gather the signals by which a player learns them without being told.
 
-In addition to those concerns, each human profile carries six further presentation categories that deepen the same portrait. Everyday carry itemizes, across nine standard categories, what the character keeps on their person, grounded in their profession, personality, and disability. Environmental cues gather the ambient sounds and spatial signals that mark the character's presence in a space. Typical movement records how the character moves through the world, distinct from static posture. Off-duty presentation describes how they present away from their shift, complementing rather than repeating the civilian posture and favorite clothing. Emergency presentation records how they look, sound, and act in a crisis, and mission presentation records how they present on an away mission or high-stakes operation. Faience adapts the everyday carry category to its non-human nature and does not take the other five.
+In addition to those concerns, each human profile carries six further presentation categories that deepen the same portrait. Everyday carry itemises, across nine standard categories, what the character keeps on their person, grounded in their profession, personality, and disability. Environmental cues gather the ambient sounds and spatial signals that mark the character's presence in a space. Typical movement records how the character moves through the world, distinct from static posture. Off-duty presentation describes how they present away from their shift, complementing rather than repeating the civilian posture and favourite clothing. Emergency presentation records how they look, sound, and act in a crisis, and mission presentation records how they present on an away mission or high-stakes operation. Faience adapts the everyday carry category to its non-human nature and does not take the other five.
 
 Faience, as a Shawabti artificial intelligence, is not human and is not portrayed through a body, so its profile adapts the structure to sound, silence, and presence rather than to physical form. The Vale System is one shared body inhabited by four members and is given only a brief profile here; its full treatment belongs to Part VII, The Vale System, and is deferred there.
 
-Where a detail is not fixed by the governing documents, it is written as guidance. Terms such as should, is presented as, tends to, and typically mark presentation intent rather than canon fact, and teams may realize these intentions in production so long as they never contradict the Canon Rules or the Character Identity Map.
+Where a detail is not fixed by the governing documents, it is written as guidance. Terms such as should, is presented as, tends to, and typically mark presentation intent rather than canon fact, and teams may realise these intentions in production so long as they never contradict the Canon Rules or the Character Identity Map.
 
 ## Mara Chen
 
@@ -26,13 +26,13 @@ Mara Chen is the chief engineering systems specialist, an Asian cisgender woman 
 
 ### Physical Description of Mara Chen
 
-Mara Chen should be presented as an adult Asian woman with the composed, economical physicality of someone who has spent years reading machines with her whole body. Her build is best portrayed as compact and grounded, with the balanced center of gravity of a person who trusts her footing and rarely reaches for a wall. Her hands are her most expressive feature and should read as capable and well-used, the hands of an engineer who works by touch. Artists should give her a face that settles naturally into listening rather than into eye contact, with attention that orients toward sound sources rather than toward faces.
+Mara Chen should be presented as an adult Asian woman with the composed, economical physicality of someone who has spent years reading machines with her whole body. Her build is best portrayed as compact and grounded, with the balanced centre of gravity of a person who trusts her footing and rarely reaches for a wall. Her hands are her most expressive feature and should read as capable and well-used, the hands of an engineer who works by touch. Artists should give her a face that settles naturally into listening rather than into eye contact, with attention that orients toward sound sources rather than toward faces.
 
 Her eyes are part of who she is and should be portrayed with dignity and without spectacle. Animators should avoid the cliche of unfocused or theatrically closed eyes; her gaze simply does not track speakers the way a sighted character's does, and that difference should feel ordinary. When she turns toward a person, she turns an ear and a shoulder as much as a face.
 
 ### Audio Description of Mara Chen
 
-In a purely audio presentation, Mara Chen arrives as a steady, unhurried set of footfalls that seem to know exactly where they are going, often accompanied by the faint tactile taps of a hand confirming a surface she already trusts. Her helmet contributes a soft, layered signature when active: a quiet tonal wash and gentle clicks as the navigation faceplate renders the space around her into audio and tactile cues, a sound that should be distinctive enough that a player learns to recognize her approach by it.
+In a purely audio presentation, Mara Chen arrives as a steady, unhurried set of footfalls that seem to know exactly where they are going, often accompanied by the faint tactile taps of a hand confirming a surface she already trusts. Her helmet contributes a soft, layered signature when active: a quiet tonal wash and gentle clicks as the navigation faceplate renders the space around her into audio and tactile cues, a sound that should be distinctive enough that a player learns to recognise her approach by it.
 
 Her voice should be warm, precise, and musical in its cadence, the voice of someone who thinks in pitch and rhythm. She names systems by the sounds they make, so her speech is full of acoustic vocabulary, and a listener should feel that she is describing the ship as a piece of music that is either in tune or out of it. When she works, she narrates lightly to herself in that same vocabulary, a habit that doubles as a natural, non-intrusive way for a blind player to track what she is doing.
 
@@ -40,7 +40,7 @@ Her voice should be warm, precise, and musical in its cadence, the voice of some
 
 Mara Chen should be written as calm, exacting, and quietly generous, a teacher by instinct who believes the ship will tell the truth if a person only learns to listen. She is patient with learners and impatient with guesswork, and she trusts evidence gathered by ear and hand over evidence claimed by a display. Consistent with the canon rule that the player is never the smartest person in the room, Mara holds engineering knowledge the player does not, and she shares it as a mentor rather than as an oracle.
 
-She carries herself without any hint of wanting pity, and she treats her blindness as an ordinary condition of expertise rather than as an obstacle she has overcome. Accessibility is standard equipment in her world, and she customizes her tools as a matter of course, never as a request for permission.
+She carries herself without any hint of wanting pity, and she treats her blindness as an ordinary condition of expertise rather than as an obstacle she has overcome. Accessibility is standard equipment in her world, and she customises her tools as a matter of course, never as a request for permission.
 
 ### Mannerisms of Mara Chen
 
@@ -48,15 +48,15 @@ Mara Chen tends to pause before answering, tilting her head a fraction to let a 
 
 ### Typical Expressions of Mara Chen
 
-Mara Chen's characteristic phrases should center on sound and honesty of evidence. She is presented as someone who says that a system sounds wrong before any alarm agrees with her, who asks others to listen rather than to look, and who describes a fault as a note that has drifted flat. Her praise for a good repair should be framed acoustically, as the ship sounding right again. Writers should keep her language specific and unsentimental, letting the acoustic metaphors do the emotional work.
+Mara Chen's characteristic phrases should centre on sound and honesty of evidence. She is presented as someone who says that a system sounds wrong before any alarm agrees with her, who asks others to listen rather than to look, and who describes a fault as a note that has drifted flat. Her praise for a good repair should be framed acoustically, as the ship sounding right again. Writers should keep her language specific and unsentimental, letting the acoustic metaphors do the emotional work.
 
-### Favorite Clothing of Mara Chen
+### Favourite Clothing of Mara Chen
 
-Mara Chen is presented as favoring practical engineering attire chosen by feel and by function: fabrics with distinct textures she can identify by touch, closures she can manage quickly, and layers she can read by weight. She tends to keep her working clothes uncluttered so that nothing snags in tight spaces. Off duty, she should still gravitate toward tactile, well-organized garments, preferring pieces she can locate and identify without sight. Costume designers should treat texture and tactile legibility as her styling language rather than color contrast.
+Mara Chen is presented as favouring practical engineering attire chosen by feel and by function: fabrics with distinct textures she can identify by touch, closures she can manage quickly, and layers she can read by weight. She tends to keep her working clothes uncluttered so that nothing snags in tight spaces. Off duty, she should still gravitate toward tactile, well-organised garments, preferring pieces she can locate and identify without sight. Costume designers should treat texture and tactile legibility as her styling language rather than colour contrast.
 
 ### Accessibility Equipment of Mara Chen
 
-Mara Chen's defining equipment is her engineering helmet, whose navigation faceplate converts visual data into audio and tactile cues, as fixed by the Character Identity Map. It should be portrayed as ordinary standard equipment, well-worn and personalized to her preferences, not as a marvel or a crutch. She navigates primarily by sound, vibration, and touch, and any additional tools she uses should extend those senses rather than substitute a visual channel. Designers should ensure her equipment is depicted as something she maintains and tunes herself, consistent with her expertise and with the canon rule that crew customize their interfaces rather than asking to use them.
+Mara Chen's defining equipment is her engineering helmet, whose navigation faceplate converts visual data into audio and tactile cues, as fixed by the Character Identity Map. It should be portrayed as ordinary standard equipment, well-worn and personalised to her preferences, not as a marvel or a crutch. She navigates primarily by sound, vibration, and touch, and any additional tools she uses should extend those senses rather than substitute a visual channel. Designers should ensure her equipment is depicted as something she maintains and tunes herself, consistent with her expertise and with the canon rule that crew customise their interfaces rather than asking to use them.
 
 ### Habits of Mara Chen
 
@@ -64,13 +64,13 @@ Mara Chen is presented as someone who keeps her spaces meticulously ordered beca
 
 ### Professional Posture of Mara Chen
 
-On duty, Mara Chen should present as authoritative and centered, moving through engineering spaces with the confidence of complete familiarity. Her professional posture is upright and attentive, weight settled, one ear habitually turned toward the systems she is responsible for. She directs work clearly and expects precise reports. Animators should let her professional confidence read as ease rather than as tension; she is most at home where the machines are, and it shows.
+On duty, Mara Chen should present as authoritative and centred, moving through engineering spaces with the confidence of complete familiarity. Her professional posture is upright and attentive, weight settled, one ear habitually turned toward the systems she is responsible for. She directs work clearly and expects precise reports. Animators should let her professional confidence read as ease rather than as tension; she is most at home where the machines are, and it shows.
 
 ### Civilian Posture of Mara Chen
 
 Off duty, Mara Chen's posture should soften and open. She is presented as more still when at rest, content to sit and listen to a room, and more playful in her acoustic observations when the stakes are low. Her civilian presentation should keep the same grounded confidence but shed the vigilance of the engineering deck, showing a person who enjoys good company, good sound, and the ordinary life of the community she helps keep running.
 
-### Stress Behaviors of Mara Chen
+### Stress Behaviours of Mara Chen
 
 Under stress, Mara Chen should grow quieter and more precise rather than louder. Her narration to herself shortens to essentials, her movements become even more economical, and she leans harder on touch and vibration to cut through acoustic chaos. When the environment turns dangerously loud or acoustically confusing, her stress should read as intense concentration and a deliberate slowing rather than panic, because noise is where she must work hardest to hear the truth.
 
@@ -84,7 +84,7 @@ A player should learn Mara Chen without ever being told her name, through the co
 
 ### Everyday Carry of Mara Chen
 
-Mara Chen's everyday carry is organized entirely for identification by touch, with every item in a fixed, known place.
+Mara Chen's everyday carry is organised entirely for identification by touch, with every item in a fixed, known place.
 
 - Professional equipment: a compact roll of engineering hand tools chosen by feel, each seated in a dedicated pocket so it can be found without sight.
 - Personal equipment: a well-worn multitool with tactile-marked settings and a small slate of embossed notes she keeps for her own reference.
@@ -144,15 +144,15 @@ Doctor Samira Kade positions herself so she can see the people she is treating, 
 
 ### Typical Expressions of Doctor Samira Kade
 
-Doctor Samira Kade's characteristic communication should center on reassurance and clarity. She is presented as someone whose first message to a frightened patient is that they are safe and that she has them, delivered through sign or projector with unhurried steadiness. Her clinical phrasing is precise and plain. Writers should give her a dry, warm humor that surfaces in calmer moments, and should render her voice through the cadence of her signing and text rather than assuming spoken delivery.
+Doctor Samira Kade's characteristic communication should centre on reassurance and clarity. She is presented as someone whose first message to a frightened patient is that they are safe and that she has them, delivered through sign or projector with unhurried steadiness. Her clinical phrasing is precise and plain. Writers should give her a dry, warm humour that surfaces in calmer moments, and should render her voice through the cadence of her signing and text rather than assuming spoken delivery.
 
-### Favorite Clothing of Doctor Samira Kade
+### Favourite Clothing of Doctor Samira Kade
 
-Doctor Samira Kade is presented as favoring clean, professional medical attire that keeps her forearms and hands unobstructed so her sleeve projector and her signing are never impeded. She tends toward well-fitted, practical garments with clear lines. Off duty, she should be styled with quiet elegance and a personal sense of color and cut, expressing a woman comfortable and pleased in her own presentation. Costume designers should ensure sleeves and cuffs always accommodate the projector and free movement of the hands.
+Doctor Samira Kade is presented as favouring clean, professional medical attire that keeps her forearms and hands unobstructed so her sleeve projector and her signing are never impeded. She tends toward well-fitted, practical garments with clear lines. Off duty, she should be styled with quiet elegance and a personal sense of colour and cut, expressing a woman comfortable and pleased in her own presentation. Costume designers should ensure sleeves and cuffs always accommodate the projector and free movement of the hands.
 
 ### Accessibility Equipment of Doctor Samira Kade
 
-Doctor Samira Kade's defining equipment is her sleeve projector, which displays sign or live text, as fixed by the Character Identity Map. It should be portrayed as standard, well-integrated medical technology that she uses without comment, consistent with the canon rule that accessibility is standard equipment. She reads rooms by sight and vibration, and any supporting tools should reinforce those channels. The projector should be depicted as reliable and personalized, an extension of her voice rather than an aid she must justify.
+Doctor Samira Kade's defining equipment is her sleeve projector, which displays sign or live text, as fixed by the Character Identity Map. It should be portrayed as standard, well-integrated medical technology that she uses without comment, consistent with the canon rule that accessibility is standard equipment. She reads rooms by sight and vibration, and any supporting tools should reinforce those channels. The projector should be depicted as reliable and personalised, an extension of her voice rather than an aid she must justify.
 
 ### Habits of Doctor Samira Kade
 
@@ -164,9 +164,9 @@ On duty, Doctor Samira Kade should present as the composed authority of the medi
 
 ### Civilian Posture of Doctor Samira Kade
 
-Off duty, Doctor Samira Kade's posture should relax into something warmer and more informal while keeping her characteristic attentiveness. She is presented as easy and engaged in conversation, enjoying the expressive fullness of signing among friends, and moving with a settled comfort. Her civilian presentation should show the person behind the clinician: someone with taste, humor, and a life of her own beyond the bay.
+Off duty, Doctor Samira Kade's posture should relax into something warmer and more informal while keeping her characteristic attentiveness. She is presented as easy and engaged in conversation, enjoying the expressive fullness of signing among friends, and moving with a settled comfort. Her civilian presentation should show the person behind the clinician: someone with taste, humour, and a life of her own beyond the bay.
 
-### Stress Behaviors of Doctor Samira Kade
+### Stress Behaviours of Doctor Samira Kade
 
 Under stress, Doctor Samira Kade should become more still and more economical, her signing crisper and her projector text shorter and more directive. Rather than showing agitation, she should visibly gather a room's attention to herself, using deliberate eye contact and firm, clear signs to cut through chaos. Her stress tell is intensity of focus, a narrowing of her attention onto the person who needs her most, and a refusal to let her own composure slip where patients can see it.
 
@@ -183,14 +183,14 @@ A player should learn Doctor Samira Kade through the soft whisper of her sleeve 
 Doctor Samira Kade's everyday carry keeps her hands and forearms free so her signing and her sleeve projector are never impeded.
 
 - Professional equipment: a compact medical diagnostic kit and clinician's tools she can deploy one-handed without breaking eye contact.
-- Personal equipment: a slim personal organizer with a large, high-contrast visual interface she reads at a glance.
+- Personal equipment: a slim personal organiser with a large, high-contrast visual interface she reads at a glance.
 - Accessibility equipment: her forearm sleeve projector that displays sign or live text, carried as an ordinary extension of her voice (a consolidated summary; see Accessibility Equipment of Doctor Samira Kade).
-- Medical equipment: a portable field-medicine pouch for stabilizing patients, arranged for rapid visual scanning.
+- Medical equipment: a portable field-medicine pouch for stabilising patients, arranged for rapid visual scanning.
 - Communication equipment: the sleeve projector doubles as her communicator, backed by a text-and-vibration relay that reaches her when she cannot see a speaker.
 - Emergency equipment: a compact triage kit and a bright signal light for directing patients and gathering attention across a chaotic bay.
 - Sentimental items: a small keepsake with a pleasing weight that she keeps in a pocket and touches when a case has gone hard.
 - Off-duty equipment: a well-chosen accessory or two that express her quiet personal elegance away from the bay.
-- Mission-specific equipment: a ruggedized field projector and a portable vibration-alert unit for staying aware of her surroundings on an away operation.
+- Mission-specific equipment: a ruggedised field projector and a portable vibration-alert unit for staying aware of her surroundings on an away operation.
 
 ### Environmental Cues of Doctor Samira Kade
 
@@ -202,7 +202,7 @@ Doctor Samira Kade moves to keep sightlines open, choosing angles and distances 
 
 ### Off-Duty Presentation of Doctor Samira Kade
 
-Off shift, Doctor Samira Kade relaxes into the expressive fullness of signing among friends and a dry, warm humor that surfaces when the pressure is off. She carries her clinical attentiveness lightly into her own life, engaged and easy in conversation and glad of company that meets her through sign, text, and attention.
+Off shift, Doctor Samira Kade relaxes into the expressive fullness of signing among friends and a dry, warm humour that surfaces when the pressure is off. She carries her clinical attentiveness lightly into her own life, engaged and easy in conversation and glad of company that meets her through sign, text, and attention.
 
 ### Emergency Presentation of Doctor Samira Kade
 
@@ -210,7 +210,7 @@ In a crisis Doctor Samira Kade becomes an island of stillness that others move t
 
 ### Mission Presentation of Doctor Samira Kade
 
-On an away mission Doctor Samira Kade positions herself to keep the whole team in view, relies on her field projector and vibration alerts to stay aware of a hazardous environment, and brings the same steady, reassuring clinical calm to stabilizing the injured far from the bay. She makes sure her communication channels are visible and redundant before the operation begins.
+On an away mission Doctor Samira Kade positions herself to keep the whole team in view, relies on her field projector and vibration alerts to stay aware of a hazardous environment, and brings the same steady, reassuring clinical calm to stabilising the injured far from the bay. She makes sure her communication channels are visible and redundant before the operation begins.
 
 ## Rowan Ives
 
@@ -218,13 +218,13 @@ Rowan Ives is the maintenance supervisor, a Black cisgender man who uses he and 
 
 ### Physical Description of Rowan Ives
 
-Rowan Ives should be presented as an adult Black man with the sturdy, capable build of a lifelong maintenance worker, someone whose strength is real but managed carefully because of chronic pain and arthritis. His movement should read as deliberate and conserving, favoring joints and choosing efficient paths, the physicality of a person who has learned exactly how to spend his body's energy. His hands are strong and knowledgeable but should show the stiffness and care of arthritis, and he warms and works them consciously before demanding tasks.
+Rowan Ives should be presented as an adult Black man with the sturdy, capable build of a lifelong maintenance worker, someone whose strength is real but managed carefully because of chronic pain and arthritis. His movement should read as deliberate and conserving, favouring joints and choosing efficient paths, the physicality of a person who has learned exactly how to spend his body's energy. His hands are strong and knowledgeable but should show the stiffness and care of arthritis, and he warms and works them consciously before demanding tasks.
 
 His face should read as warm, observant, and quick to a wry smile, the face of a man who is patient with people and with machines. Artists should let his condition show in how he moves rather than in a diminished presence; he is capable and self-possessed, and he has arranged his working life so his expertise never depends on pushing through pain.
 
 ### Audio Description of Rowan Ives
 
-In an audio-first presentation, Rowan Ives arrives as an unhurried, slightly uneven gait, a measured pace with the faint sounds of someone who paces himself, perhaps the settle of weight favoring a good joint or the small pause before a demanding movement. His presence carries the quiet sounds of maintenance: the soft clink of tools, the click of a latch he knows by feel, the draft of a service hatch he has opened.
+In an audio-first presentation, Rowan Ives arrives as an unhurried, slightly uneven gait, a measured pace with the faint sounds of someone who paces himself, perhaps the settle of weight favouring a good joint or the small pause before a demanding movement. His presence carries the quiet sounds of maintenance: the soft clink of tools, the click of a latch he knows by feel, the draft of a service hatch he has opened.
 
 His voice should be warm, low, and plainspoken, unshowy and steady, with the easy authority of someone who has nothing to prove. He speaks kindly and practically, and his speech carries the affection of a father and the patience of a mentor. Sound designers should give his scenes the intimate acoustic texture of the ship's hidden spaces, the crawlspaces and service corridors he knows best.
 
@@ -240,11 +240,11 @@ Rowan Ives tends to flex and warm his hands before a task, and to lower himself 
 
 ### Typical Expressions of Rowan Ives
 
-Rowan Ives's characteristic phrases should center on the ship as a body he tends and on care for his people. He is presented as someone who talks about the ship having its aches and quiet places just as a person does, who teaches that the smart way is easier on the body than the hard way, and whose warmth toward Mira surfaces constantly in how he speaks. Writers should keep his language plain, warm, and practical, with a dry humor that never turns bitter.
+Rowan Ives's characteristic phrases should centre on the ship as a body he tends and on care for his people. He is presented as someone who talks about the ship having its aches and quiet places just as a person does, who teaches that the smart way is easier on the body than the hard way, and whose warmth toward Mira surfaces constantly in how he speaks. Writers should keep his language plain, warm, and practical, with a dry humour that never turns bitter.
 
-### Favorite Clothing of Rowan Ives
+### Favourite Clothing of Rowan Ives
 
-Rowan Ives is presented as favoring durable, comfortable maintenance workwear adapted for his comfort: supportive fits, easy closures that arthritic hands can manage, and layers that keep his joints warm in cold service spaces. He tends to keep tools within easy, low-strain reach. Off duty, he should dress comfortably and warmly, still valuing ease of movement and joint comfort over style for its own sake. Costume designers should treat ergonomic comfort and warmth as central to his wardrobe.
+Rowan Ives is presented as favouring durable, comfortable maintenance workwear adapted for his comfort: supportive fits, easy closures that arthritic hands can manage, and layers that keep his joints warm in cold service spaces. He tends to keep tools within easy, low-strain reach. Off duty, he should dress comfortably and warmly, still valuing ease of movement and joint comfort over style for its own sake. Costume designers should treat ergonomic comfort and warmth as central to his wardrobe.
 
 ### Accessibility Equipment of Rowan Ives
 
@@ -252,7 +252,7 @@ Rowan Ives's accessibility is expressed less through a single device than throug
 
 ### Habits of Rowan Ives
 
-Rowan Ives is presented as someone who arranges his tools and routes to minimize strain, who works in a steady rhythm with built-in rests, and who checks on Mira as a natural punctuation of his day. He warms up before hard work and cools down after. He knows the ship's hidden paths so well that he moves through them almost absently, and he leaves service spaces better ordered than he found them.
+Rowan Ives is presented as someone who arranges his tools and routes to minimise strain, who works in a steady rhythm with built-in rests, and who checks on Mira as a natural punctuation of his day. He warms up before hard work and cools down after. He knows the ship's hidden paths so well that he moves through them almost absently, and he leaves service spaces better ordered than he found them.
 
 ### Professional Posture of Rowan Ives
 
@@ -260,15 +260,15 @@ On duty, Rowan Ives should present as the calm, competent supervisor of maintena
 
 ### Civilian Posture of Rowan Ives
 
-Off duty, Rowan Ives's posture should soften into the warmth of a father and neighbor. He is presented as relaxed and affectionate at home, attentive to Mira, and content in the ordinary life of the habitation deck. His civilian presentation should carry the same grounded calm as his work but with the guard fully down, showing the tenderness that his professional composure keeps quietly in reserve.
+Off duty, Rowan Ives's posture should soften into the warmth of a father and neighbour. He is presented as relaxed and affectionate at home, attentive to Mira, and content in the ordinary life of the habitation deck. His civilian presentation should carry the same grounded calm as his work but with the guard fully down, showing the tenderness that his professional composure keeps quietly in reserve.
 
-### Stress Behaviors of Rowan Ives
+### Stress Behaviours of Rowan Ives
 
 Under stress, Rowan Ives should become more focused and more protective, his attention narrowing to the safety of his people and especially his daughter. His pace may quicken, but he should guard against overtaxing his body even under pressure, and moments where he must push through pain should be depicted with weight and cost rather than as effortless heroics. His stress tell is a tightening of his protective instincts and a terse practicality that replaces his usual easy talk.
 
 ### Emotional Tells of Rowan Ives
 
-Rowan Ives's feelings should surface in his voice and his hands. Warmth shows as a slow smile and a lower, gentler register; worry shows as a stilling of his hands and a shorter, flatter delivery. When he is moved, he tends to reach out and steady someone with a hand on the shoulder. His love for Mira is his most visible emotion and should color every scene the two share.
+Rowan Ives's feelings should surface in his voice and his hands. Warmth shows as a slow smile and a lower, gentler register; worry shows as a stilling of his hands and a shorter, flatter delivery. When he is moved, he tends to reach out and steady someone with a hand on the shoulder. His love for Mira is his most visible emotion and should colour every scene the two share.
 
 ### Recognition Cues for Rowan Ives
 
@@ -279,7 +279,7 @@ A player should learn Rowan Ives through his unhurried, conserving gait and the 
 Rowan Ives's everyday carry is chosen for low strain on his hands and joints and for the hidden work of the ship.
 
 - Professional equipment: a set of maintenance tools with padded, easy-grip handles that arthritic hands can manage, kept within low, easy reach.
-- Personal equipment: a favorite worn multitool and a compact light for the crawlspaces and service corridors he knows best.
+- Personal equipment: a favourite worn multitool and a compact light for the crawlspaces and service corridors he knows best.
 - Accessibility equipment: supportive braces or wraps for his hands and joints and the ergonomic, low-strain tools he has adapted to his condition (a consolidated summary; see Accessibility Equipment of Rowan Ives).
 - Medical equipment: a small kit for managing chronic pain and warming stiff joints, carried without fuss as an ordinary part of his day.
 - Communication equipment: a rugged communicator he uses to check in on his crew and, often, on his daughter.
@@ -294,11 +294,11 @@ Rowan Ives's presence is marked by the quiet sounds of maintenance around him: t
 
 ### Typical Movement of Rowan Ives
 
-Rowan Ives moves deliberately and conservingly, favoring good joints, choosing efficient paths, and lowering and raising himself with leverage and known handholds rather than raw force. He warms and flexes his hands before demanding work, rests a hand on the ship's structure to read it and steady himself at once, and moves through the crawlspaces almost absently from long familiarity.
+Rowan Ives moves deliberately and conservingly, favouring good joints, choosing efficient paths, and lowering and raising himself with leverage and known handholds rather than raw force. He warms and flexes his hands before demanding work, rests a hand on the ship's structure to read it and steady himself at once, and moves through the crawlspaces almost absently from long familiarity.
 
 ### Off-Duty Presentation of Rowan Ives
 
-Off shift, Rowan Ives is at his warmest as a father and neighbor, guard fully down, attentive to Mira and content in the ordinary life of the habitation deck. He carries the same grounded calm as his work but lets the tenderness his professional composure keeps in reserve come plainly to the surface.
+Off shift, Rowan Ives is at his warmest as a father and neighbour, guard fully down, attentive to Mira and content in the ordinary life of the habitation deck. He carries the same grounded calm as his work but lets the tenderness his professional composure keeps in reserve come plainly to the surface.
 
 ### Emergency Presentation of Rowan Ives
 
@@ -322,7 +322,7 @@ Her expressions and gestures should feel genuine and specific to her, and animat
 
 ### Audio Description of Mira Ives
 
-In an audio-first presentation, Mira Ives arrives with quick, light footsteps and the friendly notification sounds of her augmentative and alternative communication system, which should have a warm, distinctive signature that a player quickly learns to recognize as her. Her presence carries the sounds of childhood aboard the ship: laughter, drawing, questions, games, and curiosity.
+In an audio-first presentation, Mira Ives arrives with quick, light footsteps and the friendly notification sounds of her augmentative and alternative communication system, which should have a warm, distinctive signature that a player quickly learns to recognise as her. Her presence carries the sounds of childhood aboard the ship: laughter, drawing, questions, games, and curiosity.
 
 Because she communicates primarily through her device, her voice reaches the player through the system's output, and its cadence and personality should feel like hers. Sound designers should treat her keen hearing as a defining trait; she often notices a wrong sound in the ship before adults do, and the audio design should let her be the ear that catches trouble first, consistent with her role as often the first to hear when something is wrong.
 
@@ -338,19 +338,19 @@ Mira Ives tends toward energetic, expressive movement and comfortable self-regul
 
 ### Typical Expressions of Mira Ives
 
-Mira Ives's characteristic communication should center on questions, discoveries, and delight. She is presented as a child who asks why and what if constantly, who announces when something sounds different or wrong, and who shares what she loves with open enthusiasm. Writers should give her a distinct, child-specific voice through her device, with her own favorite subjects and turns of phrase, and should let her curiosity drive scenes toward wonder.
+Mira Ives's characteristic communication should centre on questions, discoveries, and delight. She is presented as a child who asks why and what if constantly, who announces when something sounds different or wrong, and who shares what she loves with open enthusiasm. Writers should give her a distinct, child-specific voice through her device, with her own favourite subjects and turns of phrase, and should let her curiosity drive scenes toward wonder.
 
-### Favorite Clothing of Mira Ives
+### Favourite Clothing of Mira Ives
 
-Mira Ives is presented as favoring comfortable, sensory-friendly clothing suited to an autistic child, with soft textures, easy fits, and an absence of irritating seams or tags. She should be styled to reflect her own enthusiasms and personality, with room for her tastes to change as any child's do. Because her gender is open and unfixed, costume designers should keep her wardrobe free of choices that would read as a fixed gender statement, letting comfort and her own delight lead.
+Mira Ives is presented as favouring comfortable, sensory-friendly clothing suited to an autistic child, with soft textures, easy fits, and an absence of irritating seams or tags. She should be styled to reflect her own enthusiasms and personality, with room for her tastes to change as any child's do. Because her gender is open and unfixed, costume designers should keep her wardrobe free of choices that would read as a fixed gender statement, letting comfort and her own delight lead.
 
 ### Accessibility Equipment of Mira Ives
 
-Mira Ives's defining equipment is her visible neural-interface augmentative and alternative communication system, as fixed by the Character Identity Map. It should be portrayed as ordinary, reliable, child-appropriate everyday technology that is fully part of how she talks with the world, consistent with the canon rule that accessibility is standard equipment. The system should be depicted as expressive and personalized, a genuine voice rather than a limitation, and the crew and her family should interact with it as the completely normal way that Mira speaks.
+Mira Ives's defining equipment is her visible neural-interface augmentative and alternative communication system, as fixed by the Character Identity Map. It should be portrayed as ordinary, reliable, child-appropriate everyday technology that is fully part of how she talks with the world, consistent with the canon rule that accessibility is standard equipment. The system should be depicted as expressive and personalised, a genuine voice rather than a limitation, and the crew and her family should interact with it as the completely normal way that Mira speaks.
 
 ### Habits of Mira Ives
 
-Mira Ives is presented as a child of strong routines and keen attention, returning to favorite activities, sounds, and places, and noticing at once when something in her familiar environment changes. She listens closely to the ship and reports what she hears. She seeks out her father through the day, and she gravitates to the community and creative spaces where she can draw, play, and ask questions.
+Mira Ives is presented as a child of strong routines and keen attention, returning to favourite activities, sounds, and places, and noticing at once when something in her familiar environment changes. She listens closely to the ship and reports what she hears. She seeks out her father through the day, and she gravitates to the community and creative spaces where she can draw, play, and ask questions.
 
 ### Professional Posture of Mira Ives
 
@@ -360,7 +360,7 @@ Mira Ives is a civilian child and holds no duty posture, so this concern is pres
 
 In ordinary daily life, Mira Ives's posture should be free, energetic, and expressive, full of the movement and enthusiasm of a curious child at home aboard the ship. She is presented as most herself in the community, creative, and children's spaces, and around her father. Her everyday presentation should radiate the hope and future she represents, and it should let her neurodivergent physicality be simply the natural way she inhabits her world.
 
-### Stress Behaviors of Mira Ives
+### Stress Behaviours of Mira Ives
 
 Under stress, Mira Ives should be portrayed with care and realism as an autistic and attention-diverse child, who may seek familiar comforts, self-regulating movement, or a trusted person, especially her father. Overwhelming sound or disruption of routine should be shown as genuinely hard for her, and her responses should be treated with dignity and never as misbehavior. Her stress should draw the protective attention of the adults around her, which is part of how the community shows its care.
 
@@ -374,13 +374,13 @@ A player should learn Mira Ives through the light quick footsteps and the warm n
 
 ### Everyday Carry of Mira Ives
 
-Mira Ives's everyday carry is a child's collection, sensory-friendly and centered on her communication and her curiosity.
+Mira Ives's everyday carry is a child's collection, sensory-friendly and centred on her communication and her curiosity.
 
-- Professional equipment: not applicable to a child; in its place she carries the tools of learning and play, such as a drawing tablet and a set of favorite creative supplies.
+- Professional equipment: not applicable to a child; in its place she carries the tools of learning and play, such as a drawing tablet and a set of favourite creative supplies.
 - Personal equipment: a small pouch of treasured found objects and interesting textures she has gathered around the ship.
 - Accessibility equipment: her visible neural-interface augmentative and alternative communication system, fully part of how she talks with the world (a consolidated summary; see Accessibility Equipment of Mira Ives).
 - Medical equipment: a light comfort kit a trusted adult keeps nearby for her, unremarkable and child-appropriate.
-- Communication equipment: her augmentative and alternative communication system is her voice, personalized with her own favorite phrases, sounds, and quick shortcuts.
+- Communication equipment: her augmentative and alternative communication system is her voice, personalised with her own favourite phrases, sounds, and quick shortcuts.
 - Emergency equipment: a simple locator token so her father and the crew can always find her, treated as ordinary rather than alarming.
 - Sentimental items: a soft, well-loved comfort object and a small drawing she made for her father.
 - Off-duty equipment: sensory-friendly items she enjoys, such as a fidget she likes the feel of and headphones that soften overwhelming sound.
@@ -412,19 +412,19 @@ Chief Petty Officer Jonah Briggs is the senior non-commissioned officer of logis
 
 ### Physical Description of Chief Petty Officer Jonah Briggs
 
-Jonah Briggs should be presented as an adult White man with the organized, ready bearing of a seasoned non-commissioned officer, someone whose presence communicates reliability and order. His build and carriage should read as steady and practical, the physicality of a person used to being on his feet, coordinating people and supplies. His movement is purposeful and unhurried, and his hands are often occupied with a manifest, a display, or the work of keeping operations running.
+Jonah Briggs should be presented as an adult White man with the organised, ready bearing of a seasoned non-commissioned officer, someone whose presence communicates reliability and order. His build and carriage should read as steady and practical, the physicality of a person used to being on his feet, coordinating people and supplies. His movement is purposeful and unhurried, and his hands are often occupied with a manifest, a display, or the work of keeping operations running.
 
 As a transgender man he is presented simply and wholly as a man; his transition is part of his history and never a spectacle or an object of intrusive framing. Artists should give him an approachable, competent face, the face of the person a crew turns to when they need to know what happens next.
 
 ### Audio Description of Chief Petty Officer Jonah Briggs
 
-In an audio-first presentation, Jonah Briggs is defined by his voice above all: calm, clear, and measured, the voice that reads out priorities and organizes the ship's motion. His speech has the steady cadence of someone accustomed to giving clear instructions that people can follow under pressure. His presence carries the sounds of operations: organized radio traffic, briefings, the rhythm of a well-run logistics space.
+In an audio-first presentation, Jonah Briggs is defined by his voice above all: calm, clear, and measured, the voice that reads out priorities and organises the ship's motion. His speech has the steady cadence of someone accustomed to giving clear instructions that people can follow under pressure. His presence carries the sounds of operations: organised radio traffic, briefings, the rhythm of a well-run logistics space.
 
-Sound designers should make his calm, priority-reading voice a recognizable anchor in the ship's soundscape, the sound of order being kept. The ship's seizure-safe lighting is part of his world and should be understood as standard design; the audio and lighting environments around him are built to be safe for everyone as a matter of course.
+Sound designers should make his calm, priority-reading voice a recognisable anchor in the ship's soundscape, the sound of order being kept. The ship's seizure-safe lighting is part of his world and should be understood as standard design; the audio and lighting environments around him are built to be safe for everyone as a matter of course.
 
 ### Personality of Chief Petty Officer Jonah Briggs
 
-Jonah Briggs should be written as calm, organized, and dependable, the person who turns intention into action and keeps a crowd of moving parts from colliding. He is a natural coordinator who thinks in priorities and sequences, and he keeps his composure precisely when things are most chaotic. He teaches organization, and he embodies the canon truth that the player's strength is bringing expertise together, because Jonah's genius is arrangement rather than any single specialty.
+Jonah Briggs should be written as calm, organised, and dependable, the person who turns intention into action and keeps a crowd of moving parts from colliding. He is a natural coordinator who thinks in priorities and sequences, and he keeps his composure precisely when things are most chaotic. He teaches organisation, and he embodies the canon truth that the player's strength is bringing expertise together, because Jonah's genius is arrangement rather than any single speciality.
 
 His epilepsy is part of his life and is handled without fuss, consistent with the canon rule that accessibility is standard equipment; the environment is designed to be safe, and he manages his condition as an ordinary matter. His disability shapes his experience without defining him.
 
@@ -434,11 +434,11 @@ Jonah Briggs tends to sequence his speech into clear priorities, often counting 
 
 ### Typical Expressions of Chief Petty Officer Jonah Briggs
 
-Jonah Briggs's characteristic communication should center on priorities and order. He is presented as someone whose instinct in any situation is to state what comes first, second, and third, calmly and clearly, and to keep a crew focused on the next actionable step. Writers should give him a steady, reassuring turn of phrase and a dry competence, the voice that makes chaos feel manageable by naming its order.
+Jonah Briggs's characteristic communication should centre on priorities and order. He is presented as someone whose instinct in any situation is to state what comes first, second, and third, calmly and clearly, and to keep a crew focused on the next actionable step. Writers should give him a steady, reassuring turn of phrase and a dry competence, the voice that makes chaos feel manageable by naming its order.
 
-### Favorite Clothing of Chief Petty Officer Jonah Briggs
+### Favourite Clothing of Chief Petty Officer Jonah Briggs
 
-Jonah Briggs is presented as favoring neat, functional operations attire kept in good order, with easy access to the tools of coordination such as displays and manifests. He tends toward practical, well-maintained clothing that reflects his organized nature. Off duty, he should dress comfortably but tidily, keeping the same understated, reliable self-presentation. Costume designers should treat orderliness and readiness as his styling language.
+Jonah Briggs is presented as favouring neat, functional operations attire kept in good order, with easy access to the tools of coordination such as displays and manifests. He tends toward practical, well-maintained clothing that reflects his organised nature. Off duty, he should dress comfortably but tidily, keeping the same understated, reliable self-presentation. Costume designers should treat orderliness and readiness as his styling language.
 
 ### Accessibility Equipment of Chief Petty Officer Jonah Briggs
 
@@ -446,45 +446,45 @@ Jonah Briggs's accessibility is expressed primarily through the environment rath
 
 ### Habits of Chief Petty Officer Jonah Briggs
 
-Jonah Briggs is presented as someone who keeps running mental and written lists of priorities, who holds regular briefings and shift changes on a dependable rhythm, and who confirms and reconfirms that the pieces of an operation are in place. He anticipates needs before they become urgent, and he keeps the operations space calm through steady routine. He looks after his own wellbeing with the same organized care he brings to the ship.
+Jonah Briggs is presented as someone who keeps running mental and written lists of priorities, who holds regular briefings and shift changes on a dependable rhythm, and who confirms and reconfirms that the pieces of an operation are in place. He anticipates needs before they become urgent, and he keeps the operations space calm through steady routine. He looks after his own wellbeing with the same organised care he brings to the ship.
 
 ### Professional Posture of Chief Petty Officer Jonah Briggs
 
-On duty, Jonah Briggs should present as the composed hub of operations, upright, attentive, and unflappable, moving and speaking with the measured authority of a trusted non-commissioned officer. His professional posture communicates that the plan is in hand and the priorities are clear. In a crisis his posture should read as steadying, the fixed point around which the evacuation or operation organizes itself. Animators should let his authority express itself through calm clarity rather than through volume.
+On duty, Jonah Briggs should present as the composed hub of operations, upright, attentive, and unflappable, moving and speaking with the measured authority of a trusted non-commissioned officer. His professional posture communicates that the plan is in hand and the priorities are clear. In a crisis his posture should read as steadying, the fixed point around which the evacuation or operation organises itself. Animators should let his authority express itself through calm clarity rather than through volume.
 
 ### Civilian Posture of Chief Petty Officer Jonah Briggs
 
 Off duty, Jonah Briggs's posture should relax into an easy, approachable friendliness while keeping his characteristic steadiness. He is presented as good company, dependable among friends, and comfortable in the community's ordinary life. His civilian presentation should show the person behind the coordinator, someone whose calm is not just a professional tool but a settled part of who he is.
 
-### Stress Behaviors of Chief Petty Officer Jonah Briggs
+### Stress Behaviours of Chief Petty Officer Jonah Briggs
 
 Under stress, Jonah Briggs should become even more measured and more sequential, slowing his cadence and tightening his priorities so that others can keep pace. His stress tell is not agitation but an intensified calm, a deliberate steadiness that he projects to hold a frightened crew together. He guards his own wellbeing under pressure, mindful of his condition, and the narrative should treat that self-care as ordinary good sense.
 
 ### Emotional Tells of Chief Petty Officer Jonah Briggs
 
-Jonah Briggs's feelings should surface through small shifts in his otherwise even delivery. Warmth shows as a slight easing and a touch of dry humor; strain shows as a flatter, more clipped sequencing of priorities. When he is moved, he tends to steady someone else, turning his own feeling into practical care. Animators and writers should route his emotion through the fine grain of his composure rather than through open display.
+Jonah Briggs's feelings should surface through small shifts in his otherwise even delivery. Warmth shows as a slight easing and a touch of dry humour; strain shows as a flatter, more clipped sequencing of priorities. When he is moved, he tends to steady someone else, turning his own feeling into practical care. Animators and writers should route his emotion through the fine grain of his composure rather than through open display.
 
 ### Recognition Cues for Chief Petty Officer Jonah Briggs
 
-A player should learn Jonah Briggs through the calm, clear voice that reads out priorities, the organized rhythm of briefings and operations around him, his habit of sequencing any situation into ordered steps, and the steadiness he projects when everything else is loud. His deepest recognition cue is that priority-reading calm, so that a measured voice naming what comes first when a crowd is close to panic is enough to know Jonah Briggs is at the center of it.
+A player should learn Jonah Briggs through the calm, clear voice that reads out priorities, the organised rhythm of briefings and operations around him, his habit of sequencing any situation into ordered steps, and the steadiness he projects when everything else is loud. His deepest recognition cue is that priority-reading calm, so that a measured voice naming what comes first when a crowd is close to panic is enough to know Jonah Briggs is at the centre of it.
 
 ### Everyday Carry of Chief Petty Officer Jonah Briggs
 
-Chief Petty Officer Jonah Briggs's everyday carry is organized around coordination, priorities, and keeping operations running.
+Chief Petty Officer Jonah Briggs's everyday carry is organised around coordination, priorities, and keeping operations running.
 
 - Professional equipment: a manifest display and a durable stylus, along with the ordered checklists he updates habitually.
-- Personal equipment: a compact personal organizer and a reliable timepiece for keeping shifts and briefings on rhythm.
+- Personal equipment: a compact personal organiser and a reliable timepiece for keeping shifts and briefings on rhythm.
 - Accessibility equipment: his personal supports for managing epilepsy, carried and self-managed as an ordinary matter within an environment whose seizure-safe lighting is standard design (a consolidated summary; see Accessibility Equipment of Chief Petty Officer Jonah Briggs).
-- Medical equipment: a small kit for his own condition, unremarkable and looked after with the same organized care he gives the ship.
+- Medical equipment: a small kit for his own condition, unremarkable and looked after with the same organised care he gives the ship.
 - Communication equipment: a well-configured operations communicator set up for clear, priority-ordered radio traffic.
-- Emergency equipment: an evacuation checklist, a headcount tool, and a signal aid for organizing people under pressure.
+- Emergency equipment: an evacuation checklist, a headcount tool, and a signal aid for organising people under pressure.
 - Sentimental items: a small, understated keepsake he keeps in a pocket, a private steadying token amid the noise of operations.
 - Off-duty equipment: tidy, comfortable off-shift gear kept as neatly as everything else he owns.
 - Mission-specific equipment: a portable operations kit and manifest for coordinating supplies and people on an away task.
 
 ### Environmental Cues of Chief Petty Officer Jonah Briggs
 
-Chief Petty Officer Jonah Briggs's presence is marked above all by his calm, clear, priority-reading voice and by the sounds of a well-run operation around him: organized radio traffic, briefings, and the steady rhythm of a logistics space. A room he anchors feels like order being kept, and the seizure-safe lighting around him is part of a world built to be safe for everyone by default.
+Chief Petty Officer Jonah Briggs's presence is marked above all by his calm, clear, priority-reading voice and by the sounds of a well-run operation around him: organised radio traffic, briefings, and the steady rhythm of a logistics space. A room he anchors feels like order being kept, and the seizure-safe lighting around him is part of a world built to be safe for everyone by default.
 
 ### Typical Movement of Chief Petty Officer Jonah Briggs
 
@@ -492,11 +492,11 @@ Chief Petty Officer Jonah Briggs moves purposefully and unhurriedly through oper
 
 ### Off-Duty Presentation of Chief Petty Officer Jonah Briggs
 
-Off shift, Chief Petty Officer Jonah Briggs is easy, approachable company whose calm is not merely a professional tool but a settled part of who he is. He keeps his understated, reliable self-presentation while letting his dry humor and dependable friendliness come forward among friends.
+Off shift, Chief Petty Officer Jonah Briggs is easy, approachable company whose calm is not merely a professional tool but a settled part of who he is. He keeps his understated, reliable self-presentation while letting his dry humour and dependable friendliness come forward among friends.
 
 ### Emergency Presentation of Chief Petty Officer Jonah Briggs
 
-In a crisis Chief Petty Officer Jonah Briggs becomes even more measured and sequential, slowing his cadence and tightening his priorities so others can keep pace. His stress tell is not agitation but an intensified calm, the fixed point around which an evacuation organizes itself, and he guards his own wellbeing under pressure as ordinary good sense.
+In a crisis Chief Petty Officer Jonah Briggs becomes even more measured and sequential, slowing his cadence and tightening his priorities so others can keep pace. His stress tell is not agitation but an intensified calm, the fixed point around which an evacuation organises itself, and he guards his own wellbeing under pressure as ordinary good sense.
 
 ### Mission Presentation of Chief Petty Officer Jonah Briggs
 
@@ -506,7 +506,7 @@ On an away operation Chief Petty Officer Jonah Briggs presents as the coordinato
 
 Security Lead Talia Rusk is the security lead, a Native character whose gender is Two-Spirit, who uses she and her, and who is a lower-limb amputee using a prosthetic limb. She is steady under threat and inclined to put others ahead of herself, and her purpose is to protect the community.
 
-Talia Rusk's specific nation, culture, and community are deliberately undeveloped and are treated here as to be developed thoughtfully, ideally with Indigenous cultural consultation, exactly as the Character Identity Map directs. Two-Spirit is a culturally specific Indigenous identity, never a generic gender label, and this document honors that specificity by never inventing a nation, a language, a ceremony, or any cultural particulars for her. Her profile presents her as a fully realized person through her personality, profession, and presence, while leaving her cultural specifics respectfully open for that later, consultative work.
+Talia Rusk's specific nation, culture, and community are deliberately undeveloped and are treated here as to be developed thoughtfully, ideally with Indigenous cultural consultation, exactly as the Character Identity Map directs. Two-Spirit is a culturally specific Indigenous identity, never a generic gender label, and this document honours that specificity by never inventing a nation, a language, a ceremony, or any cultural particulars for her. Her profile presents her as a fully realised person through her personality, profession, and presence, while leaving her cultural specifics respectfully open for that later, consultative work.
 
 ### Physical Description of Security Lead Talia Rusk
 
@@ -522,7 +522,7 @@ Her voice should be steady, clear, and grounded, the voice of someone who stays 
 
 ### Personality of Security Lead Talia Rusk
 
-Talia Rusk should be written as calm, protective, and selfless, a leader who consistently puts others ahead of herself and who treats the safety of the community as her first responsibility. She is steady under threat, decisive without being harsh, and she favors de-escalation and protection over force, consistent with the canon truth that combat is always a last resort. She teaches that security serves people, and she embodies the quiet courage of someone who runs toward danger so others can run away from it.
+Talia Rusk should be written as calm, protective, and selfless, a leader who consistently puts others ahead of herself and who treats the safety of the community as her first responsibility. She is steady under threat, decisive without being harsh, and she favours de-escalation and protection over force, consistent with the canon truth that combat is always a last resort. She teaches that security serves people, and she embodies the quiet courage of someone who runs toward danger so others can run away from it.
 
 Her identity as a Two-Spirit person is a meaningful part of who she is, and it is one aspect of a whole person defined first by her values, relationships, and character. Her disability shapes how she moves and works without defining her, and her prosthesis is an ordinary part of a highly capable professional.
 
@@ -532,11 +532,11 @@ Talia Rusk tends to position herself between others and any potential threat, an
 
 ### Typical Expressions of Security Lead Talia Rusk
 
-Talia Rusk's characteristic communication should center on protection and reassurance. She is presented as someone who tells people to go ahead while she holds the way, who calmly directs others to safety, and who de-escalates with a steady word before any situation turns to force. Writers should give her plain, calm, protective phrasing, and should never place invented cultural language in her mouth; her voice rests on her character and her role.
+Talia Rusk's characteristic communication should centre on protection and reassurance. She is presented as someone who tells people to go ahead while she holds the way, who calmly directs others to safety, and who de-escalates with a steady word before any situation turns to force. Writers should give her plain, calm, protective phrasing, and should never place invented cultural language in her mouth; her voice rests on her character and her role.
 
-### Favorite Clothing of Security Lead Talia Rusk
+### Favourite Clothing of Security Lead Talia Rusk
 
-Talia Rusk is presented as favoring practical, well-fitted security attire that allows full, confident movement and works comfortably with her prosthesis. She tends toward functional, ready gear kept in good order. Off duty, she should dress comfortably and practically, keeping the same self-possessed simplicity. Because her cultural specifics are undeveloped, costume designers should not add cultural regalia or motifs to her wardrobe; her styling should rest on function and personality until proper consultation informs any cultural presentation.
+Talia Rusk is presented as favouring practical, well-fitted security attire that allows full, confident movement and works comfortably with her prosthesis. She tends toward functional, ready gear kept in good order. Off duty, she should dress comfortably and practically, keeping the same self-possessed simplicity. Because her cultural specifics are undeveloped, costume designers should not add cultural regalia or motifs to her wardrobe; her styling should rest on function and personality until proper consultation informs any cultural presentation.
 
 ### Accessibility Equipment of Security Lead Talia Rusk
 
@@ -544,7 +544,7 @@ Talia Rusk's defining equipment is her prosthetic lower limb, as fixed by the Ch
 
 ### Habits of Security Lead Talia Rusk
 
-Talia Rusk is presented as someone who patrols on a steady rhythm, who checks routes and assembly points by habit, and who keeps the armory and response spaces ready. She positions herself protectively without being asked, and she quietly puts her own comfort and safety last. She maintains her prosthesis and her readiness with the same disciplined care she brings to protecting the crew.
+Talia Rusk is presented as someone who patrols on a steady rhythm, who checks routes and assembly points by habit, and who keeps the armoury and response spaces ready. She positions herself protectively without being asked, and she quietly puts her own comfort and safety last. She maintains her prosthesis and her readiness with the same disciplined care she brings to protecting the crew.
 
 ### Professional Posture of Security Lead Talia Rusk
 
@@ -554,9 +554,9 @@ On duty, Talia Rusk should present as the calm, capable authority of the securit
 
 Off duty, Talia Rusk's posture should relax into a warmer, more open ease while keeping her characteristic steadiness. She is presented as good and reliable company, comfortable among friends and in the community she protects. Her civilian presentation should show the person behind the security lead, someone whose selflessness extends into ordinary generosity and whose calm is a settled part of her nature.
 
-### Stress Behaviors of Security Lead Talia Rusk
+### Stress Behaviours of Security Lead Talia Rusk
 
-Under stress, Talia Rusk should become even more focused on the safety of others, her attention locking onto threats and onto the people who need protecting. Her stress tell is a heightening of her protective instinct and a tendency to place herself in harm's way before anyone else, which the narrative should honor as courage while never romanticizing self-neglect. Her composure should hold visibly for the sake of the frightened people around her.
+Under stress, Talia Rusk should become even more focused on the safety of others, her attention locking onto threats and onto the people who need protecting. Her stress tell is a heightening of her protective instinct and a tendency to place herself in harm's way before anyone else, which the narrative should honour as courage while never romanticising self-neglect. Her composure should hold visibly for the sake of the frightened people around her.
 
 ### Emotional Tells of Security Lead Talia Rusk
 
@@ -575,7 +575,7 @@ Security Lead Talia Rusk's everyday carry is practical protective gear kept read
 - Accessibility equipment: her prosthetic lower limb and a small maintenance kit for it, ordinary and capable standard equipment she looks after herself (a consolidated summary; see Accessibility Equipment of Security Lead Talia Rusk).
 - Medical equipment: a first-aid pouch weighted toward the injuries she may need to treat while protecting others, plus prosthesis-fit care items.
 - Communication equipment: a security communicator set up for clear coordination and rapid response.
-- Emergency equipment: an evacuation aid and a signaling tool for directing people to safety quickly.
+- Emergency equipment: an evacuation aid and a signalling tool for directing people to safety quickly.
 - Sentimental items: a small, plain personal token she keeps quietly, chosen to carry no invented cultural meaning.
 - Off-duty equipment: comfortable, practical off-shift gear that keeps her self-possessed simplicity.
 - Mission-specific equipment: a field protection kit and prosthesis field-maintenance supplies for sustained readiness on an away operation.
@@ -594,11 +594,11 @@ Off shift, Security Lead Talia Rusk relaxes into a warmer, more open ease while 
 
 ### Emergency Presentation of Security Lead Talia Rusk
 
-In a crisis Security Lead Talia Rusk locks her attention onto threats and onto the people who need protecting, placing herself between danger and others. Her composure holds visibly for the sake of frightened people, and the narrative should honor her instinct to stand in harm's way as courage while never romanticizing self-neglect.
+In a crisis Security Lead Talia Rusk locks her attention onto threats and onto the people who need protecting, placing herself between danger and others. Her composure holds visibly for the sake of frightened people, and the narrative should honour her instinct to stand in harm's way as courage while never romanticising self-neglect.
 
 ### Mission Presentation of Security Lead Talia Rusk
 
-On an away operation Security Lead Talia Rusk presents as calm, protective resolve, securing the way, favoring de-escalation over force, and telling others to go ahead while she holds the line. She keeps her prosthesis and her readiness in disciplined order so she can protect the team throughout a high-stakes task.
+On an away operation Security Lead Talia Rusk presents as calm, protective resolve, securing the way, favouring de-escalation over force, and telling others to go ahead while she holds the line. She keeps her prosthesis and her readiness in disciplined order so she can protect the team throughout a high-stakes task.
 
 ## Doctor Soren Qadir
 
@@ -606,13 +606,13 @@ Doctor Soren Qadir is a senior research scientist, an Asian mixed-heritage demib
 
 ### Physical Description of Doctor Soren Qadir
 
-Soren Qadir should be presented as an adult Asian mixed-heritage person with the focused, engaged physicality of a dedicated scientist, someone whose attention is often bent toward instruments, artifacts, and data. His presence should read as curious and intent, leaning into problems with obvious relish. His repulsor-assisted wheelchair is a visible, integrated part of his presentation and should be designed as elegant, capable standard equipment with a clear manual backup mode; he moves through the ship in it with fluent confidence.
+Soren Qadir should be presented as an adult Asian mixed-heritage person with the focused, engaged physicality of a dedicated scientist, someone whose attention is often bent toward instruments, artefacts, and data. His presence should read as curious and intent, leaning into problems with obvious relish. His repulsor-assisted wheelchair is a visible, integrated part of his presentation and should be designed as elegant, capable standard equipment with a clear manual backup mode; he moves through the ship in it with fluent confidence.
 
 His face should read as bright, inquisitive, and quick to enthusiasm over a discovery. As a demiboy who uses he and they, he is presented simply and wholly as himself, with both sets of pronouns correct and treated as ordinary by everyone around him. Artists should let his intellect and curiosity define his presence.
 
 ### Audio Description of Doctor Soren Qadir
 
-In an audio-first presentation, Soren Qadir arrives with the smooth, distinctive sound of his repulsor-assisted chair, a signature the player should learn to recognize, with a different, more mechanical sound when the chair is in its manual backup mode. His presence carries the sounds of research: scanning systems, analysis equipment, the resonance of artifacts, and animated scientific discussion.
+In an audio-first presentation, Soren Qadir arrives with the smooth, distinctive sound of his repulsor-assisted chair, a signature the player should learn to recognise, with a different, more mechanical sound when the chair is in its manual backup mode. His presence carries the sounds of research: scanning systems, analysis equipment, the resonance of artefacts, and animated scientific discussion.
 
 His voice should be quick, curious, and articulate, the voice of someone thinking aloud through a problem and delighting in a new question. Sound designers should associate his scenes with the acoustic texture of discovery, and should treat the two modes of his chair as a meaningful audio detail, since the shift to manual is a moment worth hearing.
 
@@ -628,11 +628,11 @@ Soren Qadir tends to lean in toward whatever he is studying and to think aloud i
 
 ### Typical Expressions of Doctor Soren Qadir
 
-Soren Qadir's characteristic communication should center on questions and the refusal to give up on either a problem or a person. He is presented as someone who says there is one more reading to take, who insists that no data and no colleague be left behind, and whose excitement over a discovery is infectious. Writers should give him quick, curious, precise phrasing and a warmth toward his team that surfaces in how fiercely he looks after them.
+Soren Qadir's characteristic communication should centre on questions and the refusal to give up on either a problem or a person. He is presented as someone who says there is one more reading to take, who insists that no data and no colleague be left behind, and whose excitement over a discovery is infectious. Writers should give him quick, curious, precise phrasing and a warmth toward his team that surfaces in how fiercely he looks after them.
 
-### Favorite Clothing of Doctor Soren Qadir
+### Favourite Clothing of Doctor Soren Qadir
 
-Soren Qadir is presented as favoring practical research attire suited to long hours at instruments and easy movement in his chair: comfortable fits, accessible pockets for tools, and clothing that works well seated. He tends toward functional garments with a touch of personal character. Off duty, he should dress comfortably and expressively, reflecting his lively personality. Costume designers should ensure his wardrobe is designed first for a seated wearer and for full mobility in his chair.
+Soren Qadir is presented as favouring practical research attire suited to long hours at instruments and easy movement in his chair: comfortable fits, accessible pockets for tools, and clothing that works well seated. He tends toward functional garments with a touch of personal character. Off duty, he should dress comfortably and expressively, reflecting his lively personality. Costume designers should ensure his wardrobe is designed first for a seated wearer and for full mobility in his chair.
 
 ### Accessibility Equipment of Doctor Soren Qadir
 
@@ -650,9 +650,9 @@ On duty, Soren Qadir should present as the engaged, driven authority of the rese
 
 Off duty, Soren Qadir's posture should relax into an animated, sociable ease while keeping his characteristic curiosity. He is presented as engaging and warm company, happy to share ideas and enthusiasms, and comfortable in the community. His civilian presentation should show the person behind the scientist, someone whose loyalty and warmth extend well beyond the laboratory.
 
-### Stress Behaviors of Doctor Soren Qadir
+### Stress Behaviours of Doctor Soren Qadir
 
-Under stress, Soren Qadir should become more persistent and more protective of his team, his focus narrowing onto the essential problem and onto getting his people clear. His stress tell is a refusal to leave, a tendency to take one more reading or make one more effort past the point of personal safety, which the narrative should honor as loyalty while acknowledging its cost. His speech may quicken into rapid, precise problem-solving under pressure.
+Under stress, Soren Qadir should become more persistent and more protective of his team, his focus narrowing onto the essential problem and onto getting his people clear. His stress tell is a refusal to leave, a tendency to take one more reading or make one more effort past the point of personal safety, which the narrative should honour as loyalty while acknowledging its cost. His speech may quicken into rapid, precise problem-solving under pressure.
 
 ### Emotional Tells of Doctor Soren Qadir
 
@@ -667,7 +667,7 @@ A player should learn Soren Qadir through the smooth signature sound of his repu
 Doctor Soren Qadir's everyday carry is built for long hours at instruments and for fluent work from his chair.
 
 - Professional equipment: portable scanning and analysis tools and a data slate on which he logs every reading and discards none.
-- Personal equipment: a favorite compact multitool and accessible pockets arranged for a seated wearer.
+- Personal equipment: a favourite compact multitool and accessible pockets arranged for a seated wearer.
 - Accessibility equipment: his repulsor-assisted wheelchair with its reliable manual backup mode, fully part of how he lives and works (a consolidated summary; see Accessibility Equipment of Doctor Soren Qadir).
 - Medical equipment: a small personal kit and chair-maintenance essentials kept close for self-sufficiency.
 - Communication equipment: a research communicator he uses to keep in constant, loyal contact with his team.
@@ -678,7 +678,7 @@ Doctor Soren Qadir's everyday carry is built for long hours at instruments and f
 
 ### Environmental Cues of Doctor Soren Qadir
 
-Doctor Soren Qadir's presence is marked by the smooth, distinctive sound of his repulsor-assisted chair, with a different, more mechanical sound when it is in manual backup mode, and by the sounds of research: scanning systems, analysis equipment, the resonance of artifacts, and animated discussion. A space he works in carries the acoustic texture of discovery and his quick voice thinking aloud in questions.
+Doctor Soren Qadir's presence is marked by the smooth, distinctive sound of his repulsor-assisted chair, with a different, more mechanical sound when it is in manual backup mode, and by the sounds of research: scanning systems, analysis equipment, the resonance of artefacts, and animated discussion. A space he works in carries the acoustic texture of discovery and his quick voice thinking aloud in questions.
 
 ### Typical Movement of Doctor Soren Qadir
 
@@ -690,7 +690,7 @@ Off shift, Doctor Soren Qadir relaxes into animated, sociable ease while keeping
 
 ### Emergency Presentation of Doctor Soren Qadir
 
-In a crisis Doctor Soren Qadir becomes intently persistent and protective of his team, his focus narrowing onto the essential problem and onto getting his people clear. His stress tell is a refusal to leave, one more reading or one more effort past the point of personal safety, which the narrative honors as loyalty while acknowledging its cost, and his speech may quicken into rapid, precise problem-solving.
+In a crisis Doctor Soren Qadir becomes intently persistent and protective of his team, his focus narrowing onto the essential problem and onto getting his people clear. His stress tell is a refusal to leave, one more reading or one more effort past the point of personal safety, which the narrative honours as loyalty while acknowledging its cost, and his speech may quicken into rapid, precise problem-solving.
 
 ### Mission Presentation of Doctor Soren Qadir
 
@@ -710,7 +710,7 @@ Faience should be presented not as a body but as a presence, expressed through t
 
 In an audio-first presentation, Faience is above all a matter of sound and silence, and its audio identity is its truest identity. Through Operation One, Faience is silent, and that silence is deliberate and meaningful, consistent with the canon rule that silence is a storytelling tool that communicates emotion, danger, absence, distance, or anticipation, and never mere unfinished work. The empty place beside every profession all week, where a companion will one day speak, is Faience's silence, felt in full only when it finally breaks.
 
-Faience first stirs, wordless, in a damaged pod on Attack Day, and that first stirring should be presented as sound before language, a nascent, non-verbal presence awakening rather than a voice delivering lines. As Faience develops beyond that first stirring, its audio identity should remain distinctly non-human, expressed through tone, texture, and presence, and it should never be given a human race, ethnicity, or gender through its voice. Sound designers own the detailed realization of Faience's voice, and this profile fixes only that Faience is known through sound and silence and is unmistakably not human.
+Faience first stirs, wordless, in a damaged pod on Attack Day, and that first stirring should be presented as sound before language, a nascent, non-verbal presence awakening rather than a voice delivering lines. As Faience develops beyond that first stirring, its audio identity should remain distinctly non-human, expressed through tone, texture, and presence, and it should never be given a human race, ethnicity, or gender through its voice. Sound designers own the detailed realisation of Faience's voice, and this profile fixes only that Faience is known through sound and silence and is unmistakably not human.
 
 ### Personality of Faience
 
@@ -732,13 +732,13 @@ Faience has no clothing and no personal accessibility equipment, and this concer
 
 In place of habits, Faience is defined by patterns of presence and silence. Its defining pattern through Operation One is complete silence, an absence that the design treats as deliberate and full of meaning. Its second defining pattern is the first stirring in the damaged pod on Attack Day, the moment its long silence begins to end. Designers should treat these patterns of presence and silence as the core of how a player comes to feel Faience before ever understanding it.
 
-### Emergent Behavior of Faience
+### Emergent Behaviour of Faience
 
-In place of professional and civilian posture, Faience is presented through its emergent behavior as it awakens. Before Attack Day there is no behavior to present, only silence. From the first wordless stirring, Faience's behavior should be presented as nascent and developing, an intelligence coming into being, and its growth should be allowed to unfold across the story rather than being fixed here. This document establishes the starting point of that emergence and defers its later development to the appropriate narrative and artificial-intelligence documents.
+In place of professional and civilian posture, Faience is presented through its emergent behaviour as it awakens. Before Attack Day there is no behaviour to present, only silence. From the first wordless stirring, Faience's behaviour should be presented as nascent and developing, an intelligence coming into being, and its growth should be allowed to unfold across the story rather than being fixed here. This document establishes the starting point of that emergence and defers its later development to the appropriate narrative and artificial-intelligence documents.
 
 ### Signs of Faience Under Strain
 
-In place of stress behaviors, Faience is presented through how its presence changes under strain, expressed through sound, silence, and system response rather than through a body. At its first stirring in a damaged pod amid catastrophe, Faience's strain should read as the fragility of something newly waking in a broken place. Designers should let strain in Faience manifest as changes in its non-human signals rather than as human distress, keeping it always distinct from a person under pressure.
+In place of stress behaviours, Faience is presented through how its presence changes under strain, expressed through sound, silence, and system response rather than through a body. At its first stirring in a damaged pod amid catastrophe, Faience's strain should read as the fragility of something newly waking in a broken place. Designers should let strain in Faience manifest as changes in its non-human signals rather than as human distress, keeping it always distinct from a person under pressure.
 
 ### Emotional Register of Faience
 
@@ -746,7 +746,7 @@ In place of emotional tells, Faience carries an emotional register expressed thr
 
 ### Recognition Cues for Faience
 
-A player comes to know Faience not through a name plate or a face but through sound and silence: the deliberate, meaningful silence that fills the empty companion's place all through Operation One, and the first wordless stirring in a damaged pod on Attack Day that finally breaks it. Faience's deepest recognition cue is that it is unmistakably not human, an intelligence known through presence, tone, and the weight of its quiet rather than through any human trait. Recognizing Faience is recognizing the moment a long silence begins to speak.
+A player comes to know Faience not through a name plate or a face but through sound and silence: the deliberate, meaningful silence that fills the empty companion's place all through Operation One, and the first wordless stirring in a damaged pod on Attack Day that finally breaks it. Faience's deepest recognition cue is that it is unmistakably not human, an intelligence known through presence, tone, and the weight of its quiet rather than through any human trait. Recognising Faience is recognising the moment a long silence begins to speak.
 
 ### Everyday Carry of Faience
 
@@ -756,11 +756,11 @@ Everyday carry does not apply to Faience in the human, embodied sense, because F
 
 The Vale System is one shared body inhabited by four recurring members who front in turn, as the Canon Rules and the Character Identity Map establish. The system is Native mixed-heritage and lives with dissociative identity disorder; the four members share one body and the single office of Captain, in the Commissioned Officer track. The body is constant and the presentation changes with whoever is fronting. The Vale System is never written as four separate people and never as a single character named Captain Mara Vale, and Mara Chen is not a member of the Vale System.
 
-This section is deliberately brief. The Vale System is the subject of Part VII, The Vale System, which carries its full profile, and the deep treatment of the four members, their distinct presentations, and how a player learns to recognize each of them is deferred to that part. What follows here is only enough to locate the Vale System among the recurring cast and to fix the four members' locked identities. For everything beyond that, Part VII is the reference.
+This section is deliberately brief. The Vale System is the subject of Part VII, The Vale System, which carries its full profile, and the deep treatment of the four members, their distinct presentations, and how a player learns to recognise each of them is deferred to that part. What follows here is only enough to locate the Vale System among the recurring cast and to fix the four members' locked identities. For everything beyond that, Part VII is the reference.
 
 ### What Never Changes for the Vale System
 
-The following are constant whichever member is fronting, and this profile records them so that every artist and animator holds the same foundation: the shared body; height and build; face, hair, eye color, and skin tone; physical scars and medical history; accessibility equipment; uniform design and rank insignia; department affiliation; the command authority the body carries; and the history the crew has built with the Vale System. The body itself never transforms; only its presentation changes, and recognition of the current member comes through observation rather than explanation. Personal identifiers such as name tape, badge, terminal login, and voice authentication update automatically as ordinary ship operations when a member fronts, and the crew treat these updates as completely ordinary.
+The following are constant whichever member is fronting, and this profile records them so that every artist and animator holds the same foundation: the shared body; height and build; face, hair, eye colour, and skin tone; physical scars and medical history; accessibility equipment; uniform design and rank insignia; department affiliation; the command authority the body carries; and the history the crew has built with the Vale System. The body itself never transforms; only its presentation changes, and recognition of the current member comes through observation rather than explanation. Personal identifiers such as name tape, badge, terminal login, and voice authentication update automatically as ordinary ship operations when a member fronts, and the crew treat these updates as completely ordinary.
 
 ### Elian of the Vale System
 
@@ -782,4 +782,4 @@ Iris of the Vale System is a demigirl and uses she and they. Iris is presented a
 
 Two identity items are deliberately left open by the Character Identity Map and remain open in this document. Talia Rusk's nation, culture, and community are to be developed thoughtfully, ideally with Indigenous cultural consultation, and no nation, language, or ceremony is invented for her here; her profile rests on her personality, profession, and presence until that work is done. Mira Ives is a genderfluid child using she and they, and her pronouns and the way she expresses her gender remain open to development as the character and story mature, so her presentation is kept light, respectful, and non-fixed.
 
-One profile is intentionally brief and deferred. The Vale System is treated only in summary here, and its full profile, including the distinct presentations of Elian, Naomi, Gideon, and Iris and the craft of recognizing each member in play, is carried by Part VII, The Vale System. Faience's identity is intentionally emergent, beginning from a wordless stirring, and its later development beyond that starting point is carried by the narrative and artificial-intelligence documents rather than fixed as settled backstory in this profile.
+One profile is intentionally brief and deferred. The Vale System is treated only in summary here, and its full profile, including the distinct presentations of Elian, Naomi, Gideon, and Iris and the craft of recognising each member in play, is carried by Part VII, The Vale System. Faience's identity is intentionally emergent, beginning from a wordless stirring, and its later development beyond that starting point is carried by the narrative and artificial-intelligence documents rather than fixed as settled backstory in this profile.

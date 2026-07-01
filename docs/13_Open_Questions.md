@@ -9,7 +9,7 @@ This document tracks decisions that have not yet been made. When a question is r
 
 ## Multiplayer and networking
 
-- What specific netcode, matchmaking, and session-tier implementation will realize the authoritative, world-centered network model defined in the Network and Multiplayer Bible?
+- What specific netcode, matchmaking, and session-tier implementation will realise the authoritative, world-centred network model defined in the Network and Multiplayer Bible?
 - How are timers handled fairly when some players have removed action timers for accessibility?
 
 ## Audio
@@ -25,11 +25,11 @@ This document tracks decisions that have not yet been made. When a question is r
 ## Story and content
 
 - What are the detailed beats of chapters two through seven of Operation Exodus?
-- Which professions are prioritized first for full content, and which ship later?
+- Which professions are prioritised first for full content, and which ship later?
 
 ## Data and privacy
 
-- What is the encryption and privacy model for optional cloud synchronization?
+- What is the encryption and privacy model for optional cloud synchronisation?
 - How is a player's archive exported, transferred, or deleted on request?
 
 ## Items awaiting more input

@@ -4,7 +4,7 @@ This is a gameplay design document for the Maintenance perspective of Chapter Se
 
 ## Primary Question
 
-What kind of civilization will we become?
+What kind of civilisation will we become?
 
 ## Chapter Answer
 
@@ -145,7 +145,7 @@ Everything contributes.
 - Immediate result:
   - Every system progresses together.
 - Future effect:
-  - No specialization advances as rapidly.
+  - No specialisation advances as rapidly.
   - The community remains highly adaptable.
 
 ### Decision Three: How should the community travel?
@@ -190,7 +190,7 @@ Every accessibility feature introduced throughout Operation One remains fully av
 
 ### Part One — Emotional Goal
 
-The player should realize that the frightened survivor from Chapter One no longer exists. The community has become explorers. The expedition is no longer about survival. It is about deciding who humanity chooses to become.
+The player should realise that the frightened survivor from Chapter One no longer exists. The community has become explorers. The expedition is no longer about survival. It is about deciding who humanity chooses to become.
 
 ### Part One — End Condition
 
@@ -206,7 +206,7 @@ Demonstrate that the community has mastered every core gameplay system introduce
 
 The expedition leaves the station. This journey is unlike previous expeditions. The destination does not appear on any human map. The Living Archive continuously updates the route.
 
-Faience quietly guides the expedition, not by giving directions, but by recognizing Resonance patterns. The farther the expedition travels, the more frequently ancient Shawabti structures begin responding. It becomes obvious that the player is traveling along a route intentionally designed thousands of years ago.
+Faience quietly guides the expedition, not by giving directions, but by recognising Resonance patterns. The farther the expedition travels, the more frequently ancient Shawabti structures begin responding. It becomes obvious that the player is travelling along a route intentionally designed thousands of years ago.
 
 ### Part Two — Gameplay Purpose
 
@@ -360,7 +360,7 @@ The gateway begins responding. The expedition must determine how to continue.
 
 ### Part Two — Advisor Contributions
 
-Every advisor contributes equally. No single crew member solves the challenge. Every discipline becomes necessary. The player recognizes that the station has become greater than the sum of its parts.
+Every advisor contributes equally. No single crew member solves the challenge. Every discipline becomes necessary. The player recognises that the station has become greater than the sum of its parts.
 
 ### Part Two — Gameplay Systems
 
@@ -379,15 +379,15 @@ Every integrated challenge must support multiple valid completion methods. No pl
 
 ### Part Two — Emotional Goal
 
-The player should realize something profound. At the beginning of Operation One, the crew survived together. Now they think together. Every challenge demonstrates that civilization itself has become the player's greatest achievement.
+The player should realise something profound. At the beginning of Operation One, the crew survived together. Now they think together. Every challenge demonstrates that civilisation itself has become the player's greatest achievement.
 
 ### Part Two — End Condition
 
 The gateway slowly activates. Not with lights. Not with machinery. With Resonance. The harmonic frequencies surrounding the expedition align into a complete pattern. The stars themselves appear to shift as ancient navigation pathways become visible.
 
-The player realizes they are no longer following Shawabti history. They are following a journey the Shawabti expected someone to complete. The gateway opens. Part Three begins.
+The player realises they are no longer following Shawabti history. They are following a journey the Shawabti expected someone to complete. The gateway opens. Part Three begins.
 
-## Part Three: The Choice of Civilizations
+## Part Three: The Choice of Civilisations
 
 ### Part Three — Purpose
 
@@ -395,9 +395,9 @@ This is the emotional and philosophical climax of Operation One. The player disc
 
 ### Part Three — Narrative Purpose
 
-Beyond the gateway lies another perfectly preserved Shawabti structure. Unlike every previous structure, this one contains no artifacts, no technology, and no historical records. Only one circular chamber.
+Beyond the gateway lies another perfectly preserved Shawabti structure. Unlike every previous structure, this one contains no artefacts, no technology, and no historical records. Only one circular chamber.
 
-The chamber was never intended to preserve the Shawabti. It was built to welcome whoever arrived after them. The room has been waiting. Not for a specific species, but for a civilization capable of reaching it together.
+The chamber was never intended to preserve the Shawabti. It was built to welcome whoever arrived after them. The room has been waiting. Not for a specific species, but for a civilisation capable of reaching it together.
 
 ### Part Three — Gameplay Purpose
 
@@ -405,7 +405,7 @@ The player demonstrates mastery of every system introduced throughout Operation 
 
 ### Chamber Philosophy
 
-The chamber never asks who the player is. Instead it asks who the player has become. The chamber evaluates civilization, not individuals.
+The chamber never asks who the player is. Instead it asks who the player has become. The chamber evaluates civilisation, not individuals.
 
 ### Decision One: What should knowledge become?
 
@@ -417,7 +417,7 @@ The chamber requests the community's first declaration.
   - The chamber resonates warmly.
 - Future effect:
   - Knowledge Archive collaboration expands.
-  - Future civilizations become more cooperative.
+  - Future civilisations become more cooperative.
   - Additional diplomatic options unlock throughout future campaigns.
 
 #### Choice B: Knowledge should be carefully protected
@@ -457,7 +457,7 @@ The chamber presents a second question.
 - Immediate result:
   - Additional defensive philosophies unlock.
 - Future effect:
-  - Future diplomacy emphasizes safety.
+  - Future diplomacy emphasises safety.
   - Security remains community-focused.
 
 #### Choice B: Power should teach
@@ -479,12 +479,12 @@ The chamber presents a second question.
 #### Choice D: Power should serve everyone equally
 
 - Immediate result:
-  - The chamber harmonizes.
+  - The chamber harmonises.
 - Future effect:
   - Future community systems balance every discipline.
   - Accessibility continues developing alongside every major gameplay system.
 
-### Decision Three: What should civilization remember?
+### Decision Three: What should civilisation remember?
 
 The final question appears.
 
@@ -501,7 +501,7 @@ The final question appears.
 - Immediate result:
   - Historical mistakes become preserved.
 - Future effect:
-  - Future civilizations gain additional opportunities to avoid repeating them.
+  - Future civilisations gain additional opportunities to avoid repeating them.
   - Archive discussions deepen.
 
 #### Choice C: Its people
@@ -510,7 +510,7 @@ The final question appears.
   - Personal histories become central.
 - Future effect:
   - Relationships strengthen.
-  - Future expeditions emphasize preservation of communities.
+  - Future expeditions emphasise preservation of communities.
 
 #### Choice D: Everything
 
@@ -527,14 +527,14 @@ No answer is considered correct. The Shawabti never judge the player's philosoph
 
 Every advisor responds personally.
 
-- Rowan believes civilizations are remembered through what they build.
-- Mara believes civilizations are remembered through how they communicate.
-- Samira believes civilizations are remembered through how they care for one another.
-- Jonah believes civilizations are remembered through organization and cooperation.
-- Talia believes civilizations are remembered through the people they protect.
-- Soren believes civilizations are remembered through curiosity.
-- Mira believes civilizations are remembered through the questions children continue asking.
-- The Vale System believes civilizations are remembered through every voice being heard.
+- Rowan believes civilisations are remembered through what they build.
+- Mara believes civilisations are remembered through how they communicate.
+- Samira believes civilisations are remembered through how they care for one another.
+- Jonah believes civilisations are remembered through organisation and cooperation.
+- Talia believes civilisations are remembered through the people they protect.
+- Soren believes civilisations are remembered through curiosity.
+- Mira believes civilisations are remembered through the questions children continue asking.
+- The Vale System believes civilisations are remembered through every voice being heard.
 
 The player is encouraged to compare every philosophy before answering.
 
@@ -566,7 +566,7 @@ No player should lose access to these conversations because of pacing or memory.
 
 ### Part Three — Emotional Goal
 
-The player should understand that the Shawabti never intended to leave behind an empire. They intended to leave behind a question. Every civilization must answer it for itself.
+The player should understand that the Shawabti never intended to leave behind an empire. They intended to leave behind a question. Every civilisation must answer it for itself.
 
 ### Part Three — End Condition
 
@@ -578,25 +578,25 @@ The chamber opens one final doorway. Beyond it is not another ruin, but an untou
 
 ### Part Four — Purpose
 
-Complete Operation One. Demonstrate that the player has not inherited the Shawabti civilization. Instead, humanity begins creating its own. The player leaves this chapter understanding that civilization is never finished. It is continuously built. Operation One ends. The future begins.
+Complete Operation One. Demonstrate that the player has not inherited the Shawabti civilisation. Instead, humanity begins creating its own. The player leaves this chapter understanding that civilisation is never finished. It is continuously built. Operation One ends. The future begins.
 
 ### Part Four — Narrative Purpose
 
 The expedition returns home. The journey back is quiet. Nobody speaks very much. Everyone understands they have witnessed something larger than themselves.
 
-The station no longer feels temporary. It feels permanent. It feels alive. For the first time, the player realizes they are no longer rebuilding after disaster. They are building the first chapter of a new civilization.
+The station no longer feels temporary. It feels permanent. It feels alive. For the first time, the player realises they are no longer rebuilding after disaster. They are building the first chapter of a new civilisation.
 
 ### Part Four — Gameplay Purpose
 
-Finalize every gameplay system introduced throughout Operation One. No new mechanics are introduced. Instead every permanent system becomes fully integrated into station life. The station permanently becomes the following.
+Finalise every gameplay system introduced throughout Operation One. No new mechanics are introduced. Instead every permanent system becomes fully integrated into station life. The station permanently becomes the following.
 
 - A home.
-- A research center.
+- A research centre.
 - A Living Archive.
 - A school.
-- A medical center.
+- A medical centre.
 - An engineering facility.
-- A cultural center.
+- A cultural centre.
 - A launching point for future exploration.
 
 ### Decision One: What should the community build next?
@@ -646,7 +646,7 @@ This becomes the first long-term station project after Operation One.
 - Immediate result:
   - Human engineering philosophy becomes permanently preserved.
 - Future effect:
-  - Future civilizations discover humanity's practical problem solving.
+  - Future civilisations discover humanity's practical problem solving.
 
 #### Choice B: Medical knowledge
 
@@ -660,7 +660,7 @@ This becomes the first long-term station project after Operation One.
 - Immediate result:
   - The stories of Hearth, the expedition, the rescued crew, and the rebuilding of the station become humanity's first preserved historical record.
 - Future effect:
-  - Future generations understand how civilization began again.
+  - Future generations understand how civilisation began again.
 
 #### Choice D: Everything together
 
@@ -712,21 +712,21 @@ Operation One ends without final answers. The player has inherited responsibilit
 Completing Operation One permanently unlocks the following.
 
 - Human Living Archive.
-- Civilization Timeline.
+- Civilisation Timeline.
 - Resonance Network.
 - Advanced Expedition Planning.
 - Cross-profession Campaigns.
 - Historical Comparison.
 - Long-term Community Development.
 - Adaptive Accessibility Evolution.
-- Civilization Philosophy Tracking.
+- Civilisation Philosophy Tracking.
 - Operation Selection.
 
 These systems remain active throughout every future operation.
 
 ### Part Four — Accessibility
 
-Operation One concludes by demonstrating that accessibility is now inseparable from civilization. Every future operation inherits the following.
+Operation One concludes by demonstrating that accessibility is now inseparable from civilisation. Every future operation inherits the following.
 
 - Braille support.
 - Captions.
@@ -742,7 +742,7 @@ Accessibility is never revisited as a feature. It has become part of the world's
 
 ### Part Four — Emotional Goal
 
-The player should feel proud. Not because they defeated an enemy, but because they helped build a community, because they preserved history, because they chose curiosity over fear, and because they demonstrated that civilization grows through cooperation. The player should feel excited for what comes next, not relieved that the game is over.
+The player should feel proud. Not because they defeated an enemy, but because they helped build a community, because they preserved history, because they chose curiosity over fear, and because they demonstrated that civilisation grows through cooperation. The player should feel excited for what comes next, not relieved that the game is over.
 
 ### Final Sequence
 
@@ -765,7 +765,7 @@ The Archive records that this is where humanity began again.
 
 The camera slowly leaves the station. The station remains busy. People continue living. Children continue learning. Repairs continue. Music continues. Construction continues. Life continues.
 
-Far beyond the station, the Shawabti gateway quietly closes. Not because humanity failed, but because humanity no longer needs an invitation. A new constellation slowly appears within the stars. Its shape resembles two civilizations connected by one line.
+Far beyond the station, the Shawabti gateway quietly closes. Not because humanity failed, but because humanity no longer needs an invitation. A new constellation slowly appears within the stars. Its shape resembles two civilisations connected by one line.
 
 The title appears: Resonance, Fractured Frequency, Operation One: Exodus, Complete. The screen fades. No credits immediately appear. Instead, the player hears the familiar 06:30 morning klaxon. Captain Elian of the Vale System calmly announces:
 
@@ -777,7 +777,7 @@ The scene fades to black.
 
 ### Epilogue — Purpose
 
-Allow the player to experience the civilization they helped create. Operation One has ended. The player is not immediately launched into Operation Two. Instead, the player is given time to simply live. The player should experience the consequences of every major decision made throughout Operation One.
+Allow the player to experience the civilisation they helped create. Operation One has ended. The player is not immediately launched into Operation Two. Instead, the player is given time to simply live. The player should experience the consequences of every major decision made throughout Operation One.
 
 ### Epilogue — Narrative Purpose
 
@@ -796,7 +796,7 @@ Allow unrestricted exploration of the station. Every system remains active. No u
 - Review expedition journals.
 - Review Resonance Logs.
 - Review the Knowledge Archive.
-- Customize accessibility settings.
+- Customise accessibility settings.
 - Plan future expeditions.
 
 The station becomes a living sandbox.
@@ -855,17 +855,17 @@ Operation One never truly ends. Players may always return. The station continues
 
 ### Epilogue — Accessibility
 
-Every accessibility feature unlocked throughout Operation One remains permanently available. Every future operation inherits these settings automatically. Players never need to rebuild accessibility from the beginning. Civilization remembers. So does accessibility.
+Every accessibility feature unlocked throughout Operation One remains permanently available. Every future operation inherits these settings automatically. Players never need to rebuild accessibility from the beginning. Civilisation remembers. So does accessibility.
 
 ### Epilogue — Emotional Goal
 
-The player should walk through the station and recognize something impossible. Every sound, every room, every person, every conversation, and every routine exists because of choices they made. Not because the game reached its ending, but because the community grew.
+The player should walk through the station and recognise something impossible. Every sound, every room, every person, every conversation, and every routine exists because of choices they made. Not because the game reached its ending, but because the community grew.
 
 ### Final Moment
 
 The player walks past the Living Archive. A new entry quietly appears. Not written by Faience. Not written by the Shawabti. Written by the station itself. It reads:
 
-"Civilizations are not remembered because they endured. They are remembered because they chose to help one another endure."
+"Civilisations are not remembered because they endured. They are remembered because they chose to help one another endure."
 
 The player closes the Archive. Behind them, life continues. Children laugh. Someone begins repairing a bulkhead. Coffee is brewing. Music drifts through the corridor. Captain Elian of the Vale System begins the morning announcements:
 
@@ -879,4 +879,4 @@ Operation One ends. The Resonance franchise begins.
 
 - For the definitive rules on sound, music, and acoustic identity, see the Audio Bible in docs/07_Audio_Bible.md.
 - For the definitive accessibility standards, see the Accessibility Bible in docs/08_Accessibility_Bible.md.
-- For species and civilization rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
+- For species and civilisation rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.

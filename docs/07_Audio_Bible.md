@@ -8,13 +8,13 @@ Resonance is not "an audio game." It is a science-fiction game whose primary ren
 
 ## Perspective audio
 
-Every profession hears the same event differently. The sound mix changes, the dialogue changes, the vocabulary changes, and the way the AI communicates changes. The player should eventually be able to recognize another player's profession simply by listening.
+Every profession hears the same event differently. The sound mix changes, the dialogue changes, the vocabulary changes, and the way the AI communicates changes. The player should eventually be able to recognise another player's profession simply by listening.
 
 Examples of what each profession hears follow.
 
 - Medic: pulse, respiration, blood loss, triage, shock, evacuation.
 - Engineer: power routing, reactor load, heat, pressure, hull stress.
-- Scientist: energy signatures, anomalies, signal analysis, artifact behavior.
+- Scientist: energy signatures, anomalies, signal analysis, artefact behaviour.
 - Security: enemy movement, weapon reports, cover.
 - Officer: crew status, chain of command, evacuation priorities.
 - Maintenance: vents, access panels, ducts, backup systems.
@@ -171,7 +171,7 @@ Each area carries its own acoustic identity, so the same footsteps read differen
 
 ## Vehicle sound library
 
-Vehicles move people and cargo through the world, and each has an identity a player can recognize before it comes into view. Spacecraft classes are detailed in the spacecraft sound library; this library covers surface, station, and short-range transportation.
+Vehicles move people and cargo through the world, and each has an identity a player can recognise before it comes into view. Spacecraft classes are detailed in the spacecraft sound library; this library covers surface, station, and short-range transportation.
 
 ### What each vehicle profile defines
 
@@ -223,7 +223,7 @@ Vehicles move people and cargo through the world, and each has an identity a pla
 
 ## Spacecraft sound library
 
-Every class of spacecraft possesses an immediately recognizable acoustic identity, so a player can tell what has arrived, powered up, or begun to fail without seeing it. Spatial audio during flight is described in the Systems Bible.
+Every class of spacecraft possesses an immediately recognisable acoustic identity, so a player can tell what has arrived, powered up, or begun to fail without seeing it. Spatial audio during flight is described in the Systems Bible.
 
 ### Spacecraft classes this library covers
 
@@ -260,7 +260,7 @@ Every class of spacecraft possesses an immediately recognizable acoustic identit
 
 ## Space suit sound library
 
-A space suit is a small, mobile environment, and the player should learn to recognize a suit and its condition without seeing it. Suit warnings, haptic alerts, and accessibility alerts follow the non-auditory paths defined in the Accessibility Bible.
+A space suit is a small, mobile environment, and the player should learn to recognise a suit and its condition without seeing it. Suit warnings, haptic alerts, and accessibility alerts follow the non-auditory paths defined in the Accessibility Bible.
 
 ### Suits this library covers
 
@@ -298,7 +298,7 @@ A space suit is a small, mobile environment, and the player should learn to reco
 
 ## Equipment sound library
 
-Every recurring tool and accessibility device has a recognizable sound identity, so the player knows what is in use before seeing it. Accessibility devices are ordinary equipment and sound like it, as the Accessibility Bible describes. Personal beacons, digital identity badges, and smart name tapes are part of the layered crew identification system detailed in the Universe Bible and the Player Identity and Character Presentation Bible.
+Every recurring tool and accessibility device has a recognisable sound identity, so the player knows what is in use before seeing it. Accessibility devices are ordinary equipment and sound like it, as the Accessibility Bible describes. Personal beacons, digital identity badges, and smart name tapes are part of the layered crew identification system detailed in the Universe Bible and the Player Identity and Character Presentation Bible.
 
 ### What each equipment profile defines
 
@@ -347,7 +347,7 @@ Every recurring tool and accessibility device has a recognizable sound identity,
 
 ## Weapon sound library
 
-Weapons exist primarily as emergency tools, and they should sound purposeful rather than exciting. The audio philosophy here emphasizes responsibility over spectacle, consistent with the tone of the franchise.
+Weapons exist primarily as emergency tools, and they should sound purposeful rather than exciting. The audio philosophy here emphasises responsibility over spectacle, consistent with the tone of the franchise.
 
 ### Emergency tools this library covers
 
@@ -357,7 +357,7 @@ Weapons exist primarily as emergency tools, and they should sound purposeful rat
 - Training equipment
 - Industrial cutting tools
 - Emergency breaching tools
-- Personal defense equipment
+- Personal defence equipment
 - Historic weapons
 - Alien technology
 - Experimental systems
@@ -380,7 +380,7 @@ Weapons exist primarily as emergency tools, and they should sound purposeful rat
 
 ## Clothing sound library
 
-Clothing contributes to recognition, and every recurring character possesses recognizable clothing sounds that support the recognition cues defined in the Player Identity and Character Presentation Bible.
+Clothing contributes to recognition, and every recurring character possesses recognisable clothing sounds that support the recognition cues defined in the Player Identity and Character Presentation Bible.
 
 ### Clothing this library covers
 
@@ -394,7 +394,7 @@ Clothing contributes to recognition, and every recurring character possesses rec
 - Children's clothing
 - Protective equipment
 - Environmental gear
-- Jewelry
+- Jewellery
 - Identification badges
 - Mobility equipment attached to clothing
 
@@ -411,7 +411,7 @@ Every interaction inherits its sound from the material involved, so the same act
 - Fabric
 - Leather
 - Glass
-- Transparent aluminum
+- Transparent aluminium
 - Stone
 - Wood
 - Ice
@@ -453,7 +453,7 @@ Every recurring interactive object possesses a defined sound identity and provid
 
 ## Animal sound library
 
-Animals have their own acoustic identities, and the player can recognize a companion, a working animal, or nearby wildlife by ear. The species themselves are defined in the Universe Bible.
+Animals have their own acoustic identities, and the player can recognise a companion, a working animal, or nearby wildlife by ear. The species themselves are defined in the Universe Bible.
 
 ### What each animal profile defines
 
@@ -507,7 +507,7 @@ The sounds produced by living beings contribute to realism, empathy, and accessi
 
 ## Environmental sound progression
 
-Locations evolve acoustically over time, and the player should hear civilization evolving. This section applies the canon rule that sound is progression, and it works alongside the Crew Progression System and the Modular Architecture Bible, so that the community can be heard growing before it is seen.
+Locations evolve acoustically over time, and the player should hear civilisation evolving. This section applies the canon rule that sound is progression, and it works alongside the Crew Progression System and the Modular Architecture Bible, so that the community can be heard growing before it is seen.
 
 ### How locations evolve acoustically
 
@@ -516,15 +516,15 @@ Locations evolve acoustically over time, and the player should hear civilization
 - Schools become active
 - Communities grow
 - Repairs finish
-- Neighborhoods develop
+- Neighbourhoods develop
 - Stations recover
 - Settlements expand
 
 ## Cultural sound identity
 
-Every civilization possesses recognizable sound characteristics, and no civilization sounds identical to another. The civilizations themselves and their cultural frameworks are defined in the Universe Bible, and the acoustic identity of the Shawabti and of any culture the player has not yet encountered is revealed progressively through play rather than fixed here.
+Every civilisation possesses recognisable sound characteristics, and no civilisation sounds identical to another. The civilisations themselves and their cultural frameworks are defined in the Universe Bible, and the acoustic identity of the Shawabti and of any culture the player has not yet encountered is revealed progressively through play rather than fixed here.
 
-### What gives a civilization its sound
+### What gives a civilisation its sound
 
 - Languages
 - Greetings
@@ -582,6 +582,6 @@ This document is the definitive reference for sound in the franchise, and it ela
 - The Modular Architecture Bible describes how the spaces heard in these libraries are built and how each carries its own acoustic identity.
 - The Player Identity and Character Presentation Bible defines the recognition cues, clothing and movement sound, and the personal beacon, digital identity badge, and smart name tape referenced here.
 - The Systems Bible describes how spatial audio is used in combat and flight and how mechanics are introduced through sound.
-- The Universe Bible is the definitive reference for the species, civilizations, wildlife, cultural frameworks, and identification technology whose sounds these libraries catalog, and it records the Shawabti and other deliberate mysteries whose acoustic identity is revealed through play.
+- The Universe Bible is the definitive reference for the species, civilisations, wildlife, cultural frameworks, and identification technology whose sounds these libraries catalogue, and it records the Shawabti and other deliberate mysteries whose acoustic identity is revealed through play.
 - The Crew Progression System design note describes how the community is heard growing as crew are rescued.
 - The Decision Log records when the audio-related rules were adopted or amended.

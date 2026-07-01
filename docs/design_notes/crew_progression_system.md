@@ -127,8 +127,8 @@ Rowan teaches survival engineering.
 - Tool drawers opening
 - Repair work
 - Pressure leaks disappearing
-- Ventilation stabilizing
-- Organized equipment
+- Ventilation stabilising
+- Organised equipment
 
 ### Rowan Ives — Crew Conversations
 
@@ -266,7 +266,7 @@ Epilepsy.
 
 ### Chief Petty Officer Jonah Briggs — Purpose
 
-Teach organization.
+Teach organisation.
 
 ### Chief Petty Officer Jonah Briggs — Gameplay Unlocks
 
@@ -287,7 +287,7 @@ Teach organization.
 ### Chief Petty Officer Jonah Briggs — Soundscape Changes
 
 - Regular briefings
-- Organized radio traffic
+- Organised radio traffic
 - Planning meetings
 - Shift changes
 
@@ -301,11 +301,11 @@ Teach organization.
 
 - Leadership
 - Logistics
-- Emergency organization
+- Emergency organisation
 
 ### Chief Petty Officer Jonah Briggs — Future Chapters
 
-Jonah continuously reorganizes growing operations as the community expands.
+Jonah continuously reorganises growing operations as the community expands.
 
 ## Security Lead Talia Rusk
 
@@ -333,7 +333,7 @@ Protect the community.
 ### Security Lead Talia Rusk — Environmental Unlocks
 
 - Security office
-- Armory
+- Armoury
 - Emergency response lockers
 - Defensive control station
 
@@ -378,7 +378,7 @@ Teach discovery.
 
 ### Dr. Soren Qadir — Gameplay Unlocks
 
-- Artifact scanning
+- Artefact scanning
 - Knowledge Archive
 - Research
 - Pattern analysis
@@ -390,14 +390,14 @@ Teach discovery.
 
 - Research laboratory
 - Archive room
-- Artifact containment
+- Artefact containment
 - Analysis stations
 
 ### Dr. Soren Qadir — Soundscape Changes
 
 - Research equipment
 - Scanning systems
-- Artifact resonance
+- Artefact resonance
 - Scientific discussion
 
 ### Dr. Soren Qadir — Crew Conversations
@@ -418,7 +418,7 @@ Players may research:
 - LGBTQIA+ history
 - Scientific history
 - Political history
-- Alien civilizations
+- Alien civilisations
 - The Shawabti
 
 ### Dr. Soren Qadir — Future Chapters
@@ -451,7 +451,7 @@ Civilian.
 
 - Advanced AAC interaction
 - Alternative communication
-- Adaptive interface customization
+- Adaptive interface customisation
 - Community activities
 - Creative spaces
 
@@ -514,7 +514,7 @@ Teach collaborative leadership.
 ### The Vale System — Environmental Unlocks
 
 - Bridge
-- Command center
+- Command centre
 - Communication systems
 - Strategic planning room
 
@@ -541,7 +541,7 @@ Teach collaborative leadership.
 
 Different members of the Vale System naturally lead different situations.
 
-The player gradually recognizes each member by behavior rather than introduction, reading voice, manner, and priorities rather than being told who is fronting.
+The player gradually recognises each member by behaviour rather than introduction, reading voice, manner, and priorities rather than being told who is fronting.
 
 ## Sound Progression
 
@@ -555,7 +555,7 @@ Every rescue adds:
 - New routines
 - New life
 
-The player should hear civilization returning.
+The player should hear civilisation returning.
 
 ## Knowledge Progression
 
@@ -584,7 +584,7 @@ The game rewards curiosity rather than forcing it.
 
 Accessibility is not a settings menu.
 
-Accessibility is part of civilization.
+Accessibility is part of civilisation.
 
 As the crew grows, accessibility options naturally expand because different people contribute different technologies, experiences and ideas.
 
@@ -602,7 +602,7 @@ If those questions cannot be answered, the character is not yet ready to join th
 
 ## Relationship To Other Documents
 
-This document supports and should remain synchronized with:
+This document supports and should remain synchronised with:
 
 - docs/03_Campaign_Bible.md
 - docs/04_Systems_Bible.md
