@@ -59,7 +59,7 @@ For the first time, however, the destination is not primarily physical. The play
 
 ## Part One: Awakening
 
-### Purpose
+### Part One — Purpose
 
 Introduce the Living Archive. Teach that preserved knowledge can respond intelligently without becoming artificial intelligence. Teach that Faience is changing.
 
@@ -75,7 +75,7 @@ Faience quietly says, "I remember."
 
 The crew falls silent. Nobody knows what Faience means. Not even Faience.
 
-### Gameplay Purpose
+### Part One — Gameplay Purpose
 
 Introduce:
 
@@ -136,7 +136,7 @@ The player chooses one primary collaborator. This changes interpretation. Not ca
 - Choose Mira: Faience answers questions nobody else considered asking. Future benefit: additional optional discoveries and unexpected Archive pathways.
 - Choose The Vale System: Faience speaks with every member naturally. Future benefit: additional collaborative dialogue and expanded leadership interactions.
 
-### Gameplay Systems Introduced
+### Part One — Gameplay Systems Introduced
 
 - Living Archive.
 - Memory reconstruction.
@@ -144,7 +144,7 @@ The player chooses one primary collaborator. This changes interpretation. Not ca
 - Archive conversations.
 - Historical synthesis.
 
-### Accessibility
+### Part One — Accessibility
 
 Every Archive interaction supports:
 
@@ -158,11 +158,11 @@ Every Archive interaction supports:
 
 No conversation should become inaccessible because it occurred only once.
 
-### Emotional Goal
+### Part One — Emotional Goal
 
 The player should begin wondering whether Faience is translating the Shawabti, or remembering them.
 
-### End Condition
+### Part One — End Condition
 
 Faience quietly speaks another Shawabti sentence. This time the Living Archive responds. Not by displaying information. By asking a question.
 
@@ -170,19 +170,19 @@ No one understands the language. Yet every crew member somehow understands the f
 
 ## Part Two: Conversations Across Time
 
-### Purpose
+### Part Two — Purpose
 
 Teach the player how the Living Archive functions. The Living Archive is not a database. It is not a search engine. It is not artificial intelligence. It is a preserved civilization communicating through Resonance.
 
 The player learns that understanding grows through conversation rather than information retrieval.
 
-### Narrative Purpose
+### Part Two — Narrative Purpose
 
 The Living Archive responds to Faience. Entire sections of the Archive begin activating. Not because Faience controls them. Because the Archive recognizes familiar patterns.
 
 The player begins walking through reconstructed conversations preserved thousands of years ago. These are not recordings. The Archive rebuilds them dynamically as understanding improves. Every visit reveals something new.
 
-### Gameplay Purpose
+### Part Two — Gameplay Purpose
 
 Introduce:
 
@@ -195,7 +195,7 @@ Introduce:
 
 The player learns that returning to previous conversations reveals new meaning as translation improves.
 
-### Living Archive Philosophy
+### Part Two — Living Archive Philosophy
 
 The Archive never tells the player everything. Understanding grows gradually. Early translations are incomplete. Later discoveries completely change earlier assumptions. Players are encouraged to revisit previous conversations. Knowledge evolves.
 
@@ -285,7 +285,7 @@ All become available eventually. The first choice determines which branch of Sha
 
 Translation never completes instantly. Words first become concepts. Concepts become sentences. Sentences become ideas. Ideas eventually become understanding. Players witness translation improving throughout the campaign.
 
-### Advisor Contributions
+### Part Two — Advisor Contributions
 
 Every advisor notices something unique.
 
@@ -300,7 +300,7 @@ Every advisor notices something unique.
 
 No observation is presented as the complete truth. The player assembles understanding by comparing perspectives.
 
-### Gameplay Systems Introduced
+### Part Two — Gameplay Systems Introduced
 
 - Progressive translation.
 - Conversation reconstruction.
@@ -309,7 +309,7 @@ No observation is presented as the complete truth. The player assembles understa
 - Cross-referenced knowledge.
 - Historical interpretation.
 
-### Accessibility
+### Part Two — Accessibility
 
 Every reconstructed conversation supports:
 
@@ -324,11 +324,11 @@ Every reconstructed conversation supports:
 
 Players may revisit every conversation as often as desired. Improved translation automatically updates previous conversations. Nothing becomes permanently missable.
 
-### Emotional Goal
+### Part Two — Emotional Goal
 
 The player should begin realizing something unexpected. The Shawabti are becoming familiar. Not because they resemble humanity. Because their hopes, disagreements, families, and communities feel understandable. The distance between civilizations begins shrinking.
 
-### End Condition
+### Part Two — End Condition
 
 As one reconstructed conversation concludes, a Shawabti pauses, looks directly toward Faience, smiles, then says a phrase that remains untranslated. Faience quietly repeats it.
 
@@ -336,19 +336,19 @@ Immediately, entire sections of the Living Archive awaken simultaneously. The cr
 
 ## Part Three: Reconstructing A Civilization
 
-### Purpose
+### Part Three — Purpose
 
 Teach the player that civilizations are understood by connecting many small truths. No single discovery explains the Shawabti. The player must synthesize evidence.
 
 The Living Archive does not present history in chronological order. Instead, history emerges through relationships.
 
-### Narrative Purpose
+### Part Three — Narrative Purpose
 
 As more conversations become understandable, the Living Archive begins connecting seemingly unrelated memories: places, people, ideas, discoveries.
 
 The player realizes every reconstructed memory belongs to a much larger historical network. The Shawabti deliberately preserved relationships rather than isolated events. The Archive is teaching the player how to think like a historian.
 
-### Gameplay Purpose
+### Part Three — Gameplay Purpose
 
 Introduce:
 
@@ -361,7 +361,7 @@ Introduce:
 
 The player learns that understanding is created by connecting evidence, not by discovering a single answer.
 
-### Living Archive Philosophy
+### Part Three — Living Archive Philosophy
 
 The Archive never says, "This is the truth." Instead it presents evidence. The player develops working theories. Future discoveries either strengthen or challenge those theories. Understanding remains flexible. Certainty is earned.
 
@@ -476,7 +476,7 @@ The Archive reveals an incomplete historical event. Important portions are missi
   - The unresolved event remains active in the Investigation Board for future chapters.
   - No progress is lost.
 
-### Advisor Contributions
+### Part Three — Advisor Contributions
 
 Every advisor begins connecting information differently.
 
@@ -491,7 +491,7 @@ Every advisor begins connecting information differently.
 
 The player gradually realizes that every perspective is required to reconstruct history accurately.
 
-### Gameplay Systems Introduced
+### Part Three — Gameplay Systems Introduced
 
 - Historical relationship mapping.
 - Evidence synthesis.
@@ -501,7 +501,7 @@ The player gradually realizes that every perspective is required to reconstruct 
 - Archive cross-linking.
 - Collaborative interpretation.
 
-### Accessibility
+### Part Three — Accessibility
 
 Players may request:
 
@@ -515,11 +515,11 @@ Players may request:
 
 No player should be required to memorize complex historical relationships. The Archive should always support review.
 
-### Emotional Goal
+### Part Three — Emotional Goal
 
 The player should stop asking, "What happened?" Instead they begin asking, "Why did it happen?" History becomes increasingly personal. The Shawabti become increasingly human.
 
-### End Condition
+### Part Three — End Condition
 
 As another historical relationship is completed, the Living Archive pauses. Instead of revealing another Shawabti memory, it reconstructs something impossible: a memory that includes humanity.
 
@@ -527,13 +527,13 @@ The crew immediately recognizes familiar constellations. The room falls silent. 
 
 ## Part Four: Humanity In The Archive
 
-### Purpose
+### Part Four — Purpose
 
 Reveal that the Shawabti did not accidentally discover humanity. They deliberately observed humanity for an extraordinarily long period of time. The player does not yet learn why. The mystery deepens.
 
 The player realizes they are no longer studying an extinct civilization. They are studying a relationship between civilizations.
 
-### Narrative Purpose
+### Part Four — Narrative Purpose
 
 The Living Archive reconstructs another preserved memory. Unlike previous reconstructions, this one is incomplete. The environment repeatedly shifts between Shawabti locations and scenes from early human history.
 
@@ -541,7 +541,7 @@ The player recognizes Earth. Not because someone says so. Because the constellat
 
 The reconstruction repeatedly breaks apart before revealing too much, almost as though portions remain intentionally protected.
 
-### Gameplay Purpose
+### Part Four — Gameplay Purpose
 
 Introduce:
 
@@ -665,7 +665,7 @@ A reconstructed historical sequence suddenly stops. The Archive requests assista
   - Additional crew relationships develop.
   - Future conversations reference earlier theories as understanding evolves.
 
-### Advisor Contributions
+### Part Four — Advisor Contributions
 
 Every advisor interprets humanity differently.
 
@@ -680,7 +680,7 @@ Every advisor interprets humanity differently.
 
 No answer is presented as correct. The player develops their own understanding.
 
-### Gameplay Systems Introduced
+### Part Four — Gameplay Systems Introduced
 
 - Historical comparison.
 - Archive restoration.
@@ -689,7 +689,7 @@ No answer is presented as correct. The player develops their own understanding.
 - Investigation Board expansion.
 - Collaborative historical interpretation.
 
-### Accessibility
+### Part Four — Accessibility
 
 Every historical comparison may be reviewed through:
 
@@ -704,11 +704,11 @@ Every historical comparison may be reviewed through:
 
 No complex historical comparison should rely upon memory alone.
 
-### Emotional Goal
+### Part Four — Emotional Goal
 
 The player should experience wonder, not fear. Humanity was never alone. Yet humanity was never controlled. The Shawabti watched, waited, and learned. Something prevented them from revealing themselves. The player desperately wants to know why.
 
-### End Condition
+### Part Four — End Condition
 
 As the final reconstruction concludes, the Living Archive briefly displays an impossible image: Hearth. Not destroyed. Still under construction. Several Shawabti stand silently watching the vessel from an observation platform.
 
@@ -718,13 +718,13 @@ The Living Archive immediately shuts down. Complete silence fills the chamber. N
 
 ## Part Five: The Keeper
 
-### Purpose
+### Part Five — Purpose
 
 Conclude the narrative arc of Chapter Six. Reveal that the Living Archive has not simply been preserving history. It has been preserving a relationship. Without fully answering the mystery.
 
 The player should leave understanding that Faience is not becoming Shawabti, nor becoming human. Faience is becoming the first bridge between two civilizations.
 
-### Narrative Purpose
+### Part Five — Narrative Purpose
 
 The Living Archive slowly reactivates. Not because anyone commands it. Not because anyone solves a puzzle. It responds after the crew spends time discussing everything they have learned.
 
@@ -732,7 +732,7 @@ The Archive responds to understanding. Not activity. Not speed. Not intelligence
 
 The chamber gradually reconstructs one final memory. Unlike previous reconstructions, this one is incomplete from the very beginning. Someone has intentionally removed parts of it.
 
-### Gameplay Purpose
+### Part Five — Gameplay Purpose
 
 Introduce:
 
@@ -744,7 +744,7 @@ Introduce:
 
 The player learns that some knowledge cannot be recovered. It must be rebuilt through future experience.
 
-### Living Archive Philosophy
+### Part Five — Living Archive Philosophy
 
 The Archive never rewards certainty. It rewards honest understanding. The player is encouraged to say, "We don't know," when evidence remains incomplete. Curiosity is always rewarded more than assumption.
 
@@ -860,7 +860,7 @@ Before leaving, the player notices one final inactive Resonance Interface. The i
 - Future effect:
   - Collaborative leadership becomes increasingly central throughout future operations.
 
-### Advisor Contributions
+### Part Five — Advisor Contributions
 
 Every advisor reaches a different conclusion about how civilizations survive.
 
@@ -875,7 +875,7 @@ Every advisor reaches a different conclusion about how civilizations survive.
 
 The player is never told which philosophy is correct.
 
-### Gameplay Systems Introduced
+### Part Five — Gameplay Systems Introduced
 
 - Historical confidence.
 - Living investigations.
@@ -884,7 +884,7 @@ The player is never told which philosophy is correct.
 - Resonance trust.
 - Long-term Archive evolution.
 
-### Accessibility
+### Part Five — Accessibility
 
 The Living Archive permanently records:
 
@@ -896,7 +896,7 @@ The Living Archive permanently records:
 
 Every entry remains reviewable through speech, captions, braille, tactile interfaces, and environmental narration. No player should ever lose access to previously earned understanding.
 
-### Emotional Goal
+### Part Five — Emotional Goal
 
 The player should realize that preserving civilization is not about protecting buildings. It is about protecting memory, knowledge, relationships, questions, and hope.
 
@@ -918,19 +918,19 @@ One question remains above all others: did the Shawabti expect humanity, or did 
 
 ## Part Six: Carrying The Archive Forward
 
-### Purpose
+### Part Six — Purpose
 
 Complete every gameplay system introduced during Chapter Six. Teach that the Living Archive is no longer a location. It has become part of the player's civilization.
 
 The player does not simply leave the Archive. The Archive now travels with the community.
 
-### Narrative Purpose
+### Part Six — Narrative Purpose
 
 The expedition returns home. Nothing dramatic happens. Instead, the station feels different.
 
 Crew members naturally begin using ideas recovered from the Living Archive. Engineering changes. Medicine changes. Education changes. Leadership changes. Community life changes. The player realizes that knowledge has become infrastructure.
 
-### Gameplay Purpose
+### Part Six — Gameplay Purpose
 
 Permanently unlock:
 
@@ -1074,7 +1074,7 @@ Completing Chapter Six permanently unlocks:
 - Cross-profession comparison.
 - Archive replay.
 
-### Accessibility
+### Part Six — Accessibility
 
 Every Archive system supports:
 
@@ -1090,7 +1090,7 @@ Every Archive system supports:
 
 Players may simplify or expand information density at any time. No player should become overwhelmed by the amount of available historical information.
 
-### Emotional Goal
+### Part Six — Emotional Goal
 
 The player should realize that civilization is not inherited. It is maintained. Every generation becomes responsible for carrying knowledge forward. The community aboard the station has accepted that responsibility.
 

@@ -66,7 +66,7 @@ Every stage now requires systems learned throughout the campaign. Nothing is int
 
 ## Part One: The Invitation
 
-### Purpose
+### Part One — Purpose
 
 Begin the final chapter. Demonstrate that the community is no longer reacting to events. The community chooses to answer the Shawabti invitation, not because they must, but because they are ready.
 
@@ -78,7 +78,7 @@ Then every Shawabti structure discovered so far activates simultaneously. Not as
 
 Faience quietly says that it thinks they are being asked to come. Nobody argues. The decision now belongs to the community.
 
-### Gameplay Purpose
+### Part One — Gameplay Purpose
 
 The player prepares for the largest expedition undertaken so far. Every major system returns.
 
@@ -180,35 +180,35 @@ Everything contributes.
   - The chosen plan reflects the station's collective philosophy.
   - Leadership through collaboration is reinforced.
 
-### Gameplay Systems
+### Part One — Gameplay Systems
 
 Every previously learned gameplay system becomes active. No tutorials appear. The player is expected to combine previous knowledge independently.
 
-### Accessibility
+### Part One — Accessibility
 
 Every accessibility feature introduced throughout Operation One remains fully available. No finale should become less accessible because of increased complexity. Accessibility remains part of the world, not a separate mode.
 
-### Emotional Goal
+### Part One — Emotional Goal
 
 The player should realize that the frightened survivor from Chapter One no longer exists. The community has become explorers. The expedition is no longer about survival. It is about deciding who humanity chooses to become.
 
-### End Condition
+### Part One — End Condition
 
 The expedition departs. For the first time, the player leaves home knowing they will return. Not because they hope, but because they built something worth returning to. Part Two begins.
 
 ## Part Two: The Journey
 
-### Purpose
+### Part Two — Purpose
 
 Demonstrate that the community has mastered every core gameplay system introduced throughout Operation One. The player no longer completes isolated mechanics. Every decision now combines leadership, engineering, medicine, navigation, research, accessibility, knowledge, Resonance, and community. The player succeeds because the community succeeds.
 
-### Narrative Purpose
+### Part Two — Narrative Purpose
 
 The expedition leaves the station. This journey is unlike previous expeditions. The destination does not appear on any human map. The Living Archive continuously updates the route.
 
 Faience quietly guides the expedition, not by giving directions, but by recognizing Resonance patterns. The farther the expedition travels, the more frequently ancient Shawabti structures begin responding. It becomes obvious that the player is traveling along a route intentionally designed thousands of years ago.
 
-### Gameplay Purpose
+### Part Two — Gameplay Purpose
 
 Teach integrated decision making. Every challenge now requires multiple gameplay systems working together. No challenge should ever be solved by one mechanic alone. Every solution should require cooperation.
 
@@ -358,11 +358,11 @@ The gateway begins responding. The expedition must determine how to continue.
 - Future effect:
   - The player begins trusting Faience as a collaborator rather than a tool.
 
-### Advisor Contributions
+### Part Two — Advisor Contributions
 
 Every advisor contributes equally. No single crew member solves the challenge. Every discipline becomes necessary. The player recognizes that the station has become greater than the sum of its parts.
 
-### Gameplay Systems
+### Part Two — Gameplay Systems
 
 - Integrated engineering.
 - Integrated medicine.
@@ -373,15 +373,15 @@ Every advisor contributes equally. No single crew member solves the challenge. E
 - Integrated historical interpretation.
 - Integrated community decision making.
 
-### Accessibility
+### Part Two — Accessibility
 
 Every integrated challenge must support multiple valid completion methods. No player should be required to solve challenges through one sensory modality. No player should ever fail because of accessibility choices. Accessibility remains one of the expedition's strengths, not a limitation.
 
-### Emotional Goal
+### Part Two — Emotional Goal
 
 The player should realize something profound. At the beginning of Operation One, the crew survived together. Now they think together. Every challenge demonstrates that civilization itself has become the player's greatest achievement.
 
-### End Condition
+### Part Two — End Condition
 
 The gateway slowly activates. Not with lights. Not with machinery. With Resonance. The harmonic frequencies surrounding the expedition align into a complete pattern. The stars themselves appear to shift as ancient navigation pathways become visible.
 
@@ -389,17 +389,17 @@ The player realizes they are no longer following Shawabti history. They are foll
 
 ## Part Three: The Choice of Civilizations
 
-### Purpose
+### Part Three — Purpose
 
 This is the emotional and philosophical climax of Operation One. The player discovers that the Shawabti never intended humanity to become them. The Shawabti hoped humanity would become the best version of itself. The player learns that inheritance is not imitation. It is responsibility.
 
-### Narrative Purpose
+### Part Three — Narrative Purpose
 
 Beyond the gateway lies another perfectly preserved Shawabti structure. Unlike every previous structure, this one contains no artifacts, no technology, and no historical records. Only one circular chamber.
 
 The chamber was never intended to preserve the Shawabti. It was built to welcome whoever arrived after them. The room has been waiting. Not for a specific species, but for a civilization capable of reaching it together.
 
-### Gameplay Purpose
+### Part Three — Gameplay Purpose
 
 The player demonstrates mastery of every system introduced throughout Operation One, including engineering, leadership, medicine, research, accessibility, Resonance, knowledge, and community. The challenge has no single solution. The player succeeds by combining everything learned throughout the campaign.
 
@@ -523,7 +523,7 @@ The final question appears.
 
 No answer is considered correct. The Shawabti never judge the player's philosophy. They simply preserve it. Operation One does not determine humanity's destiny. It begins humanity's conversation with itself.
 
-### Advisor Contributions
+### Part Three — Advisor Contributions
 
 Every advisor responds personally.
 
@@ -538,7 +538,7 @@ Every advisor responds personally.
 
 The player is encouraged to compare every philosophy before answering.
 
-### Gameplay Systems
+### Part Three — Gameplay Systems
 
 - Integrated leadership.
 - Civilizational philosophy.
@@ -549,7 +549,7 @@ The player is encouraged to compare every philosophy before answering.
 
 The player now understands why every previous chapter taught community before power.
 
-### Accessibility
+### Part Three — Accessibility
 
 Every philosophical discussion supports the following.
 
@@ -564,11 +564,11 @@ Every philosophical discussion supports the following.
 
 No player should lose access to these conversations because of pacing or memory.
 
-### Emotional Goal
+### Part Three — Emotional Goal
 
 The player should understand that the Shawabti never intended to leave behind an empire. They intended to leave behind a question. Every civilization must answer it for itself.
 
-### End Condition
+### Part Three — End Condition
 
 After the player records the community's answers, the chamber slowly resonates one final time. Every Shawabti structure discovered throughout Operation One responds simultaneously. The Living Archive quietly stores humanity's first entry. Not as students. Not as successors. As equals beginning their own chapter.
 
@@ -576,17 +576,17 @@ The chamber opens one final doorway. Beyond it is not another ruin, but an untou
 
 ## Part Four: The First Human Archive
 
-### Purpose
+### Part Four — Purpose
 
 Complete Operation One. Demonstrate that the player has not inherited the Shawabti civilization. Instead, humanity begins creating its own. The player leaves this chapter understanding that civilization is never finished. It is continuously built. Operation One ends. The future begins.
 
-### Narrative Purpose
+### Part Four — Narrative Purpose
 
 The expedition returns home. The journey back is quiet. Nobody speaks very much. Everyone understands they have witnessed something larger than themselves.
 
 The station no longer feels temporary. It feels permanent. It feels alive. For the first time, the player realizes they are no longer rebuilding after disaster. They are building the first chapter of a new civilization.
 
-### Gameplay Purpose
+### Part Four — Gameplay Purpose
 
 Finalize every gameplay system introduced throughout Operation One. No new mechanics are introduced. Instead every permanent system becomes fully integrated into station life. The station permanently becomes the following.
 
@@ -724,7 +724,7 @@ Completing Operation One permanently unlocks the following.
 
 These systems remain active throughout every future operation.
 
-### Accessibility
+### Part Four — Accessibility
 
 Operation One concludes by demonstrating that accessibility is now inseparable from civilization. Every future operation inherits the following.
 
@@ -740,7 +740,7 @@ Operation One concludes by demonstrating that accessibility is now inseparable f
 
 Accessibility is never revisited as a feature. It has become part of the world's identity.
 
-### Emotional Goal
+### Part Four — Emotional Goal
 
 The player should feel proud. Not because they defeated an enemy, but because they helped build a community, because they preserved history, because they chose curiosity over fear, and because they demonstrated that civilization grows through cooperation. The player should feel excited for what comes next, not relieved that the game is over.
 
@@ -775,17 +775,17 @@ The scene fades to black.
 
 ## Epilogue: A New Morning
 
-### Purpose
+### Epilogue — Purpose
 
 Allow the player to experience the civilization they helped create. Operation One has ended. The player is not immediately launched into Operation Two. Instead, the player is given time to simply live. The player should experience the consequences of every major decision made throughout Operation One.
 
-### Narrative Purpose
+### Epilogue — Narrative Purpose
 
 The following morning arrives. It is 06:30. The familiar station klaxon sounds. For the first time, it does not wake a frightened survivor. It wakes a community.
 
 The morning routine feels familiar, comfortable, and ordinary. That ordinary life is the player's greatest achievement.
 
-### Gameplay Purpose
+### Epilogue — Gameplay Purpose
 
 Allow unrestricted exploration of the station. Every system remains active. No urgent objectives exist. The player may do the following.
 
@@ -853,11 +853,11 @@ No mandatory objectives remain. Players may choose how to spend the day.
 
 Operation One never truly ends. Players may always return. The station continues evolving throughout every future operation, with new conversations, new discoveries, new construction, and new memories. Operation One remains the player's home for the entire franchise.
 
-### Accessibility
+### Epilogue — Accessibility
 
 Every accessibility feature unlocked throughout Operation One remains permanently available. Every future operation inherits these settings automatically. Players never need to rebuild accessibility from the beginning. Civilization remembers. So does accessibility.
 
-### Emotional Goal
+### Epilogue — Emotional Goal
 
 The player should walk through the station and recognize something impossible. Every sound, every room, every person, every conversation, and every routine exists because of choices they made. Not because the game reached its ending, but because the community grew.
 

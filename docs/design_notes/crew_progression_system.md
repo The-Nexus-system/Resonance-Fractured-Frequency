@@ -91,20 +91,20 @@ People remain progression from the first rescue to the final chapter.
 
 ## Rowan Ives
 
-### Role
+### Rowan Ives — Role
 
 Maintenance Supervisor.
 
-### Condition
+### Rowan Ives — Condition
 
 - Chronic pain
 - Arthritis
 
-### Purpose
+### Rowan Ives — Purpose
 
 Rowan teaches survival engineering.
 
-### Gameplay Unlocks
+### Rowan Ives — Gameplay Unlocks
 
 - Emergency repairs
 - Hull patching
@@ -114,7 +114,7 @@ Rowan teaches survival engineering.
 - Module construction
 - Resource recovery
 
-### Environmental Unlocks
+### Rowan Ives — Environmental Unlocks
 
 - Maintenance workshop
 - Tool storage
@@ -122,7 +122,7 @@ Rowan teaches survival engineering.
 - Repair lockers
 - Maintenance drone servicing
 
-### Soundscape Changes
+### Rowan Ives — Soundscape Changes
 
 - Tool drawers opening
 - Repair work
@@ -130,37 +130,37 @@ Rowan teaches survival engineering.
 - Ventilation stabilizing
 - Organized equipment
 
-### Crew Conversations
+### Rowan Ives — Crew Conversations
 
 - Maintenance requests
 - Repair planning
 - Preventative inspections
 
-### Knowledge Archive
+### Rowan Ives — Knowledge Archive
 
 - Emergency engineering
 - Field repair
 - Human maintenance philosophy
 
-### Future Chapters
+### Rowan Ives — Future Chapters
 
 Rowan becomes responsible for helping expand every future base and vessel.
 
 ## Mara Chen
 
-### Role
+### Mara Chen — Role
 
 Chief Engineering Systems Specialist.
 
-### Condition
+### Mara Chen — Condition
 
 Blind.
 
-### Purpose
+### Mara Chen — Purpose
 
 Teach engineering through sound.
 
-### Gameplay Unlocks
+### Mara Chen — Gameplay Unlocks
 
 - Power routing
 - Ship upgrades
@@ -170,51 +170,51 @@ Teach engineering through sound.
 - Engineering puzzles
 - Energy balancing
 
-### Environmental Unlocks
+### Mara Chen — Environmental Unlocks
 
 - Engineering bay
 - Power room
 - Diagnostic station
 - Upgrade workshop
 
-### Soundscape Changes
+### Mara Chen — Soundscape Changes
 
 - Stable electrical hum
 - Power relays
 - Generator cycling
 - Cleaner navigation sounds
 
-### Crew Conversations
+### Mara Chen — Crew Conversations
 
 - Engineering debates
 - Upgrade planning
 - Power management
 
-### Knowledge Archive
+### Mara Chen — Knowledge Archive
 
 - Human engineering
 - Acoustic diagnostics
 - Navigation through sound
 
-### Future Chapters
+### Mara Chen — Future Chapters
 
 Mara becomes the primary engineering advisor for every vessel acquired.
 
 ## Doctor Samira Kade
 
-### Role
+### Doctor Samira Kade — Role
 
 Senior Medical Officer.
 
-### Condition
+### Doctor Samira Kade — Condition
 
 Deaf. Uses a sleeve projector displaying ASL or live text.
 
-### Purpose
+### Doctor Samira Kade — Purpose
 
 Teach that caring for people is gameplay.
 
-### Gameplay Unlocks
+### Doctor Samira Kade — Gameplay Unlocks
 
 - Medical treatment
 - Crew health
@@ -224,51 +224,51 @@ Teach that caring for people is gameplay.
 - Long-term care
 - Medical scanning
 
-### Environmental Unlocks
+### Doctor Samira Kade — Environmental Unlocks
 
 - Medical bay
 - Treatment room
 - Medical inventory
 - Quarantine procedures
 
-### Soundscape Changes
+### Doctor Samira Kade — Soundscape Changes
 
 - Medical monitors
 - Health alerts
 - Steady breathing
 - Treatment activity
 
-### Crew Conversations
+### Doctor Samira Kade — Crew Conversations
 
 - Health checkups
 - Injury discussions
 - Mental wellbeing
 
-### Knowledge Archive
+### Doctor Samira Kade — Knowledge Archive
 
 - Medicine
 - Emergency care
 - Accessibility in healthcare
 
-### Future Chapters
+### Doctor Samira Kade — Future Chapters
 
 Crew injuries become recoverable instead of permanent setbacks.
 
 ## Chief Petty Officer Jonah Briggs
 
-### Role
+### Chief Petty Officer Jonah Briggs — Role
 
 Senior Non-Commissioned Officer.
 
-### Condition
+### Chief Petty Officer Jonah Briggs — Condition
 
 Epilepsy.
 
-### Purpose
+### Chief Petty Officer Jonah Briggs — Purpose
 
 Teach organization.
 
-### Gameplay Unlocks
+### Chief Petty Officer Jonah Briggs — Gameplay Unlocks
 
 - Mission planning
 - Crew scheduling
@@ -277,51 +277,51 @@ Teach organization.
 - Search planning
 - Beacon coordination
 
-### Environmental Unlocks
+### Chief Petty Officer Jonah Briggs — Environmental Unlocks
 
 - Operations room
 - Mission board
 - Logistics planning
 - Crew roster
 
-### Soundscape Changes
+### Chief Petty Officer Jonah Briggs — Soundscape Changes
 
 - Regular briefings
 - Organized radio traffic
 - Planning meetings
 - Shift changes
 
-### Crew Conversations
+### Chief Petty Officer Jonah Briggs — Crew Conversations
 
 - Supply discussions
 - Mission priorities
 - Operational planning
 
-### Knowledge Archive
+### Chief Petty Officer Jonah Briggs — Knowledge Archive
 
 - Leadership
 - Logistics
 - Emergency organization
 
-### Future Chapters
+### Chief Petty Officer Jonah Briggs — Future Chapters
 
 Jonah continuously reorganizes growing operations as the community expands.
 
 ## Security Lead Talia Rusk
 
-### Role
+### Security Lead Talia Rusk — Role
 
 Security Lead.
 
-### Condition
+### Security Lead Talia Rusk — Condition
 
 Lower-limb amputee. Uses a prosthetic limb.
 
-### Purpose
+### Security Lead Talia Rusk — Purpose
 
 Protect the community.
 
-### Gameplay Unlocks
+### Security Lead Talia Rusk — Gameplay Unlocks
 
 - Boarding
 - Security patrols
@@ -330,33 +330,33 @@ Protect the community.
 - Weapons training
 - Emergency response
 
-### Environmental Unlocks
+### Security Lead Talia Rusk — Environmental Unlocks
 
 - Security office
 - Armory
 - Emergency response lockers
 - Defensive control station
 
-### Soundscape Changes
+### Security Lead Talia Rusk — Soundscape Changes
 
 - Security patrols
 - Door security checks
 - Weapon safeties
 - Training sessions
 
-### Crew Conversations
+### Security Lead Talia Rusk — Crew Conversations
 
 - Security planning
 - Risk assessment
 - Civilian protection
 
-### Knowledge Archive
+### Security Lead Talia Rusk — Knowledge Archive
 
 - Defensive doctrine
 - Boarding procedures
 - De-escalation
 
-### Future Chapters
+### Security Lead Talia Rusk — Future Chapters
 
 Security evolves alongside diplomacy rather than replacing it.
 
@@ -364,19 +364,19 @@ Combat always remains a last resort.
 
 ## Dr. Soren Qadir
 
-### Role
+### Dr. Soren Qadir — Role
 
 Senior Research Scientist.
 
-### Condition
+### Dr. Soren Qadir — Condition
 
 Wheelchair user. Repulsor-assisted chair converts to manual operation when batteries are depleted.
 
-### Purpose
+### Dr. Soren Qadir — Purpose
 
 Teach discovery.
 
-### Gameplay Unlocks
+### Dr. Soren Qadir — Gameplay Unlocks
 
 - Artifact scanning
 - Knowledge Archive
@@ -386,27 +386,27 @@ Teach discovery.
 - Scientific investigation
 - Historical research
 
-### Environmental Unlocks
+### Dr. Soren Qadir — Environmental Unlocks
 
 - Research laboratory
 - Archive room
 - Artifact containment
 - Analysis stations
 
-### Soundscape Changes
+### Dr. Soren Qadir — Soundscape Changes
 
 - Research equipment
 - Scanning systems
 - Artifact resonance
 - Scientific discussion
 
-### Crew Conversations
+### Dr. Soren Qadir — Crew Conversations
 
 - Research theories
 - Historical debate
 - Scientific discoveries
 
-### Knowledge Archive
+### Dr. Soren Qadir — Knowledge Archive
 
 The Knowledge Archive becomes a core gameplay system.
 
@@ -421,7 +421,7 @@ Players may research:
 - Alien civilizations
 - The Shawabti
 
-### Future Chapters
+### Dr. Soren Qadir — Future Chapters
 
 Knowledge permanently unlocks new gameplay options.
 
@@ -431,23 +431,23 @@ Knowledge changes available choices.
 
 ## Mira Ives
 
-### Role
+### Mira Ives — Role
 
 Civilian.
 
-### Condition
+### Mira Ives — Condition
 
 - Autistic
 - ADHD
 - Communicates primarily through a visible neural-interface AAC system
 
-### Purpose
+### Mira Ives — Purpose
 
 - Represent curiosity
 - Hope
 - Future generations
 
-### Gameplay Unlocks
+### Mira Ives — Gameplay Unlocks
 
 - Advanced AAC interaction
 - Alternative communication
@@ -455,14 +455,14 @@ Civilian.
 - Community activities
 - Creative spaces
 
-### Environmental Unlocks
+### Mira Ives — Environmental Unlocks
 
 - Community room
 - Education area
 - Creative space
 - Children's area
 
-### Soundscape Changes
+### Mira Ives — Soundscape Changes
 
 - AAC notifications
 - Laughter
@@ -471,38 +471,38 @@ Civilian.
 - Games
 - Curiosity
 
-### Crew Conversations
+### Mira Ives — Crew Conversations
 
 - Learning
 - Family
 - Communication
 - Play
 
-### Knowledge Archive
+### Mira Ives — Knowledge Archive
 
 - Alternative communication
 - Neurodiversity
 - Human development
 
-### Future Chapters
+### Mira Ives — Future Chapters
 
 Mira frequently asks questions that encourage exploration rather than combat.
 
 ## The Vale System
 
-### Role
+### The Vale System — Role
 
 Command.
 
-### Condition
+### The Vale System — Condition
 
 Dissociative Identity Disorder.
 
-### Purpose
+### The Vale System — Purpose
 
 Teach collaborative leadership.
 
-### Gameplay Unlocks
+### The Vale System — Gameplay Unlocks
 
 - Command network
 - Crew assignments
@@ -511,33 +511,33 @@ Teach collaborative leadership.
 - Emergency command
 - Large-scale coordination
 
-### Environmental Unlocks
+### The Vale System — Environmental Unlocks
 
 - Bridge
 - Command center
 - Communication systems
 - Strategic planning room
 
-### Soundscape Changes
+### The Vale System — Soundscape Changes
 
 - Morning announcements
 - Command briefings
 - Emergency coordination
 - Community addresses
 
-### Crew Conversations
+### The Vale System — Crew Conversations
 
 - Leadership
 - Responsibility
 - Decision making
 
-### Knowledge Archive
+### The Vale System — Knowledge Archive
 
 - Leadership models
 - Shared decision making
 - Human cooperation
 
-### Future Chapters
+### The Vale System — Future Chapters
 
 Different members of the Vale System naturally lead different situations.
 

@@ -66,13 +66,13 @@ The player should become familiar with this rhythm because it becomes the founda
 
 ## Part One: Preparing For The First Expedition
 
-### Purpose
+### Part One — Purpose
 
 Teach expedition planning. Teach that preparation determines success. Teach that leaving home is a community effort rather than a solo activity.
 
 The player should never simply press a button labeled "Start Mission." Every expedition begins through conversation, planning, and preparation.
 
-### Narrative
+### Part One — Narrative
 
 Several days have passed since the completion of the station's first major expansion.
 
@@ -93,7 +93,7 @@ Every primary crew member contributes.
 - Mira asks whether anyone left messages behind.
 - The Vale System moderates discussion while encouraging every voice to be heard.
 
-### Player Decisions
+### Part One — Player Decisions
 
 The player must make three decisions before departure. These choices change the expedition. They do not change canon.
 
@@ -211,7 +211,7 @@ The player may consult everyone. However, one crew member may be selected as the
   - Crew coordination.
   - Decision support.
 
-### Gameplay Systems Introduced
+### Part One — Gameplay Systems Introduced
 
 - Mission preparation.
 - Expedition planning.
@@ -221,7 +221,7 @@ The player may consult everyone. However, one crew member may be selected as the
 - Expedition briefing.
 - Long-term mission consequences.
 
-### Accessibility
+### Part One — Accessibility
 
 All preparation choices must remain fully reviewable before departure. Players may change selections until confirming launch.
 
@@ -234,17 +234,17 @@ Mission summaries must clearly explain:
 
 No player should be required to memorize preparation choices.
 
-### Emotional Goal
+### Part One — Emotional Goal
 
 The player should understand that every expedition belongs to the entire community. They are leaving home. Everyone is trusting them to return.
 
 ## Part Two: Departure
 
-### Purpose
+### Part Two — Purpose
 
 Teach the player how expeditions actually begin. Leaving the station should always feel meaningful. The player is leaving the safety of home. The community watches them go. Every departure should reinforce that someone is waiting for the player to return.
 
-### Narrative
+### Part Two — Narrative
 
 Construction briefly pauses. Crew members naturally gather near the docking bay. No ceremony is held. This has already begun to feel normal.
 
@@ -252,7 +252,7 @@ The player performs a final systems check. The advisor selected during mission p
 
 The player launches. The station slowly disappears behind them.
 
-### Gameplay Purpose
+### Part Two — Gameplay Purpose
 
 Teach:
 
@@ -287,7 +287,7 @@ As distance increases:
 - The surrounding debris field grows louder.
 - The player realizes how isolated they truly are.
 
-### Accessibility
+### Part Two — Accessibility
 
 At any point the player may request:
 
@@ -380,7 +380,7 @@ During travel several optional discoveries may appear. Examples include:
 
 The player chooses whether to investigate. Ignoring these discoveries never prevents progression. Investigating them expands understanding of Hearth and its people.
 
-### Gameplay Systems Introduced
+### Part Two — Gameplay Systems Introduced
 
 - Long-range navigation.
 - Exploration routing.
@@ -389,11 +389,11 @@ The player chooses whether to investigate. Ignoring these discoveries never prev
 - Advisor dialogue.
 - Environmental storytelling.
 
-### Emotional Goal
+### Part Two — Emotional Goal
 
 The player should gradually realize they are not simply traveling through wreckage. They are traveling through the remains of people's lives. Every object once belonged somewhere. Every location once mattered to someone.
 
-### End Condition
+### Part Two — End Condition
 
 The player reaches the outer edge of Hearth's debris field. The navigation computer identifies multiple possible expedition sites. The player stops. Looks outward.
 
@@ -403,13 +403,13 @@ The first exploration zone becomes available. Part Three begins.
 
 ## Part Three: First Expedition
 
-### Purpose
+### Part Three — Purpose
 
 Teach the player how exploration functions throughout Resonance. Teach that exploration is not about collecting resources. Teach that every location tells a story. Teach that preparation affects the player's experience without preventing success.
 
 This establishes the core exploration gameplay loop used throughout the remainder of the campaign.
 
-### Narrative Purpose
+### Part Three — Narrative Purpose
 
 The player arrives at the outer edge of Hearth's debris field. The navigation systems automatically identify several possible expedition sites.
 
@@ -417,7 +417,7 @@ These sites are not randomly generated. Each location existed before the destruc
 
 The player decides where to begin. Every location eventually becomes explorable. The player's decision determines which story is experienced first.
 
-### Gameplay Purpose
+### Part Three — Gameplay Purpose
 
 Introduce:
 
@@ -582,7 +582,7 @@ The player chooses whether to investigate. Ignoring optional discoveries never p
 
 The chosen advisor continues guiding the player. However, every crew member may occasionally contribute remotely if their expertise becomes relevant. The station remains part of the expedition. The player never feels alone.
 
-### Accessibility
+### Part Three — Accessibility
 
 Every environmental clue must exist through multiple sensory channels.
 
@@ -595,13 +595,13 @@ Every environmental clue must exist through multiple sensory channels.
 
 Players should never depend upon one sensory modality to understand a location.
 
-### Emotional Goal
+### Part Three — Emotional Goal
 
 The player should realize that Hearth was never simply a spacecraft. It was a city. A home. A school. A hospital. A workplace. A neighborhood.
 
 Exploration should feel like walking through memory rather than ruins.
 
-### End Condition
+### Part Three — End Condition
 
 The player successfully completes their first exploration zone. Before returning home, they receive a notification. Multiple additional locations have now been identified.
 
@@ -609,7 +609,7 @@ The player realizes that they have explored only a tiny portion of Hearth. The j
 
 ## Part Four: Homecoming
 
-### Purpose
+### Part Four — Purpose
 
 Complete the expedition gameplay loop. Teach that returning home is as important as leaving it. Demonstrate that discoveries only become meaningful when they are shared with the community.
 
@@ -617,13 +617,13 @@ Every expedition should permanently change the station. Every expedition should 
 
 This becomes the standard ending structure for every major expedition throughout Resonance.
 
-### Narrative Purpose
+### Part Four — Narrative Purpose
 
 The player docks with the station. The station immediately feels different from the silence of Hearth. People are living. Working. Laughing. Building.
 
 The contrast between Hearth and home should be emotionally obvious. The station is no longer simply where the player lives. It is where the player belongs.
 
-### Gameplay Purpose
+### Part Four — Gameplay Purpose
 
 Introduce:
 
@@ -658,7 +658,7 @@ The player attends a community debrief. Every primary crew member responds accor
 
 The player participates. The player does not simply watch.
 
-### Player Decisions
+### Part Four — Player Decisions
 
 Every expedition ends with four major decisions. Every decision permanently affects station development. Nothing permanently locks the player out of content. Choices determine what develops first. Not what develops forever.
 
@@ -788,7 +788,7 @@ Following every expedition, every primary crew member gains new optional convers
 
 The player is encouraged to spend time talking with the community before beginning another expedition.
 
-### Accessibility
+### Part Four — Accessibility
 
 Every recovered accessibility innovation should become available to the player once it has been researched and installed. Examples include:
 
@@ -801,7 +801,7 @@ Every recovered accessibility innovation should become available to the player o
 
 Accessibility evolves alongside civilization. It is never treated as optional content.
 
-### Emotional Goal
+### Part Four — Emotional Goal
 
 The player should feel relief upon returning home. The station should become emotionally safer after every expedition. Players should look forward to coming home just as much as leaving.
 
@@ -830,7 +830,7 @@ Chapter Four continues with one final question in mind: what was Hearth carrying
 
 ## Part Five: Living With Discovery
 
-### Purpose
+### Part Five — Purpose
 
 Expand the expedition system beyond exploration. Teach that discoveries continue affecting the community long after an expedition ends. Introduce long-term consequences, return expeditions, and personal reflection.
 
@@ -846,7 +846,7 @@ The player should regularly revisit previously explored locations with new knowl
 
 No exploration zone should ever be permanently completed on the first visit. Every major location should contain discoveries that become accessible only after later chapters, later professions, new equipment, or new Knowledge Archive discoveries. The player should always have reasons to return. Curiosity should outlive completion.
 
-### Gameplay Purpose
+### Part Five — Gameplay Purpose
 
 Introduce:
 
@@ -872,7 +872,7 @@ Every expedition should evaluate the player's preparation and decisions. Poor pl
 
 Failure becomes history. Not punishment.
 
-### Player Decisions
+### Part Five — Player Decisions
 
 Every expedition should include meaningful optional decisions. Every decision changes future gameplay. Nothing permanently removes content. The player chooses priorities. Not permanent outcomes.
 
@@ -1008,7 +1008,7 @@ Recovered discoveries begin appearing throughout the station.
 
 The station slowly becomes a living museum of Hearth.
 
-### Accessibility
+### Part Five — Accessibility
 
 Every exploration zone records:
 
@@ -1020,7 +1020,7 @@ Every exploration zone records:
 
 Players may request summaries at any time through speech, captions, braille displays, or tactile interfaces. No player should need to remember unfinished exploration from memory alone.
 
-### Emotional Goal
+### Part Five — Emotional Goal
 
 The player should leave Chapter Four understanding one central truth: nothing important has been lost forever if someone remembers it. Every expedition preserves part of a civilization. Every return home keeps that civilization alive.
 
@@ -1032,7 +1032,7 @@ The expedition loop has become second nature. The player no longer asks, "What c
 
 ## Part Six: Expedition Consequences
 
-### Purpose
+### Part Six — Purpose
 
 Complete the player's decision framework for exploration. Every major expedition should conclude with meaningful decisions. Every decision changes future gameplay. No decision permanently removes content. Different choices create different histories.
 

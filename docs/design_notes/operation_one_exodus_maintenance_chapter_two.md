@@ -116,7 +116,7 @@ Fragments of CSV Hearth drift silently through surrounding space.
 
 ## Part One: The Silence After
 
-### Purpose
+### Part One — Purpose
 
 Teach the player what survival sounds like.
 
@@ -144,7 +144,7 @@ No interface appears.
 
 The player experiences confusion exactly as their character does.
 
-### Sound Design
+### Part One — Sound Design
 
 Initially the player hears:
 
@@ -192,7 +192,7 @@ These are translated into meaningful sound rather than realistic vacuum audio.
 
 This becomes one of Resonance's core mechanics.
 
-### Mechanics Introduced
+### Part One — Mechanics Introduced
 
 Player orientation.
 
@@ -212,7 +212,7 @@ Replay last spoken instruction.
 
 Environmental audio balancing.
 
-### Accessibility
+### Part One — Accessibility
 
 If captions are enabled, every translated environmental sound should also appear descriptively.
 
@@ -220,7 +220,7 @@ If DeafBlind settings are enabled, important translated sounds should also be av
 
 Players using headphones, hearing aids, cochlear implants or open speakers retain independent volume controls configured during onboarding.
 
-### Emotional Goal
+### Part One — Emotional Goal
 
 The player should feel:
 
@@ -232,7 +232,7 @@ Alone.
 
 But alive.
 
-### End Condition
+### Part One — End Condition
 
 The pod becomes stable.
 
@@ -244,7 +244,7 @@ No NPC has yet answered.
 
 ## Part Two: Roll Call
 
-### Purpose
+### Part Two — Purpose
 
 Teach communication.
 
@@ -258,7 +258,7 @@ Not everyone answers.
 
 The player must experience uncertainty.
 
-### Sound Design
+### Part Two — Sound Design
 
 Static.
 
@@ -276,7 +276,7 @@ Occasional debris impacts.
 
 The player should realize that many people aboard Hearth did not survive.
 
-### Mechanics Introduced
+### Part Two — Mechanics Introduced
 
 Emergency beacon activation.
 
@@ -298,7 +298,7 @@ Ignore signal.
 
 Prioritize signal.
 
-### Gameplay
+### Part Two — Gameplay
 
 The player begins calling survivors.
 
@@ -336,13 +336,13 @@ Long pause.
 
 The player immediately recognizes Rowan because they spent an entire week working with him during Chapter One.
 
-### Emotional Goal
+### Part Two — Emotional Goal
 
 The first familiar voice should immediately reduce the player's sense of isolation.
 
 Hope returns before safety does.
 
-### End Condition
+### Part Two — End Condition
 
 The player locks onto Rowan's beacon.
 
@@ -350,7 +350,7 @@ Navigation begins.
 
 ## Part Three: Closing The Distance
 
-### Purpose
+### Part Three — Purpose
 
 Teach movement through open space.
 
@@ -360,7 +360,7 @@ Teach precision.
 
 Teach that rescue requires patience rather than speed.
 
-### Gameplay
+### Part Three — Gameplay
 
 The player must physically reach Rowan.
 
@@ -406,7 +406,7 @@ Personal belongings.
 
 These objects remind the player that Hearth was a home rather than merely a spacecraft.
 
-### Sound Design
+### Part Three — Sound Design
 
 Slow rotation.
 
@@ -424,7 +424,7 @@ No music.
 
 Allow isolation to dominate.
 
-### Accessibility
+### Part Three — Accessibility
 
 Orientation Layer continuously provides optional heading reminders.
 
@@ -456,7 +456,7 @@ Examples include discussing hull damage, checking life support, or reminding the
 
 He sounds like the same mentor the player worked with during Chapter One.
 
-### Emotional Goal
+### Part Three — Emotional Goal
 
 By the end of Part Three the player should no longer feel completely alone.
 
@@ -466,7 +466,7 @@ Someone knows them.
 
 Someone believes they are coming.
 
-### End Condition
+### Part Three — End Condition
 
 The player reaches visual and sensor range of Rowan's escape pod.
 
@@ -476,7 +476,7 @@ Part Three ends as the player prepares to make first contact.
 
 ## Part Four: First Dock
 
-### Purpose
+### Part Four — Purpose
 
 Teach docking.
 
@@ -500,7 +500,7 @@ The player must observe before acting.
 
 Approaching too quickly can damage both pods.
 
-### Mechanics Introduced
+### Part Four — Mechanics Introduced
 
 Velocity matching.
 
@@ -520,7 +520,7 @@ Pressure equalization.
 
 Emergency decompression procedures.
 
-### Accessibility
+### Part Four — Accessibility
 
 The Orientation Layer continuously announces:
 
@@ -582,11 +582,11 @@ We only get one chance."
 
 His confidence reassures the player.
 
-### Emotional Goal
+### Part Four — Emotional Goal
 
 Docking should feel like helping a trusted mentor rather than completing a puzzle.
 
-### End Condition
+### Part Four — End Condition
 
 Pods successfully dock.
 
@@ -596,7 +596,7 @@ The player prepares to enter Rowan's pod.
 
 ## Part Five: Bringing Rowan Home
 
-### Purpose
+### Part Five — Purpose
 
 Teach boarding.
 
@@ -604,7 +604,7 @@ Teach environmental problem solving.
 
 Teach that rescue continues after docking.
 
-### Gameplay
+### Part Five — Gameplay
 
 Rowan's pod remains dangerous.
 
@@ -622,7 +622,7 @@ Electrical hazards.
 
 The player must stabilize the environment before Rowan can safely transfer.
 
-### Mechanics Introduced
+### Part Five — Mechanics Introduced
 
 Pod entry.
 
@@ -636,7 +636,7 @@ Crew extraction.
 
 Emergency inventory transfer.
 
-### Accessibility
+### Part Five — Accessibility
 
 All hazards should have identifiable audio signatures.
 
@@ -666,11 +666,11 @@ Tool organization.
 
 Salvage priorities.
 
-### Emotional Goal
+### Part Five — Emotional Goal
 
 The player should feel they are rescuing someone who immediately begins helping in return.
 
-### End Condition
+### Part Five — End Condition
 
 Rowan transfers safely into the player's pod.
 
@@ -682,13 +682,13 @@ Nothing celebrates yet.
 
 ## Part Six: The First Home
 
-### Purpose
+### Part Six — Purpose
 
 Teach that people—not objectives—create progress.
 
 Introduce Resonance's progression philosophy.
 
-### Gameplay
+### Part Six — Gameplay
 
 After Rowan enters the pod...
 
@@ -764,7 +764,7 @@ Instead the game quietly confirms:
 
 Rowan is now part of the crew.
 
-### Mechanics Introduced
+### Part Six — Mechanics Introduced
 
 Crew contribution.
 
@@ -778,7 +778,7 @@ Crew abilities.
 
 Long-term upgrades.
 
-### Emotional Goal
+### Part Six — Emotional Goal
 
 The player should understand:
 
@@ -796,7 +796,7 @@ Now let's see who else made it."
 
 This naturally transitions into the search for the next survivor.
 
-### End Condition
+### Part Six — End Condition
 
 Rowan activates a stronger search array using salvaged maintenance equipment.
 
@@ -840,7 +840,7 @@ Community is something you hear before you see.
 
 ## Part Seven: The Community Returns
 
-### Purpose
+### Part Seven — Purpose
 
 Teach that every rescue permanently changes life aboard the player's growing station.
 

@@ -47,7 +47,7 @@ The chapter introduces archaeology, translation, environmental interpretation, a
 
 ## Part One: The Signal
 
-### Purpose
+### Part One — Purpose
 
 Begin the chapter by answering the mystery introduced at the end of Chapter Four.
 
@@ -122,7 +122,7 @@ The player chooses a primary advisor. Every advisor changes interpretation. Not 
   - Focus: leadership. The investigation balances every discipline.
   - Future benefit: additional dialogue with every crew member throughout the expedition.
 
-### Gameplay Systems Introduced
+### Part One — Gameplay Systems Introduced
 
 - Archaeological expeditions.
 - Translation preparation.
@@ -131,11 +131,11 @@ The player chooses a primary advisor. Every advisor changes interpretation. Not 
 - Environmental mystery.
 - Collaborative investigation.
 
-### Emotional Goal
+### Part One — Emotional Goal
 
 The player should feel curiosity. Not fear. The unknown should invite exploration rather than threaten it.
 
-### End Condition
+### Part One — End Condition
 
 The expedition reaches its destination. There is no ruined city. No spacecraft. No battlefield.
 
@@ -143,13 +143,13 @@ Instead there is a single structure. Perfectly intact. Waiting. It has been wait
 
 ## Part Two: The Threshold
 
-### Purpose
+### Part Two — Purpose
 
 Teach the player that exploration changes when entering another civilization. Human technology solved problems. Shawabti technology asks questions.
 
 The player must slow down. Observe. Listen. Learn. The station cannot rush this discovery. Neither should the player.
 
-### Narrative Purpose
+### Part Two — Narrative Purpose
 
 The structure appears untouched. No blast damage. No decay. No emergency lighting. No visible doors. No obvious controls. Nothing indicates it was abandoned. It simply waited.
 
@@ -157,7 +157,7 @@ The signal originated from this structure. As the player approaches, the repeati
 
 The player realizes the structure is aware that someone has arrived. Not who. Simply that someone is present.
 
-### Gameplay Purpose
+### Part Two — Gameplay Purpose
 
 Introduce:
 
@@ -170,11 +170,11 @@ Introduce:
 
 The player learns that entering unknown civilizations follows different rules than exploring human wreckage.
 
-### Exploration Philosophy
+### Part Two — Exploration Philosophy
 
 The player is not invading. The player is visiting. Every interaction should begin with observation. Not manipulation. The game should reward patience. Not speed.
 
-### Environmental Storytelling
+### Part Two — Environmental Storytelling
 
 Before entering, the player may freely walk around the exterior. Possible discoveries include:
 
@@ -220,7 +220,7 @@ There are no visible entrances. No defensive weapons. No bodies. No signs of vio
   - Many optional discoveries remain unexplored until future expeditions.
   - Nothing is permanently lost.
 
-### Advisor Contributions
+### Part Two — Advisor Contributions
 
 Every advisor interprets the structure differently.
 
@@ -241,7 +241,7 @@ Every advisor interprets the structure differently.
 - The Vale System encourages the crew to compare observations before making decisions.
   - Player learns: leadership gathers perspectives before reaching conclusions.
 
-### Gameplay Systems Introduced
+### Part Two — Gameplay Systems Introduced
 
 - Environmental archaeology.
 - Passive scanning.
@@ -250,7 +250,7 @@ Every advisor interprets the structure differently.
 - Collaborative interpretation.
 - Ethical investigation.
 
-### Accessibility
+### Part Two — Accessibility
 
 Every discovery must be available through multiple methods.
 
@@ -263,11 +263,11 @@ Every discovery must be available through multiple methods.
 
 No puzzle should require only vision. No puzzle should require only hearing. Every important environmental clue should exist through multiple sensory channels.
 
-### Emotional Goal
+### Part Two — Emotional Goal
 
 The player should begin feeling awe rather than excitement. Everything here feels older than history. Yet somehow it feels welcoming. Not abandoned. Waiting.
 
-### End Condition
+### Part Two — End Condition
 
 After sufficient observation, the repeating signal changes once more. For the first time, the structure answers the player. Not with words. Not with lights. With resonance.
 
@@ -277,19 +277,19 @@ A previously invisible doorway gradually becomes accessible. No alarms sound. No
 
 ## Part Three: The First Archive
 
-### Purpose
+### Part Three — Purpose
 
 Teach the player that Shawabti technology responds to understanding rather than force. Teach the player that this civilization valued cooperation, accessibility, and shared knowledge.
 
 The player should never feel as though they are "beating" an alien puzzle. Instead, they should feel they are learning how another civilization thought.
 
-### Narrative Purpose
+### Part Three — Narrative Purpose
 
 The doorway silently opens. The player enters. The structure remains perfectly preserved. No dust. No signs of decay. No emergency systems. No abandoned equipment. Everything appears intentionally maintained.
 
 It feels less like a ruin and more like a library waiting for visitors. No one speaks for several moments. The crew simply experiences the space.
 
-### Gameplay Purpose
+### Part Three — Gameplay Purpose
 
 Introduce:
 
@@ -300,7 +300,7 @@ Introduce:
 - Archive interfaces.
 - Non-linear discovery.
 
-### Environmental Storytelling
+### Part Three — Environmental Storytelling
 
 The interior immediately feels different from human architecture. There are no obvious hallways. No labels. No control panels. No chairs. No desks.
 
@@ -315,7 +315,7 @@ Instead the player encounters:
 
 Nothing appears decorative without purpose. Everything appears functional. The player should immediately understand that this civilization solved problems differently.
 
-### Accessibility Philosophy
+### Part Three — Accessibility Philosophy
 
 The structure never assumes a visitor has one specific sense. Every interaction can be understood through multiple forms.
 
@@ -383,7 +383,7 @@ The center of the room contains a circular structure. It emits no visible light.
 - The Vale System, rather than interpreting the chamber alone, asks everyone to compare observations. Only then does the room begin changing.
   - Player learns: understanding emerges through collaboration.
 
-### Gameplay Systems Introduced
+### Part Three — Gameplay Systems Introduced
 
 - Environmental resonance.
 - Collaborative interpretation.
@@ -392,7 +392,7 @@ The center of the room contains a circular structure. It emits no visible light.
 - Shared puzzle solving.
 - Perspective comparison.
 
-### Accessibility
+### Part Three — Accessibility
 
 Every resonance interaction supports:
 
@@ -405,11 +405,11 @@ Every resonance interaction supports:
 
 No puzzle should require perfect hearing. No puzzle should require perfect vision. No puzzle should require fast reaction times. Players solve problems through understanding. Never through sensory exclusion.
 
-### Emotional Goal
+### Part Three — Emotional Goal
 
 The player should stop thinking, "What does this machine do?" Instead they begin asking, "What were the Shawabti trying to teach?"
 
-### End Condition
+### Part Three — End Condition
 
 After every crew member contributes their observations, the resonance chamber finally responds. Not because of a button. Not because of force. Because every perspective has been shared.
 
@@ -419,13 +419,13 @@ For the first time, the player sees the Shawabti. They are alive. They are speak
 
 ## Part Four: Echoes
 
-### Purpose
+### Part Four — Purpose
 
 Teach the player that history is experienced. Not collected. The player does not watch a historical recording. The player walks through a preserved moment in Shawabti civilization.
 
 The reconstruction is not interactive. It does not acknowledge the player's presence. The player is an observer. Nothing more.
 
-### Narrative Purpose
+### Part Four — Narrative Purpose
 
 The resonance chamber expands. Walls dissolve into an enormous living environment. The player is no longer standing inside a building. They are standing inside preserved memory.
 
@@ -433,7 +433,7 @@ The reconstruction is perfect. Every movement. Every sound. Every conversation. 
 
 The player realizes this is not a recording. It is a living reconstruction generated from resonance preserved within the structure itself.
 
-### Gameplay Purpose
+### Part Four — Gameplay Purpose
 
 Introduce:
 
@@ -445,7 +445,7 @@ Introduce:
 - Environmental interpretation.
 - Observation without interference.
 
-### Exploration Philosophy
+### Part Four — Exploration Philosophy
 
 Nothing in the reconstruction can be changed. Nothing can be collected. Nothing can be interrupted. The player learns through observation. Patience continues to be rewarded.
 
@@ -494,11 +494,11 @@ The player notices recurring themes.
 
 Nobody appears excluded. The player is encouraged to notice these patterns. The game never explicitly explains them.
 
-### Advisor Contributions
+### Part Four — Advisor Contributions
 
 Each advisor notices something different. Their observations are added to the Knowledge Archive. The player may compare perspectives before continuing. No single interpretation is presented as complete.
 
-### Gameplay Systems Introduced
+### Part Four — Gameplay Systems Introduced
 
 - Historical observation.
 - Memory tagging.
@@ -507,15 +507,15 @@ Each advisor notices something different. Their observations are added to the Kn
 - Archive expansion.
 - Collaborative discussion.
 
-### Accessibility
+### Part Four — Accessibility
 
 Every preserved memory remains reviewable. Players may replay observations, request descriptions, review conversations, and compare observations between crew members. Nothing important depends upon perfect memory.
 
-### Emotional Goal
+### Part Four — Emotional Goal
 
 The player should begin grieving a civilization they never knew. Not because it was perfect. Because it was alive.
 
-### End Condition
+### Part Four — End Condition
 
 As the reconstruction fades, one Shawabti quietly turns. Not toward the player. Toward something beyond the reconstruction.
 
@@ -523,11 +523,11 @@ For the first time, the player realizes the memory may not be entirely passive. 
 
 ## Part Five: Resonance
 
-### Purpose
+### Part Five — Purpose
 
 Conclude Chapter Five. Reward curiosity. Deepen mystery. Introduce Faience's first unmistakable connection to the Shawabti. Answer the chapter's primary question while creating a far larger mystery.
 
-### Narrative Purpose
+### Part Five — Narrative Purpose
 
 The historical reconstruction ends. Silence returns. The player again stands inside the resonance chamber.
 
@@ -535,7 +535,7 @@ The harmonic frequencies begin changing. Not randomly. They are responding to th
 
 The structure has not been evaluating intelligence. It has not been evaluating technology. It has been evaluating how the player explored.
 
-### Gameplay Purpose
+### Part Five — Gameplay Purpose
 
 Teach that civilization is measured by behavior. Not power. The player's previous choices throughout Chapter Five influence how the structure responds. No response is considered failure. Every response acknowledges the player's approach.
 
@@ -611,13 +611,13 @@ The player leaves with one overwhelming question: how does Faience know a langua
 
 ## Part Six: Learning Resonance
 
-### Purpose
+### Part Six — Purpose
 
 Introduce Resonance as the central gameplay system of the franchise. Chapter Five is not simply the player's first contact with the Shawabti. It is humanity's first lesson in how the Shawabti understood the universe.
 
 The player should leave this chapter permanently changed. Not simply because of what they learned. Because of what they are now capable of doing.
 
-### Narrative Purpose
+### Part Six — Narrative Purpose
 
 The player has spent the chapter observing. Listening. Comparing perspectives. Showing restraint.
 
@@ -625,7 +625,7 @@ The resonance chamber responds one final time. Not because the player solved a p
 
 The structure recognizes that the player has begun learning Resonance. The chamber does not grant permission. It begins a relationship.
 
-### Gameplay Purpose
+### Part Six — Gameplay Purpose
 
 Introduce the permanent gameplay systems that define the remainder of Resonance. Players permanently unlock:
 
@@ -793,7 +793,7 @@ Every crew member responds differently to learning Resonance.
 - Mira smiles because she believed the building was "trying to talk" from the beginning.
 - The Vale System concludes that no individual understands Resonance completely. Only communities can.
 
-### Accessibility Philosophy
+### Part Six — Accessibility Philosophy
 
 The player begins to notice something. The structure seems to work for everyone. Every interaction naturally adapts. Every communication method is treated as equally valid. Every visitor is expected to learn differently.
 
@@ -814,7 +814,7 @@ Completing Chapter Five permanently unlocks:
 
 These mechanics remain active throughout the remainder of the franchise.
 
-### Emotional Goal
+### Part Six — Emotional Goal
 
 The player should leave feeling changed. Not because they discovered alien technology. Because they discovered another way of understanding civilization.
 

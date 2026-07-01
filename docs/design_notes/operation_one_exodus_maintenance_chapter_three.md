@@ -37,7 +37,7 @@ Every major section in this chapter that presents a player decision answers the 
 
 ## Part One: The First Morning
 
-### Purpose
+### Part One — Purpose
 
 The first peaceful morning since the destruction of Hearth.
 
@@ -45,7 +45,7 @@ No alarms. No explosions. No emergency countdowns.
 
 The player wakes to ordinary life. Ordinary life is the reward for surviving Chapter Two.
 
-### Narrative Purpose
+### Part One — Narrative Purpose
 
 Demonstrate that the station is now a living community.
 
@@ -53,7 +53,7 @@ People have routines. People have responsibilities. Life continued while the pla
 
 The world does not wait for the player. Instead, the player joins a community already beginning another day.
 
-### Gameplay Purpose
+### Part One — Gameplay Purpose
 
 Teach observation. Teach routine. Teach environmental awareness. Teach that important gameplay information is often discovered by paying attention to everyday life.
 
@@ -208,7 +208,7 @@ The order changes the player's experience. The destination does not. Canon remai
 - Relationship building.
 - Passive world discovery.
 
-### Accessibility
+### Part One — Accessibility
 
 Every piece of information available through environmental observation must also be available through accessible interaction.
 
@@ -224,7 +224,7 @@ Players may request:
 
 No player should miss important information because they cannot perceive one particular sensory channel.
 
-### Emotional Goal
+### Part One — Emotional Goal
 
 The player should feel:
 
@@ -233,7 +233,7 @@ The player should feel:
 - Useful.
 - Part of something larger than themselves.
 
-### End Condition
+### Part One — End Condition
 
 After exploring the station and speaking with crew members, the player receives an invitation from Jonah.
 
@@ -243,13 +243,13 @@ The player chooses when to attend. The meeting does not begin until the player a
 
 ## Part Two: The First Community Meeting
 
-### Purpose
+### Part Two — Purpose
 
 Teach collaborative leadership. Teach long-term planning. Teach that communities function because people solve problems together.
 
 The player does not attend this meeting to receive orders. The player attends to become part of the discussion. The meeting should feel closer to a town council than a military briefing.
 
-### Narrative Purpose
+### Part Two — Narrative Purpose
 
 This is the first time every primary crew member has occupied the same room since the destruction of Hearth.
 
@@ -257,7 +257,7 @@ The immediate emergency has ended. The future now depends upon planning rather t
 
 Every person has different priorities. None of those priorities are wrong.
 
-### Gameplay Purpose
+### Part Two — Gameplay Purpose
 
 Introduce:
 
@@ -335,7 +335,7 @@ Every crew member responds differently to each priority. Nobody is universally p
 
 Respectful disagreement is healthy. The player begins understanding personalities through discussion rather than exposition.
 
-### Gameplay Systems Introduced
+### Part Two — Gameplay Systems Introduced
 
 - Station project board.
 - Priority management.
@@ -346,7 +346,7 @@ Respectful disagreement is healthy. The player begins understanding personalitie
 - Project timelines.
 - Community requests.
 
-### Accessibility
+### Part Two — Accessibility
 
 Every discussion topic is reviewable after the meeting.
 
@@ -360,11 +360,11 @@ Players may replay:
 
 No information should be permanently lost because a player became distracted or missed dialogue.
 
-### Emotional Goal
+### Part Two — Emotional Goal
 
 The player should leave the meeting feeling trusted. They are no longer simply another survivor. They have become one of the people helping shape the future.
 
-### End Condition
+### Part Two — End Condition
 
 The first major community project officially begins. Construction starts. The station begins changing because of the player's decision.
 
@@ -372,13 +372,13 @@ The player is asked to report to Rowan, where practical work on the chosen proje
 
 ## Part Three: Building Together
 
-### Purpose
+### Part Three — Purpose
 
 Teach collaborative construction. Teach that no major project is completed by a single person. Teach the player how individual expertise combines into community.
 
 The player should never feel like they are simply pressing a build button. Construction is a social activity.
 
-### Narrative Purpose
+### Part Three — Narrative Purpose
 
 The station begins physically changing because of decisions made during the community meeting.
 
@@ -386,7 +386,7 @@ Construction should happen gradually. The player witnesses progress over time. R
 
 The station grows because people are working.
 
-### Gameplay Purpose
+### Part Three — Gameplay Purpose
 
 Introduce:
 
@@ -506,7 +506,7 @@ The player should revisit completed areas and notice:
 
 The station becomes increasingly personalized.
 
-### Accessibility
+### Part Three — Accessibility
 
 Construction automatically considers accessibility. The player never has to remember to build an accessible station. Instead the player chooses which accessibility improvements receive priority.
 
@@ -522,7 +522,7 @@ Examples include:
 
 Every accessibility improvement benefits the entire community, not only disabled crew members.
 
-### Gameplay Systems Introduced
+### Part Three — Gameplay Systems Introduced
 
 - Construction phases.
 - Project quality.
@@ -532,13 +532,13 @@ Every accessibility improvement benefits the entire community, not only disabled
 - Environmental customization.
 - Station evolution.
 
-### Emotional Goal
+### Part Three — Emotional Goal
 
 The player should understand that they are no longer repairing wreckage. They are helping build a civilization.
 
 Every completed project should make the station feel more like a home than a survival shelter.
 
-### End Condition
+### Part Three — End Condition
 
 The first major community project reaches completion. The player walks through the newly completed area. Crew members naturally begin using it.
 
@@ -550,7 +550,7 @@ The next project is added to the station project board, leading into Part Four.
 
 ## Part Four: The First Tests
 
-### Purpose
+### Part Four — Purpose
 
 The player has spent Chapter Three learning how a community functions. This section asks the player to demonstrate that learning.
 
