@@ -64,7 +64,7 @@ Important information must never depend on sound alone. For players with no audi
 
 Every object, creature, environment, vehicle, tool, article of clothing, building, and technology in the Resonance universe possesses a deliberate acoustic identity, and silence is one of those identities. Audio is never decorative. It is part of the world's physical reality, and every sound communicates information.
 
-If a player closes their eyes, they should still be able to learn where they are, what is happening, who is nearby, what tools are in use, what vehicle is approaching, and what emotional state the environment conveys. The libraries that follow apply this rule to every recurring category of sound in the franchise. The deliberate use of quiet is governed by the same principle as the rest of the soundscape, as described in the dynamic soundscape section above.
+If a player closes their eyes, they should still be able to learn where they are, what is happening, who is nearby, what tools are in use, what vehicle is approaching, and what emotional state the environment conveys. The libraries that follow apply this rule to every recurring category of sound in the franchise. The deliberate use of quiet is governed by the canon rule that silence is a deliberate storytelling tool.
 
 Every sound in every library below is designed to serve a consistent set of purposes.
 
