@@ -308,29 +308,88 @@ These are never displayed as numerical scores. They quietly influence:
 
 The player is never told they played correctly. The world simply remembers how they chose to build civilization. The player does not become good or bad. The player becomes known for how they think.
 
+## Every Recurring Character Is a Complete Person
+
+Every recurring character in Resonance is a complete person.
+
+No recurring character exists solely to satisfy representation, accessibility, gameplay, or narrative requirements.
+
+Every recurring character has their own history, personality, strengths, flaws, relationships, goals, fears, profession, and growth.
+
+Representation informs identity. It never replaces it.
+
+## The Player Creates an Original Character and Never Alters Canon
+
+The player never replaces a canonical character.
+
+The player creates an original professional assigned to the chosen department, whose story unfolds alongside the established crew.
+
+The player may customize this original professional freely.
+
+Customization never alters established canon. The existence, history, identity, relationships, and appearance of every recurring character remain unchanged by anything the player chooses in customization.
+
+## Characters Are Recognized Through Observation
+
+Recurring characters become recognizable naturally, through observation rather than labels.
+
+The player gradually learns people through many signals.
+
+- Voice and speech rhythm.
+- Movement and body language.
+- Professional habits and daily routines.
+- Environmental sounds.
+- Communication style.
+- Relationships with others.
+
+The interface should rarely identify a recurring character. The world teaches the player who people are.
+
 ## The Vale System Is One Shared Body
 
-The Vale System is one person: a single shared body inhabited by four members who front in turn.
+The Vale System is one person: a single shared body inhabited by four recurring members who front in turn.
 
 The four members are Captain Elian, Captain Naomi, Captain Gideon, and Captain Iris of the Vale System.
 
 The Vale System is never written as four separate people, and never as a single character named Captain Mara Vale.
 
-Recognition of the current member comes through behavior, not appearance. The body does not change; the way it carries itself does.
+The body itself is constant. The identity expressed through it is not. The body never transforms; only its presentation changes, and recognition of the current member comes through observation rather than explicit explanation.
 
-Some things stay the same no matter which member is fronting.
+The following never change, whichever member is fronting.
 
 - The shared body.
-- The captain's chair and the command authority that sits in it.
+- Height and build.
+- Face, hair, eye color, and skin tone.
+- Physical scars and medical history.
+- Accessibility equipment.
+- Uniform design and rank insignia.
+- Department affiliation.
+- The command authority the body carries.
 - The history the crew has built with the Vale System.
-- The care every member holds for the ship and its people.
 
-Some things change as one member steps forward and then another.
+The following change naturally with whoever is fronting.
 
-- Voice and cadence.
-- Manner and priorities.
-- The situations each member comes forward to meet.
+- Voice, accent, vocabulary, and speech rhythm.
+- Breathing pattern.
+- Facial expression and eye focus.
+- Head position, standing posture, and resting posture.
+- Walking rhythm and preferred stance.
+- Hand placement and gesture vocabulary.
+- Leadership philosophy and decision-making style.
+- Professional priorities and attention focus.
+- Emotional expression and sense of humor.
+- Relationships with the crew.
+- Preferred routines, communication style, and favorite places aboard Hearth.
 - The name the member answers to.
+
+Personal identifiers also update naturally when a member fronts, as ordinary ship operations rather than ceremony.
+
+- Uniform name tape.
+- Digital identification badge.
+- Wrist display.
+- Personal communicator profile.
+- Office and terminal displays.
+- Command terminal login and voice authentication.
+
+These updates happen automatically through normal ship systems, and the crew treat them as completely ordinary, remarking on them only when directly relevant to the conversation. No two members should ever feel interchangeable, and the player should come to recognize each member before they speak.
 
 Mara Chen is the blind engineer and is not a member of the Vale System.
 
@@ -338,13 +397,115 @@ Mara Chen is the blind engineer and is not a member of the Vale System.
 
 Which member of the Vale System is fronting is part of the game, not decoration.
 
-The member who fronts aligns to the situation. Elian meets the ordinary mornings, Naomi meets emergencies, Gideon reads failing systems, and Iris steadies civilians.
+Fronting is purposeful. A member comes forward because their knowledge, temperament, or expertise best fits the moment, never for dramatic effect. Different members naturally take the lead in different situations.
 
-A switch from one member to another is rarely announced. The game does not stop to label who is speaking.
+- Community leadership.
+- Emergency command.
+- Engineering coordination.
+- Diplomatic discussions.
+- Scientific planning.
+- Civilian support.
+- Crisis management.
+- Long-term strategy.
 
-The player recognizes the current member through observation: how the body speaks, what it prioritizes, and which situation has called it forward.
+In Operation One this shows as Elian on the ordinary mornings, Naomi in emergencies, Gideon reading failing systems, and Iris steadying civilians, consistent with the master timeline and the character schedule.
 
-Reading the Vale System correctly is a skill the player builds, the same way the player learns to read any other crew member.
+The game almost never announces a switch. Instead the player recognizes it through observation.
+
+- A different voice, accent, and vocabulary.
+- A different posture, gait, and body language.
+- A different command style, humor, and set of emotional priorities.
+- Different interactions with individual crew members.
+- Updated name tape and command authentication.
+
+Careful attention is always rewarded. Reading the Vale System correctly is a skill the player builds, the same way the player learns to read any other crew member, and recognition emerges through lived experience rather than exposition.
+
+## The Recurring Cast Reflects Humanity
+
+The recurring cast intentionally reflects the breadth of humanity, and representation is a design requirement rather than a decorative afterthought.
+
+Representation is never tokenistic. No race, ethnicity, disability, communication style, or gender identity is treated as the default, and human diversity is presented as an ordinary part of civilization.
+
+## The Cast Represents a Range of Ethnic Backgrounds
+
+The primary recurring cast includes intentional representation across multiple ethnic backgrounds.
+
+The core cast includes each of the following.
+
+- One Native character.
+- One Native mixed-heritage character.
+- One Black character.
+- One Black mixed-heritage character.
+- One Asian character.
+- One Asian mixed-heritage character.
+- One White character.
+- One White mixed-heritage character.
+
+Future recurring characters continue this broad, global representation.
+
+## The Cast Represents a Spectrum of Gender Experiences
+
+The recurring cast intentionally represents a broad spectrum of human gender experiences.
+
+The initial recurring cast includes representation of each of the following.
+
+- Cisgender man.
+- Cisgender woman.
+- Transgender man (FTM).
+- Transgender woman (MTF).
+- Non-binary.
+- Agender.
+- Genderfluid.
+- Demiboy.
+- Demigirl.
+- Two-Spirit.
+
+Two-Spirit representation is reserved for a Native character whose nation, culture, and community are thoughtfully represented. Two-Spirit is a culturally specific Indigenous identity and is never used as a generic gender label.
+
+Gender identities are not mutually exclusive when they are not in conflict.
+
+- A genderfluid person may experience themselves as a demiboy at one time and a demigirl at another.
+- A non-binary person may also identify as a demiboy or a demigirl.
+- An agender person generally would not identify with a gender, which makes that experience distinct.
+
+The goal of the recurring cast is not to check demographic boxes. The goal is to portray a diverse range of authentic human experiences through fully realized characters. Every recurring character is defined first by their personality, relationships, profession, values, strengths, flaws, goals, and growth, and their gender identity is one meaningful aspect of who they are rather than the whole of it.
+
+## Disability Shapes Characters Without Defining Them
+
+Disability is foundational to Resonance, and characters experience disability in many different ways.
+
+Disability shapes perspective, problem solving, communication, and relationships. It never defines a character's entire identity.
+
+## Communication Diversity Is Ordinary
+
+Communication diversity is an ordinary part of the world.
+
+The recurring cast naturally includes many ways of communicating.
+
+- Spoken language.
+- Sign language.
+- Augmentative and alternative communication.
+- Braille literacy.
+- Tactile signing.
+- Other alternative communication systems.
+- Multilingual communication.
+
+Every communication method is equally valid. The world adapts to people, and people are never required to adapt to exclusion.
+
+## Every Recurring Character Has a Presentation Profile
+
+Every recurring character has a complete presentation profile that serves as the definitive reference for artists, writers, animators, programmers, and audio designers across the Resonance franchise.
+
+Each profile covers the following.
+
+- Physical appearance, clothing, and equipment.
+- Accessibility devices.
+- Audio identity, voice, accent, and speech rhythm.
+- Movement and environmental sound.
+- A blind-friendly, audio-first description.
+- Professional habits.
+- Civilian presentation.
+- Emergency presentation.
 
 ## Relationship to Other Documents
 
@@ -357,7 +518,7 @@ This document is the master list of canon rules and holds precedence for the wor
 - The Audio Bible elaborates acoustic identity, silence, and sound as progression.
 - The Accessibility Bible elaborates accessibility as standard equipment.
 - The Crew Progression System design note elaborates the crew relevance, belonging, sound, and community rules.
-- The Crew Progression System and the Operation One Character Schedule elaborate the Vale System, its four members, and how fronting is recognized in play.
+- The Crew Progression System, the Operation One Character Schedule, and the Universe Bible elaborate the recurring characters, the Vale System and its four members, how fronting is recognized in play, and how each character's identity, representation, and presentation are realized.
 - The Decision Log records when each rule was adopted or amended.
 
 Whenever a rule here changes, the elaborating documents must be checked for consistency.
