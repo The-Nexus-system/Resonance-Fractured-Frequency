@@ -508,14 +508,52 @@ Every recurring character has a complete presentation profile that serves as the
 
 Each profile covers the following.
 
-- Physical appearance, clothing, and equipment.
-- Accessibility devices.
+- Physical presentation, including clothing.
+- Visual identity.
 - Audio identity, voice, accent, and speech rhythm.
-- Movement and environmental sound.
 - A blind-friendly, audio-first description.
-- Professional habits.
-- Civilian presentation.
+- Everyday carry.
+- Professional equipment and habits.
+- Accessibility equipment.
+- Communication methods.
+- Environmental cues and sound.
+- Typical movement.
+- Typical posture.
+- Off-duty presentation.
 - Emergency presentation.
+- Mission presentation.
+- Recognition cues.
+
+## Every Recurring Character Has an Everyday Carry Profile
+
+Every recurring character possesses a canonical everyday carry profile that records what they habitually keep with them.
+
+Each everyday carry profile covers the following categories.
+
+- Professional equipment.
+- Personal equipment.
+- Accessibility equipment.
+- Medical equipment.
+- Communication equipment.
+- Emergency equipment.
+- Sentimental items.
+- Off-duty equipment.
+- Mission-specific equipment.
+
+A character's everyday carry evolves naturally over the course of the franchise as they change and grow. No two recurring characters have identical everyday carry profiles, because what a person carries is an expression of who they are.
+
+## Crew Identity Uses a Layered Identification System
+
+All crew members use a standardized, multi-layer identity system, and technology never replaces recognizing a person through lived experience.
+
+- The smart name tape displays name, rank, department, and assignment, and for the Vale System it updates automatically to the currently fronting member.
+- The digital identity badge, integrated into clothing or equipment, projects portrait, name, pronouns, department, rank, and professional certifications, and, at the wearer's choice, communication, accessibility, and emergency information.
+- The secure crew credential authenticates the wearer throughout Hearth.
+- Community recognition is primary, and the layers above support recognizing a person through voice, movement, routine, body language, equipment, professional habits, and relationships rather than replacing it.
+
+Every crew member also carries an encrypted personal beacon integrated into their communicator, with privacy settings controlled by the wearer. The beacon supports emergency location, navigation assistance, identity confirmation, accessibility support, emergency rescue, blind navigation, DeafBlind tactile output, and optional communication preferences.
+
+The Universe Bible elaborates this identification technology and the personal beacon in full.
 
 ## Relationship to Other Documents
 
@@ -529,6 +567,8 @@ This document is the master list of canon rules and holds precedence for the wor
 - The Accessibility Bible elaborates accessibility as standard equipment.
 - The Crew Progression System design note elaborates the crew relevance, belonging, sound, and community rules.
 - The Crew Progression System, the Operation One Character Schedule, and the Universe Bible elaborate the recurring characters, the Vale System and its four members, how fronting is recognized in play, and how each character's identity, representation, and presentation are realized.
+- The Universe Bible elaborates the crew identity and identification technology and the personal beacon.
+- The Player Identity and Character Presentation Bible elaborates each recurring character's complete presentation profile and everyday carry, the presentation of the Vale System and its members, and the recognition cues by which each character is known.
 - The Decision Log records when each rule was adopted or amended.
 
 Whenever a rule here changes, the elaborating documents must be checked for consistency.

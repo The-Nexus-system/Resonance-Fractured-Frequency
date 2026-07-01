@@ -1,6 +1,6 @@
 # Universe Bible
 
-This document holds the canon of the Resonance universe: its ancient civilization, the player's AI companion, and the premise that opens the story. Story and lore decisions belong here.
+This document holds the canon of the Resonance universe: its ancient civilization, the player's AI companion, the premise that opens the story, and the everyday technology by which its crew live and are known. Story and lore decisions belong here.
 
 ## The Shawabti
 
@@ -42,3 +42,30 @@ The player eventually acquires larger spacecraft, but the damaged helmet remains
 ## Tone and setting
 
 The universe balances wonder and isolation. It is a place of ancient mystery, human survival, and difficult choices about trust and identity. Technology in Resonance exists to serve people, and the story asks what a person is willing to become in order to survive.
+
+## Crew identity and identification technology
+
+All crew aboard Hearth are identified through a standardized, multi-layer system. Technology carries the routine work of identification, but it never replaces recognizing a person through lived experience, which remains the deepest layer.
+
+The first layer is the smart name tape. It displays the wearer's name, rank, department, and assignment. For the Vale System the name tape updates automatically to match the member who is currently fronting, as an ordinary ship operation rather than a ceremony.
+
+The second layer is the digital identity badge, integrated into clothing or equipment. It projects the wearer's portrait, name, pronouns, department, rank, and professional certifications, along with communication preferences. At the wearer's discretion it can also present accessibility preferences and emergency information, and those choices always belong to the wearer.
+
+The third layer is the secure crew credential, which authenticates the wearer throughout Hearth.
+
+The fourth layer is community recognition, and it is primary. Technology never replaces knowing someone through their voice, movement, routine, body language, equipment, professional habits, and relationships. This layer reflects the canon rule that characters are recognized through observation, and the first three layers exist to support it rather than to supplant it.
+
+## Personal beacon
+
+Every crew member carries an encrypted personal beacon integrated into their communicator. Its privacy settings are controlled by the wearer.
+
+The beacon supports the following.
+
+- Emergency location.
+- Navigation assistance.
+- Identity confirmation.
+- Accessibility support.
+- Emergency rescue.
+- Blind navigation.
+- DeafBlind tactile output.
+- Optional communication preferences.
