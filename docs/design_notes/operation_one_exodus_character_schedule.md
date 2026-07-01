@@ -1059,7 +1059,7 @@ A companion document, operation_one_exodus_perspective_map.md, is forthcoming. I
 - Who they protect: The younger children beside her, whom she stays with and steadies in her own way.
 - Who they coordinate with: Her teachers, the Security teams moving the civilians, and Rowan, who reaches her assembly point through the service corridors he knows better than anyone.
 - How their routine changes during General Quarters: Her ordinary school morning becomes an evacuation; the accessible emergency systems speak instructions she can follow, and she does what she was taught in calm.
-- Where they are when the attack begins: On Attack Day, Founding Day, the festival is interrupted mid-morning; Mira is with the other children when Naomi calls General Quarters at 06:35, her teachers account for her, and Rowan reaches her assembly point so that for a moment father and daughter are together in the chaos. Then the evacuation separates them, as it separates every primary crew member, and Mira launches in her own civilian pod, scattered into the dark with the rest of the crew for Chapter Two to find again.
+- Where they are when the attack begins: On Attack Day, Founding Day, the festival is interrupted in the early morning; Mira is with the other children when Naomi calls General Quarters at 06:35, her teachers account for her, and Rowan reaches her assembly point so that for a moment father and daughter are together in the chaos. Then the evacuation separates them, as it separates every primary crew member, and Mira launches in her own civilian pod, scattered into the dark with the rest of the crew for Chapter Two to find again.
 
 ## Faience
 
