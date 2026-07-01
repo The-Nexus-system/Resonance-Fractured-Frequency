@@ -28,7 +28,7 @@ The chapter ends by asking a larger question: what are we willing to build toget
 
 ## Section Design Framework
 
-From this chapter forward, every major section that presents a player decision answers four questions. This gives the section something concrete to build rather than atmosphere alone, and it keeps player choice meaningful even when the main story stays on the same timeline.
+Every major section in this chapter that presents a player decision answers the four questions established by the canon rule "Every Major Decision Answers Four Questions" in the Canon Rules document. Chapter Three is the first chapter authored to that rule.
 
 1. What decision does the player make?
 2. What gameplay system is learned?

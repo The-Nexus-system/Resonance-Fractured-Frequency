@@ -210,6 +210,17 @@ Every profession should answer three questions differently.
 - What responsibilities does this profession carry?
 - What knowledge is available only from this perspective?
 
+## Every Major Decision Answers Four Questions
+
+Every major section that presents a player decision must answer four questions.
+
+- What decision does the player make?
+- What gameplay system is learned?
+- What philosophy or life lesson is learned?
+- What permanently changes because of that decision?
+
+This gives each section something concrete to build rather than atmosphere alone, and it keeps player choice meaningful even when the main story stays on the same timeline.
+
 ## Every System Reinforces the Central Themes
 
 Every gameplay system should reinforce the central themes of Resonance.
