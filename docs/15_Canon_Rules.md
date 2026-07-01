@@ -234,6 +234,39 @@ Every gameplay system should reinforce the central themes of Resonance.
 
 If a mechanic reinforces none of these themes, it should be reconsidered.
 
+## Every Major Expedition Begins and Ends at Home
+
+The player's home is the emotional, mechanical, and narrative anchor of Resonance. Every expedition follows the same rhythm.
+
+- Prepare.
+- Depart.
+- Explore.
+- Recover.
+- Return.
+- Reflect.
+- Rebuild.
+
+The player should always return home changed, and the station should always change because of what the player brought home. The player never returns with resources alone. Every expedition must return with at least one meaningful contribution to the community.
+
+Meaningful contributions include:
+
+- A survivor.
+- Knowledge.
+- History.
+- Technology.
+- Cultural artifacts.
+- Accessibility improvements.
+- Engineering discoveries.
+- Medical discoveries.
+- Relationships.
+- Hope.
+
+Resources support these discoveries. Resources are never the primary reward.
+
+## Every Expedition Expands Understanding
+
+Every expedition must answer one important question, and every expedition must create at least two new questions. Understanding should continually expand, and curiosity should always outpace certainty. The player should finish every expedition knowing more than before while realizing there is still far more left to discover.
+
 ## Relationship to Other Documents
 
 This document is the master list of canon rules and holds precedence for the wording of a rule. Several rules are elaborated in depth elsewhere, and those documents remain the place for detail while this document remains the place for the complete set. Where another document restates a rule, that restatement is explanatory, not a second source of truth; if the wording drifts, the statement here governs. Only the Project Constitution has authority over this document.
