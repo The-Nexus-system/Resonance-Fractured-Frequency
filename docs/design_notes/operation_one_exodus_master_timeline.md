@@ -8,7 +8,7 @@ Every campaign references this timeline. Every cinematic references this timelin
 
 The purpose of this document is to fix the events of Operation One in a single, unchanging order so that every profession, every chapter, and every future retelling depicts the same history.
 
-A companion document, the Perspective Map, will describe how each profession experiences these events differently, and a further companion, the Character Schedule, will describe the ordinary routines of individual characters in fuller detail. Those documents are anticipated by this one and, once written, remain synchronized with it. Where any campaign, scene, or later document conflicts with the order of events recorded here, this document is canon.
+A companion document, the Perspective Map, will describe how each profession experiences these events differently. A further companion, the Character Schedule, now exists at docs/design_notes/operation_one_exodus_character_schedule.md and describes the ordinary routines of individual characters in fuller detail; it remains synchronized with this timeline. The Perspective Map is anticipated by this one and, once written, will remain synchronized with it as well. Where any campaign, scene, or later document conflicts with the order of events recorded here, this document is canon.
 
 The timeline answers one question and only one question: what happened, and when. It does not decide how any single player experiences a moment. It decides only that the moment occurred, that it occurred in this order, and that it occurred the same way for everyone aboard, whether they were on the bridge, in a garden, in a maintenance crawlspace, or asleep.
 
@@ -632,5 +632,5 @@ This timeline is the chronological spine beneath the rest of the canon and shoul
 - docs/design_notes/operation_one_exodus_maintenance_chapter_two.md, which begins at the exact moment this timeline ends.
 - docs/design_notes/crew_progression_system.md, which defines how the scattered crew, once found, change the player's home.
 - The forthcoming Perspective Map, which will define how each profession experiences these identical events.
-- The forthcoming Character Schedule, which will define the individual daily routines summarized here.
+- docs/design_notes/operation_one_exodus_character_schedule.md, which defines the individual daily routines summarized here.
 - docs/11_Decision_Log.md, which records the decisions that produced this timeline.

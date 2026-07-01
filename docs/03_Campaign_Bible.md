@@ -64,6 +64,11 @@ The shape of the later chapters follows the chapter question spine below. Detail
 
 - [Chapter One: A Week Aboard Hearth (Maintenance Perspective)](design_notes/operation_one_exodus_maintenance_chapter_one.md)
 - [Chapter Two: Roll Call (Maintenance Perspective)](design_notes/operation_one_exodus_maintenance_chapter_two.md)
+- [Chapter Three: Community (Maintenance Perspective)](design_notes/operation_one_exodus_maintenance_chapter_three.md)
+- [Chapter Four: Salvage (Maintenance Perspective)](design_notes/operation_one_exodus_maintenance_chapter_four.md)
+- [Chapter Five: First Contact (Maintenance Perspective)](design_notes/operation_one_exodus_maintenance_chapter_five.md)
+- [Chapter Six: The Living Archive (Maintenance Perspective)](design_notes/operation_one_exodus_maintenance_chapter_six.md)
+- [Chapter Seven: Resonance (Maintenance Perspective)](design_notes/operation_one_exodus_maintenance_chapter_seven.md)
 
 ## Chapter design rule
 
