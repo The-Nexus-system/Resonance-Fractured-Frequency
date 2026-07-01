@@ -9,7 +9,7 @@ This document tracks decisions that have not yet been made. When a question is r
 
 ## Multiplayer and networking
 
-- What netcode, matchmaking, session structure, and server architecture will multiplayer use?
+- What specific netcode, matchmaking, and session-tier implementation will realize the authoritative, world-centered network model defined in the Network and Multiplayer Bible?
 - How are timers handled fairly when some players have removed action timers for accessibility?
 
 ## Audio
