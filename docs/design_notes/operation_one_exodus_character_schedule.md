@@ -4,7 +4,7 @@
 
 This document is the definitive scheduling reference for Operation One: Exodus. It answers one question above all others: where is everyone when it happened? It records the ordinary daily routines, favorite places, working responsibilities, relationships, accessibility, sound identities, cross-perspective presence, and emergency behavior of every primary character aboard CSV Hearth during the last ordinary week and on the morning the ship was lost.
 
-The master timeline fixes what happened and when. The forthcoming Perspective Map will fix how each profession experiences those same events. This schedule sits between them and fixes who each person is across an ordinary day, so that any campaign can place any character in the right room, doing the right work, for the right reasons.
+The master timeline fixes what happened and when. The Perspective Map, at operation_one_exodus_perspective_map.md, fixes how each profession experiences those same events. This schedule sits between them and fixes who each person is across an ordinary day, so that any campaign can place any character in the right room, doing the right work, for the right reasons.
 
 Where any campaign, scene, or later document disagrees with this schedule about where a character is, what they do, or who they know, this document is canon. It never contradicts the master timeline about the order of events or about Attack Day positions; where the timeline speaks, this schedule obeys it and only adds detail.
 
@@ -44,7 +44,7 @@ Every character section uses the same set of disambiguated subsections, each pre
 
 Times given here are Ship Standard Time and follow the master timeline. The morning announcement is always at 06:30, the ship quiets by 22:00, and the night shift carries the ship through the dark. On Attack Day the announcement begins at 06:30 and General Quarters is called at 06:35 by Captain Naomi of the Vale System.
 
-A companion document, operation_one_exodus_perspective_map.md, is forthcoming. It will describe how each profession experiences the identical events of the week. It is referenced here by name only. Its contents are not invented in this document, and nothing here depends on it.
+A companion document, operation_one_exodus_perspective_map.md, now exists. It describes how each profession experiences the identical events of the week and remains synchronized with this schedule.
 
 ## Captain Elian of the Vale System
 

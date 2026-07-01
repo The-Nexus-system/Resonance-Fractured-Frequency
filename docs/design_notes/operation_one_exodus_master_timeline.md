@@ -631,6 +631,6 @@ This timeline is the chronological spine beneath the rest of the canon and shoul
 - docs/design_notes/operation_one_exodus_maintenance_chapter_one.md, which lives Day Seven through Attack Day from the maintenance perspective and whose forward scene-day labels are reconciled with this document above.
 - docs/design_notes/operation_one_exodus_maintenance_chapter_two.md, which begins at the exact moment this timeline ends.
 - docs/design_notes/crew_progression_system.md, which defines how the scattered crew, once found, change the player's home.
-- The forthcoming Perspective Map, which will define how each profession experiences these identical events.
+- docs/design_notes/operation_one_exodus_perspective_map.md, which defines how each profession experiences these identical events.
 - docs/design_notes/operation_one_exodus_character_schedule.md, which defines the individual daily routines summarized here.
 - docs/11_Decision_Log.md, which records the decisions that produced this timeline.

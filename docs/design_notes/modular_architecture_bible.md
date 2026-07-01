@@ -3034,6 +3034,6 @@ This architectural source of truth should remain synchronized with the rest of t
 - docs/design_notes/operation_one_exodus_master_timeline.md, whose events take place inside these modules and whose Attack-Day pod scatter the Escape Pod Bay must remain consistent with.
 - docs/design_notes/operation_one_exodus_character_schedule.md, whose characters live and work inside these modules and whose favorite places are drawn from them.
 - docs/design_notes/crew_progression_system.md, whose crew members unlock and transform specific modules as they join the community.
-- The forthcoming Perspective Map, which will describe how each profession experiences these same spaces differently.
+- docs/design_notes/operation_one_exodus_perspective_map.md, which describes how each profession experiences these same spaces differently.
 
 Changes to this document may require updates to those documents whenever the shared architecture changes.
