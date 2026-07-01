@@ -2,6 +2,8 @@
 
 This document is the canonical, franchise-wide reference for how the player's crew grows throughout Resonance. Every chapter, campaign, gameplay system, accessibility system and future expansion should reference this document when determining what changes after a crew member joins.
 
+Several rules restated here also appear in the master Canon Rules document. That document holds precedence for the wording of a rule; the canon rule sections below elaborate those rules specifically for crew progression rather than replacing them.
+
 ## Purpose
 
 This document defines how people—not equipment—drive progression throughout Resonance.

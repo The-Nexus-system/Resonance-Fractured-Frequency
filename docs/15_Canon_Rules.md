@@ -225,7 +225,7 @@ If a mechanic reinforces none of these themes, it should be reconsidered.
 
 ## Relationship to Other Documents
 
-This document is the master list of canon rules. Several rules are elaborated in depth elsewhere, and those documents remain the place for detail while this document remains the place for the complete set.
+This document is the master list of canon rules and holds precedence for the wording of a rule. Several rules are elaborated in depth elsewhere, and those documents remain the place for detail while this document remains the place for the complete set. Where another document restates a rule, that restatement is explanatory, not a second source of truth; if the wording drifts, the statement here governs. Only the Project Constitution has authority over this document.
 
 - The Project Constitution defines the core philosophy these rules serve, and has authority over this document.
 - The Campaign Bible elaborates the chapter and Operation One perspective rules.

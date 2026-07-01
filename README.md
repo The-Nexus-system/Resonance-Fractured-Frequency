@@ -44,12 +44,12 @@ The living documents are stored in `docs/`. Read them in order for a full pictur
 - [Open Questions](docs/13_Open_Questions.md) — decisions still to be made.
 - [Playtesting Bible](docs/14_Playtesting_Bible.md) — accessibility testing as a first-class discipline.
 - [Canon Rules](docs/15_Canon_Rules.md) — the consolidated master list of canon rules the game must honor.
-- [Design Notes](docs/design_notes/) — early ideas that are not yet canon.
+- [Design Notes](docs/design_notes/) — approved canonical notes and experimental notes; each states which it is.
 
 ## Repository layout
 
 - `docs/` — living design documents, the single source of truth.
-- `docs/design_notes/` — early ideas and experiments not yet promoted to canon.
+- `docs/design_notes/` — a mix of approved canonical design notes and experimental notes; each note states which it is.
 - `assets/` — art, audio, and other media assets.
 - `src/` — application source code.
 - `tests/` — automated tests.
