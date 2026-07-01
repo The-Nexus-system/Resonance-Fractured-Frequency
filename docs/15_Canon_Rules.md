@@ -296,6 +296,21 @@ These are never displayed as numerical scores. They quietly influence:
 
 The player is never told they played correctly. The world simply remembers how they chose to build civilization. The player does not become good or bad. The player becomes known for how they think.
 
+## Knowledge Must Always Produce Action
+
+Knowledge must always produce action. Every major historical discovery should eventually change at least one of the following:
+
+- Dialogue.
+- Exploration.
+- Engineering.
+- Medicine.
+- Leadership.
+- Accessibility.
+- Research.
+- Community life.
+
+If knowledge changes nothing, it should not exist.
+
 ## Relationship to Other Documents
 
 This document is the master list of canon rules and holds precedence for the wording of a rule. Several rules are elaborated in depth elsewhere, and those documents remain the place for detail while this document remains the place for the complete set. Where another document restates a rule, that restatement is explanatory, not a second source of truth; if the wording drifts, the statement here governs. Only the Project Constitution has authority over this document.
