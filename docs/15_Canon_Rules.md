@@ -204,6 +204,110 @@ The station grows because people work together.
 
 Major construction projects should require multiple crew members with different expertise.
 
+## The World Continues When a Player Is Away
+
+The world never pauses because a player disconnects or logs out. A returning player comes back to a living civilization rather than a frozen save state.
+
+While a player is away, ordinary life goes on around their character.
+
+- Construction and community projects continue.
+- Research continues and may conclude.
+- Gardens continue to grow.
+- Maintenance and repairs are performed.
+- Medical care continues.
+- Children continue attending school.
+- Community meetings occur.
+- Crew members and other residents continue their daily lives.
+
+## The World Hosts the Game and Players Are Its Residents
+
+The world hosts Resonance, and the player does not. A player who enters a world is joining an existing civilization rather than opening a lobby or creating one.
+
+The persistent entities are the communities and the places they inhabit, and they continue existing whether or not any individual player is present.
+
+- Stations.
+- Settlements.
+- Expeditions.
+- Communities.
+- Research missions.
+- Recovery efforts.
+
+Players become members of these communities. Residents already know one another, projects are already underway, gardens are already growing, repairs are already scheduled, and research is already progressing. The world does not revolve around one player, and it continues living when any member leaves.
+
+## Every Persistent World Has Its Own History
+
+Every persistent world accumulates a history of its own, and players contribute to that history rather than owning it.
+
+Each world holds its own record of what its community has built and lived.
+
+- Its own history and infrastructure.
+- Its own community Knowledge Archive.
+- Its own rescued crew.
+- Its own community projects.
+- Its own accessibility improvements.
+- Its own engineering upgrades.
+- Its own memorials.
+- Its own culture.
+
+A player joins that history in progress, adds to it, and leaves it richer, but never takes ownership of it, consistent with the rule that the player never alters canon.
+
+## Protected Personal Spaces Keep an Absent Character Safe
+
+Certain locations are designated Protected Personal Spaces, where a character is considered safely off duty when the player logs out.
+
+- Crew quarters.
+- Family apartments.
+- Assigned private cabins.
+- Long-term patient recovery rooms.
+- Other creator-designated personal spaces.
+
+When a player logs out from a Protected Personal Space, the world continues normally around the character, time passes, other residents continue living, and projects continue progressing, while the character is treated as resting, sleeping, or otherwise unavailable. The absent character is never harmed, moved, injured, assigned new duties, or placed into danger while the player is away.
+
+## Unsafe Logouts Move a Character Toward Safety
+
+If a player disconnects outside a Protected Personal Space, the game acts to protect the character, always prioritizing player agency while maintaining world continuity.
+
+The game follows this order of priority.
+
+- Reach a nearby Protected Personal Space.
+- Escort the character to safety.
+- Transfer responsibility for the character to trusted characters in the world.
+- If immediate evacuation is impossible, place the character into an artificial-intelligence-controlled emergency safety routine.
+
+## Returning Players Receive a Meaningful Summary
+
+When a player returns, the game gives them a summary of the meaningful events that happened while they were away, so that they feel they are rejoining a community that missed them rather than reopening a paused game.
+
+- Crew rescued.
+- Research completed.
+- Construction finished.
+- Medical recoveries.
+- Community meetings.
+- Station announcements.
+- Knowledge Archive updates.
+- Mission invitations.
+- Messages left for them by other members of the community.
+
+## Communities Adapt When Members Are Away
+
+No player is ever punished for logging out. Communities naturally adapt when members are unavailable, and the returning player always has meaningful ways to contribute rather than feeling left behind.
+
+- Other members of the community temporarily redistribute responsibilities.
+- Other players may assist.
+- Work continues in the meantime.
+
+## Logging Out During an Emergency Withdraws the Character Safely
+
+If a player logs out during an active emergency, the game makes every reasonable effort to preserve both narrative continuity and the character's safety, and a player's absence must never become the cause of catastrophic failure for the community.
+
+Whenever possible, the character is withdrawn from immediate danger.
+
+- Trusted characters escort the character to safety.
+- The character withdraws from immediate danger.
+- The character is considered unavailable until the player returns.
+
+Only when absolutely necessary should the game record that the character took part in emergency actions while offline, and any such actions are limited to realistic defensive or evacuation behavior rather than major story decisions.
+
 ## Perspectives Complete Each Other Without Contradiction
 
 No perspective may contradict another perspective.
@@ -565,6 +669,7 @@ This document is the master list of canon rules and holds precedence for the wor
 - The Knowledge Archive Bible elaborates how knowledge changes gameplay.
 - The Audio Bible elaborates acoustic identity, silence, and sound as progression.
 - The Accessibility Bible elaborates accessibility as standard equipment.
+- The Network and Multiplayer Bible elaborates world persistence, the world as host, player residency, protected personal spaces, and safe logout and return.
 - The Crew Progression System design note elaborates the crew relevance, belonging, sound, and community rules.
 - The Crew Progression System, the Operation One Character Schedule, and the Universe Bible elaborate the recurring characters, the Vale System and its four members, how fronting is recognized in play, and how each character's identity, representation, and presentation are realized.
 - The Universe Bible elaborates the crew identity and identification technology and the personal beacon.
