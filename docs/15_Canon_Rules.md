@@ -308,6 +308,44 @@ These are never displayed as numerical scores. They quietly influence:
 
 The player is never told they played correctly. The world simply remembers how they chose to build civilization. The player does not become good or bad. The player becomes known for how they think.
 
+## The Vale System Is One Shared Body
+
+The Vale System is one person: a single shared body inhabited by four members who front in turn.
+
+The four members are Captain Elian, Captain Naomi, Captain Gideon, and Captain Iris of the Vale System.
+
+The Vale System is never written as four separate people, and never as a single character named Captain Mara Vale.
+
+Recognition of the current member comes through behavior, not appearance. The body does not change; the way it carries itself does.
+
+Some things stay the same no matter which member is fronting.
+
+- The shared body.
+- The captain's chair and the command authority that sits in it.
+- The history the crew has built with the Vale System.
+- The care every member holds for the ship and its people.
+
+Some things change as one member steps forward and then another.
+
+- Voice and cadence.
+- Manner and priorities.
+- The situations each member comes forward to meet.
+- The name the member answers to.
+
+Mara Chen is the blind engineer and is not a member of the Vale System.
+
+## Fronting Is Gameplay
+
+Which member of the Vale System is fronting is part of the game, not decoration.
+
+The member who fronts aligns to the situation. Elian meets the ordinary mornings, Naomi meets emergencies, Gideon reads failing systems, and Iris steadies civilians.
+
+A switch from one member to another is rarely announced. The game does not stop to label who is speaking.
+
+The player recognizes the current member through observation: how the body speaks, what it prioritizes, and which situation has called it forward.
+
+Reading the Vale System correctly is a skill the player builds, the same way the player learns to read any other crew member.
+
 ## Relationship to Other Documents
 
 This document is the master list of canon rules and holds precedence for the wording of a rule. Several rules are elaborated in depth elsewhere, and those documents remain the place for detail while this document remains the place for the complete set. Where another document restates a rule, that restatement is explanatory, not a second source of truth; if the wording drifts, the statement here governs. Only the Project Constitution has authority over this document.
@@ -319,6 +357,7 @@ This document is the master list of canon rules and holds precedence for the wor
 - The Audio Bible elaborates acoustic identity, silence, and sound as progression.
 - The Accessibility Bible elaborates accessibility as standard equipment.
 - The Crew Progression System design note elaborates the crew relevance, belonging, sound, and community rules.
+- The Crew Progression System and the Operation One Character Schedule elaborate the Vale System, its four members, and how fronting is recognized in play.
 - The Decision Log records when each rule was adopted or amended.
 
 Whenever a rule here changes, the elaborating documents must be checked for consistency.

@@ -541,7 +541,7 @@ Teach collaborative leadership.
 
 Different members of the Vale System naturally lead different situations.
 
-The player gradually recognizes each member by voice rather than introduction.
+The player gradually recognizes each member by behavior rather than introduction, reading voice, manner, and priorities rather than being told who is fronting.
 
 ## Sound Progression
 
