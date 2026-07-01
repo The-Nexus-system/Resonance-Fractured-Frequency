@@ -508,19 +508,19 @@ Every recurring character has a complete presentation profile that serves as the
 
 Each profile covers the following.
 
-- Physical presentation, including clothing.
-- Visual identity.
+- Physical appearance, clothing, and equipment.
+- Accessibility devices.
 - Audio identity, voice, accent, and speech rhythm.
+- Movement and environmental sound.
 - A blind-friendly, audio-first description.
+- Professional habits.
+- Civilian presentation.
+- Emergency presentation.
+- Visual identity.
 - Everyday carry.
-- Professional equipment and habits.
-- Accessibility equipment.
 - Communication methods.
-- Environmental cues and sound.
 - Typical movement.
 - Typical posture.
-- Off-duty presentation.
-- Emergency presentation.
 - Mission presentation.
 - Recognition cues.
 
