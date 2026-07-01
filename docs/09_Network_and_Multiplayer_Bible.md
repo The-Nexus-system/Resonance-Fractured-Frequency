@@ -30,7 +30,7 @@ The world never pauses because a player disconnects or logs out. A returning pla
 
 The world, not the player, hosts the game. The persistent entities are the stations, settlements, expeditions, communities, research missions, and recovery efforts, and they continue existing when any individual player leaves. A player who enters a world joins an existing civilization rather than opening a lobby or creating one, so residents already know one another, projects are already underway, and research is already progressing.
 
-Every persistent world accumulates its own history, infrastructure, community Knowledge Archive, rescued crew, community projects, accessibility improvements, engineering upgrades, memorials, and culture. Players contribute to that history and leave it richer, but never own it.
+Every persistent world accumulates its own history, infrastructure, community Knowledge Archive, rescued crew, community projects, accessibility improvements, engineering upgrades, memorials, and culture. Players contribute to that history and leave it richer, but never own it. This community Knowledge Archive is the world's shared record and is distinct from a player's personal archive, which remains the player's own as described under synchronization.
 
 ## Protected personal spaces
 
