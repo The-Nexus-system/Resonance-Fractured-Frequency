@@ -60,11 +60,17 @@ Accessibility technology is standard equipment aboard human vessels.
 
 Crew members customize interfaces rather than requesting permission to use them.
 
-## Every Location Has an Acoustic Identity
+## Everything Has an Acoustic Identity
 
-Every major location has an identifiable acoustic identity.
+Every object, creature, environment, vehicle, tool, article of clothing, building, and technology in the Resonance universe possesses a deliberate acoustic identity, and silence is also an acoustic identity.
 
-Players should eventually recognize locations by sound before dialogue confirms where they are.
+If a player closes their eyes, they should still be able to learn where they are, what is happening, who is nearby, what tools are being used, what vehicle is approaching, and what emotional state the environment conveys.
+
+Audio is never decorative. Audio is part of the world's physical reality, and every sound communicates information.
+
+Every major location has an identifiable acoustic identity, and players should eventually recognize locations by sound before dialogue confirms where they are.
+
+The deliberate use of quiet is governed by the rule that silence is a deliberate storytelling tool.
 
 ## Silence Is a Deliberate Storytelling Tool
 
@@ -710,7 +716,7 @@ This document is the master list of canon rules and holds precedence for the wor
 - The Campaign Bible elaborates the chapter and Operation One perspective rules.
 - The Systems Bible elaborates how mechanics are introduced and how systems reinforce the themes.
 - The Knowledge Archive Bible elaborates how knowledge changes gameplay.
-- The Audio Bible elaborates acoustic identity, silence, and sound as progression.
+- The Audio Bible elaborates acoustic identity, silence, the comprehensive sound libraries, and sound as progression.
 - The Accessibility Bible elaborates accessibility as standard equipment.
 - The Network and Multiplayer Bible elaborates world persistence, the world as host, player residency, protected personal spaces, and safe logout and return.
 - The Crew Progression System design note elaborates the crew relevance, belonging, sound, and community rules.
