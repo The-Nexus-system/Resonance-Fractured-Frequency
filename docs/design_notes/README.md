@@ -7,3 +7,4 @@ When an idea here is approved, move it into the relevant Bible or standards docu
 ## Contents
 
 - [Accessibility Lab](accessibility_lab.md) — prototyping space for emerging accessibility technology.
+- [Operation One: Exodus — Chapter One (Maintenance Perspective)](operation_one_exodus_maintenance_chapter_one.md) — the first playable prologue: a week aboard CSV Hearth before the attack.
