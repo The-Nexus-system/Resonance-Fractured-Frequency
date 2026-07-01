@@ -659,6 +659,39 @@ Every crew member also carries an encrypted personal beacon integrated into thei
 
 The Universe Bible elaborates this identification technology and the personal beacon in full.
 
+## Species Are Not Civilizations
+
+In Resonance, species and civilizations are never interchangeable. A species describes biology, and a civilization describes society. A species answers what kind of living being someone is, and a civilization answers how a people choose to live together.
+
+- A species is a people, biological or artificial, and is never a faction.
+- A civilization is a social, political, and cultural organization.
+- A single species may develop many civilizations.
+- A civilization may include one species, many species, artificial intelligences, synthetic life, or hybrid communities.
+
+A species defines only biology and the lived experience that grows from it, and never determines government, culture, religion, morality, politics, economics, art, language, architecture, or values, which belong to civilizations. No single civilization represents an entire species, and no species is treated as sharing one culture or one government.
+
+## No People Exist Only as Enemies or Stereotypes
+
+No species exists solely to be an enemy, and no civilization exists solely to create conflict. Conflict in the Resonance universe arises from history, circumstance, competing needs, and individual decisions, never from biology alone.
+
+Every civilization should feel capable of producing the full range of people who make up any real society.
+
+- Scientists.
+- Teachers.
+- Children.
+- Artists.
+- Engineers.
+- Doctors.
+- Maintenance workers.
+- Caretakers.
+- Musicians.
+- Leaders.
+- Volunteers.
+- Families.
+- Ordinary citizens.
+
+The Resonance universe is populated by societies of people rather than by stereotypes. This rule extends the same principle applied to the recurring human cast to every species and civilization in the universe.
+
 ## Relationship to Other Documents
 
 This document is the master list of canon rules and holds precedence for the wording of a rule. Several rules are elaborated in depth elsewhere, and those documents remain the place for detail while this document remains the place for the complete set. Where another document restates a rule, that restatement is explanatory, not a second source of truth; if the wording drifts, the statement here governs. Only the Project Constitution has authority over this document.
@@ -673,6 +706,7 @@ This document is the master list of canon rules and holds precedence for the wor
 - The Crew Progression System design note elaborates the crew relevance, belonging, sound, and community rules.
 - The Crew Progression System, the Operation One Character Schedule, and the Universe Bible elaborate the recurring characters, the Vale System and its four members, how fronting is recognized in play, and how each character's identity, representation, and presentation are realized.
 - The Universe Bible elaborates the crew identity and identification technology and the personal beacon.
+- The Universe Bible is the definitive reference for every intelligent species and civilization, and it elaborates the species and civilization frameworks, humanity, the CSV Hearth community, the Shawabti, artificial minds, first contact, and multi-species communities.
 - The Player Identity and Character Presentation Bible elaborates each recurring character's complete presentation profile and everyday carry, the presentation of the Vale System and its members, and the recognition cues by which each character is known.
 - The Decision Log records when each rule was adopted or amended.
 
