@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "f4fTWtlNC6IVPI-Un8UGM"
+uri = "file://exports/resonance_design_report.md"
+type = "text"
+title = "Resonance Design Report (chapter questions + Chapter Two)"

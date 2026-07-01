@@ -1,1 +1,2 @@
 - [GitHub push via API](github-push.md) — this repo is pushed to GitHub via the Git Data API (not Replit's git panel); how it works and why size=0 is not empty.
+- [Resonance canon spine](resonance-canon-spine.md) — Campaign Bible is canonical for the Operation One chapter question spine + design rule; Ch3–7 titles NOT yet locked; a divergent backbone note exists.
