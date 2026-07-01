@@ -86,9 +86,21 @@ Consequences become part of the continuing story.
 
 ## Knowledge Must Always Change Something
 
-Knowledge never exists only as collectible lore.
+Knowledge never exists only as collectible lore. Knowledge must always produce action.
 
-Every Knowledge Archive entry must eventually change gameplay, dialogue, exploration, diplomacy, accessibility, relationships or player understanding.
+Every Knowledge Archive entry, and every major historical discovery, must eventually change at least one of the following:
+
+- Dialogue.
+- Exploration.
+- Engineering.
+- Medicine.
+- Leadership.
+- Diplomacy.
+- Accessibility.
+- Research.
+- Relationships.
+- Community life.
+- Player understanding.
 
 If knowledge changes nothing, it should not exist.
 
@@ -295,21 +307,6 @@ These are never displayed as numerical scores. They quietly influence:
 - Historical interpretation.
 
 The player is never told they played correctly. The world simply remembers how they chose to build civilization. The player does not become good or bad. The player becomes known for how they think.
-
-## Knowledge Must Always Produce Action
-
-Knowledge must always produce action. Every major historical discovery should eventually change at least one of the following:
-
-- Dialogue.
-- Exploration.
-- Engineering.
-- Medicine.
-- Leadership.
-- Accessibility.
-- Research.
-- Community life.
-
-If knowledge changes nothing, it should not exist.
 
 ## Relationship to Other Documents
 
