@@ -43,6 +43,7 @@ The living documents are stored in `docs/`. Read them in order for a full pictur
 - [Glossary](docs/12_Glossary.md) — shared vocabulary.
 - [Open Questions](docs/13_Open_Questions.md) — decisions still to be made.
 - [Playtesting Bible](docs/14_Playtesting_Bible.md) — accessibility testing as a first-class discipline.
+- [Canon Rules](docs/15_Canon_Rules.md) — the consolidated master list of canon rules the game must honor.
 - [Design Notes](docs/design_notes/) — early ideas that are not yet canon.
 
 ## Repository layout
