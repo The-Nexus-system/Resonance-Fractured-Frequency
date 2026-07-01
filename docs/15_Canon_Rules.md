@@ -267,6 +267,35 @@ Resources support these discoveries. Resources are never the primary reward.
 
 Every expedition must answer one important question, and every expedition must create at least two new questions. Understanding should continually expand, and curiosity should always outpace certainty. The player should finish every expedition knowing more than before while realizing there is still far more left to discover.
 
+## Every Expedition Records How the Player Approached Discovery
+
+Every major expedition records how the player approached discovery. The game never scores morality. Instead it records philosophy.
+
+Possible expedition philosophies include:
+
+- Curiosity.
+- Preparation.
+- Preservation.
+- Collaboration.
+- Leadership.
+- Scientific investigation.
+- Engineering.
+- Compassion.
+- Historical preservation.
+- Accessibility.
+
+These are never displayed as numerical scores. They quietly influence:
+
+- Crew dialogue.
+- Knowledge Archive entries.
+- Resonance responses.
+- Future advisor recommendations.
+- Environmental storytelling.
+- Optional missions.
+- Historical interpretation.
+
+The player is never told they played correctly. The world simply remembers how they chose to build civilization. The player does not become good or bad. The player becomes known for how they think.
+
 ## Relationship to Other Documents
 
 This document is the master list of canon rules and holds precedence for the wording of a rule. Several rules are elaborated in depth elsewhere, and those documents remain the place for detail while this document remains the place for the complete set. Where another document restates a rule, that restatement is explanatory, not a second source of truth; if the wording drifts, the statement here governs. Only the Project Constitution has authority over this document.

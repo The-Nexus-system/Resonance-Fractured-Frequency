@@ -13,4 +13,5 @@ Approved design notes are canon. Detailed chapter designs and the crew progressi
 - [Operation One: Exodus — Chapter Two (Maintenance Perspective)](operation_one_exodus_maintenance_chapter_two.md) — canon. Roll Call: rebuilding the first crew one rescue at a time.
 - [Operation One: Exodus — Chapter Three (Maintenance Perspective)](operation_one_exodus_maintenance_chapter_three.md) — canon. Community: the transition from survival to civilization, taught through choice-driven daily life.
 - [Operation One: Exodus — Chapter Four (Maintenance Perspective)](operation_one_exodus_maintenance_chapter_four.md) — canon. Salvage: the expedition loop of preparing, departing, exploring, recovering, and returning home to Hearth.
+- [Operation One: Exodus — Chapter Five (Maintenance Perspective)](operation_one_exodus_maintenance_chapter_five.md) — canon. First Contact: the first preserved Shawabti site, and the player's first lesson in Resonance.
 - [Crew Progression System](crew_progression_system.md) — canon. Franchise-wide reference for how each crew member changes gameplay, sound, knowledge, and accessibility.
