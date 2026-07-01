@@ -1,0 +1,9 @@
+# Design Notes
+
+This folder holds early ideas and experiments that are not yet canon. Design notes are a safe place to develop concepts before they mature enough to become part of the core living documents.
+
+When an idea here is approved, move it into the relevant Bible or standards document and record the decision in the Decision Log. Until then, nothing in this folder is binding.
+
+## Contents
+
+- [Accessibility Lab](accessibility_lab.md) — prototyping space for emerging accessibility technology.

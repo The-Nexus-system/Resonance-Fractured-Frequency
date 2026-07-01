@@ -1,47 +1,74 @@
-# Resonance: Fractured Frequency
+# Resonance
 
-An accessibility-first, mobile-first web game — the foundation for a future native mobile title. Built with React + Vite + TypeScript.
+Resonance is a science-fiction game franchise whose primary rendering engine is sound. It is designed so that blind, low-vision, and sighted players can all enjoy it equally. Accessibility is the foundation of the universe, not a feature added at the end.
 
-Resonance is a calm puzzle game about aligning frequencies. Accessibility is a **core design principle**, not an afterthought: every puzzle is conveyed through multiple senses at once so it is playable by blind, low-vision, Deaf/hard-of-hearing, AAC, and neurodivergent players.
+This repository is the single source of truth for the project. Every approved design decision lives in the Markdown documents inside `docs/`, not only in chat. Future decisions are made by editing these living documents rather than starting a new conversation.
 
-## Accessibility features
+## Campaign One
 
-- **Screen-reader-first**: ARIA live regions announce every game state change; semantic headings and landmarks throughout.
-- **Full keyboard navigation**: visible focus indicators, skip-to-content, no mouse required.
-- **Multi-sensory redundancy**: each puzzle is presented as text **and** a labeled shape (never color alone) **and** an optional audio tone with captions.
-- **AAC-friendly** large icon + text choice buttons.
-- **Live, persisted settings**: text size, high contrast, reduce motion, captions, sound, colorblind-safe palette, dyslexia-friendly font, and larger touch targets. OS `prefers-reduced-motion` / `prefers-contrast` are respected.
-- **Low cognitive load**: clear one-task-at-a-time flow with progress indicators.
+The first campaign is Resonance: Fractured Frequency.
 
-## Architecture
+## What Resonance is
 
-- **Modular campaign registry** (`src/lib/campaigns.ts`) — new campaigns drop in without changing the screens.
-- **Local-first saves** (`src/lib/settings.ts`) via `localStorage`, structured so cloud sync can be added later without touching the UI.
-- **Accessibility provider** (`src/components/a11y-provider.tsx`) applies settings globally and manages announcements.
+Resonance is not "an audio game." It is a AAA science-fiction experience whose world is rendered primarily through sound. Visuals enhance the experience but are never required. The game must be equally enjoyable for blind, low-vision, and sighted players.
 
-## Project structure
+## Core philosophy
 
-This is a pnpm monorepo. The game lives in `artifacts/resonance`.
+- Audio is gameplay.
+- Story teaches mechanics.
+- Accessibility is foundational.
+- Perspective creates replayability.
+- Knowledge is progression.
+- The AI is a character.
+- Technology exists to serve people.
+- Curiosity is always rewarded.
+- Every meaningful decision gains something while sacrificing something.
+- Players should feel remembered.
 
-```
-artifacts/resonance/     # the game (React + Vite)
-  src/
-    App.tsx              # router
-    pages/               # Menu, Campaigns, Play, Settings, About
-    components/          # a11y-provider and UI
-    lib/                 # settings (saves) + campaigns registry
-lib/                     # shared workspace libraries
-```
+## Documentation
 
-## Getting started
+The living documents are stored in `docs/`. Read them in order for a full picture, or jump to the area you need.
+
+- [Project Constitution](docs/01_Project_Constitution.md) — how this project is governed and documented.
+- [Universe Bible](docs/02_Universe_Bible.md) — the Shawabti, Faience, and story canon.
+- [Campaign Bible](docs/03_Campaign_Bible.md) — the franchise, campaign one, and Operation Exodus.
+- [Systems Bible](docs/04_Systems_Bible.md) — controls, movement, combat, flight, and reality integration.
+- [Knowledge Archive Bible](docs/05_Knowledge_Archive_Bible.md) — how learning becomes progression.
+- [AI Bible](docs/06_AI_Bible.md) — Faience as a character and AI integration.
+- [Audio Bible](docs/07_Audio_Bible.md) — sound as the primary renderer of the world.
+- [Accessibility Bible](docs/08_Accessibility_Bible.md) — the accessibility foundation and player interview.
+- [Network and Multiplayer Bible](docs/09_Network_and_Multiplayer_Bible.md) — cooperation, sync, and shared play.
+- [Code Standards](docs/10_Code_Standards.md) — engineering standards and platform targets.
+- [Decision Log](docs/11_Decision_Log.md) — approved decisions over time.
+- [Glossary](docs/12_Glossary.md) — shared vocabulary.
+- [Open Questions](docs/13_Open_Questions.md) — decisions still to be made.
+- [Design Notes](docs/design_notes/) — early ideas that are not yet canon.
+
+## Repository layout
+
+- `docs/` — living design documents, the single source of truth.
+- `docs/design_notes/` — early ideas and experiments not yet promoted to canon.
+- `assets/` — art, audio, and other media assets.
+- `src/` — application source code.
+- `tests/` — automated tests.
+- `tools/` — developer tooling and scripts.
+
+The current playable web prototype lives in the pnpm monorepo under `artifacts/resonance`. See [Code Standards](docs/10_Code_Standards.md) for how the prototype relates to the shared-codebase goal.
+
+## Running the current web prototype
 
 ```bash
 pnpm install
-pnpm --filter @workspace/resonance run dev        # start the game
-pnpm --filter @workspace/resonance run typecheck  # type check
-pnpm --filter @workspace/resonance run build      # production build
+pnpm --filter @workspace/resonance run dev
+pnpm --filter @workspace/resonance run typecheck
+pnpm --filter @workspace/resonance run build
 ```
 
-## AI / ChatGPT access
+## Documentation rules
 
-The repository is the source of truth for inspection and updates. Point ChatGPT's GitHub connector (or Codex) at this public repo to review or propose changes via branches / pull requests.
+- Every document uses proper Markdown headings.
+- Every document must be navigable by screen readers.
+- Never use bold text in place of a heading.
+- Avoid unnecessary tables.
+- Maintain one living document per file. Never create competing versions.
+- GitHub provides the version history.

@@ -1,0 +1,135 @@
+# RESONANCE PROJECT ANCHOR
+
+The project has moved beyond brainstorming.
+
+The GitHub repository is the project's single source of truth.
+
+Every approved design decision belongs inside the Markdown documentation, not only in chat.
+
+Do not continue brainstorming until the repository structure and living documents exist.
+
+Repository:
+
+The-Nexus-system/resonance-fractured-frequency
+
+Repository Structure
+
+README.md
+
+/docs/
+
+01_Project_Constitution.md
+
+02_Universe_Bible.md
+
+03_Campaign_Bible.md
+
+04_Systems_Bible.md
+
+05_Knowledge_Archive_Bible.md
+
+06_AI_Bible.md
+
+07_Audio_Bible.md
+
+08_Accessibility_Bible.md
+
+09_Network_and_Multiplayer_Bible.md
+
+10_Code_Standards.md
+
+11_Decision_Log.md
+
+12_Glossary.md
+
+13_Open_Questions.md
+
+design_notes/
+
+/assets/
+
+/src/
+
+/tests/
+
+/tools/
+
+Every document must use proper Markdown headings.
+
+Every document must be navigable by screen readers.
+
+Never use bold text instead of headings.
+
+Avoid unnecessary tables.
+
+GitHub provides version history.
+
+Maintain one living document for each file.
+
+Never create competing versions.
+
+Franchise
+
+Resonance
+
+Campaign One
+
+Resonance: Fractured Frequency
+
+Resonance is not "an audio game."
+
+It is a AAA science-fiction game whose primary rendering engine is sound.
+
+Accessibility is the foundation of the universe.
+
+Audio is the primary renderer of the world.
+
+Visuals enhance the experience but are never required.
+
+The game must be equally enjoyable for blind, low-vision and sighted players.
+
+Core Philosophy
+
+Audio is gameplay.
+
+Story teaches mechanics.
+
+Accessibility is foundational.
+
+Perspective creates replayability.
+
+Knowledge is progression.
+
+The AI is a character.
+
+Technology exists to serve people.
+
+Curiosity is always rewarded.
+
+Every meaningful decision gains something while sacrificing something.
+
+Players should feel remembered.
+
+The project explores:
+
+identity
+
+adaptation
+
+disability
+
+history
+
+trust
+
+memory
+
+privacy
+
+survival
+
+artificial intelligence
+
+ethics
+
+through interactive gameplay rather than lectures.

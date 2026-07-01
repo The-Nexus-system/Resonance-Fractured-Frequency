@@ -1,0 +1,435 @@
+# RESONANCE PROJECT ANCHOR
+
+## Part 3 — Gameplay, Controls, Audio and Reality Integration
+
+Platforms
+
+Native:
+
+iOS
+
+Android
+
+Desktop:
+
+Windows
+
+macOS
+
+Linux
+
+Browser:
+
+Modern web browsers
+
+One shared codebase.
+
+Native mobile applications.
+
+Never ship simple web wrappers.
+
+--------------------------------------------------
+
+Control Philosophy
+
+The game is mobile-first.
+
+Every gameplay mechanic must be fully playable using touch alone.
+
+No keyboard required.
+
+No controller required.
+
+No braille display required.
+
+No screen reader required.
+
+The game provides its own spoken interface while allowing players to choose between the game's speech and their own screen reader where appropriate.
+
+Players may fully customize gestures.
+
+--------------------------------------------------
+
+Touch Controls
+
+Single-finger drag
+
+Turns the player's head while continuously updating spatial audio.
+
+Two-finger drag
+
+Moves the player.
+
+Double tap
+
+Interact.
+
+Double tap and hold
+
+Context interaction.
+
+Long press
+
+Scan surroundings.
+
+Three-finger swipe
+
+Cycle interaction modes.
+
+Three-finger double tap
+
+Repeat Faience's last message.
+
+Two-finger double tap
+
+Pause.
+
+Four-finger tap
+
+Accessibility menu.
+
+These are starting defaults.
+
+Every gesture must be re-bindable.
+
+--------------------------------------------------
+
+Perspective Audio
+
+Every profession hears the same event differently.
+
+The sound mix changes.
+
+Dialogue changes.
+
+Vocabulary changes.
+
+The AI changes.
+
+Examples:
+
+Medic hears:
+
+pulse
+
+respiration
+
+blood loss
+
+triage
+
+shock
+
+evacuation
+
+Engineer hears:
+
+power routing
+
+reactor load
+
+heat
+
+pressure
+
+hull stress
+
+Scientist hears:
+
+energy signatures
+
+anomalies
+
+signal analysis
+
+artifact behaviour
+
+Security hears:
+
+enemy movement
+
+weapon reports
+
+cover
+
+Officer hears:
+
+crew status
+
+chain of command
+
+evacuation priorities
+
+Maintenance hears:
+
+vents
+
+access panels
+
+ducts
+
+backup systems
+
+Civilian hears:
+
+fear
+
+confusion
+
+public announcements
+
+family
+
+The player should eventually recognize another player's profession simply by listening.
+
+--------------------------------------------------
+
+Dynamic Soundscape
+
+Sound is gameplay.
+
+Every sound communicates information.
+
+Examples include:
+
+Footsteps
+
+Hull vibration
+
+Air leaks
+
+Electrical failures
+
+Weapons
+
+Radio traffic
+
+Engines
+
+Alien wildlife
+
+Machines
+
+Every sound should teach something.
+
+--------------------------------------------------
+
+Adaptive Music
+
+Music reacts to:
+
+danger
+
+hope
+
+loss
+
+victory
+
+trust
+
+AI integration
+
+discovery
+
+psychological state
+
+wonder
+
+The soundtrack tells part of the story.
+
+--------------------------------------------------
+
+Reality Integrated Gameplay
+
+Real-world movement may optionally become gameplay.
+
+The real world becomes the controller.
+
+Players may use:
+
+walking
+
+running
+
+manual wheelchair
+
+power wheelchair
+
+guide dog
+
+white cane
+
+indoor treadmill
+
+stationary touch controls
+
+No player should ever be excluded because of disability.
+
+Every movement mechanic must have a stationary alternative.
+
+--------------------------------------------------
+
+Environmental Transformation
+
+Faience narratively transforms the real world.
+
+Examples:
+
+Sidewalk becomes ship corridors.
+
+Gravel becomes wreckage, asteroid fields or alien ruins.
+
+Grass becomes alien vegetation.
+
+Doorways become airlocks.
+
+Bridges become docking gantries.
+
+Turning onto another street may become changing course in space.
+
+Turning physically may rotate an escape pod or spacecraft.
+
+The player remains safely in the real world while mentally exploring the game world.
+
+--------------------------------------------------
+
+Terrain-Based Discovery
+
+Real-world environmental changes may trigger discoveries.
+
+Examples:
+
+Gravel
+
+salvage
+
+wreckage
+
+rare minerals
+
+alien technology
+
+historical archives
+
+survivors
+
+Turning onto a new street
+
+new sector
+
+new system
+
+new objective
+
+Park
+
+alien world
+
+forest
+
+ancient ruins
+
+The player's surroundings inspire exploration.
+ --------------------------------------------------
+
+Combat
+
+Combat should feel cinematic.
+
+Players locate enemies using:
+
+3D spatial audio
+
+weapon reports
+
+footsteps
+
+radio chatter
+
+Faience callouts
+
+ship vibration
+
+environmental echoes
+
+Haptics reinforce important information.
+
+--------------------------------------------------
+
+Flight
+
+Escape pods, fighters and capital ships share one control philosophy.
+
+Faience announces:
+
+bearing
+
+velocity
+
+incoming fire
+
+target lock
+
+friendly ships
+
+obstacles
+
+proximity
+
+The player learns to fly by listening.
+
+--------------------------------------------------
+
+Boarding and Exploration
+
+Players board:
+
+enemy ships
+
+derelicts
+
+space stations
+
+alien ruins
+
+abandoned colonies
+
+Exploration relies on:
+
+sound
+
+conversation
+
+objects
+
+ship logs
+
+environmental storytelling
+
+archives
+
+Faience should rarely explain everything immediately.
+
+Discovery is part of the gameplay.
+
+--------------------------------------------------
+
+Emotional Pillars
+
+Wonder.
+ Isolation.
+
+Trust.
+
+Discovery.
+
+Responsibility.
+
+Adaptation.
+
+Belonging.
+
+Curiosity.
+
+Every major mission should reinforce at least one of these.
