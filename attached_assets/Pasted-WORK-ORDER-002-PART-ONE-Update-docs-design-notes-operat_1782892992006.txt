@@ -1,0 +1,548 @@
+WORK ORDER 002 — PART ONE
+
+Update:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_two.md
+
+Use proper Markdown headings.
+
+Do not summarize.
+
+Do not shorten.
+
+Do not convert into code.
+
+This document is a gameplay design document.
+
+# Operation One: Exodus
+
+# Chapter Two: Roll Call
+
+## Purpose
+
+Chapter Two begins immediately where Chapter One ends.
+
+There is no loading screen.
+
+There is no mission complete screen.
+
+The player experiences the destruction of CSV Hearth continuously.
+
+The emotional goal of Chapter Two is to transform isolation into community.
+
+The player begins alone.
+
+By the end of the chapter the player has rebuilt the beginnings of a crew.
+
+Unlike Chapter One, which teaches life aboard Hearth, Chapter Two teaches survival after losing Hearth.
+
+The player is never rewarded simply for reaching an objective.
+
+The player is rewarded when another human being comes home.
+
+Every rescue changes both gameplay and the living soundscape.
+
+---
+
+# Emotional Themes
+ Chapter Two should reinforce:
+
+Isolation
+
+Shock
+
+Hope
+
+Responsibility
+
+Community
+
+Adaptation
+
+Persistence
+
+Every mechanic introduced during Chapter Two should reinforce one of these emotional themes.
+
+---
+
+# Gameplay Philosophy
+
+Combat is not the focus.
+
+Rescue is the focus.
+
+Exploration is the focus.
+
+Listening is the focus.
+
+People are progression.
+
+Every rescued crew member permanently expands gameplay.
+
+The player should never feel as though they are collecting NPCs.
+
+Instead they should feel they are rebuilding a community.
+
+---
+
+# Accessibility Philosophy
+
+Accessibility remains invisible in the sense that it is fully integrated into society.
+
+Nobody aboard Hearth comments on adaptive equipment.
+
+Nobody explains accessibility technology.
+
+It simply exists because this is how humanity has learned to build inclusive spacecraft.
+
+Every interaction should reinforce that disabled people have always belonged aboard Hearth.
+
+---
+
+# Canon Rules
+
+CSV Hearth cannot be repaired.
+
+Hearth is gone.
+
+Large pieces remain in space as debris.
+
+Some sections remain pressurized.
+
+Some remain powered.
+
+Many become future exploration locations.
+
+The player never rebuilds Hearth.
+
+The player builds something new.
+
+---
+
+# Beginning State
+
+The player is inside a damaged escape pod.
+
+The pod is operational but unstable.
+
+Power is limited.
+
+Life support is functioning.
+
+Communications are intermittent.
+
+The cracked helmet survived.
+
+Faience has not awakened.
+
+The player has only basic emergency equipment.
+
+Outside:
+
+Fragments of CSV Hearth drift silently through surrounding space.
+
+---
+
+# Part One
+
+## The Silence After
+
+### Purpose
+
+Teach the player what survival sounds like.
+
+Immediately establish that life aboard Hearth is over.
+
+Contrast Chapter One's rich living soundscape with profound isolation.
+
+---
+
+### Opening
+
+The chapter begins exactly where Chapter One ended.
+
+General Quarters.
+
+Impact.
+
+Violent acceleration.
+
+Metal tearing.
+
+The escape pod launches.
+
+For several seconds the player loses orientation.
+
+No interface appears.
+
+The player experiences confusion exactly as their character does.
+
+---
+
+### Sound Design
+
+Initially the player hears:
+
+Rapid breathing.
+
+Heartbeat.
+
+Emergency alarms.
+
+Loose equipment striking the hull.
+
+Rotational movement.
+
+Then...
+
+One by one...
+
+The alarms begin shutting down.
+
+The heartbeat slows.
+
+Only ventilation remains.
+
+Then the pod computer begins translating sensor information into audio.
+
+Space is not silent.
+
+The player hears translated sensor information.
+
+Examples include:
+
+Nearby debris.
+
+Relative movement.
+
+Radiation.
+
+Beacon pulses.
+
+Rotational drift.
+
+Mass detection.
+
+These are translated into meaningful sound rather than realistic vacuum audio.
+
+This becomes one of Resonance's core mechanics.
+
+---
+
+### Mechanics Introduced
+
+Player orientation.
+
+Escape pod stabilization.
+
+Emergency battery management.
+
+Life support awareness.
+
+Basic thrust control.
+
+Rotational control.
+
+Orientation Layer activation.
+
+Replay last spoken instruction.
+
+Environmental audio balancing.
+
+---
+
+### Accessibility
+
+If captions are enabled, every translated environmental sound should also appear descriptively.
+
+If DeafBlind settings are enabled, important translated sounds should also be available through tactile output.
+
+Players using headphones, hearing aids, cochlear implants or open speakers retain independent volume controls configured during onboarding.
+
+---
+
+### Emotional Goal
+
+The player should feel:
+
+Confused.
+
+Small.
+
+Alone.
+
+But alive.
+
+---
+
+### End Condition
+
+The pod becomes stable.
+
+Emergency systems report operational status.
+
+A prompt suggests activating the emergency beacon.
+
+No NPC has yet answered.
+
+---
+
+# Part Two
+
+## Roll Call
+
+### Purpose
+
+Teach communication.
+
+Teach search.
+
+Teach hope.
+
+The player begins searching for survivors.
+
+Not everyone answers.
+
+The player must experience uncertainty.
+
+---
+
+### Sound Design
+
+Static.
+
+Emergency beacons.
+
+Automated distress loops.
+
+Corrupted transmissions.
+ Broken voices.
+
+Silence.
+
+Occasional debris impacts.
+
+The player should realize that many people aboard Hearth did not survive.
+
+---
+
+### Mechanics Introduced
+
+Emergency beacon activation.
+
+Beacon listening mode.
+
+Signal filtering.
+
+Signal strength interpretation.
+
+Bearing estimation.
+
+Long-range scanning.
+
+Replay previous transmission.
+
+Bookmark signal.
+
+Ignore signal.
+
+Prioritize signal.
+
+---
+
+### Gameplay
+
+The player begins calling survivors.
+
+Most channels remain silent.
+
+Some transmit only automated emergency messages.
+
+Some signals disappear before they can be reached.
+
+Some are already too late.
+
+The game should avoid confirming every outcome.
+
+Uncertainty is emotionally important.
+
+Eventually...
+
+A familiar voice.
+
+Not dramatic.
+
+Not shouted.
+
+Simply tired.
+
+"...Maintenance..."
+
+Pause.
+
+"...Rowan..."
+
+Long pause.
+
+"...Anybody..."
+
+The player immediately recognizes Rowan because they spent an entire week working with him during Chapter One.
+
+---
+
+### Emotional Goal
+
+The first familiar voice should immediately reduce the player's sense of isolation.
+
+Hope returns before safety does.
+
+---
+
+### End Condition
+
+The player locks onto Rowan's beacon.
+
+Navigation begins.
+
+---
+
+# Part Three
+
+## Closing The Distance
+
+### Purpose
+
+Teach movement through open space.
+
+Teach momentum.
+
+Teach precision.
+
+Teach that rescue requires patience rather than speed.
+
+---
+
+### Gameplay
+
+The player must physically reach Rowan.
+
+No automatic navigation exists.
+
+The player learns:
+
+Thrust.
+
+Drift.
+
+Momentum.
+
+Relative velocity.
+
+Collision avoidance.
+
+Rotational alignment.
+
+Safe approach.
+
+---
+
+### Environment
+
+The journey passes through debris from Hearth.
+
+Examples include:
+
+Cargo containers.
+
+Destroyed maintenance equipment.
+
+Children's toys.
+
+Medical supplies.
+
+Pieces of hallway.
+
+Emergency lights still blinking.
+
+Hydroponic plants drifting through space.
+
+Personal belongings.
+
+These objects remind the player that Hearth was a home rather than merely a spacecraft.
+
+---
+
+### Sound Design
+
+Slow rotation.
+
+Small debris impacts.
+
+Beacon strength increasing.
+
+Hull resonance.
+
+Occasional emergency broadcasts.
+
+Very distant explosions.
+
+No music.
+
+Allow isolation to dominate.
+
+---
+
+### Accessibility
+
+Orientation Layer continuously provides optional heading reminders.
+
+Players may request destination information at any time.
+
+Examples:
+
+"Rowan Ives.
+
+Bearing zero-eight-seven.
+
+Distance three hundred twelve metres.
+
+Relative closing speed safe."
+
+Blind players should never lose orientation because of free movement.
+
+The player should always be able to request current heading and destination without interrupting gameplay.
+
+---
+
+### Rowan Communication
+
+As the player approaches, Rowan occasionally transmits.
+
+His speech remains practical.
+
+He is trying to solve problems while waiting.
+
+Examples include discussing hull damage, checking life support, or reminding the player not to rush the approach.
+
+He sounds like the same mentor the player worked with during Chapter One.
+ ---
+
+### Emotional Goal
+
+By the end of Part Three the player should no longer feel completely alone.
+
+Someone is waiting.
+
+Someone knows them.
+
+Someone believes they are coming.
+
+---
+
+### End Condition
+
+The player reaches visual and sensor range of Rowan's escape pod.
+
+Docking has not yet begun.
+
+Part Three ends as the player prepares to make first contact.

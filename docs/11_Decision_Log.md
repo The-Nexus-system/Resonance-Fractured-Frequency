@@ -71,3 +71,15 @@ The target repository structure separates applications from generated artifacts.
 ### Development direction: refine before expanding
 
 The project has moved from brainstorming into pre-production. From this point, every approved decision becomes an edit to an existing Markdown document, competing documents are avoided, and the existing documentation is refined before the scope of the game is expanded.
+
+### Chapter emotional loop is a canon design rule
+
+Every chapter introduces one major gameplay system, answers one major narrative question, and ends by asking a larger question than it answered. Gameplay progression and narrative progression must grow together, so the player becomes more capable for the same reason the story becomes more complex.
+
+### Operation One chapter question spine
+
+The seven chapters of Operation One follow a fixed question spine that grows from personal survival to civilization. Chapter One asks whether the player can save their home and answers no. Chapter Two asks whether the player can find their people and answers yes. Chapter Three asks whether the crew can survive together. Chapter Four asks whether they can build something worth protecting. Chapter Five asks who the Shawabti really were. Chapter Six asks why the Shawabti chose humanity. Chapter Seven asks what kind of civilization humanity will become.
+
+### Chapter Two design note authored
+
+The full part-by-part design for Chapter Two: Roll Call, from the Maintenance perspective, was written as a design note. Chapter Two begins continuously from Chapter One with no loading or mission-complete screen, teaches survival and rescue rather than combat, and establishes that people are progression. Its canon includes the fixed Maintenance rescue order, the reveal that the Vale System is one person, the naming of the improvised station built from escape pods and salvaged modules, and the opening of the Knowledge Archive.

@@ -48,7 +48,7 @@ Chapter One introduces ordinary life aboard the colony ship from the chosen prof
 
 ### Later chapters
 
-Later chapters gradually introduce the following, roughly in this order.
+Later chapters progressively introduce new systems while advancing the story. Systems introduced across later chapters include the following.
 
 - The boarding attack
 - Evacuation
@@ -57,6 +57,35 @@ Later chapters gradually introduce the following, roughly in this order.
 - Navigation through sound
 - Escape
 - Escape pod combat
+
+The shape of the later chapters follows the chapter question spine below. Detailed, part-by-part design for individual chapters lives in the design notes.
+
+### Detailed chapter design notes
+
+- [Chapter One: A Week Aboard Hearth (Maintenance Perspective)](design_notes/operation_one_exodus_maintenance_chapter_one.md)
+- [Chapter Two: Roll Call (Maintenance Perspective)](design_notes/operation_one_exodus_maintenance_chapter_two.md)
+
+## Chapter design rule
+
+Every chapter follows the same discipline so that gameplay and story grow together.
+
+- Every chapter must introduce one major gameplay system.
+- Every chapter must answer one major narrative question.
+- Every chapter must end by asking a larger question than it answered.
+- Gameplay progression and narrative progression must grow together.
+- The player should feel they are becoming more capable for the same reason the story is becoming more complex.
+
+## Chapter question spine
+
+Every chapter begins with a question and ends by asking a larger one. The progression grows from personal survival to civilization and gives the first campaign its narrative spine. The questions for Operation One are the following.
+
+- Chapter One: Can I save my home? The answer is no.
+- Chapter Two: Can I find my people? The answer is yes.
+- Chapter Three: Can we survive together?
+- Chapter Four: Can we build something worth protecting?
+- Chapter Five: Who were the Shawabti, really?
+- Chapter Six: Why did they choose humanity?
+- Chapter Seven: What kind of civilization will we become?
 
 ## Emotional pillars
 

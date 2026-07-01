@@ -1,0 +1,424 @@
+WORK ORDER 002 — PART TWO
+
+Continue:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_two.md
+
+Do not summarize.
+
+Maintain the pacing, emotional tone and detail established in Part One.
+
+# Part Four
+
+## First Dock
+
+### Purpose
+
+Teach docking.
+
+Teach trust.
+
+Teach that rescue is a careful process rather than a quick interaction.
+
+The player is rescuing a person, not collecting an objective.
+
+---
+
+### Beginning
+
+The player reaches Rowan's pod.
+
+The pod is rotating slowly.
+
+Its emergency beacon remains active.
+
+Life support is functioning but deteriorating.
+
+The player must observe before acting.
+
+Approaching too quickly can damage both pods.
+
+---
+
+### Mechanics Introduced
+
+Velocity matching.
+
+Rotational matching.
+
+Magnetic docking clamps.
+
+Emergency EVA.
+
+Hull inspection.
+
+Manual hatch access.
+
+Emergency cutting tools.
+
+Pressure equalization.
+
+Emergency decompression procedures.
+
+---
+
+### Accessibility
+
+The Orientation Layer continuously announces:
+
+Relative rotation.
+
+Closing speed.
+
+Dock alignment.
+
+Safe approach angles.
+
+Warnings should be descriptive rather than alarming.
+
+Players may replay docking instructions at any time.
+
+Blind players should be capable of docking independently.
+
+---
+
+### Environmental Audio
+
+The player hears:
+
+Metal creaking.
+
+Air escaping.
+
+Loose tools rolling.
+
+Hull strain.
+
+Emergency fans.
+
+Occasional electrical pops.
+
+Rowan moving inside.
+
+The sounds become clearer as docking progresses.
+
+---
+
+### Rowan
+
+Rowan does not panic.
+
+He continues solving problems while waiting.
+
+He occasionally reports:
+
+Remaining oxygen.
+
+Power status.
+
+Hull condition.
+
+He reminds the player:
+
+"Easy...
+
+Don't rush it.
+
+We only get one chance."
+
+His confidence reassures the player.
+
+---
+
+### Emotional Goal
+
+Docking should feel like helping a trusted mentor rather than completing a puzzle.
+
+---
+
+### End Condition
+
+Pods successfully dock.
+
+Pressure equalization begins.
+
+The player prepares to enter Rowan's pod.
+
+---
+
+# Part Five
+
+## Bringing Rowan Home
+ ### Purpose
+
+Teach boarding.
+
+Teach environmental problem solving.
+
+Teach that rescue continues after docking.
+
+---
+
+### Gameplay
+
+Rowan's pod remains dangerous.
+
+Possible problems include:
+
+Low oxygen.
+
+Minor hull breach.
+
+Jammed hatch.
+
+Loose equipment.
+
+Electrical hazards.
+
+The player must stabilize the environment before Rowan can safely transfer.
+
+---
+
+### Mechanics Introduced
+
+Pod entry.
+
+Interior scanning.
+
+Portable repair tools.
+
+Emergency environmental stabilization.
+
+Crew extraction.
+
+Emergency inventory transfer.
+
+---
+
+### Accessibility
+
+All hazards should have identifiable audio signatures.
+
+Players using tactile output receive hazard feedback through vibration.
+
+Players may replay Rowan's last instructions.
+
+---
+
+### Dialogue Philosophy
+
+Rowan continues behaving like a maintenance supervisor.
+
+He naturally explains what he is doing.
+
+He never lectures.
+
+Teaching happens through conversation while working.
+
+Example topics include:
+
+Temporary hull patches.
+
+Battery conservation.
+
+Emergency repairs.
+
+Tool organization.
+
+Salvage priorities.
+
+---
+
+### Emotional Goal
+
+The player should feel they are rescuing someone who immediately begins helping in return.
+
+---
+
+### End Condition
+
+Rowan transfers safely into the player's pod.
+
+No reward appears.
+
+No portrait lights.
+
+Nothing celebrates yet.
+
+---
+
+# Part Six
+
+## The First Home
+
+### Purpose
+
+Teach that people—not objectives—create progress.
+
+Introduce Resonance's progression philosophy.
+
+---
+
+### Gameplay
+
+After Rowan enters the pod...
+
+Nothing happens.
+
+The player is free to move around.
+
+Rowan immediately begins working.
+
+He asks where emergency tools were stored.
+
+He begins inspecting systems.
+
+The player hears him organizing equipment.
+
+Opening storage compartments.
+
+Sorting tools.
+
+Checking seals.
+
+Tightening fittings.
+
+Repairing leaks.
+
+Testing pressure.
+
+Replacing damaged components.
+
+The player is not asked to press a button.
+
+The player simply lives with another person again.
+
+---
+
+### Environmental Progression
+
+Over several minutes the environment changes naturally.
+
+Examples:
+
+Hull rattles become quieter.
+
+Ventilation becomes smoother.
+
+Electrical interference decreases.
+
+Emergency lighting stabilizes.
+
+Storage becomes organized.
+
+The pod simply feels safer.
+
+The player hears these changes before anything appears on screen.
+
+---
+
+### Canon Progression Rule
+
+A rescued crew member is not considered "home" when they enter the player's vessel.
+
+They become home when they begin contributing to the community.
+
+Only after the environment has changed...
+
+Only after Rowan has begun repairing the pod...
+
+A gentle confirmation tone sounds.
+
+Rowan's portrait illuminates.
+
+No text reads:
+
+"NPC Acquired."
+
+Instead the game quietly confirms:
+
+Rowan is now part of the crew.
+
+---
+
+### Mechanics Introduced
+
+Crew contribution.
+
+Passive NPC behavior.
+
+Living soundscape progression.
+
+Community growth.
+
+Crew abilities.
+
+Long-term upgrades.
+
+---
+
+### Emotional Goal
+
+The player should understand:
+
+People change places.
+
+Places become home because of people.
+
+---
+
+### Rowan's First Lesson
+
+Only after settling in does Rowan say something like:
+
+"We've got enough to keep breathing...
+
+Now let's see who else made it."
+
+This naturally transitions into the search for the next survivor.
+
+---
+
+### End Condition
+
+Rowan activates a stronger search array using salvaged maintenance equipment.
+
+A second emergency beacon is detected.
+
+It belongs to Mara Chen.
+
+The player hears something unusual before hearing her voice.
+
+Electrical relay chatter.
+
+Power fluctuations.
+
+Transformer hum.
+
+Intermittent arcing.
+
+Rowan smiles quietly.
+
+"That's Mara.
+
+Only one engineer I know can make a pod sound like it's arguing with itself."
+
+The player sets course toward Mara.
+
+Chapter continues.
+
+---
+
+# Design Notes
+
+Rowan should never become passive after rescue.
+
+He should constantly be heard repairing, organizing, improving and maintaining the growing station.
+
+His presence should permanently alter the audio environment.
+
+Players should come to associate the sound of tools, repairs and steady maintenance with safety.
+
+This reinforces the central philosophy of Resonance:
+
+Community is something you hear before you see.
