@@ -138,6 +138,18 @@ These prohibitions are absolute. They bind every game, chapter, mechanic, charac
 - Maintain one living document per file. Never create competing versions.
 - GitHub provides the version history, so there is no need for versioned copies of a file.
 
+## Document hierarchy
+
+The repository uses a layered hierarchy of document types. When two documents appear to conflict, the layer higher in this list governs until a formal amendment resolves the difference.
+
+- The Project Constitution is the governing authority over the whole project. All other documents are subordinate to it.
+- The Canon Rules document consolidates the wording of every binding rule in the franchise. It elaborates rules from the Constitution and the core bibles. When a design conflicts with a canon rule, the design changes or the rule is formally amended and the change is recorded in the Decision Log.
+- Core bibles define the broad systems of the franchise: the universe, the campaign structure, the gameplay systems, audio, accessibility, networking, and the code and testing standards. They are the primary reference documents for contributors new to an area of the project.
+- Design notes are approved detailed expansions of the core bibles. They are canonical references in their own right. They provide the depth a core bible summarises. The design notes folder's README lists every approved design note.
+- The Decision Log records every approved design decision in chronological order. It is the audit trail, not the authority. A decision lives in the living document it changed; the Decision Log records when and why.
+- Open Questions, the Glossary, and the Playtesting Bible are reference and working documents. They support the rest of the hierarchy without introducing new canon.
+- Attached assets, pasted transcripts, and historical inputs are not canon. They are raw material. A finding from an external source becomes canon only when it is written into a living document and recorded in the Decision Log.
+
 ## How decisions are made
 
 1. A decision is proposed and discussed.
