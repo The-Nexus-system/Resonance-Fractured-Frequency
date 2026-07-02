@@ -848,6 +848,147 @@ Consultation is required for any of the following.
 
 The Production Pipeline Bible defines when the representation review gate occurs and who conducts it. This rule establishes that consultation is a design requirement, not an optional courtesy.
 
+## Human Civilisation Is Not Ideologically Uniform
+
+Human civilisation shares core civic values while remaining philosophically diverse. People, communities, and experts disagree about important questions, and disagreement is a sign of a healthy society rather than a failure of civilisation.
+
+No single human position on communication, technology, accessibility philosophy, or identity represents all of humanity. Characters reflect this range. No character's philosophical position on these questions is presented as the universally correct one.
+
+## Human Civilisation Continues to Debate
+
+Human civilisation carries unresolved conversations that it continues to hold. These conversations are ongoing and productive rather than settled.
+
+Active debates include:
+
+- The relationship between communication technologies and personal and cultural identity.
+- Sensory augmentation: where the line falls between assistance and enhancement, and who gets to draw it.
+- Human identity in the context of neural interfaces and biological augmentation.
+- Accessibility philosophy: whether shared environmental design or individual customisation best serves diverse needs.
+- The ethics of declining technology that others find beneficial.
+
+No single position on any of these debates is elevated as correct by the franchise. Characters may hold strong views. The world does not adjudicate for them.
+
+## Communication Choices Are Self-Determined
+
+Within the Deaf and hard-of-hearing communities, people make different choices about how they communicate, and every choice is equally valid.
+
+Some people primarily use sign languages and experience them as complete natural languages central to their identity, community, and culture. Some prefer spoken communication assisted by hearing technology. Some use captions, text, AAC, sign, speech, and other methods depending on context, combining them freely. Some choose neural or wearable communication interfaces. Others decline them. Society supports all of these choices, and no choice carries a presumption about what a person values or who they are.
+
+This rule extends the existing rule that communication diversity is ordinary. It makes explicit that diversity exists within communities as well as between them, and that self-determination in communication is unconditional.
+
+## Sensory Augmentation Is a Personal Choice
+
+Technology in the Resonance universe may restore, supplement, or expand human perception. Whether and how to use such technology is always a personal choice, and no choice is morally superior to any other.
+
+Technologies in this category include removable visual faceplates, expanded-spectrum visual systems, environmental overlays, directional hearing tools, spatial awareness systems, and hazard detection. People who live or work in hazardous environments may be offered augmentation as an option. They may also decline it.
+
+Some people embrace augmentation enthusiastically. Others prefer external assistive devices. Others choose no augmentation at all. The world designs for all of these arrangements rather than incentivising or penalising any of them.
+
+## Every Person Determines Their Own Access Strategy
+
+Every person has the right to determine how they access the world, and no single accessibility method is default.
+
+People may choose environmental accessibility, human assistance, service animals, service droids, mobility aids, external assistive technology, wearable assistive technology, neural interfaces, biological augmentation, or mixed systems. These choices may change over time, across environments, or from moment to moment. A person who uses different methods in different contexts is responding appropriately to their circumstances, not being inconsistent.
+
+The franchise presents access strategies as personal and practical choices rather than as identity markers or moral positions.
+
+## Service Animals Remain Part of Human Civilisation
+
+Service animals remain a full part of human civilisation. Technology improves their safety and communication without replacing them.
+
+People may choose a service animal over an assistive device, and that choice requires no justification. No environment in human civilisation is assumed to be incompatible with a service animal unless a clearly documented safety reason applies, and even then the person retains the right to seek an equivalent alternative.
+
+A service animal and its partner receive equal access to the spaces, services, and respect that any other person and their equipment receive. The Universe Bible records which species serve alongside people in different environments and how each partnership is supported.
+
+## Accessibility Partner Systems Are Chosen by the Individual
+
+People whose role or environment benefits from dedicated support may be offered a service animal, a service droid, a human assistant, or a mixed support team. The choice always belongs to the individual whenever operationally feasible.
+
+Support is not assigned without the person's meaningful participation. Healthcare professionals may recommend a type of support, and the individual participates in deciding what fits their life. This applies to service animals, service droids, human support companions, community care coordinators, and peer mentors alike.
+
+## Social Connection Is Life Support
+
+Humans are intensely social. Long-term isolation is a serious health risk, and in spacecraft, stations, and remote settlements, meaningful social connection is treated with the same seriousness as oxygen, nutrition, and sleep.
+
+Every long-duration habitat must support regular meaningful social interaction. In-person contact, sign language conversation, digital communication, shared meals, recreation, community events, mentorship, counselling, artistic collaboration, education, and volunteer service are all legitimate forms of that connection, and habitats are designed to make them possible.
+
+## Service Partners Do Not Replace Human Relationships
+
+Service animals, service droids, and accessibility partners improve independence, safety, and access. They are not substitutes for human connection, and they are never presented as adequate replacements for it.
+
+## Independence and Interdependence Are Complementary
+
+Independence and interdependence are not opposites. People have the right to autonomy and the right to support, and exercising either is ordinary.
+
+Requesting help is ordinary. Offering respectful help when someone is in obvious need is an ordinary civic responsibility. Human civilisation holds both as true simultaneously, and the franchise presents both as parts of healthy community life.
+
+## Healthcare Continues Beyond the Clinic
+
+Healthcare does not end when a patient leaves a clinical setting. Medical professionals coordinate with community services so that people can access medical care, mental healthcare, rehabilitation, therapy, accessibility services, education, housing, employment, and community resources.
+
+Continuity of care is an expectation rather than a privilege.
+
+## Social Health Is Health
+
+Social isolation is a medical condition when it presents risk. When isolation presents risk, healthcare teams work with the person to create a support plan involving community participation, scheduled social contact, peer support, counselling, family involvement, service partners, companion programmes, or volunteers.
+
+The plan is made with the person, not for them.
+
+## Civic Assistance Is a Basic Expectation
+
+Helping another person access community is a basic civic expectation in human civilisation.
+
+Examples include navigation assistance, helping someone reach medical care, reading inaccessible information when asked, communication support, safe physical assistance when requested, and contacting emergency support when needed.
+
+Refusing to assist someone in obvious need without a compelling reason is widely regarded as socially unacceptable. Assistance begins with asking how to help rather than assuming what help is needed.
+
+## Dignity Precedes Support
+
+Support is offered respectfully. People are never treated as incapable solely because they are disabled, ill, elderly, or use accessibility technology. Assistance begins with asking. People retain the right to decline assistance unless an immediate emergency places life at risk.
+
+## Human Civilisation Protects Personal Autonomy
+
+Human civilisation strongly protects personal autonomy. Adults with decision-making capacity retain the right to make informed decisions about their bodies, healthcare, communication methods, accessibility technology, and personal support.
+
+This right exists alongside the responsibility to protect others. Liberty and civic responsibility are not opposites; they are held together.
+
+## Emergency Medical Authority Is Temporary and Narrow
+
+When an individual's condition creates immediate and substantial risk to others, trained professionals may use the least restrictive temporary intervention needed to preserve life and safety. The purpose is stabilisation, not punishment.
+
+Licensed medical professionals may temporarily override a refusal of treatment or support only when all of the following conditions apply simultaneously.
+
+- The person lacks decision-making capacity due to acute illness, injury, or emergency.
+- Serious harm to self or others is immediate.
+- No less restrictive alternative can manage the risk.
+- The intervention is limited to stabilisation.
+
+Emergency authority ends as soon as the conditions that justified it no longer apply.
+
+## High-Risk Environments Have Additional Safety Standards
+
+Spacecraft, stations, reactors, laboratories, and hazardous environments have safety standards that crew accept because failures may threaten many lives. These may include emergency monitoring, required safety equipment, evacuation procedures, temporary medical grounding, and temporary added support when medically necessary.
+
+These operational requirements are distinct from emergency medical authority and are environment-specific. They are documented for each environment rather than applied universally.
+
+## Emergency Restrictions Are Reviewed
+
+Any emergency restriction of a person's liberty is reviewed after the fact to determine whether it was justified, whether a less restrictive option existed, whether rights were respected, and whether changes are needed to prevent similar emergencies.
+
+The review is conducted by people who were not the primary decision-makers in the emergency. Its purpose is accountability and improvement.
+
+## Primary Care Is a Long-Term Relationship
+
+Every member of a spacecraft, station, or long-duration expedition is assigned to a primary care team whenever practical. Teams maintain patient loads small enough to know each person individually: their medical history, accessibility requirements, communication preferences, baseline cognition, emotional presentation, routines, medication, allergies, family relationships, cultural considerations, goals, and early distress indicators.
+
+Long-term relationships improve diagnosis, treatment, communication, emergency response, psychological safety, and preventive care. Trust is a medical resource.
+
+## Clinicians Recognise Distress Before Crisis
+
+Care in long-duration environments emphasises prevention. Clinicians are expected to recognise and respond to fatigue, stress, depression, cognitive changes, neurological symptoms, communication changes, mobility changes, sleep disruption, nutrition concerns, burnout, and social withdrawal before they become crises.
+
+Primary care teams receive training appropriate to the people under their care, including blindness, low vision, Deaf and hard-of-hearing communities, DeafBlind communication, neurodivergence, mobility disabilities, prosthetics, chronic illness, complex communication needs, mental health, and service partner systems.
+
 ## Knowledge Is Historical
 
 The repository records objective canon, and characters record subjective knowledge, and these two are not always identical.

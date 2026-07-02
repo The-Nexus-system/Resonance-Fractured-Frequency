@@ -220,6 +220,51 @@ The CSV Hearth community is the civilisation at the heart of Operation One. It i
 - Historical conflicts and cooperation. The community's defining conflict is the boarding attack that begins the story, and its defining strength is that it grows through people working together rather than through any individual alone.
 - Current priorities and future goals. To survive, to build a home worth protecting, and to decide what kind of civilisation it will become.
 
+## Human care systems and service partners
+
+This section records world-detail specifics about how human civilisation organises care, service partnerships, and medical support. The binding principles that govern these systems are stated in the Canon Rules document. This section elaborates the specifics.
+
+### Service animals in human civilisation
+
+Service animals remain a full part of human civilisation. Technology improves their safety and communication without replacing them, and different environments may favour different partner species.
+
+- Dogs remain common across most human environments and continue to perform a wide range of service roles.
+- Savannah cats may become valuable partners in spacecraft and stations because of their agility, balance, capacity for vertical navigation, and comfort in complex, enclosed ship spaces.
+- Additional species may serve where animal welfare standards and training capacity support them. No species is introduced as a service partner without documented welfare and training standards appropriate to the environment.
+
+Service animal partnerships are individual choices. People who work or live alongside service animals receive equivalent access to all spaces, services, and community roles that any other person with their equipment receives.
+
+### Service droids as accessibility partners
+
+Some people choose service droids for navigation, communication, environmental monitoring, object retrieval, emergency response, and information access. Service droids complement accessibility infrastructure and are treated as accessibility equipment rather than as curiosities or luxuries.
+
+The choice between a service animal, a service droid, a human assistant, or a mixed support team belongs to the individual. Healthcare professionals may recommend a type of support; the person decides what fits their life.
+
+### Hazardous environment protection for service partners
+
+Service partners operating in hazardous areas receive specialised protective equipment and integration with ship safety systems. Standard provisions include:
+
+- Beacon synchronisation with the partner person's personal beacon.
+- Environmental monitoring for atmospheric composition, pressure, and temperature.
+- Radiation monitoring with automatic alert thresholds.
+- Thermal protection appropriate to the environment.
+- Emergency recall systems that bring the partner to a designated safe zone.
+- Stabilisation systems for zero-gravity and high-vibration environments.
+
+Space-rated harnesses may connect to emergency restraint systems during manoeuvres or hull events. Approved transport modules may function as protected carriers during normal operations and as certified emergency survival pods during catastrophic evacuation. Transport modules used as survival pods meet the same life-support certification standards as human escape pods.
+
+### Interspecies communication for working animals
+
+Working animals in service roles may use approved communication systems to exchange information with their human partners. These systems translate trained behaviours and signals into forms humans can act on, and present human cues in forms appropriate to the partner species.
+
+Approved system types include implanted interfaces, harness-mounted modules, and beacon-only emergency systems for environments where more complex systems are contraindicated. These are communication aids designed to make an existing partnership more effective. They are not evidence of human-like language capacity, and they are never presented or marketed as such.
+
+### Support prescriptions and support circles
+
+Healthcare professionals may prescribe or recommend specific support arrangements when medically appropriate. Prescribable support includes service animals, service droids, human support companions, community care coordinators, peer mentors, accessibility technology, temporary recovery assistance, and environmental adaptations. Whenever possible, the person participates in choosing the support that fits their life rather than having a support type assigned to them.
+
+Some people are supported by an interdisciplinary care circle in addition to their primary care team. A support circle may involve any combination of clinicians, nurses or medics, psychologists or counsellors, rehabilitation specialists, accessibility specialists, department supervisors, peer mentors, social workers, community coordinators, and chosen personal supports. The composition of a support circle reflects the person's needs and preferences, and the circle's members work together with the person rather than coordinating around them.
+
 ## The Shawabti as species and civilisation
 
 This section places the Shawabti within the species and civilisation framework and does not replace the canon established above. The Shawabti are an ancient people known to humanity only through their preserved legacy, and the distinction between their biology and their society is itself part of their mystery.
