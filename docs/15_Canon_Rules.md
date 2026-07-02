@@ -698,6 +698,156 @@ Every civilisation should feel capable of producing the full range of people who
 
 The Resonance universe is populated by societies of people rather than by stereotypes. This rule extends the same principle applied to the recurring human cast to every species and civilisation in the universe.
 
+## Culture Is Earned
+
+No culture exists only because it looks interesting or because a story needs a particular atmosphere.
+
+Culture must emerge from the circumstances that produced it.
+
+- Biology and sensory systems.
+- Homeworld environment and available resources.
+- History, including catastrophes, migrations, and long periods of stability.
+- Geography and the constraints it places on movement, trade, and contact.
+- Technology and how it changed what was possible.
+- Communication systems and how they shaped what could be shared or remembered.
+- Relationships with neighbouring civilisations, including conflict, cooperation, and exchange.
+- Major historical events that forced adaptation or created discontinuity.
+
+A cultural detail that cannot be traced to any of these sources does not belong in the work. The Universe Bible is the reference for every civilisation's formative circumstances.
+
+## No Civilisation Has Only One Culture
+
+No intelligent species has only one culture, and no species is ever presented as though culture is biologically determined.
+
+Species are biological. Cultures are learned, transmitted, and chosen.
+
+Every intelligent species should be allowed multiple regions, communities, traditions, languages and dialects, artistic movements, political philosophies, belief systems, family structures, and economic systems. The extent of a species' cultural diversity reflects the scale of its history, geography, and internal contact, not a creative preference.
+
+A civilisation may be relatively culturally unified after particular historical circumstances — long isolation, a recent convergence, the early aftermath of survival — but even then internal variation exists, and any convergence must be earned through the circumstances that produced it.
+
+The rule that a single species may develop many civilisations, stated in the Species Are Not Civilisations rule, extends here: a single civilisation may also contain many cultures, and cultural diversity within a civilisation is the default rather than the exception.
+
+## No Civilisation Is Defined by One Trait
+
+No civilisation is defined by one personality trait such as war, logic, commerce, peace, religion, honour, science, music, or farming.
+
+Every civilisation contains ordinary lives alongside every other kind of life. A civilisation with a strong warrior tradition also contains teachers, doctors, farmers, artists, parents, children, elders, administrators, and people who want nothing to do with fighting. A civilisation known for science also contains communities who distrust it, movements that disagree about how it should be used, and individuals for whom science is simply their job rather than their identity.
+
+This rule extends and deepens the rule that no people exist only as enemies or stereotypes. That rule prohibits a civilisation existing solely to serve conflict. This rule prohibits a civilisation being reduced to any single defining quality, however positive.
+
+## Every Civilisation Contains Internal Diversity
+
+Every civilisation, regardless of its history or circumstances, contains internal disagreement and internal range.
+
+Every civilisation includes people who want to reform it and people who want to preserve it. It includes innovators and historians, scientists and philosophers, people who accept the dominant culture and people who question it, children who are still deciding what they believe, elders who have changed their minds, people who left and returned, and people who never fit and said so.
+
+No culture thinks with one voice. A character whose views represent the entire civilisation they come from has been written incorrectly.
+
+## Cultures Change Through Time and Contact
+
+Cultures are not static, and a civilisation presented as unchanging across centuries without explanation has not been designed correctly.
+
+Cultures adapt through:
+
+- Discovery and new knowledge.
+- Migration and population movement.
+- Cooperation and exchange with other civilisations.
+- Disaster, which forces adaptation.
+- Trade and economic interdependence.
+- Education and generational change.
+- Technology and what it makes possible or impossible.
+- Disability and the innovations that arise from it.
+- The arrival of new generations who were not present for founding events.
+- Contact with other civilisations, which always changes both parties.
+
+A civilisation's cultural state at any point in a story is the result of this history of change. Its future cultural state will differ. The design must account for both.
+
+## Fictional Cultures Are Not Substitutes for Real Cultures
+
+No fictional civilisation in the Resonance universe may serve as a direct stand-in for a real-world human culture, ethnicity, or people.
+
+Real human cultures may inspire individual ideas, technologies, philosophies, architectural approaches, social structures, or artistic movements that inform a fictional civilisation's design. They may never serve as one-to-one templates. A fictional civilisation that maps directly onto a real culture reduces real people to source material, and that is not acceptable in this project.
+
+This rule applies to all fictional species and civilisations without exception, including the Shawabti and any future species. The Shawabti's name draws on the Egyptian Shawabti and Ushabti tradition as an intentional, transparent reference. That reference does not grant permission to map Egyptian culture, African culture, or any other real human culture onto the Shawabti's civilisation. The Shawabti are their own people, and their culture must be earned from their own biology, history, environment, and choices.
+
+No real culture — including any African culture, any Indigenous culture, any Asian culture, or any other living or historical human tradition — may be used to fill in details for a fictional civilisation when the design work of earning that culture has not been done. The deliberate mysteries of the Shawabti are preserved in part precisely so that this shortcut is never available.
+
+Cultural consultation does not create permission to transplant. If the development of a fictional civilisation draws on research into a real culture, the output of that research informs the fictional civilisation's own earned logic, and the real culture remains its own separate thing.
+
+## Human Culture Evolves Without Erasing Itself
+
+Human civilisation carries thousands of years of cultural history. Future human communities in Resonance preserve and evolve that history rather than erasing it.
+
+Humanity becomes interconnected without becoming culturally uniform. The diversity of human cultures is not resolved by space travel into a single future culture. Communities aboard Hearth and its successor communities carry the languages, traditions, artistic practices, beliefs, and memories of the cultures from which their members descend, and those cultures continue evolving through contact, necessity, grief, joy, and time.
+
+No human community in Resonance is culturally generic. The cultures that built it are present in its food, its celebrations, its arguments, its architecture, its music, its silences, and its ways of caring for the vulnerable.
+
+This rule applies to the representation of every human character. A character's cultural background shapes them as a whole person, and that background is not decorative. It contributes to how they communicate, what they value, how they understand disability and community, what they find funny or solemn, and what they carry as memory.
+
+## Space Adaptation Is Grounded in History, Not Biology
+
+Future human adaptation to space, to long-duration spaceflight, to disability, and to hostile environments is always grounded in history, social structure, lived experience, disability culture, survival practice, training, exclusion from or inclusion in earlier systems of power, and community adaptation.
+
+No storyline, character, or design may suggest that one racial group, ethnic group, or human population is biologically better or worse suited to space survival, space work, or adaptation to disability. Differences in who adapts well to particular circumstances must be explained through history: who had access to training, who had survival experience from exclusion, who built the cultural practices that proved transferable, who developed disability-informed technologies that turned out to be exactly what space required.
+
+Biology may account for individual variation in the same way it does among any group of people. Biology never accounts for group-level differences in adaptability, intelligence, resilience, or capacity.
+
+This rule governs every character, every expedition note, every Knowledge Archive entry, and every piece of in-universe science that touches human difference.
+
+## Culture Includes Daily Life
+
+Every civilisation should eventually explain how its members live ordinary days alongside each other.
+
+A civilisation whose only documented culture is political structure, religious philosophy, or military history has not been fully designed. Every civilisation should develop, across campaigns, documentation, and design notes, some account of:
+
+- How children are raised and by whom.
+- How elders are included and respected.
+- How people eat together, and what that means.
+- How strangers are greeted for the first time.
+- How grief is expressed and shared.
+- How joy is celebrated.
+- How conflict between community members is repaired.
+- How knowledge is preserved and transmitted across generations.
+- How disability is understood and accommodated as ordinary life.
+- How leaders are chosen or emerge.
+- How homes are organised and what that reveals.
+- How work is divided and how that reflects values.
+
+The Modular Architecture Bible and the Community Simulation Bible define how this daily life is rendered in the environments and the simulation. This rule establishes that the design must earn that daily life content rather than treating it as flavour added later.
+
+## Every Civilisation Creates
+
+Every civilisation in the Resonance universe develops creative expression.
+
+Creative expression includes music, storytelling, visual art, movement and dance, architecture, craftsmanship, games and sport, poetry, humour, clothing and personal adornment, food and food culture, ceremony and ritual, scientific traditions, accessibility innovations, and memory practices.
+
+No civilisation is too practical, too ancient, too fragmented, or too alien to have developed creative expression. The form that expression takes is determined by the biology, environment, history, and values of the civilisation, and it must be earned from those sources rather than borrowed from a real human culture.
+
+The absence of a recognised creative form in a civilisation's documented culture is a design gap, not a design choice, unless that absence is itself documented and explained by the circumstances that produced it.
+
+## Accessibility Is a Cultural Value
+
+Accessibility is not only technology. It is a cultural value, and every civilisation in the Resonance universe reflects that value in the way it organises daily life.
+
+Every civilisation should show, through its design, how it includes people with different abilities. This means documenting how disabled people participate fully in that civilisation's daily life, work, governance, creativity, and community. It means showing how children learn in ways that serve different minds and bodies. It means showing how elders remain participants rather than burdens. It means showing how newcomers with different communication needs belong from the beginning. It means showing how the civilisation understands and accommodates communication differences as ordinary variation rather than problems.
+
+A civilisation that has no documented approach to inclusion has not been fully designed. The Accessibility Bible defines the standards that apply to the player's community aboard Hearth and its successors. This rule extends the underlying value to every civilisation in the universe, expressed in whatever form fits its own history and circumstances.
+
+## Cultural Consultation Is Required
+
+When a civilisation's design draws inspiration from real-world people, their history, their traditions, their art, or their relationship with disability or community, consultation with knowledgeable sources is required before that material enters production.
+
+The goal of consultation is respectful understanding of source material so that the fictional work creates something original rather than extracting something appropriated. Consultation does not grant permission to use a real culture as a template. It ensures that the design team understands what they are drawing on well enough to avoid harm and to make genuinely informed original choices.
+
+Consultation is required for any of the following.
+
+- A character whose cultural background draws on a specific real-world culture, ethnicity, or indigenous nation.
+- A civilisation whose design is significantly informed by a real-world cultural tradition.
+- Any representation of disability experience that draws on a specific disability community's lived experience.
+- Any representation of communication practices, religious or philosophical traditions, or historical events with real-world parallels.
+
+The Production Pipeline Bible defines when the representation review gate occurs and who conducts it. This rule establishes that consultation is a design requirement, not an optional courtesy.
+
 ## Knowledge Is Historical
 
 The repository records objective canon, and characters record subjective knowledge, and these two are not always identical.
