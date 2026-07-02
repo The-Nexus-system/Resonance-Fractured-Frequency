@@ -265,6 +265,96 @@ Healthcare professionals may prescribe or recommend specific support arrangement
 
 Some people are supported by an interdisciplinary care circle in addition to their primary care team. A support circle may involve any combination of clinicians, nurses or medics, psychologists or counsellors, rehabilitation specialists, accessibility specialists, department supervisors, peer mentors, social workers, community coordinators, and chosen personal supports. The composition of a support circle reflects the person's needs and preferences, and the circle's members work together with the person rather than coordinating around them.
 
+## Human civilisation history and the Great Divergence
+
+This section records the fictional political and social history of Earth and early human space, the circumstances that produced space culture, and the institutions and traditions that grew from them. The binding principles drawn from this history are stated in the Canon Rules document. This section elaborates the world-detail.
+
+This is a fictional political history for Resonance. It describes institutions, governments, and systems, not every individual person on Earth. Earth did not eliminate compassion, and ordinary people built and sustained resistance throughout the divergence period.
+
+### The Great Human Divergence
+
+Humanity did not fragment into separate species. It fragmented into competing philosophies of civilisation.
+
+Over time, most Earth governments moved toward authoritarianism, surveillance, exclusion, social hierarchy, privatised public infrastructure, greed-driven policy, and conformity framed as public safety. Dissent was reframed as disorder. Disability, difference, poverty, age, illness, and inconvenience were treated as problems to manage rather than as ordinary human variation. Public systems that once provided shared care were replaced by mechanisms of control, removal, and disposal.
+
+The divergence was not a single event. It was a long accumulation of choices by institutions and governments, resisted at every stage by individuals and communities who chose differently.
+
+### The Underground
+
+Earth governments did not eliminate compassion. Ordinary people built decentralised networks to help others survive, leave, disappear, or begin again.
+
+These networks include doctors, nurses, teachers, engineers, pilots, maintenance workers, farmers, clergy, scientists, accessibility advocates, families, and local communities. They are people and small networks rather than major governments or official cities. They share information, shelter, transport, medicine, identity documents, and routes. They are commonly called the Underground, though they use many local names and have no single structure.
+
+The Underground has no headquarters. It has principles: help people who need it, ask nothing in return, extend the chain when you are able. Its members are frequently criminalised by Earth governments and widely respected among those who have been helped.
+
+### Exile habitats
+
+Some Earth governments and nations replaced portions of prison, long-term care, psychiatric confinement, political detention, or social removal systems with remote lunar or off-world exile facilities. Officially these facilities may be called rehabilitation centres, relocation programmes, containment habitats, humanitarian care facilities, or productive exile settlements. In practice they are often abandonment.
+
+People sent to exile habitats include convicted prisoners, political dissidents, disabled people, visibly different people, socially inconvenient people, poor people, elderly people, sick people, and others deemed unwanted or unproductive by authoritarian systems. The stated justifications vary. The effect — removal from community and access to resources — is consistent.
+
+Conditions in exile habitats range from barely functional to critically dangerous. Resupply is unreliable. Medical care is inadequate. Communication with Earth is monitored or restricted. Some habitats have been quietly abandoned while people were still inside.
+
+### Last transports
+
+Some people are moved through official or unofficial transport systems under the guise of end-of-life care, closed government programmes, exile, or disposal. Some governments believe or claim these people are gone permanently. Records may be falsified, sealed, or destroyed.
+
+In reality, rescue networks monitor known routes, facilities, and abandoned habitats when circumstances allow. Last transports are among the highest-priority intercepts for retrieval crews when intelligence is available.
+
+### The Retrieval Network and Second Chance Fleets
+
+Independent spacecraft, sympathetic stations, humanitarian crews, medical professionals, pilots, former prisoners, former exiles, and rescued survivors maintain loose networks near known exile routes and lunar habitats. These are collectively called the Retrieval Network. Their operational vessels are sometimes called Second Chance Fleets, though individual crews rarely use that name for themselves.
+
+Retrieval Network activities include recovering survivors from exile habitats, intercepting abandoned transports when intelligence and timing allow, delivering medicine and food to isolated facilities, teaching survival and space skills to newly arrived people, smuggling information in and out of monitored habitats, reconnecting families separated by exile systems, documenting abuses for future accountability, and offering asylum to people who want it.
+
+Some Earth governments support retrieval operations quietly and unofficially. Earth authorities frequently criminalise them. In space they are widely respected. The CSV Hearth community descends from a civilisation that regards retrieval work as honourable service.
+
+### Rescued people becoming rescuers
+
+A person recovered from an exile habitat or abandoned transport enters a process of stabilisation, medical care, and gradual integration into space life. They are typically assigned a First Hand — a mentor responsible not only for professional instruction but for helping them build a life in their new community.
+
+Many people who have been through exile and rescue later choose to enter rescue work themselves. They know precisely what abandonment feels like, what fear in an isolated facility feels like, and what it means to have someone arrive. That experience becomes expertise. It is never treated as stigma.
+
+The pattern of rescued people becoming rescuers is one of the roots of the Chain of Rescue tradition. It is not a requirement. It is a common choice, and the communities that emerged from it shaped space culture in lasting ways.
+
+### The four-year apprenticeship
+
+New arrivals from Earth, and particularly those newly entering space life or recently rescued from exile systems, are paired with an experienced person in their field for a standard four-year apprenticeship.
+
+The mentor's responsibilities extend beyond technical instruction. Over four years, a First Hand teaches:
+
+- Technical work appropriate to the apprentice's field and role.
+- Survival skills and emergency response appropriate to the environment.
+- Shipboard culture, social expectations, and community norms.
+- Language differences and communication norms in space communities.
+- Space cultural traditions, including mutual aid expectations and local ceremonies.
+- Accessibility standards and how to use and support them.
+- Mental health resources and how to access them.
+- The Chain of Rescue philosophy and what it means in practice.
+
+Successful completion of the four-year apprenticeship represents becoming part of spacefaring community. It is not only a professional qualification. It marks that a person has a place, people who know them, and a community that considers them one of its own.
+
+The four-year structure is a standard rather than a rigid rule. Some apprenticeships are shorter because the person arrives with relevant experience. Some are longer because the person needs more time, support, or recovery. The standard exists to communicate commitment, not to impose a deadline.
+
+### Cultural heritage of human space
+
+Space traditions do not emerge from nothing. They descend from Earth lineages, transformed by the conditions of space life and the people who carried them. Major human space traditions draw from many Earth sources. Documented lineages in the Universe Bible include, where they have been established:
+
+- Mutual aid movements, which shaped how communities share resources and respond to crisis without requiring a central authority.
+- Disability advocacy traditions, which shaped accessibility standards, the understanding that environments disable rather than people, and the expectation that design includes everyone.
+- Religious hospitality traditions from many faiths, which shaped how strangers and newcomers are welcomed, fed, and given a place.
+- Indigenous knowledge transfer practices, which shaped how communities preserve and transmit knowledge across generations without relying on centralised institutions.
+- Medical mentorship traditions, which shaped the First Hand relationship and the expectation that experienced clinicians pass on not only technique but values.
+- Guild apprenticeship traditions, which shaped the four-year apprenticeship structure and the understanding that mastery is social as well as technical.
+- Rescue organisation traditions, including maritime rescue, disaster response, and humanitarian medicine, which shaped the Retrieval Network and the Chain of Rescue.
+- Family trade traditions, in which craft, knowledge, and responsibility pass through generations of working relationships rather than formal institutions.
+- Humanitarian medicine, which shaped the expectation that care reaches people regardless of their political status, criminal record, or the views of the governments that exiled them.
+- Community meal traditions from many cultures, which shaped how shared food functions as civic participation and belonging rather than only nutrition.
+- Remembrance practices, which shaped how communities honour people who died in exile, during rescue, or in the founding of space communities.
+- Underground survival networks, including resistance movements, escape routes, and clandestine care systems, which shaped the ethos of the Underground and the discretion and solidarity that characterise its members.
+
+Where a tradition in Resonance draws from a specific real-world cultural source, that lineage is documented in this section or in a dedicated cultural genealogy note. The tradition is not a copy of its source. It is something that source helped become.
+
 ## The Shawabti as species and civilisation
 
 This section places the Shawabti within the species and civilisation framework and does not replace the canon established above. The Shawabti are an ancient people known to humanity only through their preserved legacy, and the distinction between their biology and their society is itself part of their mystery.

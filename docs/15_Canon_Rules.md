@@ -989,6 +989,52 @@ Care in long-duration environments emphasises prevention. Clinicians are expecte
 
 Primary care teams receive training appropriate to the people under their care, including blindness, low vision, Deaf and hard-of-hearing communities, DeafBlind communication, neurodivergence, mobility disabilities, prosthetics, chronic illness, complex communication needs, mental health, and service partner systems.
 
+## Cultures Remember
+
+Human civilisation does not abandon cultural heritage when expanding into space. Ideas, traditions, ceremonies, philosophies, technologies, stories, and ways of caring continue evolving across generations. Space culture is Earth's history continued, not a departure from it.
+
+Every enduring human tradition has a traceable cultural lineage. That lineage may include influences from many communities. Over time, influences become something new while honouring where they came from. The franchise treats this lineage as ordinary and documents it rather than erasing it.
+
+## Cultural Genealogy Is Documented
+
+For major human space traditions, the lineage is recorded. Documentation covers where the idea or practice began, how it changed during and after the journey into space, why it survived when other things did not, and what it looks like in the present day of the story.
+
+Space civilisation remembers where important ideas came from. It does not reduce any future tradition to a one-to-one copy of a single Earth culture. Traditions that descend from multiple sources acknowledge all of them. Where a tradition cannot be fully traced, that incompleteness is recorded honestly rather than invented.
+
+The Universe Bible is the repository for cultural genealogy. Designers documenting new traditions for human communities record the lineage in the Universe Bible before the tradition enters production.
+
+## The Chain of Rescue
+
+Many people who helped build permanent space communities were once rescued from persecution, abandonment, disaster, political exile, exile habitats, or humanitarian crisis. Mentorship and rescue became rooted traditions because they had to.
+
+Many survivors later choose to become rescuers themselves. Help carries no obligation to repay the individual rescuer. People are encouraged, when they are able, to extend care to someone else. This forward-facing philosophy of care shapes medicine, education, apprenticeship, emergency response, governance, and community life throughout human space.
+
+The Chain of Rescue is not a formal institution. It is a pattern of behaviour that arose from survival, spread through culture, and became part of what space communities expect of themselves.
+
+## The First Hand
+
+New arrivals are welcomed by someone responsible not only for professional instruction but for helping them build a life. This person is called the First Hand.
+
+The First Hand may be a mentor, sponsor, rescuer, elder apprentice, clinician, or professional guide, depending on the circumstances of the arrival. They introduce the person to technical work, shipboard culture, community expectations, accessibility resources, mutual aid practices, and local traditions. The relationship often lasts beyond any formal apprenticeship period.
+
+The First Hand system is documented in the Universe Bible. Characters in Resonance may carry First Hand relationships, and those relationships shape how they understand obligation, belonging, and the responsibility of experience.
+
+## Space Culture Is Alternative Civilisation
+
+Space is not morally perfect. Many space communities, however, consciously built themselves in deliberate contrast to the failures of Earth authoritarianism.
+
+Accessibility, mutual aid, interdependence, rescue, apprenticeship, and continuity of care became survival culture in human space because isolated environments punished selfish systems and rewarded cooperation. Cooperation was not idealism. It was engineering. Communities that excluded people, that hoarded resources, that failed to care for their vulnerable members, collapsed. Communities that built for everyone tended to survive.
+
+This history is the foundation of the values that human space communities carry. Characters in Resonance inherit that history, consciously or not, and the player discovers it through living alongside them.
+
+## Real Cultural Influence Is Documented as Lineage
+
+Where Resonance draws on researched real-world cultural practices — including Muslim, Indian, Indigenous, African, disability, medical, religious, or regional traditions — the influence is documented as lineage rather than used as substitution.
+
+Human space traditions may preserve and transform Earth practices while acknowledging their ancestry. They may not present those practices as belonging to a fictional species or civilisation. No real culture may be used as a stand-in for the Shawabti or for any other fictional people. Human space cultures that draw from real-world sources are documented in the Universe Bible with their lineage noted, so that any future designer understands what they are building on.
+
+This rule applies the existing principles of cultural consultation and fictional cultures as non-substitutes to the specific context of documented human civilisation genealogy.
+
 ## Knowledge Is Historical
 
 The repository records objective canon, and characters record subjective knowledge, and these two are not always identical.
