@@ -6,6 +6,11 @@ module.exports = function (api) {
     // production (minified) Metro transform does not enable by default.
     // Scoped to three.js only: applying it globally breaks the
     // reanimated/worklets Babel plugin (NumericLiterals exception).
+    // Explicitly register the worklets plugin (must be last): in this pnpm
+    // monorepo babel-preset-expo fails to auto-apply it, leaving reanimated's
+    // worklets untransformed — crashes on-device with "Only worklets can be
+    // executed synchronously on UI runtime".
+    plugins: ['react-native-worklets/plugin'],
     overrides: [
       {
         test: /node_modules[\\/](\.pnpm[\\/][^\\/]+[\\/]node_modules[\\/])?three[\\/]/,

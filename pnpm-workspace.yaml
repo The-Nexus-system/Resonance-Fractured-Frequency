@@ -124,3 +124,14 @@ overrides:
   rollup>@rollup/rollup-win32-ia32-msvc: '-'
   rollup>@rollup/rollup-win32-x64-gnu: '-'
   rollup>@rollup/rollup-win32-x64-msvc: '-'
+
+# The react-native-worklets Babel plugin requires @babel/types at runtime but
+# does not declare it; without this it silently fails to load, leaving
+# reanimated worklets untransformed (crashes on-device in production builds).
+packageExtensions:
+  react-native-worklets:
+    dependencies:
+      '@babel/types': ^7.29.7
+      '@babel/generator': ^7.29.7
+      '@babel/traverse': ^7.29.7
+      convert-source-map: ^2.0.0
