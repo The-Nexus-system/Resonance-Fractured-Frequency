@@ -1,0 +1,119 @@
+MANDATORY CAPABILITY RULE — DO NOT SELF-DOWNGRADE THE ENGINE
+
+For Phase 4, implement the intended full native systems:
+
+* True 3-D world rendering
+* True world-space AR
+* True native 3-D positional/spatial audio
+
+Do NOT create a deliberately simplified second implementation as the normal fallback for older hardware.
+
+Do NOT use:
+
+* Stereo approximation instead of native spatial audio
+* 2-D directional camera overlays instead of world-space AR
+* Flat markers or simplified pseudo-3-D instead of the real 3-D renderer
+
+merely because some devices or OS versions may expose reduced capabilities.
+
+Implement the real native feature against the appropriate supported Apple frameworks.
+
+Allow iOS, the device, graphics/audio hardware, and the native frameworks themselves to provide whatever capability reduction, rendering degradation, spatial-audio behavior, or compatibility handling is appropriate for that hardware.
+
+The application must not preemptively replace the intended engine with a lesser gameplay system.
+
+REAL-DEVICE VALIDATION IS NOT AN IMPLEMENTATION ESCAPE
+
+If physical hardware is unavailable during development:
+
+IMPLEMENT THE FEATURE ANYWAY.
+
+Then report physical-device validation as outstanding.
+
+“Needs a real iPhone to verify” means:
+“The completed implementation still needs hardware testing.”
+
+It must NEVER mean:
+“We deferred implementing it.”
+
+This applies equally to:
+
+3-D RENDERING
+
+Build the production 3-D renderer now.
+
+Do not substitute:
+
+* Debug primitives
+* Flat directional markers
+* 2-D overlays
+* Placeholder geometry
+
+and call the system architecture-ready.
+
+WORLD-SPACE AR
+
+Build the actual AR system now using supported native world-space technology.
+
+Do not stop at:
+
+* Camera preview
+* Directional overlay
+* Simulated AR
+* Architecture preparation
+
+and defer real AR.
+
+3-D SPATIAL AUDIO
+
+Build native world-positioned spatial audio now.
+
+Do not stop at:
+
+* Stereo panning
+* Volume reduction for behind
+* Left/right approximation
+* Simulated depth
+
+and defer real positional audio.
+
+The visual world, AR world, semantic world, and audio world must use the same object positions.
+
+CAPABILITY DIFFERENCES
+
+Where Apple APIs expose device-capability differences, handle them through the intended native API behavior and normal compatibility handling.
+
+Do not redesign the game around the least-capable hypothetical device.
+
+Do not create an inferior parallel engine unless a documented platform requirement genuinely makes one necessary.
+
+If such a platform limitation is discovered, document:
+
+1. The exact Apple/platform limitation.
+2. Which device or OS capability is affected.
+3. What the native framework does automatically.
+4. Whether any application-level handling is actually required.
+
+Do not invent compatibility limitations.
+
+Do not use speculative compatibility concerns to reduce Phase 4 scope.
+
+PHASE 4 ACCEPTANCE RULE
+
+The following phrases are NOT acceptable substitutes for implementation:
+
+* “architecture-ready”
+* “prepared for later”
+* “foundation complete”
+* “will come in a future phase”
+* “simulated for now”
+* “stereo approximation”
+* “camera overlay”
+* “placeholder renderer”
+* “device testing required before implementation”
+
+Phase 4 requires the actual production systems to be implemented now.
+
+Physical-device testing may remain open.
+
+Implementation may not.

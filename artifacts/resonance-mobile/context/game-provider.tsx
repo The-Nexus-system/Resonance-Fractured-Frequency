@@ -14,6 +14,14 @@ import React, {
 } from 'react';
 import { AccessibilityInfo, Platform, useColorScheme } from 'react-native';
 import * as Haptics from 'expo-haptics';
+import {
+  GAMEPLAY_HAPTIC_PATTERNS,
+  type GameplayHaptic,
+  type HapticStep,
+} from '@/lib/haptics';
+
+/** Semantic gameplay haptics plus the legacy simple kinds. */
+export type HapticKind = GameplayHaptic | 'select';
 import { createAudioPlayer, type AudioPlayer } from 'expo-audio';
 import baseColors from '@/constants/colors';
 import AsyncStorage from '@react-native-async-storage/async-storage';
@@ -32,6 +40,8 @@ import {
   REWARDS_STORAGE_KEY,
   earnReward,
   emptyRewardState,
+  FIRST_FRACTURE_REWARDS,
+  reconcileRewardState,
   rewardDef,
   sanitizeRewardState,
   type RewardState,
@@ -54,7 +64,7 @@ type GameContextValue = {
   playTone: (freq: number) => void;
   playUri: (uri: string) => void;
   stopTone: () => void;
-  haptic: (kind: 'success' | 'error' | 'select', channel?: 'ui' | 'gameplay') => void;
+  haptic: (kind: HapticKind, channel?: 'ui' | 'gameplay') => void;
   colors: ThemeColors;
   resolvedTheme: 'light' | 'dark';
   fontScale: number;
@@ -90,6 +100,21 @@ export function GameProvider({ children }: { children: React.ReactNode }) {
       } catch {
         loadedRewards = emptyRewardState();
       }
+      // Anti-forgery: only keep earned rewards whose declarative condition
+      // is actually supported by the sanitized exploration save.
+      const exploreState = save.explore ?? {};
+      loadedRewards = reconcileRewardState(FIRST_FRACTURE_REWARDS, loadedRewards, (campaignId) => {
+        const c = exploreState[campaignId];
+        if (!c) return null;
+        return {
+          campaignId,
+          collected: c.collected,
+          visited: c.visitedHidden,
+          inspected: c.inspected,
+          attunedCount: c.attuned.length,
+          listenedAtRestRoles: c.listenedAtRest,
+        };
+      });
       rewardsRef.current = loadedRewards;
       setRewards(loadedRewards);
       setLoaded(true);
@@ -214,22 +239,48 @@ export function GameProvider({ children }: { children: React.ReactNode }) {
 
   const playTone = useCallback((freq: number) => playUri(toneUri(freq)), [playUri]);
 
-  const haptic = useCallback((kind: 'success' | 'error' | 'select', channel: 'ui' | 'gameplay' = 'ui') => {
+  const haptic = useCallback((kind: HapticKind, channel: 'ui' | 'gameplay' = 'ui') => {
     if (Platform.OS === 'web') return;
     const s = settingsRef.current;
     const enabled = channel === 'gameplay' ? s.hapticsGameplay : s.hapticsInterface;
     if (!enabled) return;
-    try {
-      if (kind === 'success') {
-        void Haptics.notificationAsync(Haptics.NotificationFeedbackType.Success);
-      } else if (kind === 'error') {
-        void Haptics.notificationAsync(Haptics.NotificationFeedbackType.Error);
-      } else {
-        void Haptics.selectionAsync();
+    // Semantic gameplay patterns come from the documented haptic language;
+    // legacy simple kinds map onto it so existing screens keep working.
+    const pattern: HapticStep[] =
+      kind in GAMEPLAY_HAPTIC_PATTERNS
+        ? GAMEPLAY_HAPTIC_PATTERNS[kind as GameplayHaptic]
+        : kind === 'select'
+          ? [{ kind: 'select' }]
+          : []; // exhaustive above; keeps TS happy
+    void (async () => {
+      try {
+        for (const step of pattern) {
+          if (step.kind === 'wait') {
+            await new Promise((r) => setTimeout(r, step.ms));
+          } else if (step.kind === 'impact') {
+            const style =
+              step.strength === 'heavy'
+                ? Haptics.ImpactFeedbackStyle.Heavy
+                : step.strength === 'medium'
+                  ? Haptics.ImpactFeedbackStyle.Medium
+                  : Haptics.ImpactFeedbackStyle.Light;
+            await Haptics.impactAsync(style);
+          } else if (step.kind === 'notify') {
+            const tone =
+              step.tone === 'error'
+                ? Haptics.NotificationFeedbackType.Error
+                : step.tone === 'warning'
+                  ? Haptics.NotificationFeedbackType.Warning
+                  : Haptics.NotificationFeedbackType.Success;
+            await Haptics.notificationAsync(tone);
+          } else {
+            await Haptics.selectionAsync();
+          }
+        }
+      } catch {
+        // Haptics are always optional.
       }
-    } catch {
-      // Haptics are always optional.
-    }
+    })();
   }, []);
 
   const resolvedTheme: 'light' | 'dark' =

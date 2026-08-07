@@ -65,7 +65,7 @@ export default function SettingsScreen() {
     haptic('select');
   };
 
-  const segmented = <K extends 'theme' | 'textSize'>(
+  const segmented = <K extends 'theme' | 'textSize' | 'graphicsQuality'>(
     key: K,
     options: { value: GameSettings[K]; label: string }[],
   ) => (
@@ -139,6 +139,20 @@ export default function SettingsScreen() {
         { value: 'normal', label: 'Normal' },
         { value: 'large', label: 'Large' },
         { value: 'xl', label: 'XL' },
+      ])}
+
+      <ThemedText variant="subheading" accessibilityRole="header" style={styles.sectionTitle}>
+        3-D graphics quality
+      </ThemedText>
+      <ThemedText variant="caption" color={colors.mutedForeground} style={{ marginBottom: 8 }}>
+        Visual quality only — it never changes what you can do or find in the game. Auto lowers
+        quality by itself if the device struggles.
+      </ThemedText>
+      {segmented('graphicsQuality', [
+        { value: 'auto', label: 'Auto' },
+        { value: 'low', label: 'Low' },
+        { value: 'medium', label: 'Medium' },
+        { value: 'high', label: 'High' },
       ])}
 
       <ThemedText variant="subheading" accessibilityRole="header" style={styles.sectionTitle}>

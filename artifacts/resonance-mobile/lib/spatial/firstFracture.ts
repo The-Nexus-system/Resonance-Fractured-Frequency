@@ -113,6 +113,13 @@ export const FF_META: Record<string, FfObjectMeta> = {
     inspectText:
       'A low ridge where every resonator is audible at once — the whole restored harmony in one place.',
   },
+  'bloom-1': {
+    role: 'hidden',
+    rewardId: 'ff-bloom',
+    revealAfterAttuned: 4,
+    inspectText:
+      'A resonance bloom — a slow flower of standing sound that only forms where a fracture has fully healed. It was never here before. It could not have been.',
+  },
 };
 
 function obj(
@@ -156,6 +163,7 @@ export function createFirstFractureWorld(): SpatialWorld {
       obj('inspect-2', 'a calibration array', 'landmark', -5, -5, 0),
       obj('hidden-1', 'a quiet hollow', 'fracture', 19, -6, 0, { interactRange: 3.5 }),
       obj('hidden-2', 'an overtone ridge', 'fracture', -3, 20, 1.5, { interactRange: 3.5 }),
+      obj('bloom-1', 'a resonance bloom', 'fracture', 9, 9, 0.5, { interactRange: 3.5 }),
     ],
   };
 }
@@ -177,7 +185,14 @@ export function sanitizeFirstFractureExplore(raw: {
   collected: string[];
   inspected: string[];
   visitedHidden: string[];
-}): { attuned: string[]; collected: string[]; inspected: string[]; visitedHidden: string[] } {
+  listenedAtRest?: string[];
+}): {
+  attuned: string[];
+  collected: string[];
+  inspected: string[];
+  visitedHidden: string[];
+  listenedAtRest: string[];
+} {
   const attuned = FF_RESONATOR_IDS.filter((id) => raw.attuned.includes(id));
   const collected = FF_FRAGMENT_IDS.filter((id) => raw.collected.includes(id));
   const inspected = FF_INSPECT_IDS.filter((id) => raw.inspected.includes(id));
@@ -189,5 +204,17 @@ export function sanitizeFirstFractureExplore(raw: {
         attuned.length >= (meta.revealAfterAttuned ?? 0),
     )
     .map(([id]) => id);
-  return { attuned: [...attuned], collected: [...collected], inspected: [...inspected], visitedHidden };
+  // Listen-at-rest evidence is only credible for resonators that are
+  // actually attuned in this same (already-sanitized) state.
+  const attunedRoles: string[] = attuned.map((id) => FF_META[id]?.role).filter((r) => !!r);
+  const listenedAtRest = (raw.listenedAtRest ?? []).filter(
+    (role, i, arr) => attunedRoles.includes(role) && arr.indexOf(role) === i,
+  );
+  return {
+    attuned: [...attuned],
+    collected: [...collected],
+    inspected: [...inspected],
+    visitedHidden,
+    listenedAtRest,
+  };
 }

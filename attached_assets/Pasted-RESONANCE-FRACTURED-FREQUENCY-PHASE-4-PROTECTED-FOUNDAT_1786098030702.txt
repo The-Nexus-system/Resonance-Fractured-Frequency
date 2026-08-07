@@ -1,0 +1,698 @@
+RESONANCE: FRACTURED FREQUENCY — PHASE 4 PROTECTED FOUNDATION ADDENDUM
+
+This addendum is mandatory for the current Phase 4 completion work.
+
+The purpose of this addendum is to prevent Phase 4 from regressing, duplicating, or replacing the spatial architecture already proven in Phase 3.
+
+PHASE 3 PROTECTED CHECKPOINT
+
+Protected foundational commit:
+
+d1b97aa
+
+The semantic spatial architecture established at this commit is considered proven foundational behavior.
+
+Phase 4 must EXTEND it.
+
+Phase 4 must NOT replace it with renderer-specific, AR-specific, audio-specific, or platform-specific game logic.
+
+==================================================
+
+1. PROTECTED PHASE 3 SYSTEMS
+    ==================================================
+
+Preserve the existing Phase 3 systems and their behavior:
+
+* Semantic spatial world model
+* Stable semantic object identities
+* Player position
+* Player facing
+* Object position
+* Object state
+* Discovery state
+* Reachability
+* Elevation
+* Puzzle-target relationships
+* Landmark relationships
+* Eight-direction spatial language
+* Near / medium / far distance classifications
+* Orientation-summary generation
+* Turn Left
+* Turn Right
+* Move Forward
+* Look Around
+* Ping Nearest
+* Interact
+* 350 ms rapid-repeat protection
+* Speech-announcement coalescing
+* Immediate interruption for important discoveries/results
+* Malformed spatial-data protection
+* NaN/invalid-position protection
+* Sound-off operation
+* Haptics-off operation
+* Combined sound-off + haptics-off operation
+* Real semantic text output for VoiceOver/braille compatibility
+
+Do not rewrite these systems merely because Phase 4 adds richer native capabilities.
+
+==================================================
+2. THE SEMANTIC MODEL REMAINS THE SINGLE SOURCE OF TRUTH
+
+The Phase 3 semantic world model must remain authoritative.
+
+The following Phase 4 systems must consume the semantic model:
+
+* Production 3-D renderer
+* Native world-space AR
+* Native 3-D spatial audio
+* Haptic system
+* Rewards
+* Input adapters
+* Action Button integration
+* Back Tap/App Intent integration
+* Shake interaction
+* VoiceOver actions
+* Camera presentation
+* Post-completion environmental behavior
+
+Do not move canonical game state into:
+
+* RealityKit entities
+* AR anchors
+* Camera coordinates
+* Audio nodes
+* UI components
+* Gesture handlers
+* Visual effects
+
+Those systems are representations and input/output channels.
+
+They do not own game logic.
+
+==================================================
+3. SHARED SPATIAL STATE
+
+There must be one spatial state for each semantic object.
+
+For example, if a resonator is:
+
+ahead-right,
+medium distance,
+above the player,
+and currently resonating,
+
+then:
+
+* The semantic description
+* The 3-D model
+* The AR entity
+* The spatial audio source
+* The VoiceOver description
+* The braille-readable text
+* The contextual interaction
+* The haptic behavior
+
+must all derive from that same semantic object state.
+
+Do not hand-author separate coordinates for audio and graphics.
+
+Do not calculate direction independently in multiple layers.
+
+==================================================
+4. PRESERVE THE EIGHT-DIRECTION LANGUAGE
+
+The existing accessible directional language remains the ordinary player-facing baseline:
+
+* Ahead
+* Behind
+* Left
+* Right
+* Ahead-left
+* Ahead-right
+* Behind-left
+* Behind-right
+
+Preserve:
+
+* Near
+* Medium distance
+* Far
+
+Preserve elevation language such as:
+
+* Above you
+* Below you
+
+True 3-D rendering and AR may use exact coordinates, vectors, transforms, headings, and angles internally.
+
+Ordinary gameplay must not suddenly require the player to understand:
+
+* Degrees
+* XYZ coordinates
+* Quaternions
+* Compass bearings
+* Vectors
+* Camera transforms
+
+unless a future campaign deliberately requires a supported optional mechanic.
+
+==================================================
+5. DO NOT CREATE A SECOND NAVIGATION SYSTEM
+
+Phase 3 already provides:
+
+* Look Around
+* Ping Nearest
+* Movement controls
+* Orientation summaries
+
+Phase 4 must improve these existing semantic systems.
+
+Do not create a parallel AR-only navigation system.
+
+Do not create a separate blind-navigation engine.
+
+Do not create a second hidden-object detection system only for graphical mode.
+
+Any richer guidance must extend the existing semantic navigation architecture.
+
+==================================================
+6. LOOK AROUND MUST BECOME MORE USEFUL, NOT BE REPLACED
+
+Look Around already exists.
+
+Expand it so it can intelligently summarize the current environment without overwhelming the player.
+
+It should be capable of prioritizing information such as:
+
+* Required unresolved objectives
+* Nearby interactable objects
+* Important landmarks
+* Newly discovered objects
+* Environmental hazards or meaningful state
+* Relative direction
+* Relative distance
+* Elevation where relevant
+
+Avoid dumping every semantic object into one speech message.
+
+Prioritize player usefulness.
+
+Routine information should continue respecting speech-coalescing behavior.
+
+==================================================
+7. PING NEAREST MUST ACTUALLY HELP REQUIRED PROGRESSION
+
+Phase 3 already provides Ping Nearest.
+
+A later acceptance tester still became unable to locate required hidden resonators and resorted to inspecting source code.
+
+Therefore:
+
+Do NOT interpret the existence of Ping Nearest as proof that required-object discoverability works.
+
+Test its actual usefulness.
+
+For required progression, Ping Nearest or an extension of it must be capable of giving enough information for a real player to make forward progress.
+
+It may include information such as:
+
+* What kind of unresolved signal is nearest
+* Relative direction
+* Relative distance
+* Elevation where relevant
+* Whether the player is moving closer or farther away
+
+Do not reveal puzzle answers.
+
+Do not turn Ping into an omniscient developer debug tool.
+
+But it must be useful enough to prevent indefinite aimless wandering.
+
+==================================================
+8. REQUIRED HIDDEN OBJECTS MUST REMAIN PLAYER-DISCOVERABLE
+
+Required progression objects may be hidden.
+
+They may NOT be undetectable.
+
+If a required object exists, the semantic system must eventually provide sufficient player-facing clues to locate it.
+
+Possible channels include:
+
+* Look Around
+* Ping Nearest
+* Spatial audio
+* Environmental atmosphere
+* Visual disturbance
+* AR presentation
+* Haptic feedback
+* Semantic guidance
+* Explicit Guide/Objective Assist when requested
+
+No required progression may depend on random wandering over the correct coordinate.
+
+==================================================
+9. CAMPAIGN GUIDANCE FAILURE IS NOT AN ENGINE EXCUSE
+
+If a clean tester cannot find a required resonator even though the engine provides Look Around and Ping Nearest:
+
+Treat that as a campaign guidance/onboarding/discoverability defect.
+
+Do NOT solve it by:
+
+* Inspecting source code
+* Exposing debug coordinates
+* Creating developer-only shortcuts
+* Giving testers secret instructions
+* Adding a second hidden navigation system
+
+Improve the player-facing guidance.
+
+==================================================
+10. MOVEMENT CONTROLS ARE PROTECTED
+
+Preserve the existing accessible movement controls:
+
+* Turn Left
+* Turn Right
+* Move Forward
+* Look Around
+* Ping Nearest
+* Interact
+
+Phase 4 may add:
+
+* AR movement representation
+* Physical device orientation
+* Optional physical movement
+* Action Button input
+* Shake
+* Back Tap/App Intents
+* AR object tapping
+
+But those must invoke or update the same semantic movement/interaction architecture.
+
+Do not make AR movement a separate gameplay universe.
+
+==================================================
+11. PRESERVE 350 MS RAPID-REPEAT PROTECTION
+
+The 350 ms movement/input protection established in Phase 3 passed testing and must not regress.
+
+New inputs must respect equivalent protection where appropriate.
+
+This includes:
+
+* AR taps
+* Shake
+* Hardware Action Button
+* Back Tap/Shortcut invocation
+* VoiceOver actions
+* Repeated touch activation
+
+Do not allow duplicated semantic actions because several native input channels fire almost simultaneously.
+
+==================================================
+12. PRESERVE ANNOUNCEMENT COALESCING
+
+Phase 3 fixed a real accessibility defect where every movement step could flood the VoiceOver speech queue.
+
+That fix is protected.
+
+Routine rapid movement must continue to collapse into the latest meaningful state.
+
+Do not reintroduce speech flooding when adding:
+
+* AR tracking
+* Player rotation
+* Physical movement
+* Continuous distance updates
+* Spatial audio
+* Proximity detection
+* Haptic proximity events
+
+Do NOT announce every tiny coordinate update.
+
+Important events such as:
+
+* Discovery
+* Successful interaction
+* Error
+* Reward
+* Attunement
+* Major environmental restoration
+
+may interrupt appropriately.
+
+==================================================
+13. AR TRACKING MUST NOT DRIVE VOICEOVER SPAM
+
+AR frameworks may update position/orientation many times per second.
+
+Do not expose those raw updates directly to accessibility announcements.
+
+Use semantic thresholds.
+
+For example:
+
+Do not announce every degree of rotation.
+
+Do announce when the player’s meaningful relative direction to an objective changes enough to matter.
+
+Do not announce every centimeter of movement.
+
+Do announce when an object changes from far to medium, or medium to near, where useful.
+
+==================================================
+14. MALFORMED DATA PROTECTION MUST REMAIN
+
+Phase 3 already corrected crashes caused by deliberately corrupted spatial values.
+
+All new Phase 4 layers must respect sanitized semantic state.
+
+Invalid data such as:
+
+* NaN
+* Infinite values
+* Absurd headings
+* Invalid positions
+* Invalid elevation
+* Impossible state combinations
+
+must degrade safely.
+
+The 3-D renderer must not crash.
+
+AR must not crash.
+
+Spatial audio must not crash.
+
+Rewards must not become forgeable.
+
+Accessibility descriptions must not output nonsensical coordinates.
+
+==================================================
+15. NATIVE 3-D SPATIAL AUDIO IS NOW MANDATORY
+
+Phase 3 used stereo left/right positioning with a front/back approximation.
+
+That was valid for Phase 3 foundation work.
+
+It is NOT acceptable as final Phase 4 audio.
+
+Phase 4 must replace the approximation with true native world-positioned 3-D spatial audio.
+
+Do NOT defer this.
+
+Do NOT say:
+
+* architecture-ready
+* planned for later
+* future spatial API
+* simulator approximation is enough
+
+Implement true native spatial audio now.
+
+The existing semantic audio abstraction and caption logic should be preserved and extended.
+
+Do not throw away useful Phase 3 abstractions.
+
+==================================================
+16. DO NOT SELF-DOWNGRADE SPATIAL AUDIO
+
+Do not deliberately implement a lesser stereo engine as an application-level substitute for native 3-D spatial audio on hypothetical older devices.
+
+Implement the intended native spatial system.
+
+Allow iOS/native frameworks/device capability to manage supported rendering behavior.
+
+Real-device perceptual testing may remain outstanding.
+
+Implementation may not.
+
+==================================================
+17. DO NOT SELF-DOWNGRADE 3-D RENDERING
+
+The production 3-D renderer is mandatory.
+
+Do not substitute:
+
+* Flat markers
+* 2-D camera overlays
+* Developer primitives
+* Simulated pseudo-3-D
+
+because some hardware may theoretically perform differently.
+
+Build the intended renderer.
+
+Allow native graphics/framework/device behavior to manage actual hardware capability.
+
+==================================================
+18. DO NOT SELF-DOWNGRADE AR
+
+True world-space AR is mandatory for Phase 4.
+
+Do not substitute the existing camera overlay and call AR complete.
+
+Implement the real AR system using supported native frameworks.
+
+Do not postpone implementation because physical device validation remains outstanding.
+
+Implementation and hardware validation are separate.
+
+==================================================
+19. PRESERVE THE SPATIAL PROTOTYPE
+
+Do not delete the existing Spatial Prototype merely because production AR and 3-D rendering are being added.
+
+Preserve it as a useful isolated test surface unless there is a compelling engineering reason not to.
+
+It can serve as:
+
+* Semantic-world test surface
+* Accessibility regression surface
+* Stationary navigation test
+* Sound-off test
+* Haptics-off test
+* Renderer-independent diagnostic surface
+
+It should remain clearly labeled appropriately if exposed to ordinary users.
+
+Production gameplay should not depend on it.
+
+==================================================
+20. THE PROTOTYPE MUST NOT BECOME A SECOND ENGINE
+
+The Spatial Prototype and production First Fracture experience must consume the same semantic spatial architecture.
+
+Do not fork:
+
+prototypeWorldLogic
+
+and
+
+productionWorldLogic
+
+into separate incompatible implementations.
+
+==================================================
+21. ACCESSIBILITY TEXT REMAINS SEMANTIC
+
+Continue producing real text for important spatial state.
+
+Do not replace semantic text with audio-only announcements.
+
+VoiceOver and braille-display users must continue receiving meaningful information from the same semantic data.
+
+Do not create a proprietary braille mode.
+
+==================================================
+22. SOUND-OFF / HAPTICS-OFF REGRESSION GATE
+
+Phase 3 proved:
+
+* Sound off works
+* Haptics off works
+* Both off works
+
+Phase 4 must preserve these modes even after adding:
+
+* 3-D audio
+* Atmospheric audio
+* AR
+* 3-D visuals
+* Rich haptics
+* Musical progression
+
+The campaign must remain playable.
+
+==================================================
+23. CLEAN-PLAYER DISCOVERABILITY ACCEPTANCE TEST
+
+After Phase 4 guidance improvements, perform a clean playthrough.
+
+The tester must not inspect:
+
+* Source
+* Object coordinates
+* Hidden-object lists
+* Debug state
+* Progression code
+
+The tester must locate every REQUIRED resonator using only player-facing systems.
+
+Specifically test whether:
+
+Look Around helps.
+
+Ping Nearest helps.
+
+Movement feedback helps.
+
+Guidance escalation helps.
+
+Environmental cues help.
+
+If the tester cannot formulate a reasonable next action:
+
+FAIL THE PLAYTEST.
+
+Do not let the tester inspect implementation.
+
+==================================================
+24. PHASE 3 REGRESSION TESTING
+
+Rerun or preserve equivalent coverage for all Phase 3 foundational behaviors.
+
+At minimum verify:
+
+* Direction math
+* Eight-direction classification
+* Distance classification
+* Turning/wrapping
+* Movement
+* Discovery
+* Reachability
+* Object state in descriptions
+* Nearest-first orientation summaries
+* Elevation wording
+* Malformed spatial input handling
+* Announcement coalescing
+* Rapid-repeat protection
+* Sound-off use
+* Haptics-off use
+* Both-off use
+
+Add regression tests for interactions with the new Phase 4 systems.
+
+==================================================
+25. NEW CROSS-SYSTEM TESTS
+
+Test:
+
+Semantic position -> 3-D entity position
+
+Semantic position -> AR entity position
+
+Semantic position -> native spatial audio position
+
+Semantic state -> visual state
+
+Semantic state -> audio state
+
+Semantic state -> VoiceOver description
+
+Semantic state -> contextual action
+
+Semantic state -> haptic event
+
+Verify all channels agree.
+
+For example:
+
+If the model says a required resonator is ahead-left, medium distance, and above:
+
+the rendered object,
+AR object,
+audio source,
+semantic description,
+and interaction targeting
+
+must agree.
+
+==================================================
+26. PHASE 4 FINAL REPORT MUST EXPLICITLY ADDRESS PHASE 3 PRESERVATION
+
+The Phase 4 completion report must include a section named:
+
+PHASE 3 FOUNDATION PRESERVATION
+
+It must explicitly state:
+
+* Whether the semantic world model remained authoritative
+* Whether direction math was changed
+* Whether distance classification was changed
+* Whether reachability logic was changed
+* Whether discovery logic was changed
+* Whether orientation summaries were changed
+* Whether the 350 ms protection remains
+* Whether speech coalescing remains
+* Whether malformed-data protection remains
+* Whether sound-off/haptics-off behavior remains
+* Whether the Spatial Prototype remains
+* What changes were intentionally made and why
+
+Do not merely say:
+
+“No regressions.”
+
+Provide actual detail.
+
+==================================================
+27. FINAL ACCEPTANCE QUESTIONS
+
+At Phase 4 completion, explicitly answer:
+
+1. Is the Phase 3 semantic spatial model still the single source of truth?
+
+YES or NO.
+
+2. Do 3-D rendering, AR, native spatial audio, accessibility output, haptics, and interactions all consume the same semantic object state?
+
+YES or NO.
+
+3. Can every required First Fracture resonator be located using player-facing systems without source inspection?
+
+YES or NO.
+
+4. Do Look Around and Ping Nearest provide useful progression guidance rather than merely technically existing?
+
+YES or NO.
+
+5. Does the 350 ms rapid-repeat protection still work?
+
+YES or NO.
+
+6. Does announcement coalescing still prevent VoiceOver flooding?
+
+YES or NO.
+
+7. Is true native 3-D spatial audio implemented rather than deferred or approximated as the primary system?
+
+YES or NO.
+
+8. Is true 3-D rendering implemented rather than deferred or substituted with flat presentation?
+
+YES or NO.
+
+9. Is true world-space AR implemented rather than deferred or substituted with a camera overlay?
+
+YES or NO.
+
+10. Did Phase 4 extend the Phase 3 architecture rather than replacing it with parallel systems?
+
+YES or NO.
+
+Any NO answer must be explained and treated as unfinished foundational work.

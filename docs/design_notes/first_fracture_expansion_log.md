@@ -61,3 +61,40 @@ the specific notes/timbres here are demo choices, not canon.
 3. No canon characters, factions, places, or events appear in the slice.
 4. Puzzle text/answers are verbatim from the established slice.
 5. If meaningful new lore becomes necessary, STOP and ask Nexus.
+
+## Phase 4 completion additions (August 2026, all noncanonical)
+
+### New archive texts (unlocked by rewards — lib/rewards.ts payloads)
+| Reward | Archive entry title | Text |
+| --- | --- | --- |
+| Echo Fragment I | Echo fragment — first playback | "…the beacon held through the first night. Whatever cracked the channel did not crack us…" (a recovered scrap of an old field recording; speaker unnamed, deliberately) |
+| Echo Fragment II | Echo fragment — second playback | "…we marked the boundary and sang the reference tones until our throats gave out. The ground answered…" |
+| Echo Fragment III | Echo fragment — third playback | "…if anyone finds these splinters, know the fracture was survivable. Mend it the way we could not…" |
+| Field Notes | Field Notes — fracture survey | Survey summary combining both inspect objects' observations |
+| Afterglow | Afterglow — listening note | "A restored resonator does not go silent; it keeps a low, even afterglow. Standing with it for a while is its own kind of maintenance." |
+| Resonance Bloom | Resonance Bloom — field observation | "Post-restoration phenomenon: where a fracture heals completely, the settled harmonics can knot into a stable standing bloom. Noted for future survey teams — a healed zone is not an empty zone." |
+
+The fragment playback texts refer to unnamed past survey workers only. They
+name no canon characters, factions, dates, or places. If Nexus wants echo
+fragments tied to canonical history, that is a Nexus decision.
+
+### New post-completion object
+| Object | Role | Text |
+| --- | --- | --- |
+| a resonance bloom (bloom-1) | Hidden discovery, appears only after all 4 resonators are attuned | "A resonance bloom — a slow flower of standing sound that only forms where a fracture has fully healed. It was never here before. It could not have been." |
+
+"Resonance bloom" is a demo term for a post-completion phenomenon; not canon.
+
+### Reward unlock labels (functional unlocks, no monetization)
+- Restored Ambience (ambient mix): completing all four resonators changes the standing soundscape.
+- Quiet Focus (field effect): the quiet hollow discovery adds a calmer listening layer.
+- Overtone Crown (music layer): the overtone ridge discovery adds a fifth crown voice, root note one octave up, when the zone is fully restored.
+
+### Environmental music stages (lib/music/environment.ts captions)
+Stage captions describing restoration 0→4 (e.g. "The fractured layers settle
+into one stable harmony…") are new descriptive text, not lore.
+
+### Haptic language
+The documented gameplay haptic vocabulary (discovery / approach / success /
+error / attuned / restoration / reward) lives in lib/haptics.ts. Design
+language only — no lore content.

@@ -198,6 +198,7 @@ test('explore save state sanitizes malformed data and dedupes', () => {
     collected: [],
     inspected: ['inspect-1'],
     visitedHidden: [],
+    listenedAtRest: [],
   });
   assert.equal('broken' in save.explore!, false);
 });

@@ -1,0 +1,998 @@
+RESONANCE: FRACTURED FREQUENCY — PHASE 4 COMPLETION ORDER
+
+Continue from the current verified native iOS build at:
+
+Commit:
+90d05b190acb76424c647652edb5654dc40c02a4
+
+Do NOT restart Phase 4.
+
+Do NOT discard or substantially rewrite working systems merely to implement this order.
+
+The current First Fracture expansion, musical object system, exploration loop, rewards already implemented, semantic spatial model, accessibility work, save handling, classic mode, camera-preview work, and existing tests should remain intact unless a demonstrated defect requires modification.
+
+The purpose of this work is to COMPLETE the portions of Phase 4 that were requested but were not actually finished.
+
+The previous Phase 4 report is accepted as a progress report, NOT as completion of the full Phase 4 mandate.
+
+Several required reusable engine systems remain incomplete.
+
+PHASE 4 IS NOT COMPLETE UNTIL THE FOLLOWING SYSTEMS ARE IMPLEMENTED OR, where iOS genuinely prevents a requested capability, investigated thoroughly and documented accurately.
+
+==================================================
+
+1. FINISH THE REAL 3-D WORLD RENDERER
+    ==================================================
+
+The existing camera view that overlays discovered objects by direction is not sufficient as the finished 3-D renderer.
+
+Build an actual reusable 3-D presentation layer over the existing semantic spatial world model.
+
+The semantic spatial model remains the single source of truth.
+
+The 3-D renderer must consume semantic entities from that model.
+
+It must NOT create a second independent representation of:
+
+* Object identity
+* Position
+* Orientation
+* Discovery
+* Reachability
+* Interaction state
+* Puzzle state
+* Attunement state
+* Rewards
+* Canonical progression
+
+A semantic object should be able to be represented simultaneously through:
+
+* 3-D graphics
+* AR
+* Spatial audio
+* VoiceOver
+* Braille-compatible semantic text
+* Captions
+* Haptics
+* Traditional stationary controls
+
+without becoming separate versions of the object.
+
+Create reusable 3-D entity/component architecture suitable for later campaigns.
+
+At minimum, the renderer should support:
+
+* World-space position
+* Rotation
+* Scale
+* Elevation
+* Visibility
+* Discovery state
+* Interaction state
+* Animation state
+* Resonance state
+* Fracture state
+* Selection/focus
+* Proximity response
+* Visual effects
+* Accessibility metadata link back to the semantic object
+
+Do not hard-code the renderer specifically around the eleven First Fracture objects.
+
+Future campaign content should be able to declare objects and have the existing renderer display them.
+
+==================================================
+2. FINISH TRUE WORLD-ANCHORED AR
+
+The current camera overlay is useful and should remain available if appropriate, but it is not the final AR implementation.
+
+Implement actual native world-space AR using supported iOS technology such as RealityKit / ARKit where appropriate.
+
+Objects should occupy positions in the AR world rather than simply appearing as directional 2-D overlays.
+
+The AR system should support, where device capability permits:
+
+* Stable world-space placement
+* Position relative to the player
+* Distance
+* Elevation
+* Orientation
+* Occlusion or depth behavior where safe and performant
+* Looking around with the device
+* Moving closer to or around an object
+* Selecting an object visually
+* Tapping an AR object to invoke its semantic interaction
+* Visual state changes when an object is discovered, inspected, collected, resonating, attuned, completed, or otherwise changes state
+
+The AR renderer remains OPTIONAL.
+
+Camera permission denial must never block completion.
+
+AR tracking failure must never corrupt game state.
+
+Loss of camera or tracking must degrade gracefully to the existing semantic/stationary interface.
+
+The game must remain fully playable:
+
+* Without camera permission
+* Without AR support
+* While stationary
+* With VoiceOver
+* With sound disabled
+* With haptics disabled
+* With both sound and haptics disabled
+
+Do not require walking to complete The First Fracture.
+
+Physical movement may enrich the experience but cannot be required.
+
+==================================================
+3. GIVE THE FRACTURE A FINISHED VISUAL IDENTITY
+
+The existing double-ring / steady-ring indicators are useful accessible state indicators, but they are not sufficient as the final graphical presentation.
+
+Build a richer visual language appropriate to a polished commercial-quality game.
+
+The visual treatment should make a FRACTURED environment visibly feel unstable and an ATTUNED environment visibly feel changed.
+
+Do not simply add generic glowing sci-fi objects.
+
+Develop a coherent visual language for Resonance.
+
+Possible techniques include:
+
+* Geometric distortion
+* Slight spatial duplication
+* Broken symmetry
+* Phase-like offset copies
+* Ripple propagation
+* Particle displacement
+* Surface warping
+* Fragmented light
+* Chromatic separation
+* Refraction-like effects
+* Wave patterns
+* Harmonic pulse animations
+* Distorted environmental geometry
+* Unstable shadows or light response
+* Resonance fields
+* Object-specific visual signatures
+* Environmental effects that stabilize as progress is made
+
+Use judgment and build a coherent combination rather than applying every effect everywhere.
+
+The graphics should communicate:
+“This place is fractured.”
+
+Then, through player action:
+“This place is becoming coherent.”
+
+When all four main resonators are restored, the environment should have a meaningful visual transformation, not merely four objects changing icons.
+
+Examples could include:
+
+* Environmental distortion settling
+* Particles synchronizing
+* A fractured light pattern resolving
+* Previously unstable geometry becoming coherent
+* Resonance waves synchronizing through the environment
+* The beacon or central field becoming visually whole
+
+Do not rely solely on color.
+
+State must continue to be communicated through:
+
+* Shape
+* Motion
+* Texture
+* Text
+* Semantic description
+* Audio where enabled
+* Haptics where enabled
+
+Reduce Motion must continue to work.
+
+When Reduce Motion is enabled, replace movement-heavy effects with meaningful static alternatives rather than simply removing information.
+
+==================================================
+4. GRAPHICS QUALITY AND PERFORMANCE SYSTEM
+
+Build these graphics as reusable game systems rather than a one-off demo.
+
+The renderer should support graceful scaling according to device performance.
+
+Where practical, provide quality tiers or automatic degradation for expensive effects.
+
+The game should remain usable on supported devices that cannot sustain every high-end visual effect.
+
+Performance degradation must never change gameplay logic.
+
+Do not make:
+
+* Hidden objects
+* Puzzle state
+* Reachability
+* Discovery
+* Required interaction
+
+depend on whether a visual effect is enabled.
+
+Maintain UI readability over camera and animated backgrounds.
+
+==================================================
+5. IMPLEMENT TRUE NATIVE 3-D SPATIAL AUDIO
+
+The current musical soundscape and stereo positioning are valuable, but Phase 4 requires the reusable spatial audio system to be completed.
+
+Implement native positional audio tied to the SAME semantic world coordinates used by the 3-D/AR renderer.
+
+Where supported by iOS native audio APIs, objects should be spatialized with meaningful:
+
+* Left/right position
+* Front/back position
+* Distance
+* Elevation
+* Orientation where relevant
+* Distance attenuation
+* Environmental response where appropriate
+
+Do not continue using a stereo pan approximation as the final front/back solution when native spatial audio APIs are available.
+
+The sound object and the visual/AR object must refer to the same semantic world entity.
+
+If a resonator is physically ahead-right and above the player in the world model, its audio and visual representation should derive from that same spatial state.
+
+==================================================
+6. UPGRADE SOUND DESIGN BEYOND BASIC SYNTH TONES
+
+The F–A–C–high-F harmonic structure is GOOD and should remain.
+
+However, the final experience should not sound like four basic oscillator test tones.
+
+Keep the harmonic architecture but develop richer sound identities.
+
+Each resonator should have a recognizable musical voice.
+
+For example:
+
+LOW F RESONATOR
+A warm, low foundation.
+It might combine a soft fundamental, subtle harmonic texture, low resonant body, and environmental resonance.
+
+A RESONATOR
+A warmer middle voice.
+Potentially bell-like, bowed, glassy, vocal-like, or another appropriate timbre.
+
+C RESONATOR
+A steadier rhythmic or structural voice.
+It may carry subtle pulse or percussive identity without becoming irritating.
+
+HIGH F RESONATOR
+A bright upper voice.
+Shimmer, air, high harmonic movement, or another identifiable texture.
+
+These are descriptions of intent, not rigid instrumentation requirements.
+
+The important properties are:
+
+* They sound distinct.
+* They belong to the same musical world.
+* They combine musically.
+* They can exist for extended play without becoming irritating.
+
+Broken resonators should sound fractured.
+
+Possible techniques include:
+
+* Controlled detuning
+* Beating
+* Interrupted harmonics
+* Phase drift
+* Granular instability
+* Uneven pulse
+* Incomplete harmonic content
+* Filter instability
+* Spatial instability
+
+Attuning should audibly restore coherence.
+
+The transformation should happen musically rather than simply replacing a “bad sound” with a “good sound.”
+
+==================================================
+7. MAKE THE ENVIRONMENT ITSELF MUSICAL
+
+Do not limit musical change to the four individual resonators.
+
+Build support for an environmental music system that responds to world state.
+
+The First Fracture should be capable of evolving as resonators are restored.
+
+Example conceptual progression:
+
+0 restored:
+Sparse, unstable, fractured atmosphere.
+
+1 restored:
+One stable musical voice joins the world.
+
+2 restored:
+Harmony begins to emerge.
+
+3 restored:
+The environment is clearly approaching coherence.
+
+4 restored:
+The F-major structure resolves and the entire environment feels musically whole.
+
+Do not require players to know what F major means.
+
+A nonmusician should experience:
+“The world just came together.”
+
+Every meaningful sound change must continue to have useful captions and semantic descriptions.
+
+Avoid captions that merely say:
+“Music plays.”
+
+Prefer meaningful descriptions such as:
+“A warm low resonance settles into tune beneath the fracture.”
+
+Do not overload captions with music-theory terminology.
+
+==================================================
+8. FINISH THE SEMANTIC INTERACTION INPUT SYSTEM
+
+The current button and optional shake gesture are only part of the requested input architecture.
+
+There must be ONE semantic action system underneath multiple input mechanisms.
+
+Inputs must not duplicate gameplay logic.
+
+For example:
+
+Interact(objectID)
+
+or equivalent semantic architecture.
+
+That same action should be callable through all appropriate supported methods.
+
+Implement and test the following where supported:
+
+A. ON-SCREEN ACTION
+
+Keep a large, accessible Interact / Collect / Attune button.
+
+Stationary play must always have this option.
+
+B. AR OBJECT TAP
+
+A sighted player should be able to tap a rendered AR object.
+
+The tap must invoke the SAME semantic object action as the accessible button.
+
+Do not create separate AR-specific puzzle logic.
+
+C. VOICEOVER
+
+Expose meaningful semantic objects to VoiceOver.
+
+Where appropriate, provide UIAccessibilityCustomAction-style actions such as:
+
+* Inspect
+* Interact
+* Collect
+* Attune
+* Ping
+
+Do not force a VoiceOver player to locate a tiny visual target.
+
+The accessibility action must invoke the same semantic action as every other input.
+
+D. HARDWARE ACTION BUTTON
+
+Investigate and, where legitimately supported, implement an iPhone Action Button route for the current contextual game action.
+
+Do not assume every iPhone has an Action Button.
+
+The app must remain fully functional without it.
+
+The Action Button should ideally invoke the currently available semantic action, not contain separate gameplay logic.
+
+If direct Action Button integration requires App Intents, Shortcuts, Controls, or another supported Apple mechanism, use the legitimate supported architecture.
+
+Document exactly what was possible.
+
+E. BACK TAP
+
+Investigate a legitimate supported method for allowing a user to invoke the game’s contextual interaction through iOS Back Tap.
+
+Do NOT use private APIs.
+
+Do NOT claim the app can receive the system Back Tap gesture directly unless Apple provides a supported mechanism.
+
+A likely legitimate architecture may involve:
+
+* App Intents
+* Shortcuts
+* Accessibility Shortcut behavior
+* Another supported system action
+
+If the user can assign an app-provided action to iOS Back Tap, implement the app side required to make that possible.
+
+If iOS does NOT provide a supported route, state that clearly in the final report.
+
+Do not fake completion.
+
+F. SHAKE
+
+Keep optional shake-to-interact.
+
+It remains OFF by default.
+
+Retain debounce/rapid-repeat protection.
+
+G. STATIONARY INPUT
+
+A stationary user must be able to perform every required action without:
+
+* Shaking
+* Walking
+* Camera
+* Hardware Action Button
+* Back Tap
+* Physical device movement
+
+==================================================
+9. CONTEXTUAL ACTION DESIGN
+
+Avoid making the player choose unnecessarily between many nearly identical buttons.
+
+The interaction system should understand context.
+
+Examples:
+
+If a nearby object is collectible:
+Primary contextual action may be “Collect Echo Fragment.”
+
+If a resonator is available:
+Primary action may be “Inspect Resonator” or “Attune Resonator.”
+
+If nothing is reachable:
+The player may receive useful information such as:
+“Nothing is within reach. The nearest signal is ahead-right.”
+
+Do not hide what the action will do.
+
+VoiceOver and braille users should receive meaningful action labels rather than a generic unlabeled “Action.”
+
+==================================================
+10. FINISH THE REUSABLE REWARD ENGINE
+
+The existing eight rewards are useful First Fracture content.
+
+Now verify and, where necessary, refactor them onto a reusable reward architecture.
+
+Do NOT replace the existing rewards merely for architectural purity.
+
+The reusable reward definition should support at minimum:
+
+* Stable reward ID
+* Display name
+* Description
+* Reward category/type
+* Campaign source
+* Encounter or source-object ID where applicable
+* Required condition
+* Earned/not earned
+* One-time/repeatable
+* Hidden/visible
+* Optional/required
+* Unlock payload where applicable
+* Persistence
+* Duplicate protection
+* Save sanitisation
+* Versioning/migration considerations
+* Timestamp where useful
+
+Future campaigns should be able to register new rewards without rewriting the reward engine.
+
+Do not hard-code logic such as:
+
+if firstFractureFragment3 then award fragment3
+
+throughout unrelated gameplay code.
+
+Use an extensible reward definition / condition system.
+
+==================================================
+11. REWARDS SHOULD ACTUALLY REWARD THE PLAYER
+
+At present, rewards appear primarily to be discoveries/achievements.
+
+Build support for meaningful unlocks.
+
+Do NOT add a monetization economy.
+
+Do NOT add purchasable coins.
+
+Possible reward payload categories should support future content such as:
+
+* Archive entries
+* Environmental history
+* Alternate ambient mixes
+* Additional music layers
+* Cosmetic resonance effects
+* Visual themes or field effects
+* Optional post-completion interactions
+* Exploration records
+* Discoverable soundscapes
+* Noncanonical technical-demo collectibles
+* Replay modifiers that do not change canon
+* Player profile accomplishments
+
+Only create enough actual First Fracture reward content to demonstrate that the architecture works.
+
+Do not invent major lore without Nexus approval.
+
+==================================================
+12. BUILD A REAL POST-COMPLETION STATE
+
+Finishing the four resonators should not leave a dead environment with nothing meaningful left to experience.
+
+Create a post-restoration state for The First Fracture.
+
+The restored fracture should feel different.
+
+Potential changes include:
+
+* Full resolved harmony
+* Stable visual field
+* Changed environmental ambience
+* Previously unstable objects behaving differently
+* New inspect responses
+* Optional post-completion discoveries
+* Afterglow interactions
+* Hidden resonances becoming detectable
+* Additional noncanonical technical-demo observations
+* Cosmetic environmental transformation
+
+Do not create mandatory new canon.
+
+The player should have a reason to remain for a few minutes after “winning.”
+
+==================================================
+13. REPLAYABILITY INFRASTRUCTURE
+
+Build reusable support for replay value.
+
+This does NOT mean forcing endless repetition.
+
+The engine should support campaign-defined replay features such as:
+
+* Optional collectibles
+* Hidden discoveries
+* Exploration completion percentage
+* Post-completion interactions
+* Optional challenge goals
+* Safe randomized placement regions for OPTIONAL objects
+* Alternate environmental responses
+* Discoveries that may not appear on every visit
+* Persistent discovery records
+* Campaign mastery records
+
+Do not randomly move required puzzle objects in a way that undermines narrative design.
+
+Do not require a second playthrough to understand the basic story.
+
+Replayability should reward curiosity rather than withhold essential comprehension.
+
+==================================================
+14. FIRST FRACTURE PLAYTIME MUST BE MEASURED, NOT DECLARED
+
+The previous report says the target first playthrough is 45 minutes to 1 hour.
+
+A target is not evidence.
+
+Perform actual timed playthrough testing.
+
+Where possible, conduct at least these distinct playthrough profiles:
+
+A. DIRECT / FAST PATH
+
+A tester who understands the controls and deliberately pursues required progression.
+
+Measure how quickly the chapter can reasonably be completed.
+
+B. CURIOUS FIRST-PLAY STYLE
+
+A tester explores optional objects, listens, inspects environmental features, collects discoveries, and plays naturally without deliberately rushing.
+
+This is the most important measurement for the intended 45–60 minute experience.
+
+C. ACCESSIBILITY-HEAVY STATIONARY PATH
+
+Use the stationary semantic interface with sound unavailable or disabled.
+
+Navigate through orientation summaries, semantic controls, captions/text, and accessible interactions.
+
+Measure whether this path remains enjoyable rather than merely technically possible.
+
+Do not artificially slow testers with forced delays.
+
+Report actual measured times.
+
+If the natural curious first-play experience is substantially shorter than approximately 45 minutes, do NOT add meaningless padding.
+
+Instead identify where the experience lacks:
+
+* Exploration
+* Environmental storytelling
+* Interesting optional interactions
+* Discovery
+* Soundscape development
+* Spatial variety
+* Meaningful environmental response
+
+Then expand the experience thoughtfully.
+
+==================================================
+15. MAKE EXPLORATION INTERESTING, NOT JUST LONGER
+
+Eleven objects alone do not automatically create a 45–60 minute experience.
+
+Review the First Fracture zone for meaningful density.
+
+Players should encounter moments such as:
+
+* Something heard before it is understood
+* Something discovered off the direct path
+* An object that changes after a nearby resonator is restored
+* A hidden area revealed through progress
+* A soundscape that invites investigation
+* Environmental behavior that rewards looking around
+* A nonessential interaction with an interesting response
+* A restored location worth revisiting
+* A visual or sonic event that exists simply to create wonder or atmosphere
+
+Avoid filler.
+
+Do not create dozens of meaningless tappable objects.
+
+Fewer memorable interactions are better than large quantities of generic content.
+
+==================================================
+16. ACCESSIBILITY MUST REMAIN PART OF THE ENGINE
+
+Do not bolt accessibility onto the finished renderer afterward.
+
+Every new 3-D and AR object must remain connected to semantic accessibility information.
+
+VoiceOver and braille players must interact with the SAME object model.
+
+For meaningful objects, support semantic information such as:
+
+* Name
+* Type
+* Relative direction
+* Approximate distance
+* Elevation where relevant
+* Current state
+* Whether discovered
+* Whether reachable
+* Available action
+* Relevant result of interaction
+
+Do not flood VoiceOver.
+
+Continue using coalesced announcements for routine movement.
+
+Important discoveries, rewards, errors, and major state changes may interrupt appropriately.
+
+Every important spoken description must also exist as real text so it can be read through braille.
+
+Do not make a proprietary braille mode.
+
+==================================================
+17. SOUND-OFF MUST STILL FEEL LIKE A GAME
+
+Because Resonance is heavily musical, specifically test whether sound-off play has become merely technically solvable but emotionally empty.
+
+A player with sound disabled should receive meaningful equivalent information through:
+
+* Captions
+* Visual rhythm/state
+* Semantic descriptions
+* Haptics where enabled
+* Environmental text
+* State transformation
+
+Do not attempt to duplicate music literally through text.
+
+Instead convey the meaning and evolution of the soundscape.
+
+Examples:
+
+“Two resonances now hold steady. A third still wavers nearby.”
+
+or:
+
+“The fractured layers settle into one stable harmony.”
+
+These are examples, not mandatory exact wording.
+
+==================================================
+18. HAPTIC LANGUAGE
+
+The project now has separate Interface Haptics and Gameplay Haptics toggles.
+
+Keep that distinction.
+
+Now establish a modest reusable gameplay haptic language.
+
+Do not create dozens of patterns.
+
+A small meaningful set is better.
+
+Possible semantic categories:
+
+* Discovery
+* Approaching resonance
+* Successful interaction
+* Error / unavailable action
+* Object attuned
+* Major environmental restoration
+* Reward earned
+
+Patterns should feel distinct enough to be useful but should not be required for comprehension.
+
+Every haptic event must have an equivalent accessible channel.
+
+Document the patterns so later campaigns reuse them consistently.
+
+==================================================
+19. SAVE / MIGRATION REQUIREMENTS
+
+Any new renderer, reward, replay, interaction, audio, or post-completion state that persists must pass through the existing defensive save architecture.
+
+Old saves must remain safe.
+
+Corrupt or forged state must not:
+
+* Crash the app
+* Award impossible progression
+* Place objects in invalid state
+* Unlock rewards incorrectly
+* Break campaign completion
+* Produce NaN world positions
+* Create unreachable required objects
+
+Migrate prior saves cleanly.
+
+Do not reset legitimate player progress simply because Phase 4 adds new fields.
+
+==================================================
+20. TEST THE SYSTEMS AS ONE GAME
+
+Do not only test each feature in isolation.
+
+Add unit/integration/end-to-end testing as appropriate for:
+
+* Semantic object -> 3-D entity linkage
+* Semantic object -> AR entity linkage
+* Semantic object -> spatial sound source linkage
+* World position agreement between graphics and audio
+* AR object tap invoking semantic action
+* VoiceOver custom action invoking semantic action
+* Standard button invoking same semantic action
+* Shake invoking same semantic action
+* Action Button route where supported
+* Back Tap/App Intent route where supported
+* Rapid repeated interaction protection
+* Camera permission denial
+* AR tracking loss
+* AR unsupported device fallback
+* Stationary completion
+* Sound-off completion
+* Haptics-off completion
+* Interface-haptics-off while gameplay haptics remain on
+* Gameplay-haptics-off while interface haptics remain on
+* Both haptics off
+* Reward persistence
+* Duplicate reward prevention
+* Reward unlock payload
+* Hidden rewards
+* Post-completion state
+* Replay/discovery records
+* Music progression
+* Four resonators resolving into the intended F-major state
+* Broken -> attuning -> stable audio transitions
+* Reduce Motion visual alternatives
+* Graphics quality fallback
+* Existing classic play mode
+* Existing spatial prototype
+* Existing First Fracture puzzles word-for-word
+* Existing corrupted save handling
+* Existing web build integrity
+
+==================================================
+21. REAL-DEVICE VALIDATION MUST REMAIN HONEST
+
+Do not claim simulator or web-preview behavior proves hardware behavior.
+
+Explicitly mark the following as requiring real iPhone testing unless actually tested on physical hardware:
+
+* VoiceOver navigation
+* VoiceOver custom-action ergonomics
+* Braille-display output
+* Actual haptic feel
+* Shake detection
+* Action Button behavior
+* Back Tap assignment workflow
+* Camera behavior
+* RealityKit / ARKit tracking
+* World-anchor stability
+* Spatial audio through speakers
+* Spatial audio through headphones
+* Front/back perception
+* Elevation perception
+* Silent switch behavior
+* Audio interruptions
+* Phone calls / Siri / notification interruptions
+* Thermal performance
+* Battery impact
+* Camera + spatial audio + graphics performance together
+
+==================================================
+22. DO NOT CHANGE ESTABLISHED FIRST FRACTURE PUZZLE CONTENT
+
+The four original puzzle nodes must remain word-for-word unless Nexus explicitly authorizes a change.
+
+Do not change:
+
+* Original story text
+* Targets
+* Correct answers
+* Incorrect-answer feedback
+* Existing puzzle logic
+
+New environmental and technical-demo material may surround those puzzles.
+
+Continue registering invented noncanonical First Fracture expansion text, names, objects, environmental descriptions, and optional content in:
+
+docs/design_notes/first_fracture_expansion_log.md
+
+Do not quietly convert technical-demo material into canon.
+
+==================================================
+23. PROTECTED WEB BUILD
+
+The protected web game remains untouched.
+
+Do not modify it in order to make native implementation easier.
+
+At the end:
+
+* Verify no unintended changes
+* Rebuild/compile as appropriate
+* Report explicitly whether it remained untouched
+
+==================================================
+24. DEFINITION OF PHASE 4 COMPLETE
+
+Do NOT report Phase 4 complete merely because The First Fracture can be played.
+
+Phase 4 is complete when The First Fracture genuinely demonstrates the reusable finished native gameplay platform.
+
+That means the vertical slice should demonstrate, working together:
+
+* Semantic spatial world
+* Rich 3-D rendering
+* Real world-space AR where hardware supports it
+* Stationary equivalent gameplay
+* Finished visual fracture language
+* Environmental transformation
+* Native 3-D positional audio
+* Rich musical sound design
+* F–A–C–F harmonic restoration
+* Reactive environmental soundscape
+* Multiple semantic interaction inputs
+* AR object interaction
+* VoiceOver semantic interaction
+* Optional shake
+* Action Button integration where legitimately supported
+* Back Tap/App Intent route where legitimately supported
+* Separate interface/gameplay haptics
+* Reusable haptic language
+* Reusable rewards framework
+* Meaningful reward unlocks
+* Post-completion state
+* Replay infrastructure
+* Real measured playtime
+* Accessibility parity
+* Save compatibility
+* Regression safety
+
+Only then should future campaign development primarily consist of building outward using established engine systems rather than repeatedly reopening foundational native architecture.
+
+==================================================
+25. FINAL REPORT REQUIREMENTS
+
+When this completion pass is finished, return a detailed Phase 4 completion report.
+
+Explicitly report:
+
+What remained from the previous Phase 4 implementation unchanged.
+
+What was added during this completion pass.
+
+How the real 3-D renderer works.
+
+How world-anchored AR works.
+
+What the fallback is without AR/camera.
+
+How the finished visual fracture language looks and behaves.
+
+What environmental changes occur as the four resonators are restored.
+
+How true spatial audio was implemented.
+
+How the four resonator voices were upgraded beyond basic oscillator tones.
+
+How environmental music evolves from zero through four restored resonators.
+
+How AR object taps work.
+
+How VoiceOver interactions work.
+
+How the Action Button works, or exactly why supported iOS APIs prevented it.
+
+How the Back Tap route works, or exactly why supported iOS APIs prevented it.
+
+How shake works.
+
+How stationary interaction works.
+
+How the reusable reward engine is structured.
+
+What rewards actually unlock.
+
+What post-completion content exists.
+
+What replay infrastructure exists.
+
+The measured times for:
+
+* Direct/fast completion
+* Curious natural exploration
+* Accessibility-heavy stationary play
+
+Do not substitute target times for actual measured times.
+
+Report graphics/performance testing.
+
+Report all new automated tests and their results.
+
+Report end-to-end tests.
+
+Report bugs discovered during implementation.
+
+Report bugs found by independent review.
+
+Report how they were fixed.
+
+Clearly separate simulator testing from real-device testing.
+
+List everything still requiring physical iPhone validation.
+
+Confirm whether the protected web build remained untouched.
+
+Provide the final Git commit hash.
+
+Finally answer this specific question:
+
+“Is Phase 4 now complete enough that new campaigns can primarily be built as content on top of the existing engine, rather than requiring major foundational engine work?”
+
+Answer YES or NO and explain any remaining foundational exception.
+
+Do not call incomplete architecture “ready” merely because the current chapter is playable.

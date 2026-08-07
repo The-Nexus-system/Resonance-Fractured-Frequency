@@ -18,6 +18,8 @@ export type GameSettings = {
   hapticsInterface: boolean; // small feedback for ordinary controls
   hapticsGameplay: boolean; // tactile feedback for world events
   shakeToInteract: boolean; // OFF by default; never the only way to interact
+  /** 3-D renderer quality. Purely presentational: gameplay never depends on it. */
+  graphicsQuality: 'auto' | 'low' | 'medium' | 'high';
 };
 
 export const defaultSettings: GameSettings = {
@@ -34,6 +36,7 @@ export const defaultSettings: GameSettings = {
   hapticsInterface: true,
   hapticsGameplay: true,
   shakeToInteract: false,
+  graphicsQuality: 'auto',
 };
 
 export type CampaignProgress = {
@@ -47,6 +50,8 @@ export type ExploreState = {
   collected: string[];
   inspected: string[];
   visitedHidden: string[];
+  /** Durable evidence for listen-at-rest rewards (roles listened to after restoration). */
+  listenedAtRest: string[];
 };
 
 export type GameSave = {
@@ -56,7 +61,7 @@ export type GameSave = {
 };
 
 export function emptyExploreState(): ExploreState {
-  return { attuned: [], collected: [], inspected: [], visitedHidden: [] };
+  return { attuned: [], collected: [], inspected: [], visitedHidden: [], listenedAtRest: [] };
 }
 
 function sanitizeIdList(raw: unknown): string[] {
@@ -81,6 +86,7 @@ export function sanitizeSave(raw: unknown): GameSave {
   const allowedValues: { [K in keyof GameSettings]?: readonly string[] } = {
     theme: ['light', 'dark', 'system'],
     textSize: ['normal', 'large', 'xl'],
+    graphicsQuality: ['auto', 'low', 'medium', 'high'],
   };
   const settings: GameSettings = { ...defaultSettings };
   if (obj.settings && typeof obj.settings === 'object') {
@@ -135,6 +141,7 @@ export function sanitizeSave(raw: unknown): GameSave {
         collected: sanitizeIdList(entry.collected),
         inspected: sanitizeIdList(entry.inspected),
         visitedHidden: sanitizeIdList(entry.visitedHidden),
+        listenedAtRest: sanitizeIdList((entry as { listenedAtRest?: unknown }).listenedAtRest),
       };
     }
   }
