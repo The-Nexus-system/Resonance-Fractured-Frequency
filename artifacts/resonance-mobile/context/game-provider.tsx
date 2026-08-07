@@ -36,6 +36,7 @@ type GameContextValue = {
   updateProgress: (campaignId: string, currentNodeIndex: number, completed: boolean) => void;
   announce: (message: string) => void;
   playTone: (freq: number) => void;
+  playUri: (uri: string) => void;
   stopTone: () => void;
   haptic: (kind: 'success' | 'error' | 'select') => void;
   colors: ThemeColors;
@@ -116,12 +117,12 @@ export function GameProvider({ children }: { children: React.ReactNode }) {
     }
   }, []);
 
-  const playTone = useCallback(
-    (freq: number) => {
+  const playUri = useCallback(
+    (uri: string) => {
       if (!settingsRef.current.sound) return;
       try {
         stopTone();
-        const player = createAudioPlayer({ uri: toneUri(freq) });
+        const player = createAudioPlayer({ uri });
         playerRef.current = player;
         // Release the native player as soon as the tone finishes so a
         // completed tone never stays allocated.
@@ -145,6 +146,8 @@ export function GameProvider({ children }: { children: React.ReactNode }) {
     },
     [stopTone],
   );
+
+  const playTone = useCallback((freq: number) => playUri(toneUri(freq)), [playUri]);
 
   const haptic = useCallback((kind: 'success' | 'error' | 'select') => {
     if (!settingsRef.current.haptics || Platform.OS === 'web') return;
@@ -212,6 +215,7 @@ export function GameProvider({ children }: { children: React.ReactNode }) {
       updateProgress,
       announce,
       playTone,
+      playUri,
       stopTone,
       haptic,
       colors,
@@ -229,6 +233,7 @@ export function GameProvider({ children }: { children: React.ReactNode }) {
       updateProgress,
       announce,
       playTone,
+      playUri,
       stopTone,
       haptic,
       colors,

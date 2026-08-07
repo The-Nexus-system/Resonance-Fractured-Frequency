@@ -26,6 +26,7 @@ function RootLayoutNav() {
       <Stack.Screen name="index" />
       <Stack.Screen name="campaigns" />
       <Stack.Screen name="play/[campaignId]" />
+      <Stack.Screen name="spatial" />
       <Stack.Screen name="settings" />
       <Stack.Screen name="about" />
     </Stack>

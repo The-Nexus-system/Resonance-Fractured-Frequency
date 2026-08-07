@@ -1,0 +1,311 @@
+Continue development of RESONANCE: FRACTURED FREQUENCY from the verified native iOS parity checkpoint.
+
+CURRENT VERIFIED STATE
+
+The protected web game remains the reference build and MUST NOT be modified.
+
+The native app, “Resonance Mobile,” is built in React Native + Expo as a true native application.
+
+Phases 1–2 are complete.
+
+Native parity currently includes:
+
+* Home
+* Campaigns
+* Play
+* Settings
+* About
+* The complete First Fracture campaign with all four puzzle nodes
+* Identical story text, targets, choices, feedback, and progression to the web reference
+* Echoing Chasm locked as “Coming Soon”
+* Compatible save format
+* Corrupted-save protection
+* Screen-reader semantics and announcements
+* Captions for all sound
+* Full sound-off play
+* High contrast
+* Colourblind-safe shapes
+* Dyslexia-friendly text
+* Large targets
+* Text sizing through XL
+* Light/dark/system themes
+* Optional haptics
+* Native-generated sine tones and wrong-answer error tone
+
+Automated parity tests have passed.
+
+Known hardware-validation items remain open:
+
+* Real VoiceOver behavior on iPhone
+* Braille-display behavior
+* Real-device haptic feel
+* Real-device audio behavior, including silent switch and interruptions
+
+The current known-good checkpoint is GitHub commit:
+
+a640ccc
+
+Do NOT rewrite completed Phase 1–2 systems unless required to fix a demonstrated defect.
+
+NEXT PHASE: SPATIAL WORLD FOUNDATION + ACCESSIBLE SPATIAL RENDERING
+
+The purpose of this phase is to create the spatial architecture required for later 3-D audio, advanced haptics, INTERACT commands, location-aware play, and optional AR.
+
+Do NOT make visual AR the source of truth.
+
+The spatial world model must exist independently of visual rendering.
+
+A blind player using VoiceOver, braille, captions, audio, haptics, or combinations of those channels must be able to understand and interact with the same world represented visually.
+
+BUILD THE SPATIAL WORLD MODEL FIRST
+
+Create a reusable spatial scene model capable of representing:
+
+* Player position
+* Player orientation/facing
+* Objects
+* Puzzle targets
+* Environmental landmarks
+* Interactable entities
+* Relative direction
+* Relative distance
+* Elevation where relevant
+* Object state
+* Whether an object has been discovered
+* Whether an object is currently reachable or interactable
+
+Do not tie game logic directly to screen coordinates, camera pixels, or ARKit rendering.
+
+Game logic should operate against semantic world objects.
+
+Each meaningful world object should have stable identifying information and accessibility metadata sufficient to describe:
+
+* What it is
+* Where it is relative to the player
+* Approximate distance
+* Relevant state
+* Whether it can currently be interacted with
+
+SPATIAL LANGUAGE
+
+Develop a consistent semantic directional system.
+
+At minimum support concepts equivalent to:
+
+* Ahead
+* Behind
+* Left
+* Right
+* Ahead-left
+* Ahead-right
+* Behind-left
+* Behind-right
+* Near
+* Medium distance
+* Far
+
+Use clock-face direction only if it improves accessibility and does not replace plain directional language.
+
+Do not require visual compass interpretation.
+
+Exact numerical angles or coordinates may exist internally but should not be required for normal gameplay.
+
+ACCESSIBLE ORIENTATION
+
+Create a mechanism allowing the player to request an orientation summary of the current environment.
+
+The summary should be generated from the semantic world model, not manually hard-coded for each rendering mode.
+
+For example, the system should be capable of conveying information conceptually like:
+
+“You are facing the fracture. A resonant pillar is ahead-right, nearby. Another signal is farther left.”
+
+Do not copy that exact wording unless appropriate.
+
+The goal is reliable spatial comprehension, not verbose narration.
+
+PLAYER MOVEMENT
+
+Implement the minimum movement/orientation framework required to prove the spatial architecture.
+
+Movement must not depend exclusively on gestures that conflict with VoiceOver.
+
+Provide accessible controls with large targets.
+
+Do not remove existing interaction methods.
+
+Prevent accidental rapid repeated movement or rotation where necessary.
+
+Movement feedback must be available through nonvisual channels.
+
+SPATIAL AUDIO FOUNDATION
+
+Create the architecture for positional audio, but do not overbuild final sound design yet.
+
+A spatial sound source should be able to correspond to a semantic world object.
+
+Prepare support for:
+
+* Left/right positioning
+* Front/back positioning where platform APIs allow
+* Distance attenuation
+* Consistent sound-object identity
+
+Maintain captions for every meaningful sound.
+
+Sound-off mode must remain fully playable.
+
+No puzzle may become dependent solely on hearing.
+
+HAPTIC FOUNDATION
+
+Expand the existing optional haptic system only enough to support future spatial/haptic language.
+
+Keep haptics optional.
+
+No information may exist exclusively in haptics.
+
+Do not yet invent a complicated vibration vocabulary unless required by the master design.
+
+Any haptic pattern introduced must have an equivalent accessible meaning through another channel.
+
+AR / VISUAL SPATIAL RENDERER
+
+Only after the semantic spatial model works independently, add an optional visual spatial renderer.
+
+If ARKit or another native iOS spatial API is used, treat it as a presentation layer over the existing world model.
+
+AR must NOT:
+
+* Become mandatory
+* Control canonical object state independently
+* Introduce exclusive puzzles
+* Contain information unavailable through accessible channels
+* Require camera use to continue the campaign
+* Replace semantic navigation
+
+If device capabilities do not support AR, the game must remain playable.
+
+The visual renderer may show semantic world objects in physical or simulated space, but the underlying puzzle state must remain identical.
+
+ACCESSIBILITY REQUIREMENTS
+
+Preserve every existing accessibility feature.
+
+Specifically protect:
+
+* VoiceOver
+* Braille-compatible semantic text
+* Captions
+* Sound-off play
+* High contrast
+* Colourblind-safe differentiation
+* Dyslexia-friendly presentation
+* XL text
+* Large controls
+* Light/dark/system themes
+* Haptics-off play
+
+Do not use colour, audio, haptics, visual position, animation, or AR as the sole carrier of required information.
+
+Avoid excessive VoiceOver announcements during movement.
+
+Critical announcements should interrupt appropriately; routine spatial changes should not flood the speech queue.
+
+BRAILLE
+
+Design spatial descriptions as real semantic text so they can naturally reach a connected braille display through iOS accessibility APIs.
+
+Do not create a separate proprietary “braille mode.”
+
+Avoid descriptions that only make sense when spoken aloud.
+
+SAFETY
+
+Do not encourage a player using AR or location/spatial features to walk without awareness of their physical environment.
+
+Do not require physical walking for progression in this phase.
+
+Do not implement location-aware outdoor play yet unless explicitly required by the master prompt.
+
+AR should initially be usable while stationary.
+
+CANON PROTECTION
+
+Do not add:
+
+* New lore
+* New campaign story
+* New canonical characters
+* New puzzle solutions
+* New First Fracture dialogue
+* Changes to existing puzzle targets
+* Changes to existing consequences or feedback
+
+This phase is architectural and presentational.
+
+Do not reinterpret the existing narrative.
+
+TESTING
+
+Add automated tests where practical for the semantic spatial system.
+
+At minimum test:
+
+* Relative direction calculations
+* Distance classification
+* Orientation updates
+* Object discovery/state
+* Interactable-object detection
+* Spatial descriptions
+* Save/load compatibility if spatial state is persisted
+* Malformed spatial save data
+* Spatial mode with sound disabled
+* Spatial mode with haptics disabled
+* Spatial mode with both sound and haptics disabled
+* Existing First Fracture gameplay remains intact
+* Existing settings remain intact
+
+Verify that the protected web build remains untouched.
+
+Run an independent code review after implementation.
+
+Fix real defects discovered by the review and rerun relevant tests.
+
+REAL-DEVICE ITEMS
+
+Clearly separate simulator/automated validation from things requiring actual iPhone hardware.
+
+Do not claim hardware validation for:
+
+* VoiceOver spatial navigation
+* Braille displays
+* Actual spatial audio perception
+* Haptic feel
+* AR tracking
+* Camera behavior
+* iOS interruption behavior
+
+REPORT BACK
+
+When this phase is complete, provide a concise report containing:
+
+What was implemented.
+
+What was tested and passed.
+
+Anything that failed during development and how it was fixed.
+
+Anything that remains untested because it requires real hardware.
+
+Any architectural decisions that need Nexus approval.
+
+Whether the protected web build was modified.
+
+The final Git commit hash.
+
+Whether it is safe to continue to the next phase.
+
+STOP if implementation would require a canon decision or a significant gameplay-design decision not already established by the existing project.
+
+Do not silently invent one.

@@ -40,6 +40,16 @@ export default function HomeScreen() {
           }}
         />
         <GameButton
+          label="Spatial Prototype"
+          variant="outline"
+          testID="button-spatial"
+          accessibilityHint="Technical preview of spatial navigation"
+          onPress={() => {
+            haptic('select');
+            router.push('/spatial');
+          }}
+        />
+        <GameButton
           label="Settings"
           variant="outline"
           testID="button-settings"
