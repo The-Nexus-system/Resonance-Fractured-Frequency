@@ -56,22 +56,53 @@ export function toNativeAudioSources(
  * No-op outside a native iOS build. Errors are surfaced to the caller —
  * no silent fallbacks beyond the documented "module not present" case.
  */
+// Serialize syncs and skip no-op renders: the effect in explore.tsx runs
+// after every render, so we compute a cheap state signature and only talk
+// to the native side when it changes, chaining calls so they never overlap
+// (AVAudioEngine source bookkeeping is not re-entrant).
+let lastSignature = '';
+let syncChain: Promise<void> = Promise.resolve();
+
+function signatureOf(world: SpatialWorld, sources: NativeAudioSource[]): string {
+  const { position, headingDeg } = world.player;
+  const head = `${position.x},${position.y},${position.z},${headingDeg}`;
+  const body = sources
+    .map((s) => `${s.id}:${s.x},${s.y},${s.z},${s.resolved ? 1 : 0}`)
+    .join('|');
+  return `${head}#${body}`;
+}
+
 export async function syncNativeSpatialAudio(
   world: SpatialWorld,
   isDone: (id: string) => boolean,
 ): Promise<boolean> {
   if (!isNativeSpatialAudioAvailable() || !ResonanceNative) return false;
+  const native = ResonanceNative;
+  const sources = toNativeAudioSources(world, isDone);
+  const signature = signatureOf(world, sources);
+  if (signature === lastSignature) return true;
+  lastSignature = signature;
   const { position, headingDeg } = world.player;
-  await ResonanceNative.setListenerPose(position.x, position.y, position.z, headingDeg);
-  for (const source of toNativeAudioSources(world, isDone)) {
-    await ResonanceNative.upsertAudioSource(
-      source.id,
-      source.x,
-      source.y,
-      source.z,
-      source.frequency,
-      source.resolved,
-    );
-  }
+  syncChain = syncChain.then(async () => {
+    await native.setListenerPose(position.x, position.y, position.z, headingDeg);
+    for (const source of sources) {
+      await native.upsertAudioSource(
+        source.id,
+        source.x,
+        source.y,
+        source.z,
+        source.frequency,
+        source.resolved,
+      );
+    }
+  });
+  await syncChain;
   return true;
+}
+
+/** Stop the native engine (unmount/sound-off). Safe no-op elsewhere. */
+export async function stopNativeSpatialAudio(): Promise<void> {
+  if (!isNativeSpatialAudioAvailable() || !ResonanceNative) return;
+  lastSignature = '';
+  await ResonanceNative.stopSpatialAudio();
 }

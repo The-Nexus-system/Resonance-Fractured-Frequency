@@ -33,7 +33,7 @@ final class SpatialAudioEngine {
   init() {
     engine.attach(environment)
     engine.connect(environment, to: engine.mainMixerNode, format: nil)
-    environment.renderingAlgorithm = .HRTFHF
+    environment.renderingAlgorithm = .HRTFHQ
     environment.distanceAttenuationParameters.distanceAttenuationModel = .inverse
     environment.distanceAttenuationParameters.referenceDistance = 1.0
     environment.distanceAttenuationParameters.maximumDistance = 40.0
@@ -84,7 +84,7 @@ final class SpatialAudioEngine {
     let format = AVAudioFormat(standardFormatWithSampleRate: sampleRate, channels: 1)!
     engine.connect(node, to: environment, format: format)
     node.position = position
-    node.renderingAlgorithm = .HRTFHF
+    node.renderingAlgorithm = .HRTFHQ
     node.volume = resolved ? 0.08 : 0.9
 
     let buffer = makeToneBuffer(frequency: frequency, format: format)

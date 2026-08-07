@@ -182,8 +182,8 @@ import { CameraLayer } from '@/components/camera-layer';
 import { WorldScene } from '@/components/world3d/world-scene';
 import { sceneState, sceneDescription } from '@/lib/scene/entities';
 import { pingGuidance, prioritizedLookAround, type Guidance } from '@/lib/guidance';
-import { isNativeSpatialAudioAvailable } from '../modules/resonance-native';
-import { syncNativeSpatialAudio } from '@/lib/native/bridge';
+import { isNativeSpatialAudioAvailable, isNativeARAvailable, NativeARView } from '../modules/resonance-native';
+import { syncNativeSpatialAudio, stopNativeSpatialAudio, toNativeEntities } from '@/lib/native/bridge';
 import baseColors from '@/constants/colors';
 
 const CAMPAIGN_ID = 'the-first-fracture';
@@ -356,6 +356,11 @@ export default function ExploreScreen() {
       console.error('Native spatial audio sync failed:', err);
     });
   });
+  useEffect(() => {
+    return () => {
+      stopNativeSpatialAudio().catch(() => {});
+    };
+  }, []);
 
   /* ---------------- movement ---------------- */
 
@@ -817,7 +822,25 @@ export default function ExploreScreen() {
         </View>
       </View>
 
-      {cameraOpen ? <CameraLayer world={world} onClose={() => setCameraOpen(false)} /> : null}
+      {cameraOpen ? (
+        isNativeARAvailable() ? (
+          // Real world-space AR (RealityKit) — only in a native iOS build.
+          <View style={StyleSheet.absoluteFill}>
+            <NativeARView
+              entities={toNativeEntities(world, actionCtx.isDone)}
+              style={StyleSheet.absoluteFill}
+            />
+            <GameButton
+              label="Close AR"
+              icon={<Feather name="x" size={18} color={baseColors.dark.primaryForeground} />}
+              onPress={() => setCameraOpen(false)}
+              style={{ position: 'absolute', top: 60, right: 16 }}
+            />
+          </View>
+        ) : (
+          <CameraLayer world={world} onClose={() => setCameraOpen(false)} />
+        )
+      ) : null}
 
       {sceneOpen && !puzzleNode ? (
         <View
