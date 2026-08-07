@@ -14,7 +14,10 @@ export type GameSettings = {
   colorblindSafe: boolean;
   dyslexiaFont: boolean;
   largeTargets: boolean;
-  haptics: boolean; // native-only channel; additive, not a canon change
+  haptics: boolean; // legacy master switch, kept for backwards compatibility
+  hapticsInterface: boolean; // small feedback for ordinary controls
+  hapticsGameplay: boolean; // tactile feedback for world events
+  shakeToInteract: boolean; // OFF by default; never the only way to interact
 };
 
 export const defaultSettings: GameSettings = {
@@ -28,6 +31,9 @@ export const defaultSettings: GameSettings = {
   dyslexiaFont: false,
   largeTargets: false,
   haptics: true,
+  hapticsInterface: true,
+  hapticsGameplay: true,
+  shakeToInteract: false,
 };
 
 export type CampaignProgress = {
@@ -35,10 +41,35 @@ export type CampaignProgress = {
   completed: boolean;
 };
 
+/** Additive exploration state per campaign (Phase 4). */
+export type ExploreState = {
+  attuned: string[];
+  collected: string[];
+  inspected: string[];
+  visitedHidden: string[];
+};
+
 export type GameSave = {
   settings: GameSettings;
   progress: Record<string, CampaignProgress>;
+  explore?: Record<string, ExploreState>;
 };
+
+export function emptyExploreState(): ExploreState {
+  return { attuned: [], collected: [], inspected: [], visitedHidden: [] };
+}
+
+function sanitizeIdList(raw: unknown): string[] {
+  if (!Array.isArray(raw)) return [];
+  const out: string[] = [];
+  for (const v of raw) {
+    if (typeof v === 'string' && v.length > 0 && v.length <= 128 && !out.includes(v)) {
+      out.push(v);
+      if (out.length >= 200) break;
+    }
+  }
+  return out;
+}
 
 const SAVE_KEY = 'resonance_save_v1';
 
@@ -81,7 +112,34 @@ export function sanitizeSave(raw: unknown): GameSave {
     }
   }
 
-  return { settings, progress };
+  // Migration: saves from before the haptics split seed both channels from
+  // the legacy master switch (additive — the old field is preserved).
+  if (obj.settings && typeof obj.settings === 'object') {
+    const s = obj.settings as Record<string, unknown>;
+    if (typeof s.hapticsInterface !== 'boolean' && typeof s.haptics === 'boolean') {
+      settings.hapticsInterface = s.haptics;
+    }
+    if (typeof s.hapticsGameplay !== 'boolean' && typeof s.haptics === 'boolean') {
+      settings.hapticsGameplay = s.haptics;
+    }
+  }
+
+  const explore: Record<string, ExploreState> = {};
+  const rawExplore = (obj as { explore?: unknown }).explore;
+  if (rawExplore && typeof rawExplore === 'object') {
+    for (const [id, e] of Object.entries(rawExplore as Record<string, unknown>)) {
+      if (!e || typeof e !== 'object') continue;
+      const entry = e as Partial<ExploreState>;
+      explore[id] = {
+        attuned: sanitizeIdList(entry.attuned),
+        collected: sanitizeIdList(entry.collected),
+        inspected: sanitizeIdList(entry.inspected),
+        visitedHidden: sanitizeIdList(entry.visitedHidden),
+      };
+    }
+  }
+
+  return { settings, progress, explore };
 }
 
 export async function loadSave(): Promise<GameSave> {

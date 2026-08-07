@@ -31,7 +31,17 @@ export default function HomeScreen() {
 
       <View style={styles.actions}>
         <GameButton
-          label="Play"
+          label="Explore the Fracture"
+          testID="button-explore"
+          accessibilityHint="Opens The First Fracture as an explorable chapter"
+          onPress={() => {
+            haptic('select');
+            router.push('/explore');
+          }}
+        />
+        <GameButton
+          label="Play (Classic)"
+          variant="outline"
           testID="button-play"
           accessibilityHint="Opens the campaign list"
           onPress={() => {

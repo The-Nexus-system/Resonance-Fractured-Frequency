@@ -8,7 +8,7 @@
     "build": "node scripts/build.js",
     "serve": "node server/serve.js",
     "typecheck": "tsc -p tsconfig.json --noEmit",
-    "test:spatial": "tsx --test lib/spatial/__tests__/world.test.ts lib/spatial/__tests__/announce.test.ts"
+    "test:spatial": "tsx --test lib/spatial/__tests__/world.test.ts lib/spatial/__tests__/announce.test.ts lib/spatial/__tests__/vertical-slice.test.ts"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
@@ -58,6 +58,8 @@
     "zod-validation-error": "^3.4.0"
   },
   "dependencies": {
-    "expo-audio": "~1.1.1"
+    "expo-audio": "~1.1.1",
+    "expo-camera": "^17.0.10",
+    "expo-sensors": "^15.0.8"
   }
 }

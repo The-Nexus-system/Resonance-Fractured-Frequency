@@ -15,12 +15,28 @@ type BoolKey =
   | 'colorblindSafe'
   | 'dyslexiaFont'
   | 'largeTargets'
-  | 'haptics';
+  | 'hapticsInterface'
+  | 'hapticsGameplay'
+  | 'shakeToInteract';
 
 const TOGGLES: { key: BoolKey; label: string; description: string }[] = [
   { key: 'sound', label: 'Sound', description: 'Play resonance tones and audio feedback.' },
   { key: 'captions', label: 'Captions', description: 'Show text descriptions of every sound.' },
-  { key: 'haptics', label: 'Haptics', description: 'Vibration feedback for game events.' },
+  {
+    key: 'hapticsInterface',
+    label: 'Interface haptics',
+    description: 'Small vibration feedback for buttons and controls.',
+  },
+  {
+    key: 'hapticsGameplay',
+    label: 'Gameplay haptics',
+    description: 'Vibration feedback for discoveries and resonance events.',
+  },
+  {
+    key: 'shakeToInteract',
+    label: 'Shake to interact',
+    description: 'Shake the device to interact with a nearby object. Never required — the on-screen button always works.',
+  },
   { key: 'highContrast', label: 'High contrast', description: 'Maximum contrast colours.' },
   {
     key: 'colorblindSafe',

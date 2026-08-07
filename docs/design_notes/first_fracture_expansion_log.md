@@ -1,0 +1,63 @@
+# First Fracture Expansion Log — Noncanonical Content Register
+
+**Purpose.** Nexus directive: every piece of content invented to expand the
+playable slice must be written down here so it can be reviewed, approved,
+promoted, or removed. Nothing in this file is canon unless Nexus promotes it.
+
+**Canon status of The First Fracture itself.** The playable campaign "The
+First Fracture" (and "The Echoing Chasm" lock screen) exists only in the app
+builds as technical demonstration content. It does not appear anywhere in the
+canon docs. Nothing here references canon characters (no Faience, no Vale
+System captains), the Shawabti, CSV Hearth locations, or timeline events.
+
+**Playtime target (Nexus directive, August 2026).** The vertical slice
+targets **45 minutes to 1 hour** for a curious first playthrough — raised
+from the 25–45 minutes in the original work order. Extra time must come from
+exploration and discovery, never padding.
+
+---
+
+## New content added in the vertical-slice expansion (Phase 4)
+
+### Explorable fracture zone (app/explore.tsx, lib/spatial/firstFracture.ts)
+A spatial "fracture zone" surrounding the beacon from the existing four
+puzzle nodes. The four puzzles themselves are unchanged — same narrative
+text, choices, answers, and failure feedback, used verbatim.
+
+### Named objects (all invented, all noncanonical)
+| Object | Role | Text |
+| --- | --- | --- |
+| the anchor resonator | Puzzle node 1 | "The anchor resonator. Its casing vibrates unevenly, like a hum trying to find its footing." / restored: "…rests at a low, even hum. The casing is still." |
+| the channel resonator | Puzzle node 2 | "The channel resonator. Air moves through its open lattice in irregular gusts." / restored: "…breathes evenly now, a soft continuous draw of air." |
+| the pulse resonator | Puzzle node 3 | "The pulse resonator. Its beat stutters — two rhythms fighting over the same drum." / restored: "…keeps one clean beat, patient as a heartbeat." |
+| the crown resonator | Puzzle node 4 | "The crown resonator, mounted high. Its overtones splinter off in every direction." / restored: "…rings clear overhead, its overtones gathered into one voice." |
+| echo fragments (×3) | Collectibles | "An echo fragment: a splinter of stored resonance…" (three variants: "still humming faintly" / "cool to the touch" / "its pattern almost legible") |
+| a survey pylon | Optional inspect | "Field markings chart the fracture boundary — the damage is mapped, not mysterious." / restored: "Someone will need to update its markings: the fracture boundary has closed." |
+| a calibration array | Optional inspect | "Its reference tines are meant to sound together; right now each rings alone." / restored: "Its reference tines ring together again." |
+| a quiet hollow | Hidden discovery (after 2 attunements) | "The fracture noise falls away here, and what remains of the beacon sounds closer." |
+| an overtone ridge | Hidden discovery (after all 4) | "A low ridge where every resonator is audible at once — the whole restored harmony in one place." |
+
+"Echo fragment" is a new term used ONLY as a collectible name in demo
+content. It is not asserted as lore. If Nexus wants collectibles to have
+canonical meaning, that is a Nexus decision.
+
+### Rewards (lib/rewards.ts, titles + descriptions all noncanonical)
+Beacon Restored (milestone), Echo Fragment I–III (fragments), Quiet Hollow
+and Overtone Ridge (hidden discoveries), Field Notes (inspect both survey
+objects), Afterglow (return and listen to a restored resonator).
+
+### Musical design (lib/music/)
+The four resonators carry F3 (low warm drone), A3 (mellow chime), C4
+(rhythmic pulse), F4 (bright shimmer); together they resolve to an F-major
+harmony when the beacon is restored. Undiscovered voices sound faint and
+detuned (audible beating = instability); discovery clarifies them; attunement
+settles them in tune. This follows the Audio Bible principle that sound is
+physical information and each object has a deliberate acoustic identity — but
+the specific notes/timbres here are demo choices, not canon.
+
+## Rules applied (from the work order + Nexus dictation)
+1. Target first playthrough: 45–60 minutes (Nexus override of the order's 25–45).
+2. All invented expansion content is registered in this file.
+3. No canon characters, factions, places, or events appear in the slice.
+4. Puzzle text/answers are verbatim from the established slice.
+5. If meaningful new lore becomes necessary, STOP and ask Nexus.

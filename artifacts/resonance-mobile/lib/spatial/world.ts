@@ -23,6 +23,8 @@ export type PlayerPose = {
 
 export type WorldObjectKind = 'pillar' | 'signal' | 'landmark' | 'fracture';
 
+export type ObjectState = 'dormant' | 'resonating' | 'attuned';
+
 export type WorldObject = {
   /** Stable identifier. */
   id: string;

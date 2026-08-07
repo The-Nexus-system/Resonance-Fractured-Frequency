@@ -1,0 +1,449 @@
+Continue RESONANCE: FRACTURED FREQUENCY from the current native spatial foundation.
+
+The next goal is NOT simply to add more puzzles.
+
+The goal is to turn the existing playable slice into a rich vertical slice that demonstrates what the finished game should feel like: exploratory, atmospheric, musical, visually distinctive, accessible, rewarding, and long enough that the campaign feels like a genuine place rather than a five-minute technical demonstration.
+
+CORE DESIGN PRINCIPLE
+
+Resonance should use music, sound, visuals, haptics, spatial interaction, environmental change, and exploration as connected parts of the same world.
+
+Do not treat audio as simple confirmation beeps.
+
+Do not treat AR as decorative objects floating over the camera.
+
+Do not treat the campaign as four puzzle screens connected together.
+
+The First Fracture should become an explorable chapter with a meaningful sense of arrival, discovery, progression, resolution, and optional exploration.
+
+TARGET EXPERIENCE
+
+Aim for approximately 25–45 minutes for a curious player’s first playthrough of The First Fracture.
+
+Do not artificially pad the experience with waiting, grinding, repetitive interactions, or unnecessary dialogue.
+
+Additional playtime should come from:
+
+* Exploration
+* Environmental discovery
+* Optional interactions
+* Hidden resonance points
+* Collectibles
+* Reactive sound
+* Spatial navigation
+* Environmental storytelling
+* Meaningful audiovisual changes
+* Optional side discoveries
+* Replayable discoveries
+
+A player who already knows exactly what to do may finish considerably faster.
+
+MUSICAL OBJECT SYSTEM
+
+Replace placeholder single sine-tone identity as the final presentation with a richer musical resonance system.
+
+Semantic world objects may carry individual musical components.
+
+For example, if an encounter requires the player to locate four resonant objects, those objects could contribute:
+
+Object 1: F
+Object 2: A
+Object 3: C
+Object 4: F in another octave
+
+Individually, each object should have a recognizable sound identity derived from its assigned musical note or timbre.
+
+As objects are discovered or attuned, their musical components should gradually join the active environmental soundscape.
+
+When all four objects are successfully attuned, their sounds should combine into a complete F-major harmony.
+
+This is an EXAMPLE of the system, not a requirement that every encounter use F major.
+
+Design the architecture so campaigns can define:
+
+* Root note
+* Scale or harmonic language
+* Individual object notes
+* Octave
+* Instrument or timbre
+* Stereo/spatial position
+* Intensity
+* Harmonic state
+* Whether an element is currently active
+* How the elements combine when an encounter is completed
+
+Support chords with duplicated notes, extended chords, suspended chords, dissonant structures, clusters, rhythmic elements, drones, percussion, or other musical structures where future campaign design calls for them.
+
+MUSICAL PROGRESSION
+
+Sound should reflect world state.
+
+An undiscovered object might contribute only a faint texture or distant resonance.
+
+A discovered but unattuned object may become clearer.
+
+An attuned object should join the environmental composition more confidently.
+
+Completing an entire group should produce a satisfying musical resolution.
+
+This should make it possible for a player’s actions to literally change the music of the environment.
+
+Avoid repetitive reward jingles that interrupt the atmosphere every few seconds.
+
+Where possible, make successful gameplay transform the existing soundscape rather than layering unrelated UI sounds over it.
+
+FRACTURE SOUND DESIGN
+
+Fractured environments should sound unstable.
+
+Possible techniques include:
+
+* Detuning
+* Beating between close frequencies
+* Harmonic tension
+* Interrupted rhythm
+* Reversed or stretched textures
+* Granular effects
+* Filtered environmental sounds
+* Spatial instability
+* Rhythmic elements that do not yet align
+
+As the player restores resonance, these elements may gradually stabilize, synchronize, resolve harmonically, or become musically coherent.
+
+Do not make every fracture sound identical.
+
+SPATIAL AUDIO
+
+Upgrade the prototype spatial sound system toward true native positional audio where supported.
+
+Sound-producing semantic objects should occupy the same world position used by the visual/AR renderer.
+
+The player should be able to hear meaningful differences in:
+
+* Left/right
+* Front/back
+* Near/far
+* Elevation where appropriate
+
+However, audio must never become the only way to locate required gameplay objects.
+
+Captions, semantic descriptions, VoiceOver/braille information, and other accessible mechanisms must continue to expose equivalent gameplay information.
+
+VISUAL DESIGN
+
+Develop a finished visual language for resonance and fracture rather than relying on generic floating markers.
+
+Fractures may visually affect their surrounding space through effects such as:
+
+* Geometric distortion
+* Light splitting
+* Particle displacement
+* Chromatic separation
+* Surface instability
+* Phase-like duplication
+* Ripple or wave behavior
+* Broken symmetry
+
+Resonance and attunement should visibly affect these phenomena.
+
+Do not rely solely on color changes such as red-to-green to communicate state.
+
+Shape, motion, texture, sound, text, and semantic state must support the visual information.
+
+AR OBJECTS
+
+Implement the optional camera/AR presentation layer over the existing semantic world model.
+
+AR objects must remain semantic game objects first.
+
+The AR renderer may display them in the player’s physical surroundings, but the renderer must not own canonical game state.
+
+The same object must remain interactable through non-camera modes.
+
+Camera permission denial must never block campaign completion.
+
+STATIONARY AND MOBILE PLAY
+
+Support both.
+
+A stationary player must be able to explore the spatial environment without physically walking.
+
+They should be able to rotate orientation virtually, inspect nearby objects, select targets, and interact using accessible controls.
+
+A player who wishes to physically move with the device may use supported spatial/AR movement where safe and appropriate.
+
+Never require physical walking to complete the campaign.
+
+INTERACTION INPUTS
+
+All meaningful world interactions should resolve through semantic actions such as:
+
+Discover
+Inspect
+Ping
+Interact
+Collect
+Attune
+
+Different physical inputs may invoke the same semantic action.
+
+Possible input channels include:
+
+* Large on-screen action button
+* Tapping an AR object
+* VoiceOver activation/custom accessibility actions
+* Hardware Action Button where supported
+* Shake gesture when explicitly enabled
+* Supported shortcut or accessibility mechanisms
+* Other legitimate native iOS input methods
+
+Do not create separate game logic for each input method.
+
+All should invoke the same underlying semantic action.
+
+SHAKE SETTING
+
+Add a setting allowing the user to enable or disable shake-to-interact or shake-to-collect.
+
+It must be OFF by default unless there is a strong existing project reason otherwise.
+
+It must never be the only way to interact.
+
+Prevent accidental repeated activation.
+
+Provide equivalent accessible confirmation.
+
+HAPTIC SETTINGS
+
+Separate interface haptics from gameplay haptics.
+
+Interface Haptics:
+Small feedback for ordinary controls, selections, taps, and confirmations.
+
+Gameplay Haptics:
+Meaningful tactile feedback associated with world events, resonance, proximity, interactions, or discoveries.
+
+Allow each category to be independently enabled or disabled.
+
+Nothing required for progression may be communicated exclusively through vibration.
+
+REWARD / PROGRESSION FOUNDATION
+
+Create a persistent reward architecture now so later campaigns can build outward from it.
+
+Do not create a generic monetization-style coin economy.
+
+Rewards should reinforce discovery, resonance, story, exploration, and mastery.
+
+The architecture should support properties such as:
+
+* Reward ID
+* Reward type
+* Campaign source
+* Encounter source
+* Earned state
+* One-time or repeatable
+* Discovery conditions
+* Completion conditions
+* Optional/hidden status
+* Timestamp if appropriate
+* Associated unlock
+
+Possible future reward categories may include:
+
+* Resonance fragments
+* Echoes
+* Archive discoveries
+* Alternate environmental soundscapes
+* Cosmetic resonance effects
+* Visual variations
+* Lore/environmental records
+* Exploration achievements
+* Hidden interactions
+* Post-campaign environmental changes
+
+Do NOT invent large amounts of canon or lore merely to populate the system.
+
+Build the architecture and create only enough content to demonstrate it within The First Fracture.
+
+EXPLORATION
+
+The First Fracture should contain meaningful things that are not strictly required for puzzle completion.
+
+Examples:
+
+* Hidden resonance points
+* Optional inspectable objects
+* Environmental sounds
+* Discoverable fragments
+* Nonessential spatial events
+* Small environmental reactions
+* Alternate interaction responses
+* Objects whose behavior changes after a nearby puzzle is solved
+
+Exploration should reward curiosity without making required progress obscure or frustrating.
+
+ENVIRONMENTAL CHANGE
+
+The environment should react as the player progresses.
+
+Solving a node should affect more than a completion flag.
+
+Where appropriate, let completion change:
+
+* Soundscape
+* Harmony
+* Object behavior
+* Visual stability
+* Particle behavior
+* Lighting
+* Spatial ambience
+* Available optional interactions
+
+The world should feel measurably different because the player acted on it.
+
+REPLAYABILITY
+
+Build support for replayable content without altering canon.
+
+Possible mechanisms include:
+
+* Optional discoveries not required on the first run
+* Hidden resonance points
+* Exploration milestones
+* Alternate object placement within safe defined regions
+* Additional post-completion interactions
+* Environmental changes that remain after campaign completion
+* Collectibles that encourage return visits
+
+Do not randomize required puzzle logic in a way that damages narrative intent.
+
+ACCESSIBILITY
+
+Every new system must preserve the accessibility architecture already established.
+
+No required information may exist solely through:
+
+* Vision
+* Audio
+* Haptics
+* AR
+* Color
+* Physical motion
+
+VoiceOver and braille users must interact with the SAME semantic objects used by sighted AR players.
+
+Descriptions should remain concise enough to avoid speech flooding while retaining useful spatial information.
+
+Sound captions should identify meaningful environmental and musical changes rather than merely saying generic things such as “sound plays.”
+
+For example, a caption may convey a concept like:
+
+“Low F resonance joins the soundscape from your left.”
+
+Do not require the player to understand music theory.
+
+A player who does not know what an F note or major chord is should still understand what happened in the game.
+
+GRAPHICS AND PERFORMANCE
+
+Aim for polished visual presentation appropriate for a finished commercial-quality mobile game rather than placeholder developer graphics.
+
+However, preserve performance and accessibility.
+
+Provide graceful quality reduction for devices that cannot sustain expensive effects.
+
+Do not make core gameplay dependent on the highest graphics setting.
+
+Maintain readable interface contrast above moving camera or AR content.
+
+THE FIRST FRACTURE AS VERTICAL SLICE
+
+Use The First Fracture to prove the complete gameplay architecture before building additional campaigns.
+
+The goal is for this campaign to demonstrate:
+
+Exploration
+Spatial navigation
+Musical discovery
+Rich environmental audio
+Finished visual identity
+AR presentation
+Stationary play
+Optional physical spatial play
+Multiple interaction inputs
+Accessible semantic interaction
+Rewards
+Environmental transformation
+Replay hooks
+Campaign completion
+
+Do not begin expanding The Echoing Chasm or another major campaign until this vertical slice is stable enough to serve as the reusable template.
+
+CANON PROTECTION
+
+Preserve all existing First Fracture story text, established puzzle answers, characters, and narrative facts unless Nexus explicitly authorizes a change.
+
+You may expand environmental presentation and optional noncanonical technical demonstration content where it does not contradict or rewrite established canon.
+
+If meaningful new lore or narrative writing becomes necessary, STOP and request a Nexus decision rather than inventing it.
+
+TESTING
+
+Add automated and end-to-end tests for new systems where practical.
+
+Test at minimum:
+
+* Musical object assignment
+* Multiple objects combining into correct harmonic state
+* Persistent object attunement
+* Reward persistence
+* Duplicate reward protection
+* Optional discoveries
+* Camera permission denied
+* Sound off
+* Interface haptics off
+* Gameplay haptics off
+* Both haptic categories off
+* Stationary navigation
+* AR renderer not controlling canonical state
+* Multiple inputs triggering the same semantic action
+* Rapid-input protection
+* Existing campaign progression
+* Existing save corruption protection
+* Existing accessibility settings
+* Existing First Fracture regression
+
+Clearly identify anything that still requires real iPhone testing.
+
+Do not claim VoiceOver, braille display, haptic feel, spatial audio perception, Action Button behavior, camera behavior, or AR tracking has been hardware-verified unless it actually has.
+
+REPORT BACK
+
+When this phase is complete, report:
+
+What was implemented.
+
+How The First Fracture’s expected first-play experience changed.
+
+What musical/audio system was created.
+
+What graphics/AR systems were created.
+
+What reward system was created.
+
+What accessibility behavior was preserved or expanded.
+
+What automated and end-to-end testing passed.
+
+What broke during development and how it was fixed.
+
+What remains dependent on real-device testing.
+
+Any design or canon decisions Nexus must make.
+
+Whether the protected web build remained untouched.
+
+Final Git commit hash.
+
+Whether The First Fracture is now suitable to serve as the reusable vertical slice for future campaigns.

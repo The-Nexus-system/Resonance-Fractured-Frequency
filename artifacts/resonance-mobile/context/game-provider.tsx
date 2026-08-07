@@ -16,15 +16,26 @@ import { AccessibilityInfo, Platform, useColorScheme } from 'react-native';
 import * as Haptics from 'expo-haptics';
 import { createAudioPlayer, type AudioPlayer } from 'expo-audio';
 import baseColors from '@/constants/colors';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import {
   defaultSettings,
+  emptyExploreState,
   loadSave,
   saveGame,
   type CampaignProgress,
+  type ExploreState,
   type GameSave,
   type GameSettings,
 } from '@/lib/save';
 import { toneUri } from '@/lib/tones';
+import {
+  REWARDS_STORAGE_KEY,
+  earnReward,
+  emptyRewardState,
+  rewardDef,
+  sanitizeRewardState,
+  type RewardState,
+} from '@/lib/rewards';
 
 export type ThemeColors = typeof baseColors.light;
 
@@ -34,11 +45,16 @@ type GameContextValue = {
   progress: Record<string, CampaignProgress>;
   updateSettings: (patch: Partial<GameSettings>) => void;
   updateProgress: (campaignId: string, currentNodeIndex: number, completed: boolean) => void;
+  explore: Record<string, ExploreState>;
+  updateExplore: (campaignId: string, patch: Partial<ExploreState>) => void;
+  rewards: RewardState;
+  /** Grants a reward once (duplicate-protected). Returns true when newly earned. */
+  grantReward: (rewardId: string) => boolean;
   announce: (message: string) => void;
   playTone: (freq: number) => void;
   playUri: (uri: string) => void;
   stopTone: () => void;
-  haptic: (kind: 'success' | 'error' | 'select') => void;
+  haptic: (kind: 'success' | 'error' | 'select', channel?: 'ui' | 'gameplay') => void;
   colors: ThemeColors;
   resolvedTheme: 'light' | 'dark';
   fontScale: number;
@@ -54,14 +70,28 @@ export function GameProvider({ children }: { children: React.ReactNode }) {
   const [loaded, setLoaded] = useState(false);
   const [settings, setSettings] = useState<GameSettings>({ ...defaultSettings });
   const [progress, setProgress] = useState<Record<string, CampaignProgress>>({});
+  const [explore, setExplore] = useState<Record<string, ExploreState>>({});
+  const [rewards, setRewards] = useState<RewardState>(emptyRewardState());
   const playerRef = useRef<AudioPlayer | null>(null);
 
   useEffect(() => {
     let cancelled = false;
-    loadSave().then((save) => {
+    Promise.all([
+      loadSave(),
+      AsyncStorage.getItem(REWARDS_STORAGE_KEY).catch(() => null),
+    ]).then(([save, rawRewards]) => {
       if (cancelled) return;
       setSettings(save.settings);
       setProgress(save.progress);
+      setExplore(save.explore ?? {});
+      let loadedRewards = emptyRewardState();
+      try {
+        loadedRewards = rawRewards ? sanitizeRewardState(JSON.parse(rawRewards)) : emptyRewardState();
+      } catch {
+        loadedRewards = emptyRewardState();
+      }
+      rewardsRef.current = loadedRewards;
+      setRewards(loadedRewards);
       setLoaded(true);
     });
     return () => {
@@ -74,9 +104,23 @@ export function GameProvider({ children }: { children: React.ReactNode }) {
   // what gets written, with no lost updates.
   useEffect(() => {
     if (!loaded) return;
-    const save: GameSave = { settings, progress };
+    const save: GameSave = { settings, progress, explore };
     void saveGame(save);
-  }, [loaded, settings, progress]);
+  }, [loaded, settings, progress, explore]);
+
+  // Rewards persist under their own key so the shared save shape is untouched.
+  // Writes are serialized so an older snapshot can never finish last and
+  // clobber a newer one.
+  const rewardsWriteChain = useRef<Promise<void>>(Promise.resolve());
+  useEffect(() => {
+    if (!loaded) return;
+    const payload = JSON.stringify(rewards);
+    rewardsWriteChain.current = rewardsWriteChain.current.then(() =>
+      AsyncStorage.setItem(REWARDS_STORAGE_KEY, payload).catch((e) =>
+        console.error('Failed to save rewards', e),
+      ),
+    );
+  }, [loaded, rewards]);
 
   // Release the audio player when the provider unmounts.
   useEffect(() => {
@@ -98,6 +142,27 @@ export function GameProvider({ children }: { children: React.ReactNode }) {
     },
     [],
   );
+
+  const updateExplore = useCallback((campaignId: string, patch: Partial<ExploreState>) => {
+    setExplore((prev) => ({
+      ...prev,
+      [campaignId]: { ...(prev[campaignId] ?? emptyExploreState()), ...patch },
+    }));
+  }, []);
+
+  // rewardsRef is the synchronous source of truth for grants: it is updated
+  // inside grantReward itself, so back-to-back grants in one tick can never
+  // read the same stale snapshot and lose an earn.
+  const rewardsRef = useRef(rewards);
+
+  const grantReward = useCallback((rewardId: string): boolean => {
+    const def = rewardDef(rewardId);
+    if (!def) return false;
+    const result = earnReward(rewardsRef.current, def, Date.now());
+    if (result.newlyEarned) rewardsRef.current = result.state;
+    if (result.newlyEarned) setRewards(result.state);
+    return result.newlyEarned;
+  }, []);
 
   const announce = useCallback((message: string) => {
     AccessibilityInfo.announceForAccessibility(message);
@@ -149,8 +214,11 @@ export function GameProvider({ children }: { children: React.ReactNode }) {
 
   const playTone = useCallback((freq: number) => playUri(toneUri(freq)), [playUri]);
 
-  const haptic = useCallback((kind: 'success' | 'error' | 'select') => {
-    if (!settingsRef.current.haptics || Platform.OS === 'web') return;
+  const haptic = useCallback((kind: 'success' | 'error' | 'select', channel: 'ui' | 'gameplay' = 'ui') => {
+    if (Platform.OS === 'web') return;
+    const s = settingsRef.current;
+    const enabled = channel === 'gameplay' ? s.hapticsGameplay : s.hapticsInterface;
+    if (!enabled) return;
     try {
       if (kind === 'success') {
         void Haptics.notificationAsync(Haptics.NotificationFeedbackType.Success);
@@ -213,6 +281,10 @@ export function GameProvider({ children }: { children: React.ReactNode }) {
       progress,
       updateSettings,
       updateProgress,
+      explore,
+      updateExplore,
+      rewards,
+      grantReward,
       announce,
       playTone,
       playUri,
@@ -231,6 +303,10 @@ export function GameProvider({ children }: { children: React.ReactNode }) {
       progress,
       updateSettings,
       updateProgress,
+      explore,
+      updateExplore,
+      rewards,
+      grantReward,
       announce,
       playTone,
       playUri,
