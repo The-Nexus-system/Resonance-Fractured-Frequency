@@ -41,7 +41,7 @@ only two steps that need human hands on the owner's behalf.
    never be changed afterwards. Enter exactly:
 
    ```
-   com.digitaldragonsinc.resonance
+   com.digitaldragonsinc.fracturedfrequency
    ```
 
 6. Let Replit build, sign, and upload the app. No other settings need
@@ -115,7 +115,7 @@ with VoiceOver in the Replit iOS app. While you're helping:
 ## Done checklist
 
 - [ ] Apple Developer account connected in the Launch wizard
-- [ ] Bundle ID entered: `com.digitaldragonsinc.resonance` (permanent)
+- [ ] Bundle ID entered: `com.digitaldragonsinc.fracturedfrequency` (permanent)
 - [ ] iOS build uploaded; TestFlight review started
 - [ ] Owner has the app installing via TestFlight
 - [ ] Web app published
