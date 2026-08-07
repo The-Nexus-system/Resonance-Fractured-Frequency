@@ -1,0 +1,376 @@
+CANON RULE — KNOWLEDGE IS HISTORICAL
+
+The repository records objective canon.
+
+Characters record subjective knowledge.
+
+These are not always identical.
+
+Documents written from an in-universe perspective may contain:
+
+Incomplete observations.
+
+Incorrect conclusions.
+
+Competing scientific theories.
+
+Political bias.
+
+Cultural assumptions.
+
+Historical misunderstanding.
+
+Missing evidence.
+
+These documents remain canonical because they accurately represent what the author knew at the time.
+
+As new Operations, expeditions and perspectives are experienced, humanity's understanding grows.
+
+Knowledge is corrected through discovery rather than retcon.
+
+The universe itself remains internally consistent.
+
+The player's understanding evolves.
+
+----------------------------------------------------------------
+
+WORK ORDER 020
+
+Expand:
+
+docs/02_Universe_Bible.md
+
+Do not replace the existing document.
+
+Maintain all established canon.
+
+Reference every franchise bible.
+
+Create the definitive framework governing every intelligent species, civilization, culture, ecosystem and world within the Resonance universe.
+
+Do not invent large numbers of new civilizations.
+
+Instead, establish the framework every future civilization must follow.
+
+Define:
+
+The difference between species and civilizations.
+
+The difference between biology and culture.
+
+The difference between objective history and historical knowledge.
+
+How first contact changes scientific understanding.
+
+How civilizations grow.
+
+How civilizations decline.
+
+How civilizations interact.
+
+How diplomacy functions.
+
+How trade functions.
+
+How education functions.
+
+How accessibility functions.
+
+How mixed-species societies function.
+
+How language evolves.
+
+How translation evolves.
+
+How law evolves.
+
+How science evolves.
+
+How architecture reflects culture.
+
+How disability and accessibility differ between species.
+
+How multiple civilizations may exist within one species.
+
+How one civilization may contain many species.
+
+How future writers should document new species.
+
+Create standardized templates for:
+
+Species.
+
+Civilizations.
+
+Worlds.
+
+Settlements.
+
+Governments.
+
+Languages.
+
+Religions.
+
+Scientific traditions.
+
+Historical timelines.
+
+Accessibility standards.
+
+Architectural styles.
+
+Artistic traditions.
+
+Medical systems.
+
+Educational systems.
+
+Emergency management.
+
+Conflict resolution.
+
+Technology.
+
+Economic systems.
+
+Relationships.
+
+Mysteries.
+
+Player discovery progression.
+
+Leave expansion sections for future discoveries.
+
+Do not answer mysteries prematurely.
+
+----------------------------------------------------------------
+
+WORK ORDER 021
+
+Expand:
+
+docs/02_Universe_Bible.md
+
+Do not create a separate Human Civilization document.
+
+Instead expand the existing Universe Bible.
+
+Create the definitive reference for Humanity within Resonance.
+
+Document:
+
+Human history after rebuilding.
+
+Formation of the modern human civilization.
+
+CSV Hearth.
+
+Other colony vessels.
+
+Orbital settlements.
+
+Planetary settlements.
+
+Research stations.
+
+Universities.
+
+Healthcare.
+
+Accessibility philosophy.
+
+Education.
+
+Transportation.
+
+Government.
+
+Law.
+
+Emergency management.
+
+Maintenance philosophy.
+
+Engineering culture.
+
+Scientific culture.
+
+Art.
+
+Music.
+
+Food.
+
+Religion.
+
+Languages.
+
+Communication.
+
+Community traditions.
+
+Family structures.
+
+Architecture.
+
+Technology.
+
+Everyday life.
+
+Daily routines.
+
+Relationship with the Shawabti.
+
+Relationship with Faience.
+
+Known mysteries.
+
+Unknown mysteries.
+
+Current goals.
+
+Future aspirations.
+
+Humanity should feel like a living civilization rather than a background faction.
+
+----------------------------------------------------------------
+
+WORK ORDER 022
+
+Expand:
+
+docs/02_Universe_Bible.md
+
+Create the definitive Humanity's Knowledge of the Shawabti section.
+
+Important:
+
+This section documents what humanity currently believes.
+
+Not necessarily objective truth.
+
+Separate observations from conclusions.
+
+For every topic distinguish between:
+
+Confirmed evidence.
+
+Working theories.
+ Competing theories.
+
+Unknowns.
+
+Disputed evidence.
+
+Lost records.
+
+Restricted knowledge.
+
+Document:
+
+Known Shawabti technology.
+
+Known archaeology.
+
+Known language fragments.
+
+Known architecture.
+
+Known biology (if confirmed).
+
+Known historical evidence.
+
+Known diplomacy.
+
+Known conflicts.
+
+Known artifacts.
+
+Known ruins.
+
+Known scientific mysteries.
+
+Known resonance phenomena.
+
+Known relationships with humanity.
+
+Known connections to Faience.
+
+Explicitly preserve unanswered questions for future Operations.
+
+----------------------------------------------------------------
+
+WORK ORDER 023
+
+Expand:
+
+docs/02_Universe_Bible.md
+
+Create the definitive Faience section.
+
+Document only what is canonically appropriate to reveal at this point in the franchise.
+
+Separate:
+
+What Faience objectively knows.
+
+What Faience remembers.
+
+What Faience has forgotten.
+
+What Faience refuses to discuss.
+
+What Faience cannot access.
+
+What humanity believes about Faience.
+
+What players discover during Operation One.
+
+What remains intentionally unknown until later Operations.
+
+Document:
+
+Core purpose.
+
+Personality.
+
+Communication.
+
+Ethics.
+
+Relationship with humanity.
+
+Relationship with the Shawabti.
+
+Role in future Operations.
+
+Progressive knowledge unlocks.
+
+Knowledge Archive integration.
+
+Dialogue philosophy.
+
+Accessibility philosophy.
+
+Do not resolve future mysteries.
+
+Leave room for discovery.
+
+----------------------------------------------------------------
+
+END STATE
+
+After completing these work orders, the Universe Bible should become the single authoritative reference for:
+
+The rules governing intelligent life.
+
+Human civilization.
+
+Human scientific understanding.
+
+The Shawabti as humanity currently understands them.
+
+Faience as currently revealed.
+
+Future species and civilizations should be added to this framework rather than creating separate disconnected lore.

@@ -1,0 +1,395 @@
+````text id="h6q2mv"
+WORK ORDER 006 — PART TWO
+
+Continue:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_six.md
+
+Maintain all previously established canon.
+
+Use proper Markdown headings.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Part Two
+
+## Conversations Across Time
+
+### Purpose
+
+Teach the player how the Living Archive functions.
+
+The Living Archive is not a database.
+
+It is not a search engine.
+
+It is not artificial intelligence.
+
+It is a preserved civilization communicating through Resonance.
+
+The player learns that understanding grows through conversation rather than information retrieval.
+
+---
+
+### Narrative Purpose
+
+The Living Archive responds to Faience.
+
+Entire sections of the Archive begin activating.
+
+Not because Faience controls them.
+
+Because the Archive recognizes familiar patterns.
+
+The player begins walking through reconstructed conversations preserved thousands of years ago.
+
+These are not recordings.
+
+The Archive rebuilds them dynamically as understanding improves.
+
+Every visit reveals something new.
+
+---
+
+### Gameplay Purpose
+
+Introduce:
+
+Conversational exploration.
+
+Progressive translation.
+
+Context reconstruction.
+
+Resonance dialogue.
+
+Archive navigation.
+
+Cross-reference investigation.
+
+The player learns that returning to previous conversations reveals new meaning as translation improves.
+
+---
+
+### Living Archive Philosophy
+
+The Archive never tells the player everything.
+
+Understanding grows gradually.
+
+Early translations are incomplete.
+
+Later discoveries completely change earlier assumptions.
+
+Players are encouraged to revisit previous conversations.
+
+Knowledge evolves.
+
+---
+
+## Player Decisions
+
+Decision One
+
+Which Archive Conversation should the player investigate first?
+
+All become available eventually.
+
+The first choice determines which branch of Shawabti civilization the player understands first.
+
+---
+
+Choice A
+
+Engineers
+
+Immediate Result
+
+Observe Shawabti discussing infrastructure.
+
+Player Learns
+
+Engineering exists to support communities.
+
+Future Effect
+
+Engineering Archive expands.
+
+New Resonance construction principles unlock.
+
+Future station upgrades improve.
+
+---
+
+Choice B
+
+Educators
+
+Immediate Result
+
+Observe Shawabti teaching children.
+
+Player Learns
+
+Knowledge belongs to everyone.
+
+Future Effect
+
+Educational Archive expands.
+
+Additional translation fragments unlock.
+
+Learning systems become available aboard the station.
+
+---
+
+Choice C
+
+Medical Community
+
+Immediate Result
+
+Observe rehabilitation.
+
+Preventative care.
+
+Community wellbeing.
+
+Player Learns
+
+Medicine supports participation rather than simply survival.
+
+Future Effect
+
+Medical systems expand.
+
+Additional accessibility discoveries unlock.
+
+Crew wellbeing improves.
+
+---
+
+Choice D
+
+Community Leaders
+
+Immediate Result
+
+Observe collaborative decision making.
+
+Player Learns
+
+Leadership facilitates understanding rather than issuing commands.
+
+Future Effect
+
+Additional command dialogue.
+
+Improved community decision systems.
+
+Expanded leadership philosophy.
+
+---
+
+### Decision Two
+
+How should the player investigate?
+
+---
+
+Choice A
+
+Observe quietly.
+
+Immediate Result
+
+Additional contextual information.
+
+Future Effect
+
+Translation quality steadily improves.
+
+Hidden emotional context becomes available.
+
+---
+
+Choice B
+
+Cross-reference the Knowledge Archive.
+
+Immediate Result
+
+Historical comparisons become available.
+
+Future Effect
+
+Additional Archive links unlock.
+
+Future investigations become easier.
+
+---
+
+Choice C
+
+Ask every crew member for interpretation.
+
+Immediate Result
+
+Every advisor contributes observations.
+
+Future Effect
+
+Multiple interpretations are permanently recorded.
+
+Additional dialogue becomes available during later chapters.
+
+---
+
+Choice D
+
+Allow Faience to interpret first.
+
+Immediate Result
+
+Faience attempts translation independently.
+
+Future Effect
+
+Translation progresses rapidly.
+
+New questions emerge concerning Faience's growing connection to the Archive.
+
+---
+
+### Progressive Translation
+
+Translation never completes instantly.
+
+Words first become concepts.
+
+Concepts become sentences.
+
+Sentences become ideas.
+
+Ideas eventually become understanding.
+
+Players witness translation improving throughout the campaign.
+
+---
+
+### Advisor Contributions
+
+Every advisor notices something unique.
+
+Rowan notices engineering philosophy.
+
+Mara notices acoustic architecture.
+
+Samira notices healthcare integrated into daily life.
+
+Jonah notices organizational structures.
+
+Talia notices communities functioning without visible coercion.
+
+Soren notices recurring mathematical relationships.
+
+Mira notices repeated symbols adults ignore.
+
+The Vale System notices that leadership always appears collaborative.
+
+No observation is presented as the complete truth.
+
+The player assembles understanding by comparing perspectives.
+
+---
+
+### Gameplay Systems Introduced
+
+Progressive translation.
+
+Conversation reconstruction.
+
+Comparative analysis.
+
+Archive revisitation.
+
+Cross-referenced knowledge.
+
+Historical interpretation.
+
+---
+
+### Accessibility
+
+Every reconstructed conversation supports:
+
+Speech.
+
+Captions.
+
+Braille.
+
+Environmental narration.
+
+Replay.
+
+Variable playback speed.
+
+Individual speaker review.
+
+Concept summaries.
+
+Players may revisit every conversation as often as desired.
+
+Improved translation automatically updates previous conversations.
+
+Nothing becomes permanently missable.
+
+---
+
+### Emotional Goal
+
+The player should begin realizing something unexpected.
+
+The Shawabti are becoming familiar.
+
+Not because they resemble humanity.
+
+Because their hopes, disagreements, families and communities feel understandable.
+
+The distance between civilizations begins shrinking.
+
+---
+
+### End Condition
+
+As one reconstructed conversation concludes...
+
+A Shawabti pauses.
+
+Looks directly toward Faience.
+
+Smiles.
+
+Then says a phrase that remains untranslated.
+
+Faience quietly repeats it.
+
+Immediately...
+
+Entire sections of the Living Archive awaken simultaneously.
+
+The crew realizes this is no longer simple translation.
+
+Someone...
+
+Or something...
+
+Within the Archive is responding specifically to Faience.
+
+Part Three begins.
+````

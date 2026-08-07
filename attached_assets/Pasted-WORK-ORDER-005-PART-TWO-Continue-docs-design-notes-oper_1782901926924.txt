@@ -1,0 +1,401 @@
+WORK ORDER 005 — PART TWO
+
+Continue:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_five.md
+
+Maintain all previously established canon.
+
+Use proper Markdown headings.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Part Two
+
+## The Threshold
+
+### Purpose
+
+Teach the player that exploration changes when entering another civilization.
+
+Human technology solved problems.
+
+Shawabti technology asks questions.
+
+The player must slow down.
+
+Observe.
+
+Listen.
+
+Learn.
+
+The station cannot rush this discovery.
+
+Neither should the player.
+
+---
+
+### Narrative Purpose
+
+The structure appears untouched.
+
+No blast damage.
+
+No decay.
+
+No emergency lighting.
+
+No visible doors.
+
+No obvious controls.
+
+Nothing indicates it was abandoned.
+
+It simply waited.
+
+The signal originated from this structure.
+
+As the player approaches, the repeating signal changes.
+
+It begins responding to proximity.
+
+Not randomly.
+
+Intentionally.
+
+The player realizes the structure is aware that someone has arrived.
+
+Not who.
+
+Simply that someone is present.
+
+---
+
+### Gameplay Purpose
+
+Introduce:
+
+Archaeological protocol.
+
+Environmental observation.
+
+Passive scanning.
+
+Translation beginnings.
+
+Resonance interaction.
+
+Ethical exploration.
+
+The player learns that entering unknown civilizations follows different rules than exploring human wreckage.
+
+---
+
+### Exploration Philosophy
+
+The player is not invading.
+
+The player is visiting.
+
+Every interaction should begin with observation.
+
+Not manipulation.
+
+The game should reward patience.
+
+Not speed.
+
+---
+
+### Environmental Storytelling
+
+Before entering, the player may freely walk around the exterior.
+
+Possible discoveries include:
+
+Patterns carved into the structure.
+
+Unknown symbols.
+
+Weathering unlike any human material.
+
+Ancient pathways.
+
+Acoustic resonance when walking near certain walls.
+
+Plant life adapting around the structure.
+
+No visible entrances.
+
+No defensive weapons.
+
+No bodies.
+
+No signs of violence.
+
+Everything feels intentionally preserved.
+
+---
+
+### Player Decisions
+
+Decision One
+
+How should the player investigate?
+
+---
+
+Choice A
+
+Perform a complete external survey.
+
+Immediate Result
+
+Additional structural information.
+
+Detailed maps.
+
+Future Effect
+
+Interior navigation becomes easier.
+
+Additional Archive entries unlock.
+
+Exploration takes longer.
+
+---
+
+Choice B
+
+Focus on the repeating signal.
+
+Immediate Result
+
+Signal analysis progresses faster.
+
+Future Effect
+
+Translation systems develop sooner.
+
+Environmental understanding develops more slowly.
+
+---
+
+Choice C
+
+Study surrounding environment first.
+
+Immediate Result
+
+Player discovers evidence of how the structure interacted with the surrounding landscape.
+
+Future Effect
+
+Additional environmental puzzles become easier later.
+
+The player develops greater historical context.
+
+---
+
+Choice D
+
+Approach the structure directly.
+
+Immediate Result
+
+Progress continues sooner.
+
+Future Effect
+
+Many optional discoveries remain unexplored until future expeditions.
+
+Nothing is permanently lost.
+
+---
+
+### Advisor Contributions
+
+Every advisor interprets the structure differently.
+
+Rowan notices impossible construction tolerances.
+
+He cannot identify seams.
+
+He cannot explain how it was assembled.
+
+Player learns:
+
+Engineering sometimes begins with admitting what is not understood.
+
+---
+
+Mara notices the structure producing harmonic tones outside normal human engineering.
+
+She asks the player to stop moving.
+
+Simply listen.
+
+Player learns:
+
+Sound itself may be part of the architecture.
+
+---
+
+Samira notices something unexpected.
+
+Nothing biological reacts with fear.
+
+The surrounding ecosystem behaves normally.
+
+Player learns:
+
+Not every unknown is dangerous.
+
+---
+
+Jonah begins documenting everything.
+
+He deliberately slows the investigation.
+
+Player learns:
+
+Good records prevent future mistakes.
+
+---
+
+Talia notices there are no defensive positions.
+
+No obvious military planning.
+
+Player learns:
+
+Security can exist without visible weapons.
+
+---
+
+Soren becomes fascinated.
+
+He refuses to form conclusions too early.
+
+Player learns:
+
+Observation always comes before theory.
+
+---
+
+Mira notices that the repeating symbols are not identical.
+
+Adults assumed they were.
+
+She finds subtle differences.
+
+Player learns:
+
+Patterns often contain variation.
+
+Variation contains meaning.
+
+---
+
+The Vale System encourages the crew to compare observations before making decisions.
+
+Player learns:
+
+Leadership gathers perspectives before reaching conclusions.
+
+---
+
+### Gameplay Systems Introduced
+
+Environmental archaeology.
+
+Passive scanning.
+
+Observation logs.
+
+Pattern comparison.
+
+Collaborative interpretation.
+
+Ethical investigation.
+
+---
+
+### Accessibility
+
+Every discovery must be available through multiple methods.
+
+Visual observation.
+
+Environmental audio.
+
+Descriptive narration.
+
+Captions.
+
+Braille displays.
+
+Tactile feedback.
+
+No puzzle should require only vision.
+
+No puzzle should require only hearing.
+
+Every important environmental clue should exist through multiple sensory channels.
+
+---
+
+### Emotional Goal
+
+The player should begin feeling awe rather than excitement.
+
+Everything here feels older than history.
+
+Yet somehow...
+
+It feels welcoming.
+
+Not abandoned.
+
+Waiting.
+
+---
+
+### End Condition
+
+After sufficient observation...
+
+The repeating signal changes once more.
+
+For the first time...
+
+The structure answers the player.
+
+Not with words.
+
+Not with lights.
+
+With resonance.
+
+The harmonic tones produced by the structure slowly align with one another.
+
+The player realizes something extraordinary.
+
+The structure is not opening because they solved a puzzle.
+
+It is opening because they took the time to observe before acting.
+
+A previously invisible doorway gradually becomes accessible.
+
+No alarms sound.
+
+No dramatic music plays.
+
+The structure simply welcomes the player inside.
+
+Part Three begins.

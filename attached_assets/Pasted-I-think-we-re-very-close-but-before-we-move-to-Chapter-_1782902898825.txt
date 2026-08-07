@@ -1,0 +1,107 @@
+I think we’re very close, but before we move to Chapter Six I’d do one design pass over Chapter Five.
+
+Not to add story.
+
+To close every implementation gap so Replit never has to invent mechanics.
+
+Here’s what I’d check:
+
+CHAPTER FIVE IMPLEMENTATION CHECKLIST
+□ Every player choice has immediate consequences.
+□ Every player choice has long-term consequences.
+□ Every player choice teaches one permanent gameplay system.
+□ Every player choice teaches one philosophical lesson.
+□ Every player choice unlocks something tangible.
+□ Every player choice unlocks new dialogue.
+□ Every player choice updates the Knowledge Archive.
+□ Every player choice updates the Resonance Log.
+□ Every player choice changes future expeditions in some measurable way.
+□ Every player choice is reviewable after completion.
+□ No choice permanently removes content.
+□ No choice produces a "bad ending."
+□ Every exploration area can be revisited later.
+□ Every advisor meaningfully changes dialogue.
+□ Every advisor teaches something unique.
+□ Every accessibility interaction has multiple valid solutions.
+□ Every resonance interaction has multiple valid solutions.
+□ Every artifact belongs to a defined category.
+□ Every recovered artifact permanently affects the station.
+□ Every expedition permanently changes the station's soundscape.
+□ Every expedition permanently changes station conversations.
+□ Every expedition permanently changes environmental storytelling aboard the station.
+□ Every expedition leaves at least one unanswered question.
+□ Every expedition unlocks at least one future expedition.
+□ Every expedition teaches something that another profession will reinterpret later.
+
+The one thing I think we’re actually missing is this:
+
+Expedition Success Evaluation
+
+Right now the player makes lots of choices.
+
+But we never defined what the game remembers.
+
+I’d add one final canon system.
+
+CANON RULE
+Every major expedition records how the player approached discovery.
+The game never scores morality.
+Instead it records philosophy.
+Possible expedition philosophies include:
+Curiosity.
+Preparation.
+Preservation.
+Collaboration.
+Leadership.
+Scientific Investigation.
+Engineering.
+Compassion.
+Historical Preservation.
+Accessibility.
+These are never displayed as numerical scores.
+They quietly influence:
+Crew dialogue.
+Knowledge Archive entries.
+Resonance responses.
+Future advisor recommendations.
+Environmental storytelling.
+Optional missions.
+Historical interpretation.
+The player is never told they played "correctly."
+The world simply remembers how they chose to build civilization.
+
+I actually like this much more than a reputation meter.
+
+The player isn’t becoming “Good” or “Bad.”
+
+They’re becoming known for how they think.
+
+That feels much more like Resonance.
+
+⸻
+
+After that?
+
+Yes.
+
+I think we’re genuinely ready for Chapter Six.
+
+Because by then we’ve finished teaching:
+
+* Survival.
+* Rescue.
+* Community.
+* Exploration.
+* Resonance.
+
+Chapter Six no longer needs to introduce basic mechanics.
+
+It can finally ask the biggest question so far:
+
+Why did the Shawabti choose humanity?
+
+And for the first time…
+
+Faience stops being something the player carries.
+
+Faience becomes someone the player is talking to. I think that’s the natural turning point for the entire franchise.

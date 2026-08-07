@@ -1,0 +1,284 @@
+WORK ORDER 007 — EPILOGUE
+
+Continue:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_seven.md
+
+Maintain all previously established canon.
+
+Use proper Markdown headings.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Epilogue
+
+## A New Morning
+
+### Purpose
+
+Allow the player to experience the civilization they helped create.
+
+Operation One has ended.
+
+The player is not immediately launched into Operation Two.
+
+Instead...
+
+The player is given time to simply live.
+
+The player should experience the consequences of every major decision made throughout Operation One.
+
+---
+
+## Narrative Purpose
+
+The following morning arrives.
+
+06:30.
+
+The familiar station klaxon sounds.
+
+For the first time...
+
+It does not wake a frightened survivor.
+
+It wakes a community.
+
+The morning routine feels familiar.
+
+Comfortable.
+
+Ordinary.
+
+That ordinary life is the player's greatest achievement.
+
+---
+
+## Gameplay Purpose
+
+Allow unrestricted exploration of the station.
+ Every system remains active.
+
+No urgent objectives exist.
+
+The player may:
+
+Speak with crew.
+
+Review the Living Archive.
+
+Visit every department.
+
+Walk through newly completed areas.
+
+Review expedition journals.
+
+Review Resonance Logs.
+
+Review the Knowledge Archive.
+
+Customize accessibility settings.
+
+Plan future expeditions.
+
+The station becomes a living sandbox.
+
+---
+
+## Community Life
+
+Every primary crew member now follows a complete daily routine.
+
+Rowan teaches apprentices.
+
+Mara upgrades engineering systems.
+
+Samira conducts wellness rounds.
+
+Jonah coordinates station logistics.
+
+Talia trains emergency response volunteers.
+
+Soren continues researching the Archive.
+
+Mira attends lessons while constantly distracting everyone with questions.
+
+The Vale System rotates naturally between members throughout the day.
+
+Faience quietly participates in community life.
+
+Not as equipment.
+
+As a member of the crew.
+
+---
+
+## Player Decisions
+
+No mandatory objectives remain.
+
+Players may choose how to spend the day.
+
+---
+
+Choice A
+
+Spend time with the crew.
+
+Immediate Result
+
+Additional conversations.
+
+Future Effect
+
+Relationships deepen.
+
+Additional optional content unlocks.
+
+---
+
+Choice B
+
+Study the Living Archive.
+
+Immediate Result
+
+Review discoveries.
+
+Future Effect
+
+Operation Two begins with additional historical context.
+
+---
+
+Choice C
+
+Continue improving the station.
+
+Immediate Result
+
+Additional construction projects become available.
+
+Future Effect
+
+Future operations begin from a stronger home.
+
+---
+
+Choice D
+
+Prepare immediately for the next operation.
+
+Immediate Result
+
+Mission planning begins.
+
+Future Effect
+
+Operation Two becomes available immediately.
+
+Players who wish may continue without delay.
+
+---
+
+## Canon Rule
+
+Operation One never truly ends.
+
+Players may always return.
+
+The station continues evolving throughout every future operation.
+
+New conversations.
+
+New discoveries.
+
+New construction.
+
+New memories.
+
+Operation One remains the player's home for the entire franchise.
+
+---
+
+## Accessibility
+
+Every accessibility feature unlocked throughout Operation One remains permanently available.
+
+Every future operation inherits these settings automatically.
+
+Players never need to rebuild accessibility from the beginning.
+
+Civilization remembers.
+
+So does accessibility.
+
+---
+
+## Emotional Goal
+
+The player should walk through the station and recognize something impossible.
+
+Every sound.
+
+Every room.
+
+Every person.
+
+Every conversation.
+
+Every routine.
+
+Exists because of choices they made.
+
+Not because the game reached its ending.
+
+Because the community grew.
+
+---
+
+## Final Moment
+
+The player walks past the Living Archive.
+
+A new entry quietly appears.
+
+Not written by Faience.
+
+Not written by the Shawabti.
+
+Written by the station itself.
+
+It reads:
+
+"Civilizations are not remembered because they endured.
+
+They are remembered because they chose to help one another endure."
+
+The player closes the Archive.
+
+Behind them...
+
+Life continues.
+
+Children laugh.
+
+Someone begins repairing a bulkhead.
+
+Coffee is brewing.
+
+Music drifts through the corridor.
+
+Captain Mara Vale of the Vale System begins the morning announcements.
+
+The player is no longer listening as a survivor.
+
+The player is listening as someone who has found a home.
+
+Operation One ends.
+
+The Resonance franchise begins.

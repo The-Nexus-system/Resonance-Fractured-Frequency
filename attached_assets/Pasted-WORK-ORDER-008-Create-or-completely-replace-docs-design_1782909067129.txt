@@ -1,0 +1,511 @@
+WORK ORDER 008
+
+Create or completely replace:
+
+docs/design_notes/operation_one_exodus_master_timeline.md
+
+Maintain all established canon from:
+
+- docs/03_Campaign_Bible.md
+
+- docs/design_notes/operation_one_exodus_maintenance_chapter_one.md
+
+- docs/design_notes/operation_one_exodus_maintenance_chapter_two.md
+
+- docs/design_notes/crew_progression_system.md
+
+- docs/design_notes/operation_one_exodus_perspective_map.md
+
+- docs/11_Decision_Log.md
+
+This document becomes the definitive chronological reference for Operation One: Exodus.
+
+Do not summarize.
+
+Do not write placeholder text.
+
+Do not generate outlines.
+
+Fully flesh out every section.
+
+Use proper Markdown headings.
+
+Do not write code.
+
+Write this as a franchise canon document.
+
+----------------------------------------------------------------
+
+PURPOSE
+
+This document defines the single canonical chronology of Operation One.
+
+Every campaign references this document.
+
+Every cinematic references this document.
+
+Every conversation references this document.
+
+Every future operation assumes this timeline is correct.
+
+There is only one timeline.
+
+There are many perspectives.
+
+----------------------------------------------------------------
+
+CANON RULES
+
+Every campaign depicts identical historical events.
+
+Perspective changes.
+
+Knowledge changes.
+
+History never changes.
+
+Professional responsibilities always come before gameplay convenience.
+
+Characters continue living their lives when the player is elsewhere.
+
+Every recurring character follows a complete daily routine.
+
+Departments continue functioning whether or not the player is present.
+
+The player participates in civilization.
+
+The player never becomes the only hero.
+
+CSV Hearth survives because thousands of people quietly perform their jobs together.
+
+Accessibility is ordinary infrastructure.
+
+Accessibility is never treated as exceptional.
+
+Every day must become progressively more emotionally meaningful than the previous day.
+
+The player must gradually stop thinking of Hearth as a ship.
+
+The player must begin thinking of Hearth as home.
+
+----------------------------------------------------------------
+
+TIMELINE STRUCTURE
+
+Completely flesh out:
+
+Day Seven
+
+Day Six
+
+Day Five
+
+Day Four
+
+Day Three
+
+Day Two
+
+Day One
+
+Attack Day
+
+Every day should be written as a complete chronological narrative.
+
+Do not abbreviate.
+
+Do not leave placeholder headings.
+
+----------------------------------------------------------------
+
+EVERY DAY MUST INCLUDE
+
+05:30
+
+Night Shift
+
+06:30 Morning Announcement
+
+Morning routines
+
+Department operations
+
+Major maintenance activities
+
+Engineering activities
+
+Medical activities
+
+Security activities
+
+Research activities
+
+Command activities
+
+Civilian life
+
+School activities
+
+Hydroponics
+
+Cargo
+
+Transportation
+
+Lunch
+
+Afternoon
+
+Community life
+
+Evening
+
+Night
+
+Soundscape
+
+Environmental storytelling
+
+Accessibility
+
+Cross-perspective anchor scenes
+
+Narrative purpose
+
+Gameplay purpose
+
+Emotional goal
+
+End state
+ ----------------------------------------------------------------
+
+THE MORNING ANNOUNCEMENTS
+
+Every morning announcement should be unique.
+
+Captain Elian speaks differently every day.
+
+Announcements should gradually reinforce the central themes of:
+
+Community
+
+Belonging
+
+Responsibility
+
+Hope
+
+Memory
+
+Civilization
+
+The final Day One announcement should become emotionally devastating after the player finishes Operation One.
+
+----------------------------------------------------------------
+
+CHARACTER PRESENCE
+
+Throughout the week consistently track:
+
+Captain Elian
+
+Captain Naomi
+
+Captain Gideon
+
+Captain Iris
+
+Rowan Ives
+
+Mara Chen
+
+Doctor Samira Kade
+
+Chief Petty Officer Jonah Briggs
+
+Security Lead Talia Rusk
+
+Dr. Soren Qadir
+
+Mira Ives
+
+Faience
+
+Every character should feel alive.
+
+Every character should have recurring habits.
+
+Recurring locations.
+
+Recurring conversations.
+
+Recurring responsibilities.
+
+Their lives should continue regardless of where the player is.
+ ----------------------------------------------------------------
+
+DEPARTMENT PHILOSOPHY
+
+Maintenance
+
+Engineering
+
+Medical
+
+Research
+
+Security
+
+Command
+
+Education
+
+Hydroponics
+
+Civilian Services
+
+Transportation
+
+Manufacturing
+
+Cargo
+
+Every department should have its own rhythm.
+
+Its own sound.
+
+Its own culture.
+
+Its own routines.
+
+Departments should naturally interact throughout every day.
+
+----------------------------------------------------------------
+
+ACCESSIBILITY
+
+Accessibility should appear naturally throughout every day.
+
+Braille.
+
+Speech.
+
+Captions.
+
+Sign language.
+
+AAC.
+
+Haptic systems.
+
+Adaptive workstations.
+
+Mobility equipment.
+
+Accessible transportation.
+
+Adaptive education.
+
+Accessible emergency systems.
+
+No one comments on accessibility.
+
+It is simply how civilization functions.
+
+----------------------------------------------------------------
+
+SOUNDS
+
+The soundscape must continuously evolve.
+
+Morning sounds.
+
+Midday sounds.
+
+Evening sounds.
+
+Night sounds.
+
+Department sounds.
+
+Community sounds.
+
+Transit.
+
+Children.
+
+Engineering.
+
+Medical.
+
+Research.
+
+Gardens.
+
+Music.
+
+Public gatherings.
+
+Emergency preparedness.
+
+Players should eventually navigate Hearth almost entirely through sound.
+
+----------------------------------------------------------------
+
+ENVIRONMENTAL STORYTELLING
+
+Every day should contain recurring environmental details showing the station changing naturally.
+
+Gardens grow.
+
+Artwork appears.
+
+Community boards change.
+
+Construction progresses.
+
+Maintenance improvements become visible.
+
+Children's projects evolve.
+
+Festival preparations increase.
+
+Neighborhood identity develops.
+
+Residents remember previous conversations.
+
+Nothing should ever feel static.
+
+----------------------------------------------------------------
+
+THE ANOMALY
+
+The anomaly develops gradually.
+
+Day Seven
+
+Almost impossible to notice.
+
+Day Six
+
+Research quietly documents it.
+
+Day Five
+
+Navigation notices unrelated inconsistencies.
+
+Engineering detects tiny resonance drift.
+
+Day Four
+
+Multiple departments begin quietly comparing observations.
+
+Day Three
+
+Cross-department meetings begin.
+
+Nobody believes there is danger.
+
+Day Two
+
+Evidence grows.
+
+Still insufficient for conclusions.
+
+Day One
+
+An interdisciplinary meeting is scheduled for tomorrow morning.
+
+Tomorrow never arrives.
+
+Attack Day
+
+The anomaly reveals its true nature.
+
+No department behaved incompetently.
+
+The attack succeeds because the phenomenon is genuinely unprecedented.
+
+----------------------------------------------------------------
+
+DAY ONE
+
+Day One should represent the absolute emotional peak of ordinary life aboard Hearth.
+
+Festival preparations.
+
+Community.
+
+Friendships.
+
+Hope.
+
+Future plans.
+
+Children.
+
+Music.
+
+Laughter.
+
+Everything should convince the player that Hearth has decades of life ahead of it.
+
+----------------------------------------------------------------
+
+ATTACK DAY
+
+Write the attack minute-by-minute.
+
+Track every department simultaneously.
+
+Track every primary character.
+
+Track every captain.
+
+Track communications.
+
+Track engineering.
+
+Track maintenance.
+
+Track research.
+
+Track medical.
+
+Track security.
+
+Track civilians.
+
+Track escape pod launches.
+
+Track CSV Hearth's final moments.
+
+End exactly where Operation One Chapter Two begins:
+
+The player regains consciousness alone inside the damaged escape pod.
+
+----------------------------------------------------------------
+
+END STATE
+
+This document becomes the definitive historical record of Operation One.
+
+Every future campaign.
+
+Every future operation.
+
+Every flashback.
+
+Every cinematic.
+
+Every dialogue.
+
+Every crossover.
+
+Every playable perspective.
+
+Must remain consistent with this document.
+
+If another document contradicts this timeline,
+
+this timeline is canon.

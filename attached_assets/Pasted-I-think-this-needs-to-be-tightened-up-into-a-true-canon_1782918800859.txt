@@ -1,0 +1,278 @@
+I think this needs to be tightened up into a true **canon document**. Right now it mixes document instructions ("Create...", "Use Markdown...", "Do not summarize...") with the actual canon. I'd separate those. The work order stays short, and everything after **Purpose** becomes permanent canon.
+
+Here's how I'd rewrite the canon portion.
+
+````text
+----------------------------------------------------------------
+
+CANON RULE — CHARACTER IDENTITY
+
+Every recurring character in Resonance is a complete person.
+
+No recurring character exists solely to satisfy representation, accessibility, gameplay, or narrative requirements.
+
+Every character possesses:
+
+• Their own history.
+• Their own personality.
+• Their own strengths.
+• Their own flaws.
+• Their own relationships.
+• Their own goals.
+• Their own fears.
+• Their own profession.
+• Their own growth.
+
+Representation informs identity.
+
+It never replaces it.
+
+----------------------------------------------------------------
+
+CANON RULE — PLAYER IDENTITY
+
+Players never replace canonical characters.
+
+Players create an original professional assigned to the selected department.
+
+The player's story unfolds alongside the established crew.
+
+The existence, history and identity of recurring characters never changes because of player customization.
+
+----------------------------------------------------------------
+
+CANON RULE — CHARACTER RECOGNITION
+
+Characters should become recognizable naturally.
+
+Recognition develops through observation.
+
+Players gradually learn people through:
+
+• Voice.
+• Speech rhythm.
+• Movement.
+• Body language.
+• Professional habits.
+• Daily routines.
+• Environmental sounds.
+• Communication style.
+• Relationships with others.
+
+The interface should rarely identify recurring characters.
+
+The world should teach the player who people are.
+
+----------------------------------------------------------------
+
+CANON RULE — THE VALE SYSTEM
+
+The Vale System consists of one shared body inhabited by four recurring members.
+
+The body itself remains constant.
+
+The identity being expressed changes.
+
+The player should recognize the current fronter through observation rather than explicit explanation.
+
+The following never change:
+
+• Body.
+• Height.
+• Build.
+• Face.
+• Hair.
+• Eye colour.
+• Skin tone.
+• Physical scars.
+• Accessibility equipment.
+• Uniform design.
+• Rank insignia.
+
+The following naturally change depending upon who is fronting:
+
+• Voice.
+• Accent.
+• Vocabulary.
+• Speech rhythm.
+• Breathing.
+• Facial expression.
+• Eye focus.
+• Head position.
+• Walking rhythm.
+• Standing posture.
+• Hand placement.
+• Gesture vocabulary.
+• Leadership style.
+• Professional priorities.
+• Decision-making style.
+• Emotional expression.
+• Relationships.
+• Attention focus.
+
+Personal identification also changes naturally.
+
+This includes:
+
+• Uniform name tape.
+• Digital identification badge.
+• Command authentication.
+• Wrist display.
+• Personal communicator.
+• Office display.
+• Terminal login.
+
+These updates occur automatically through normal ship systems.
+
+Crew members treat these changes as ordinary.
+
+----------------------------------------------------------------
+
+CANON RULE — FRONTING
+
+Fronting is purposeful.
+
+Members front because their knowledge, temperament or expertise best fits the situation.
+
+The game should almost never announce a switch.
+
+Instead, players notice changes through observation.
+
+Careful attention should always be rewarded.
+
+----------------------------------------------------------------
+
+CANON RULE — CAST REPRESENTATION
+
+The recurring cast intentionally reflects humanity.
+
+Representation is a design requirement.
+
+It is never tokenistic.
+
+No race, ethnicity, disability, communication style or gender identity is treated as the default.
+
+Human diversity is presented as an ordinary part of civilization.
+
+----------------------------------------------------------------
+
+CANON RULE — ETHNIC REPRESENTATION
+
+The primary recurring cast includes intentional representation across multiple ethnic backgrounds.
+
+The core cast includes:
+
+• One Native character.
+• One Native mixed-heritage character.
+• One Black character.
+• One Black mixed-heritage character.
+• One Asian character.
+• One Asian mixed-heritage character.
+• One White character.
+• One White mixed-heritage character.
+
+Future recurring characters should continue broad global representation.
+
+----------------------------------------------------------------
+
+CANON RULE — GENDER REPRESENTATION
+
+The recurring cast intentionally represents a broad spectrum of human gender experiences.
+
+Representation includes:
+
+• Cisgender man.
+• Cisgender woman.
+• Transgender man (FTM).
+• Transgender woman (MTF).
+• Non-binary.
+• Agender.
+• Genderfluid.
+• Demiboy.
+• Demigirl.
+• Two-Spirit.
+
+Two-Spirit representation belongs only to an Indigenous character whose nation, culture and community are respectfully represented.
+
+Gender identity is one aspect of a character.
+
+It never replaces personality, profession, relationships, values or growth.
+
+----------------------------------------------------------------
+
+CANON RULE — DISABILITY REPRESENTATION
+
+Disability is foundational to Resonance.
+
+Characters experience disability in many different ways.
+
+Disability shapes perspective.
+
+It shapes problem solving.
+
+It shapes communication.
+
+It shapes relationships.
+
+It never defines a character's entire identity.
+
+----------------------------------------------------------------
+
+CANON RULE — COMMUNICATION
+
+Communication diversity is ordinary.
+
+The recurring cast naturally includes:
+
+• Spoken language.
+• Sign language.
+• AAC.
+• Braille literacy.
+• Tactile signing.
+• Alternative communication systems.
+• Multilingual communication.
+
+Every communication method is equally valid.
+
+The world adapts to people.
+
+People should not be required to adapt to exclusion.
+
+----------------------------------------------------------------
+
+CANON RULE — PLAYER CUSTOMIZATION
+
+Players may customize their own professional.
+
+Customization never alters established canon.
+
+Named recurring characters always retain their canonical identities, histories, relationships and appearances.
+
+----------------------------------------------------------------
+
+CANON RULE — PRESENTATION
+
+Every recurring character receives a complete presentation profile.
+
+Profiles include:
+
+• Physical appearance.
+• Clothing.
+• Equipment.
+• Accessibility devices.
+• Audio identity.
+• Voice.
+• Accent.
+• Speech rhythm.
+• Movement.
+• Environmental sound.
+• Blind-friendly description.
+• Audio-first description.
+• Professional habits.
+• Civilian presentation.
+• Emergency presentation.
+
+These presentation profiles become the definitive reference for artists, writers, animators, programmers and audio designers throughout the Resonance franchise.
+````
+
+I also recommend one structural change: move all of these **Canon Rules** into your **Project Constitution** (or another global canon document), and let `player_identity_and_character_presentation_bible.md` focus on implementation—how artists, animators, UI designers, and writers present those established rules. That way you have one authoritative source for franchise-wide canon and one for implementation.

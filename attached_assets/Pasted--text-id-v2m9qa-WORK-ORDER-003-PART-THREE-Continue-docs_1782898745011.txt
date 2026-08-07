@@ -1,0 +1,457 @@
+````text id="v2m9qa"
+WORK ORDER 003 — PART THREE
+
+Continue:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_three.md
+
+Maintain all previously established canon.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Part Three
+
+## Building Together
+
+### Purpose
+
+Teach collaborative construction.
+
+Teach that no major project is completed by a single person.
+
+Teach the player how individual expertise combines into community.
+
+The player should never feel like they are simply pressing a build button.
+
+Construction is a social activity.
+
+---
+
+### Narrative Purpose
+
+The station begins physically changing because of decisions made during the community meeting.
+
+Construction should happen gradually.
+
+The player witnesses progress over time.
+
+Rooms slowly evolve.
+
+Equipment appears.
+
+Hallways expand.
+
+Temporary solutions become permanent.
+
+The station grows because people are working.
+
+---
+
+### Gameplay Purpose
+
+Introduce:
+
+Collaborative construction.
+
+Large-scale fabrication.
+
+Multi-stage projects.
+
+Project dependencies.
+
+Resource logistics.
+
+Construction planning.
+
+Crew coordination.
+
+Station evolution.
+
+---
+
+### Construction Philosophy
+
+Every major construction project requires multiple crew members.
+
+No single crew member can complete a major project alone.
+
+Every completed project should visibly and audibly demonstrate cooperation.
+
+The player learns that expertise overlaps.
+
+No profession exists in isolation.
+
+---
+
+### Player Choice
+
+The player reports to Rowan to begin the first community project.
+
+Rowan presents three possible starting tasks based on the priority selected during the community meeting.
+
+The player chooses which task to begin first.
+
+Each task teaches different mechanics.
+
+All tasks eventually become required.
+
+The order changes the player's experience.
+
+Canon remains unchanged.
+
+---
+
+## Construction Choice One
+
+Expand Habitation
+
+Primary Crew
+
+Rowan.
+
+Mara.
+
+Jonah.
+
+Player.
+
+Player Learns
+
+Habitable spaces require planning rather than simply attaching modules.
+
+Gameplay Introduced
+
+Module connection.
+
+Interior planning.
+
+Environmental comfort.
+
+Storage allocation.
+
+Life support expansion.
+
+Immediate Result
+
+Living quarters become larger.
+
+Crew begin spending more time together.
+
+Future Result
+
+Additional conversations.
+
+Community activities.
+
+Better morale.
+
+Crew recover from stress more quickly.
+
+---
+
+## Construction Choice Two
+
+Expand Engineering
+
+Primary Crew
+
+Mara.
+
+Rowan.
+
+Soren.
+
+Player.
+
+Player Learns
+
+Reliable infrastructure allows every other system to grow.
+
+Gameplay Introduced
+
+Power grids.
+
+Redundant systems.
+
+Engineering diagnostics.
+
+Generator balancing.
+
+Immediate Result
+
+Stable power.
+
+Improved fabrication.
+
+Future Result
+
+Advanced upgrades become available earlier.
+
+Research equipment becomes more reliable.
+
+---
+
+## Construction Choice Three
+
+Expand Medical Facilities
+
+Primary Crew
+
+Samira.
+
+Rowan.
+
+Jonah.
+
+Player.
+
+Player Learns
+
+Healthy communities are built before emergencies happen.
+
+Gameplay Introduced
+
+Medical planning.
+
+Treatment spaces.
+
+Medical inventory.
+
+Preventative healthcare.
+
+Immediate Result
+
+Expanded treatment area.
+
+Improved rehabilitation.
+
+Future Result
+
+Crew recover more quickly from future injuries.
+
+New accessibility technologies become available sooner.
+
+---
+
+### Collaborative Gameplay
+
+Every construction project includes moments where the player assists different crew members.
+
+These are not identical mini-games.
+
+Each crew member teaches their own approach.
+
+Examples:
+
+Rowan teaches fabrication and precision.
+
+Mara teaches listening for system health.
+
+Samira teaches preparation before action.
+
+Jonah teaches organization before construction.
+
+Talia teaches identifying hazards before work begins.
+
+Soren teaches documenting discoveries while building.
+
+Mira notices practical improvements adults overlooked.
+
+The Vale System helps resolve disagreements when multiple good solutions exist.
+
+---
+
+### Meaningful Decisions
+
+Construction frequently presents choices.
+
+Example:
+
+A corridor can be built more quickly using salvaged materials.
+
+Or
+
+The player can spend additional time reinforcing it.
+
+Quick Construction
+
+Immediate Benefit
+
+Project finishes sooner.
+
+Future Consequence
+
+Requires more maintenance later.
+
+Reinforced Construction
+
+Immediate Cost
+
+Construction takes longer.
+
+Future Benefit
+
+Reduced maintenance.
+
+Greater safety.
+
+Example:
+
+Install permanent accessibility features now.
+
+Or
+
+Delay installation until resources improve.
+
+Immediate Installation
+
+Higher initial resource cost.
+
+Earlier accessibility benefits.
+
+Additional optional interactions become available immediately.
+
+Delayed Installation
+
+Resources remain available for other projects.
+
+Accessibility improvements arrive later.
+
+No choice is considered morally correct.
+
+Every decision changes how the station develops.
+
+---
+
+### Environmental Progression
+
+Construction should never happen instantly.
+
+Players should hear:
+
+Metal cutting.
+
+Tools.
+
+Conversation.
+
+Planning.
+
+Laughter.
+
+Occasional disagreement.
+
+Power cycling.
+
+Fabrication equipment.
+
+The player should revisit completed areas and notice:
+
+Fresh paint.
+
+New lighting.
+
+Additional signage.
+
+Improved navigation.
+
+Artwork.
+
+Plants.
+
+Personal belongings.
+
+The station becomes increasingly personalized.
+
+---
+
+### Accessibility
+
+Construction automatically considers accessibility.
+
+The player never has to "remember" to build an accessible station.
+
+Instead the player chooses:
+
+Which accessibility improvements receive priority.
+
+Examples include:
+
+Improved tactile navigation.
+
+Additional caption displays.
+
+Braille station maps.
+
+Adaptive workstations.
+
+Environmental beacon improvements.
+
+Wearable haptic support.
+
+AAC communication terminals.
+
+Every accessibility improvement benefits the entire community.
+
+Not only disabled crew members.
+
+---
+
+### Gameplay Systems Introduced
+
+Construction phases.
+
+Project quality.
+
+Collaborative building.
+
+Accessibility planning.
+
+Long-term infrastructure.
+
+Environmental customization.
+
+Station evolution.
+
+---
+
+### Emotional Goal
+
+The player should understand:
+
+They are no longer repairing wreckage.
+
+They are helping build a civilization.
+
+Every completed project should make the station feel more like a home than a survival shelter.
+
+---
+
+### End Condition
+
+The first major community project reaches completion.
+
+The player walks through the newly completed area.
+
+Crew members naturally begin using it.
+
+No celebration is announced.
+
+Instead the player quietly witnesses ordinary life immediately filling the new space.
+
+Someone sits down with coffee.
+
+Someone starts working.
+
+Someone laughs.
+
+Mira immediately finds a new corner to explore.
+
+Only after the player has experienced the completed space being lived in does the game acknowledge that construction is complete.
+
+The next project is added to the station project board, leading into Part Four.
+````

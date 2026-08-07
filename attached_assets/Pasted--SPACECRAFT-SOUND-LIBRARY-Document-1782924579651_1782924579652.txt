@@ -1,0 +1,373 @@
+----------------------------------------------------------------
+
+SPACECRAFT SOUND LIBRARY
+
+Document sound identities for every class of spacecraft.
+
+Include:
+
+Escape pods.
+
+Life pods.
+
+Shuttles.
+
+Dropships.
+
+Construction craft.
+
+Maintenance craft.
+
+Research craft.
+
+Medical craft.
+
+Cargo craft.
+
+Civilian transports.
+
+Military vessels.
+
+Capital ships.
+
+Orbital stations.
+
+Docking collars.
+
+Docking clamps.
+
+Airlocks.
+
+Launch systems.
+
+Recovery systems.
+
+Emergency separation.
+
+Hull damage.
+
+Power-up.
+
+Power-down.
+
+Life support.
+
+Navigation.
+
+Bridge ambience.
+
+Engineering ambience.
+
+Crew quarters.
+
+Every spacecraft should possess an immediately recognizable acoustic identity.
+
+----------------------------------------------------------------
+
+SPACE SUIT SOUND LIBRARY
+
+Document every wearable environmental suit.
+
+Include:
+
+Standard EVA suits.
+
+Maintenance suits.
+
+Engineering suits.
+
+Medical biohazard suits.
+
+Research suits.
+
+Construction suits.
+
+Fire suppression suits.
+
+Planetary exploration suits.
+
+Pressure suits.
+
+Emergency survival suits.
+
+For every suit define:
+
+Breathing.
+
+Life support.
+
+Cooling systems.
+
+Joint movement.
+
+Magnetic boots.
+
+Tool attachment.
+
+Radio communication.
+
+Warning systems.
+
+Damage.
+
+Leaks.
+
+Pressure loss.
+
+Helmet sounds.
+
+Visor interaction.
+
+Haptic alerts.
+
+Accessibility alerts.
+
+Suit startup.
+
+Suit shutdown.
+
+Emergency operation.
+
+The player should learn to recognize suits without seeing them.
+
+----------------------------------------------------------------
+
+WEAPON SOUND LIBRARY
+
+Weapons exist primarily as emergency tools.
+
+Document:
+
+Rescue equipment.
+
+Non-lethal equipment.
+
+Security equipment.
+
+Training equipment.
+
+Industrial cutting tools.
+
+Emergency breaching tools.
+
+Personal defense equipment.
+
+Historic weapons.
+
+Alien technology.
+
+Experimental systems.
+
+For every item define:
+
+Draw.
+
+Ready.
+
+Safety.
+
+Activation.
+
+Discharge.
+
+Reload.
+
+Power cycle.
+
+Failure.
+
+Overheating.
+
+Cooling.
+
+Maintenance.
+
+Accessibility alternatives.
+
+Narrative purpose.
+
+Weapons should sound purposeful rather than exciting.
+
+The audio philosophy should emphasize responsibility over spectacle.
+
+----------------------------------------------------------------
+
+CLOTHING SOUND LIBRARY
+
+Document how clothing contributes to recognition.
+
+Include:
+
+Command uniforms.
+
+Engineering uniforms.
+
+Maintenance uniforms.
+
+Medical uniforms.
+
+Research uniforms.
+
+Security uniforms.
+
+Civilian clothing.
+
+Children's clothing.
+
+Protective equipment.
+
+Environmental gear.
+
+Jewelry.
+
+Identification badges.
+
+Mobility equipment attached to clothing.
+
+Every recurring character should possess recognizable clothing sounds.
+
+----------------------------------------------------------------
+
+MATERIAL LIBRARY
+
+Document acoustic properties of materials.
+
+Include:
+
+Steel.
+
+Titanium.
+
+Composite materials.
+
+Ceramics.
+
+Fabric.
+
+Leather.
+
+Glass.
+
+Transparent aluminum.
+
+Stone.
+
+Wood.
+
+Ice.
+
+Water.
+
+Sand.
+
+Soil.
+
+Plants.
+
+Alien materials.
+
+Shawabti materials.
+
+Every interaction should inherit sound properties from the material involved.
+
+----------------------------------------------------------------
+
+OBJECT SOUND LIBRARY
+
+Every recurring interactive object should possess a defined sound identity.
+
+Include:
+
+Doors.
+
+Windows.
+
+Storage.
+
+Furniture.
+
+Medical beds.
+
+Hospital equipment.
+
+Kitchen equipment.
+
+Fabricators.
+
+Lighting systems.
+
+Terminals.
+
+Consoles.
+
+Books.
+
+Paper.
+
+Tools.
+
+Containers.
+
+Laboratory equipment.
+
+Maintenance panels.
+
+Elevators.
+
+Ladders.
+
+Handrails.
+
+Control surfaces.
+
+Emergency systems.
+
+Every interactable object should provide meaningful acoustic feedback.
+
+----------------------------------------------------------------
+
+BIOLOGICAL SOUND LIBRARY
+
+Document sounds produced by living beings.
+
+Include:
+
+Breathing.
+
+Heartbeat.
+
+Speech.
+
+Signing interaction.
+
+AAC.
+
+Eating.
+
+Drinking.
+
+Sleeping.
+
+Fatigue.
+
+Pain.
+
+Recovery.
+
+Laughter.
+
+Crying.
+
+Celebration.
+
+Work.
+
+Exercise.
+
+Medical examination.
+
+Children.
+
+Older adults.
+
+Every biological sound should contribute to realism, empathy and accessibility.

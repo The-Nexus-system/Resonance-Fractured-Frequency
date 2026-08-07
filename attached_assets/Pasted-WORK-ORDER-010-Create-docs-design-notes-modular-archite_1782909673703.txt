@@ -1,0 +1,294 @@
+WORK ORDER 010
+
+Create:
+
+docs/design_notes/modular_architecture_bible.md
+
+Maintain all established canon.
+
+This document defines every reusable room, space, facility and architectural module used throughout the Resonance franchise.
+
+This document is not specific to CSV Hearth.
+
+CSV Hearth is built from these modules.
+
+Every future station, colony, ship and settlement will also use these modules.
+
+This document becomes the architectural source of truth for the franchise.
+
+Do not summarize.
+
+Do not write code.
+
+Use proper Markdown headings.
+
+------------------------------------------------------------
+
+PURPOSE
+
+Resonance uses modular architecture.
+
+Rooms are reusable.
+
+Buildings are reusable.
+
+Neighborhoods are reusable.
+
+Entire ships are assembled from standardized architectural modules.
+
+Campaigns should reference modules rather than recreating rooms.
+
+------------------------------------------------------------
+
+CANON RULE
+
+A room exists independently of the ship containing it.
+
+Only its location changes.
+
+Its purpose remains consistent.
+
+------------------------------------------------------------
+
+For every room module define:
+
+Room Name
+
+Purpose
+
+Typical Size
+
+Departments using it
+
+Primary activities
+
+Secondary activities
+
+Accessibility features
+
+Environmental storytelling opportunities
+
+Soundscape
+
+Lighting
+
+Typical equipment
+
+Emergency behavior
+
+Adjacent modules
+
+Required modules
+
+Optional modules
+
+Common NPCs
+
+Typical conversations
+
+Gameplay systems introduced
+
+Gameplay systems reinforced
+
+Narrative purpose
+
+Future reuse opportunities
+
+------------------------------------------------------------
+
+Create modules for at minimum:
+
+Bridge
+
+Ready Room
+
+Operations Center
+
+Engineering Core
+
+Secondary Engineering
+
+Maintenance Workshop
+
+Fabrication Shop
+
+Machine Shop
+
+Tool Storage
+
+Medical Reception
+
+Examination Room
+
+Emergency Treatment
+
+Operating Theatre
+
+Rehabilitation Gym
+
+Mental Health Office
+
+Pharmacy
+
+Research Laboratory
+
+Materials Lab
+
+Artifact Containment
+ Archive
+
+Knowledge Archive
+
+Classroom
+
+Lecture Hall
+
+Library
+
+Community Hall
+
+Dining Hall
+
+Kitchen
+
+Cafe
+
+Hydroponics
+
+Botanical Garden
+
+Playground
+
+Child Care
+
+Community Workshop
+
+Music Room
+
+Performance Hall
+
+Recording Studio
+
+Exercise Facility
+
+Adaptive Recreation Center
+
+Meditation Room
+
+Multi-Faith Reflection Room
+
+Residential Corridor
+
+Family Apartment
+
+Single Crew Quarters
+
+Guest Quarters
+
+Transit Hub
+
+Lift Lobby
+
+Primary Corridor
+
+Maintenance Tunnel
+
+Utility Spine
+
+Cargo Bay
+
+Docking Bay
+
+Hangar
+
+Shuttle Bay
+
+Escape Pod Bay
+
+Life Support
+
+Water Processing
+
+Recycling Center
+
+Power Distribution
+
+Communications Center
+
+Security Office
+
+Armory
+
+Emergency Coordination Center
+
+Observation Dome
+
+Exterior Airlock
+
+Memorial Garden
+
+Memorial Wall
+
+------------------------------------------------------------
+
+Every module should specify:
+
+How it sounds.
+
+How blind players navigate it.
+
+How Deaf players receive information.
+
+How wheelchair users move through it.
+
+How children use it.
+
+How civilians use it.
+
+How professionals use it.
+
+How it changes during emergencies.
+
+How it changes after being upgraded.
+
+------------------------------------------------------------
+
+MODULAR DESIGN
+
+Modules should connect together using standardized connection points.
+
+This allows future ships to be assembled from existing architecture.
+
+For example:
+
+CSV Hearth
+
+Orbital Stations
+
+Planetary Settlements
+
+Research Bases
+
+Hospital Ships
+
+Military Vessels
+
+Civilian Transports
+
+Exploration Ships
+
+Colonies
+
+Embassies
+
+Future civilizations
+
+can all be built from the same architectural language.
+
+------------------------------------------------------------
+
+END STATE
+
+This document becomes the definitive architectural reference for the Resonance franchise.
+
+Future locations are created by assembling existing modules rather than inventing new rooms.

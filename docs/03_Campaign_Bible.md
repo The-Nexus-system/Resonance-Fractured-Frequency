@@ -109,3 +109,16 @@ Every major mission should reinforce at least one of these emotional pillars.
 
 - For species and civilisation rules, humanity, the Shawabti, and Faience, see the Universe Bible in docs/02_Universe_Bible.md.
 - For how every form of progression is unified across the franchise, see the Gameplay Progression Matrix in docs/design_notes/gameplay_progression_matrix.md.
+
+## Relationship to other documents
+
+This document is the definitive reference for the campaign structure of Operation One and the question spine that drives it.
+
+- The Project Constitution defines the philosophy every chapter serves.
+- The Canon Rules document holds the master wording of the rules this campaign expresses, including the chapter and perspective rules.
+- The Universe Bible is the definitive reference for the species, civilisations, and communities encountered in the campaign.
+- The Systems Bible elaborates the mechanics each chapter introduces.
+- The Master Timeline, Character Schedule, and Perspective Map design notes are the authoritative chronological, scheduling, and vantage references for Operation One.
+- The chapter design notes elaborate each chapter in full from the maintenance perspective.
+- The Gameplay Progression Matrix elaborates how progression advances across the seven chapters.
+- The Decision Log records when campaign decisions were adopted or amended.

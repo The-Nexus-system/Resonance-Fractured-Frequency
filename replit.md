@@ -59,3 +59,8 @@ Replit integration; the GitHub repository is the integration surface for externa
 - Keep accessibility as a core design principle, not an optional feature.
 - Keep the project modular so additional Resonance campaigns can be added later.
 - Use local-first saves, with optional cloud sync possible in the future.
+- The user relies on dictation/speech-to-text and finds selecting text or opening a
+  preview pane inaccessible. Whenever you want the user to copy something, put that
+  content directly in the chat inside a fenced code block, so the chat's built-in
+  one-click copy button appears right next to it. Never use a separate web page,
+  artifact, or download as the copy mechanism.

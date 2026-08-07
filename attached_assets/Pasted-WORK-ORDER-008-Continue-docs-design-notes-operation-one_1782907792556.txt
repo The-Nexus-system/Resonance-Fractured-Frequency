@@ -1,0 +1,368 @@
+WORK ORDER 008
+
+Continue:
+
+docs/design_notes/operation_one_exodus_master_timeline.md
+
+Maintain all established canon.
+
+Use proper Markdown headings.
+
+Do not write code.
+
+Do not summarize.
+
+This document is the definitive chronological reference for Operation One: Exodus.
+
+# Day Four
+
+# Part Ten
+
+## Theme
+
+Confidence.
+
+Momentum.
+
+Purpose.
+
+The routines of Hearth continue.
+
+The player has stopped thinking about learning their job.
+
+The player now thinks about improving the lives of the people around them.
+
+The station feels increasingly alive.
+
+The smallest changes made by one department ripple naturally throughout every other department.
+
+---
+
+## 05:30
+
+### Night Shift
+
+CSV Hearth continues another peaceful cycle.
+
+Engineering reports stable overnight diagnostics.
+
+Maintenance completes scheduled preventative inspections.
+
+Medical records another quiet night.
+
+Security reports routine patrol activity.
+
+Research completes another observation cycle.
+
+The unexplained stellar anomaly appears again.
+
+Long enough to be noticed.
+
+Too short to be understood.
+
+Soren quietly creates a long-term comparison file.
+
+No alert is issued.
+
+---
+
+## 06:30
+
+### Morning Announcement
+
+Captain Elian of the Vale System begins another ordinary day.
+
+"This is Captain Elian of the Vale System.
+
+Good morning, everyone.
+
+Every generation leaves something behind.
+
+Sometimes it's a building.
+
+Sometimes it's an idea.
+
+Sometimes it's simply making today a little easier for someone else.
+
+Whatever you're building today...
+
+Thank you for building it together.
+
+Have a wonderful morning."
+
+Morning music begins.
+
+Artificial sunrise spreads through Hearth.
+
+The player immediately recognizes another normal morning.
+
+---
+
+## Morning Operations
+
+Maintenance begins reviewing community improvement requests submitted overnight.
+
+Most requests involve comfort rather than repair.
+
+Examples include:
+
+Reducing hallway echo.
+
+Adding tactile markers.
+
+Repairing classroom furniture.
+
+Improving observation deck seating.
+
+Making public gardens easier to navigate.
+
+The player begins realizing that Maintenance quietly shapes everyday life.
+
+---
+
+## Department Activity
+
+### Maintenance
+
+Rowan introduces long-term improvement planning.
+
+The player learns that good maintenance plans months ahead.
+
+Emergency repairs are considered failures of planning whenever possible.
+
+---
+
+### Engineering
+
+Mara begins resonance calibration across several public systems.
+
+She asks apprentices:
+
+"What does a healthy station sound like?"
+
+The lesson focuses on recognizing subtle change before equipment fails.
+
+---
+
+### Medical
+
+Samira begins preventative wellness visits.
+
+Medical increasingly leaves the clinic and enters the community.
+
+Crew members are encouraged to seek health before illness.
+
+---
+
+### Security
+
+Talia reviews emergency evacuation routes with Maintenance.
+
+Both departments quietly improve corridor accessibility together.
+
+Preparedness and accessibility become inseparable.
+
+---
+
+### Research
+
+Soren begins comparing several days of unexplained observations.
+
+Patterns begin appearing.
+
+No conclusions can yet be drawn.
+
+The observations remain filed under:
+
+"Continue Monitoring."
+
+---
+
+### Command
+
+Captain Elian visits every department before noon.
+
+Captain Gideon quietly requests another navigation review.
+
+Captain Naomi authorizes another emergency readiness inspection.
+
+Captain Iris hosts a planning session for the upcoming community festival.
+
+Nothing appears unusual.
+
+Everything feels well managed.
+
+---
+
+## Character Growth
+
+Captain Elian now greets the player as a trusted crew member.
+
+Rowan increasingly asks:
+
+"What do you think?"
+
+Instead of giving instructions.
+
+Mara allows the player to complete diagnostics independently.
+
+Samira requests Maintenance's opinion before redesigning rehabilitation spaces.
+
+Jonah asks the player whether upcoming maintenance projects will affect Cargo scheduling.
+
+Talia begins treating the player as another emergency professional.
+
+Soren asks if Maintenance has noticed unusual vibrations anywhere aboard Hearth.
+
+The player honestly has not.
+
+Mira proudly announces she wants to become:
+
+"Everything."
+
+Nobody laughs.
+
+---
+
+## Cross-Perspective Moments
+
+Engineering and Maintenance jointly diagnose a harmless resonance imbalance.
+
+Medical asks Engineering to redesign patient monitoring alarms.
+
+Security requests additional tactile emergency markers.
+
+Research borrows Engineering equipment for stellar analysis.
+
+Command quietly coordinates every department without drawing attention to itself.
+
+Civilian volunteers assist Maintenance with community beautification.
+
+Each campaign later reveals another layer of these interactions.
+
+---
+
+## Accessibility
+
+Accessibility continues evolving.
+
+Maintenance now receives accessibility suggestions from children.
+
+Several improvements originate from residents rather than departments.
+
+The station improves because everyone participates in its design.
+
+Accessibility belongs to the community.
+
+Not specialists.
+
+---
+
+## Soundscape
+
+The player now instinctively recognizes:
+
+Morning trams.
+
+Engineering calibration.
+
+Medical rehabilitation.
+
+Hydroponic harvest.
+
+Cargo arrivals.
+
+School classrooms.
+
+Maintenance workshops.
+
+Public cafés.
+
+The sounds of Hearth become emotional landmarks.
+
+---
+
+## Environmental Storytelling
+
+Construction quietly continues throughout the station.
+
+Fresh artwork appears.
+
+Gardens become greener.
+
+Public seating expands.
+
+Neighborhood bulletin boards announce upcoming events.
+
+Residents recognize the player in passing.
+
+Children wave.
+
+Engineers smile.
+
+Maintenance has become visible because life has become easier.
+
+---
+
+## Narrative Foreshadowing
+
+Four separate departments independently notice unrelated irregularities.
+
+Research detects another unexplained stellar fluctuation.
+
+Engineering records a resonance shift lasting less than two seconds.
+
+Navigation recalculates several distant objects.
+
+Security quietly confirms emergency equipment readiness.
+ Nobody believes these events are connected.
+
+The audience eventually will.
+
+---
+
+## Gameplay Philosophy
+
+Players now understand that expertise is quiet.
+
+The best maintenance work is invisible.
+
+The best engineering prevents emergencies.
+
+The best medical care prevents illness.
+
+The best security prevents panic.
+
+The best leadership prevents crisis.
+
+The player begins recognizing these shared philosophies across every department.
+
+---
+
+## Emotional Goal
+
+The player should now feel completely at home.
+
+The station has become predictable.
+
+Comfortable.
+
+Trustworthy.
+
+The player begins assuming this life will continue indefinitely.
+
+That assumption is essential.
+
+---
+
+## End State
+
+Day Four begins peacefully.
+
+The player continues building a future aboard CSV Hearth.
+
+The station has never felt more alive.
+
+The audience has never been closer to losing it.
+
+Day Four continues in Part Eleven.

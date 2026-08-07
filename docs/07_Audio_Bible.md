@@ -573,6 +573,15 @@ The Audio Bible is the definitive reference for every sound in the Resonance fra
 - Memory
 - Emotional storytelling
 
+## Audio technology and engine
+
+The audio engine question is resolved as a two-layer decision recorded in the Decision Log.
+
+- The web application uses the Web Audio API as its audio engine, including HRTF-based panning for spatial audio. It is the only audio technology with universal browser support, it requires no plugin or licence, and it provides the graph-based routing, per-source panning, and dynamic mixing this document requires.
+- All game code addresses audio through an internal audio abstraction layer (the Resonance audio interface) rather than calling the Web Audio API directly. The abstraction exposes the concepts this document defines — acoustic identity, perspective mixing, soundscape layers, spatial position, captions and non-audio equivalents — so that the sound design is engine-portable by construction.
+- Future native builds adopt FMOD Studio as audio middleware behind the same abstraction layer. FMOD is selected for its mature spatialiser, parameter-driven adaptive mixing that maps directly onto perspective audio, cross-platform mobile support, and an indie licence tier that costs nothing at this project's scale. Because gameplay code never touches the engine directly, the native transition changes the implementation of the abstraction, not the game.
+- Every sound authored under this Bible is catalogued with engine-neutral metadata (identity, category, spatial behaviour, caption text, non-audio equivalent), so the libraries in this document remain the source of truth regardless of engine.
+
 ## Relationship to other documents
 
 This document is the definitive reference for sound in the franchise, and it elaborates the canon rules that everything has an acoustic identity, that silence is a deliberate storytelling tool, and that sound is progression.

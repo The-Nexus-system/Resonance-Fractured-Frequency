@@ -1,0 +1,493 @@
+````text id="c4r8pw"
+WORK ORDER 004 — PART FOUR
+
+Continue:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_four.md
+
+Maintain all previously established canon.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Part Four
+
+## Homecoming
+
+### Purpose
+
+Complete the expedition gameplay loop.
+
+Teach that returning home is as important as leaving it.
+
+Demonstrate that discoveries only become meaningful when they are shared with the community.
+
+Every expedition should permanently change the station.
+
+Every expedition should permanently change the player.
+
+Every expedition should permanently change the crew.
+
+This becomes the standard ending structure for every major expedition throughout Resonance.
+
+---
+
+## Narrative Purpose
+
+The player docks with the station.
+
+The station immediately feels different from the silence of Hearth.
+
+People are living.
+
+Working.
+
+Laughing.
+
+Building.
+
+The contrast between Hearth and home should be emotionally obvious.
+
+The station is no longer simply where the player lives.
+
+It is where the player belongs.
+
+---
+
+## Gameplay Purpose
+
+Introduce:
+
+Mission debriefing.
+
+Salvage processing.
+
+Artifact cataloging.
+
+Knowledge Archive integration.
+
+Community reactions.
+
+Project unlocking.
+
+Expedition reflection.
+
+Station growth.
+
+Future mission planning.
+
+---
+
+## Arrival
+
+The player approaches the station.
+
+Automatic docking systems respond.
+
+Crew members continue their daily routines.
+
+Nobody stops working simply because the player returned.
+
+Instead...
+
+People naturally gather as recovered materials begin arriving.
+
+The player immediately understands that the expedition belongs to the whole community.
+
+---
+
+## Mission Debrief
+
+The player attends a community debrief.
+
+Every primary crew member responds according to their expertise.
+
+Rowan evaluates recovered equipment.
+
+Mara evaluates engineering systems.
+
+Samira evaluates medical discoveries.
+
+Jonah updates station inventories and future priorities.
+
+Talia evaluates risks introduced by recovered materials.
+
+Soren begins cataloging discoveries.
+
+Mira asks questions nobody else considered.
+
+The Vale System facilitates discussion.
+
+The player participates.
+
+The player does not simply watch.
+
+---
+
+## Player Decisions
+
+Every expedition ends with four major decisions.
+
+Every decision permanently affects station development.
+
+Nothing permanently locks the player out of content.
+
+Choices determine what develops first.
+
+Not what develops forever.
+
+--------------------------------------------------
+
+Decision One
+
+Recovered Equipment
+
+Choice A
+
+Install immediately.
+
+Immediate Result
+
+New gameplay systems become available immediately.
+
+Future Effect
+
+Resources are consumed.
+
+Later upgrades require additional salvage.
+
+--------------------------------------------------
+
+Choice B
+
+Study first.
+
+Immediate Result
+
+Knowledge Archive expands.
+
+Research opportunities increase.
+
+Future Effect
+
+Installation takes longer.
+
+Future upgrades become more efficient.
+
+--------------------------------------------------
+
+Choice C
+
+Store for future use.
+
+Immediate Result
+
+Emergency reserve grows.
+
+Future Effect
+
+Current progress slows.
+
+Future flexibility increases.
+
+--------------------------------------------------
+
+Decision Two
+
+Recovered Historical Material
+
+Choice A
+
+Archive immediately.
+
+Immediate Result
+
+Knowledge Archive expands.
+
+Additional conversations unlock.
+
+Future Effect
+
+Crew understanding grows.
+
+New diplomatic dialogue becomes available in later chapters.
+
+--------------------------------------------------
+
+Choice B
+
+Display throughout the station.
+
+Immediate Result
+
+Recovered artwork, photographs, educational materials and personal items appear throughout the station.
+
+Future Effect
+
+Crew morale improves.
+
+The station increasingly reflects Hearth's culture.
+
+Additional environmental storytelling develops.
+
+--------------------------------------------------
+
+Choice C
+
+Return personal items to surviving families if possible.
+
+Immediate Result
+
+Items remain unavailable.
+
+Future Effect
+
+Later survivors recognize recovered belongings.
+
+Relationships deepen.
+
+Future missions gain additional emotional significance.
+
+--------------------------------------------------
+
+Decision Three
+
+Recovered Resources
+
+Choice A
+
+Prioritize station expansion.
+
+Immediate Result
+
+Construction progresses rapidly.
+
+Future Effect
+
+Research and specialized equipment develop more slowly.
+
+--------------------------------------------------
+
+Choice B
+
+Prioritize research.
+
+Immediate Result
+
+Knowledge Archive expands.
+
+Future Effect
+
+Construction progresses more gradually.
+
+Additional discoveries become available sooner.
+
+--------------------------------------------------
+
+Choice C
+
+Prioritize community wellbeing.
+
+Immediate Result
+
+Living spaces improve.
+
+Accessibility improvements expand.
+
+Crew morale increases.
+
+Future Effect
+
+Large construction projects require additional expeditions.
+
+--------------------------------------------------
+
+Decision Four
+
+Next Expedition Priority
+
+The player recommends what should receive attention next.
+
+Engineering.
+
+Medical.
+
+History.
+
+Infrastructure.
+
+Unknown Signals.
+
+The recommendation influences planning discussions at the beginning of the next expedition.
+
+The player never becomes locked into one path.
+
+The recommendation simply determines what the community prepares first.
+
+---
+
+## Community Changes
+
+The station should visibly and audibly change after every expedition.
+
+Examples include:
+
+Recovered artwork hanging on walls.
+
+Plants transplanted from Hearth.
+
+Recovered books appearing in common areas.
+
+Engineering equipment installed.
+
+Medical devices activated.
+
+Recovered music occasionally playing.
+
+Children's educational materials displayed.
+
+Crew members discussing discoveries while working.
+
+Every expedition leaves permanent evidence throughout the station.
+
+---
+
+## Knowledge Archive
+
+Every expedition updates the Knowledge Archive.
+
+Entries include:
+
+Recovered history.
+
+Recovered engineering knowledge.
+
+Recovered medical practices.
+
+Recovered accessibility innovations.
+
+Recovered cultural traditions.
+
+Recovered personal stories.
+
+Recovered scientific observations.
+
+The player should immediately understand that preserving knowledge is just as valuable as recovering technology.
+
+---
+
+## Crew Conversations
+
+Following every expedition, every primary crew member gains new optional conversations.
+
+These conversations should reflect:
+
+What was discovered.
+
+How it changes their work.
+
+How it changes their understanding of Hearth.
+
+How it changes future plans.
+
+The player is encouraged to spend time talking with the community before beginning another expedition.
+
+---
+
+## Accessibility
+
+Every recovered accessibility innovation should become available to the player once it has been researched and installed.
+
+Examples include:
+
+Improved tactile navigation.
+
+Expanded braille support.
+
+Additional environmental beacon options.
+
+Improved AAC interfaces.
+
+Enhanced wearable haptic support.
+
+Adaptive workstation improvements.
+
+Accessibility evolves alongside civilization.
+
+It is never treated as optional content.
+
+---
+
+## Emotional Goal
+
+The player should feel relief upon returning home.
+
+The station should become emotionally safer after every expedition.
+
+Players should look forward to coming home just as much as leaving.
+
+---
+
+## Chapter Climax
+
+As the community finishes cataloging the expedition...
+
+Soren notices an anomaly.
+
+The recovered data does not match known records.
+
+Several engineering logs reference locations that should not exist.
+
+Historical timestamps contain impossible inconsistencies.
+
+The strange signal detected at the end of Chapter Three appears again.
+
+This time...
+
+It responds to something recovered during the expedition.
+
+Not to the station.
+
+Not to the player.
+
+To something brought home.
+
+The room falls silent.
+
+Nobody understands why.
+
+---
+
+## Chapter End State
+
+The expedition loop has been fully taught.
+
+The player understands:
+
+How to prepare.
+
+How to explore.
+
+How to recover discoveries.
+
+How to return home.
+
+How discoveries permanently change the station.
+
+How community transforms exploration into progress.
+
+The station is larger.
+
+The crew is wiser.
+
+The Knowledge Archive has expanded.
+
+The mystery has deepened.
+
+Chapter Four ends with one final question:
+
+What was Hearth carrying that someone still wants?
+````

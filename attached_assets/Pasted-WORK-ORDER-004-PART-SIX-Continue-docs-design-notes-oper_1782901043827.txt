@@ -1,0 +1,373 @@
+WORK ORDER 004 — PART SIX
+
+Continue:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_four.md
+
+Maintain all previously established canon.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Part Six
+
+## Expedition Consequences
+
+### Purpose
+
+Complete the player's decision framework for exploration.
+
+Every major expedition should conclude with meaningful decisions.
+
+Every decision changes future gameplay.
+
+No decision permanently removes content.
+
+Different choices create different histories.
+
+---
+
+## Decision Four
+
+Salvage Capacity
+
+The player's inventory is nearly full.
+
+Not everything can be recovered.
+
+The player must decide what leaves Hearth first.
+
+---
+
+Choice A
+
+Prioritize People
+
+Examples
+
+Medical records.
+
+Personal journals.
+
+AAC devices.
+
+Family photographs.
+
+Recorded messages.
+
+Adaptive equipment.
+
+Immediate Result
+
+Less technology recovered.
+
+Future Effect
+
+Crew relationships deepen.
+
+Knowledge Archive expands.
+
+Historical understanding improves.
+
+Future dialogue becomes richer.
+
+---
+
+Choice B
+
+Prioritize Technology
+
+Examples
+
+Fabricators.
+
+Medical devices.
+
+Power systems.
+
+Engineering equipment.
+
+Scientific instruments.
+
+Immediate Result
+
+Station capabilities expand rapidly.
+
+Future Effect
+
+Community conversations about Hearth develop more slowly.
+
+Some personal stories remain undiscovered until later expeditions.
+
+---
+
+Choice C
+
+Prioritize Knowledge
+
+Examples
+
+Research databases.
+
+Educational materials.
+
+Historical archives.
+
+Navigation records.
+
+Scientific observations.
+
+Immediate Result
+
+Knowledge Archive grows substantially.
+
+Future Effect
+
+Research and diplomacy progress sooner.
+
+Construction progresses more gradually.
+
+---
+
+Choice D
+
+Balanced Recovery
+
+Recover smaller amounts from every category.
+
+Immediate Result
+
+Steady progress across every gameplay system.
+
+Future Effect
+
+No single system advances rapidly.
+
+Future expeditions remain highly flexible.
+
+---
+
+## Decision Five
+
+Unexpected Survivor Signal
+
+A weak emergency beacon briefly activates.
+
+Its source cannot be confirmed.
+
+Continuing toward it risks delaying the expedition.
+
+---
+
+Choice A
+
+Investigate immediately.
+
+Immediate Result
+
+Additional exploration.
+
+Possible rescue.
+
+Future Effect
+
+The expedition becomes longer.
+
+Additional resources are consumed.
+
+Optional future storyline begins.
+
+---
+
+Choice B
+
+Mark the location.
+
+Immediate Result
+
+Precise coordinates recorded.
+
+Future Effect
+
+Dedicated rescue mission becomes available later.
+
+Current expedition remains on schedule.
+
+---
+
+Choice C
+
+Ignore for now.
+
+Immediate Result
+
+Mission continues uninterrupted.
+
+Future Effect
+
+The signal becomes an ongoing discussion aboard the station.
+
+Its fate remains unknown until another opportunity arises.
+
+---
+
+## Decision Six
+
+Damaged Area
+
+A damaged section blocks further exploration.
+
+---
+
+Choice A
+
+Repair immediately.
+
+Immediate Result
+
+Current expedition continues.
+
+Resources consumed.
+
+Future Effect
+
+Area permanently accessible.
+
+Later expeditions become easier.
+
+---
+
+Choice B
+
+Find another route.
+
+Immediate Result
+
+Exploration continues.
+
+Additional time required.
+
+Future Effect
+
+Alternative passages become permanently mapped.
+
+Hidden discoveries become available.
+
+---
+
+Choice C
+
+Return later with better equipment.
+
+Immediate Result
+
+Current expedition ends sooner.
+
+Future Effect
+
+Future engineering upgrades unlock additional exploration opportunities.
+
+---
+
+## Decision Seven
+
+Mission Completion
+
+The player has completed the primary objective.
+
+Several optional discoveries remain.
+
+---
+
+Choice A
+
+Leave immediately.
+
+Immediate Result
+
+Safe return.
+
+Earlier station development.
+
+Future Effect
+
+Remaining discoveries await later expeditions.
+
+Crew praises disciplined decision making.
+
+---
+
+Choice B
+
+Remain until supplies reach minimum safety limits.
+
+Immediate Result
+
+Additional discoveries.
+
+Additional risk.
+
+Future Effect
+
+Greater rewards.
+
+More maintenance required after returning.
+
+---
+
+Choice C
+
+Continue until every accessible area has been searched.
+
+Immediate Result
+
+Maximum exploration.
+
+Highest resource expenditure.
+
+Future Effect
+
+Future expeditions to this area become shorter.
+
+Crew fatigue increases.
+
+Additional recovery time required before the next expedition.
+
+---
+
+## Canon Rule
+
+Every expedition should conclude with the player believing they could have discovered even more.
+
+Completion should inspire curiosity.
+
+Not exhaustion.
+
+Players should feel excited to return.
+
+Not relieved to leave.
+
+---
+
+## Chapter Four Completion
+
+The player now fully understands the expedition gameplay loop.
+
+Preparation.
+
+Planning.
+
+Exploration.
+
+Decision making.
+
+Recovery.
+
+Reflection.
+
+Community growth.
+
+These systems become the foundation for every exploration chapter that follows throughout Resonance.

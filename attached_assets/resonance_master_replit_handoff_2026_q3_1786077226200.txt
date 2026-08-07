@@ -1,0 +1,254 @@
+# Resonance: Fractured Frequency — Master Pending Replit Handoff
+
+This document is a staging package for Resonance changes designed in conversation that may not yet be present in the repository. Replit should compare this file against current canon, merge only missing material into the correct source-of-truth documents, avoid duplication, update the Decision Log, then pivot to beta readiness.
+
+## Package A — Communities of Expertise and Learning Circuits
+
+- Permanent stations, colonies, ships, and settlements gradually become known for particular areas of excellence based on history, professions, environment, and lived experience.
+- No community is best at everything. Knowledge is intentionally distributed across civilization.
+- Every Community Teaches Humanity: education is incomplete if experienced from only one perspective.
+- Learning Circuits replace the idea of one elite university. Students rotate through multiple communities with different specialties before completing apprenticeship.
+- Station Educational Ecologies differ in how they teach, not only what they teach.
+- Mobility engineering communities may teach through prosthetics, adaptive movement, EVA mobility, exoskeletons, chair-equivalent systems, universal design, and accessible architecture.
+- Vision-sciences communities may emphasize nonvisual navigation, tactile mapping, sonification, spatial audio, orientation, and blind astronomy.
+- Deaf-communication communities may emphasize sign languages, visual and tactile communication, captioning, multimodal systems, and silent emergency systems.
+- Medical-anthropology communities may combine medicine with culture, ethics, disability history, community healing, field medicine, and rescue traditions.
+- Knowledge Exchange is normal. Apprentices, mentors, clinicians, engineers, artists, researchers, and educators travel between communities and carry ideas home.
+- Canon rule: Every Person Arrives With Knowledge. Apprentices learn from mentors; mentors learn from apprentices; former patients may become clinicians; former refugees may become rescuers; former students may become teachers.
+- Specialized communities arise through expertise and choice. Forced segregation belongs to authoritarian systems, not cooperative space civilization.
+
+## Package B — Station Legacy Atlas
+
+Every major station, colony, ship, or world should have three defining historical events rather than one:
+
+- Original Purpose.
+- Founding Event: what created or established the community.
+- Breaking Event: what nearly destroyed, discredited, or fundamentally tested it.
+- Transforming Event: the event after which the community consciously chose what it wanted to become.
+- Community Response.
+- New Identity.
+- Modern Reputation.
+- Signature Traditions.
+- Accessibility Legacy.
+- Educational Philosophy.
+- Contributions to Humanity.
+
+Examples to develop later without locking names prematurely:
+
+- A trauma-medicine station may become renowned after a catastrophic decompression or mass-casualty event exposed failures in coordination, training, and survival medicine. The community rebuilds around the promise that the same failure will never happen again. Students learn the names and stories of those lost, making trauma medicine partly an act of remembrance.
+- A mobility-engineering station may originate as an industrial or reactor facility where an accident leaves many residents with permanent mobility disabilities. Rather than evacuating them, the community redesigns the station, eventually becoming a center for prosthetics, mobility systems, EVA adaptation, and universal design.
+- A blind-navigation or vision-sciences station may become famous because blind navigators and researchers develop safer nonvisual navigation methods that outperform conventional visual-only assumptions in debris fields, low-visibility emergencies, or complex environments.
+
+## Package C — Living Libraries and Human Knowledge Network
+
+- Living Libraries are people who spend long periods traveling among communities, learning and teaching across disciplines and cultures.
+- They are respected because they connect knowledge rather than because they claim to know everything.
+- Their value is partly knowing who has the right expertise and how to connect communities.
+- A lifelong learner who completes extensive rotations across many stations may become a Circuit Scholar, Living Library, Knowledge Steward, or similar recognized social role. Final canonical term should be creator-approved.
+- When a Living Library chooses to settle, that event can be culturally significant because the community gains a resident with decades of cross-civilizational memory and relationships.
+- Knowledge Stewards preserve, verify, teach, and transmit essential knowledge.
+
+Canon rule: Knowledge Is a Common Inheritance.
+
+- Human civilization recognizes knowledge as a shared inheritance rather than private property.
+- People may receive credit and recognition for discovery, creativity, scholarship, and craft.
+- Intentionally withholding knowledge that could materially improve public safety, accessibility, medicine, education, or civilization is a profound civic breach.
+- Essential knowledge gains value by being shared.
+
+Canon rule: Reputation Is Earned Through Contribution.
+
+- Status is measured less by possession than by contribution.
+- Those who preserve, teach, mentor, repair, rescue, and share are widely respected.
+- Those who exploit dependency or deliberately restrict essential knowledge lose professional trust and influence.
+- Society generally responds to knowledge hoarding through loss of trust, access, apprentices, collaboration, and professional standing rather than automatic imprisonment.
+
+## Package D — Human Worth, Learning, and Capacity
+
+Canon rule: Human Worth Is Not Measured by Capacity.
+
+- Dignity does not depend on productivity, intelligence, memory, speed of learning, physical ability, or economic contribution.
+- These may change across a lifetime. Human worth does not.
+
+Canon rule: Knowledge Exists in Many Forms.
+
+Recognized forms include scientific understanding, technical skill, emotional intelligence, cultural memory, practical experience, artistic expression, caregiving, pattern recognition, navigation, observation, storytelling, community leadership, craftsmanship, and survival knowledge.
+
+- People who lose professional knowledge through accident, illness, injury, or cognitive change remain full members of society.
+- A former engineer may become a mentor, storyteller, patient advocate, historian, cultural steward, caregiver, parent, rescuer, or may retrain in something entirely new.
+- Bias still exists, but cooperative space culture treats simplistic ability hierarchies as remnants of older Earth systems.
+- Core cultural saying candidate: Every human teaches. Every human learns.
+
+## Package E — Family Development and Different Abilities
+
+Canon rule: Children Do Not Belong to a Single World.
+
+- Every child has their own body, mind, senses, communication style, strengths, and challenges.
+- Families are expected to grow alongside the child.
+- The child is not expected to erase themselves to preserve family tradition.
+
+Canon rule: Families Learn the Child.
+
+- A Deaf family with a hearing child supports both sign and spoken-language access as appropriate.
+- A blind family with a sighted child teaches tactile and audio skills while also supporting visual development.
+- Hearing parents of a Deaf child are expected to learn the child’s communication language and connect with Deaf community mentors.
+- Mobility-disabled parents with a walking child support both family accessibility culture and the child’s available physical development.
+
+Family Circles may include other families with similar experiences, pediatric clinicians, educators, cultural stewards, disability mentors, elders, and community supports.
+
+Canon rule: Belonging Shapes Development.
+
+- Children imitate the people they love.
+- A sighted child of blind parents may close their eyes or prefer nonvisual navigation because of belonging, identity, play, sensory preference, or family modeling.
+- A walking child of wheelchair-using parents may prefer a chair or refuse to walk for similar reasons.
+- Families, educators, and clinicians first ask what the behavior means rather than assuming defiance.
+
+Canon rule: Capability Precedes Choice.
+
+- Children are encouraged to develop every ability reasonably available to them so later choices are meaningful.
+- The purpose is not to dictate how they must live. The purpose is to preserve future options.
+- By the age at which a person has legal decision-making authority for a given choice, informed preference receives increasing weight.
+
+## Package F — Bodily Autonomy and Modification
+
+- Human civilization protects extensive bodily autonomy.
+- It distinguishes reversible, long-term, and irreversible body modifications.
+- The more permanent the change, the more robust informed-consent and counseling processes become.
+- Civilization does not treat intentionally damaging a healthy spinal cord or comparable irreversible injury as a routine method of identity expression.
+- People who identify strongly with wheelchair or mobility-device use may choose reversible or non-destructive systems that suppress, bypass, or replace walking without intentionally injuring the body.
+- Medical ethics actively debate enhancement, disability, identity, informed consent, clinician refusal, and long-term consequences.
+
+## Package G — Professional and Operational Neutrality
+
+Canon rule: Professional Neutrality.
+
+- Clinicians, therapists, engineers, and other professionals may challenge a person’s thinking, explain evidence, describe long-term consequences, and present alternatives.
+- Their role is informed decision support, not choosing a person’s values for them.
+
+Canon rule: Operational Neutrality.
+
+- A supervisor cannot restrict lawful accessibility technology or body modifications merely because they personally dislike them.
+- Restrictions must be based on demonstrable safety, mission performance, or technical necessity.
+- Example: a neural interface may be restricted in a reactor space if measurable interference creates risk, but not simply because the supervisor opposes neural interfaces.
+
+Canon rule: Difference Is Not Misconduct.
+
+- Lawful accessibility tools, communication methods, assistive technology, body modifications, or identity may not be restricted solely because another person disagrees with them.
+- Professional disagreements are resolved through evidence, ethics, and safety.
+
+Canon rule: Liberty Requires Responsibility.
+
+- Human civilization protects broad personal freedom.
+- People are expected to understand consequences of their choices, respect equal freedoms of others, and contribute to community wellbeing according to their abilities.
+
+## Package H — Medical Harm Reduction for Chosen Nonuse
+
+- If a person who can physically walk chooses not to walk, clinicians do not punish or shame them.
+- Medicine shifts toward harm reduction and monitors consequences such as muscle mass, bone density, circulation, skin integrity, joint health, and cardiovascular fitness.
+- Clinicians explain risks and offer ways to reduce them.
+- A person with decision-making capacity may accept or decline recommendations unless immediate substantial risk to others triggers established emergency rules.
+
+## Package I — Gray-Market and Black-Market Assistive Technology
+
+- If a patient arrives with an unlicensed neural interface, exoskeleton, mobility system, sensory augmentation, or similar device, immediate medical safety comes first.
+- Clinicians stabilize the person, evaluate the device, explain risks, and preserve access to care.
+- Patients are not treated as enemies merely because they obtained technology outside official channels.
+- Illegal manufacturers, traffickers, coercive sellers, or dangerous supply networks may be investigated under law without making medical care contingent on punishment.
+
+## Package J — Community Endowments and Local Priorities
+
+- Fundamental services and rights remain guaranteed across cooperative human space.
+- Individual communities may choose additional priorities based on history and values.
+- These traditions become Community Endowments and sources of local identity.
+- Examples include pediatric rehabilitation, advanced prosthetics and mobility equipment, trauma response, refugee and exile rescue, elder care, mental health, cultural preservation, public art, apprenticeship scholarships, habitat maintenance, and food security.
+- Wealthier families and citizens are culturally encouraged to contribute to shared endowments, but exact legal obligations may vary by station and governance model.
+- Different stations may be famous for who or what they prioritize. Local differences are legitimate as long as baseline rights are not denied.
+
+## Package K — Cultural Genealogy
+
+Canon rule: Cultures Remember.
+
+- Human civilization does not abandon cultural heritage when expanding into space.
+- Ideas, traditions, ceremonies, philosophies, technologies, stories, and ways of caring continue evolving across generations.
+- Space culture is Earth’s history continued.
+- Every enduring human tradition should have a traceable cultural lineage where practical.
+- A lineage may include many communities. Over time influences become something new while honoring where they came from.
+
+For major human traditions document:
+
+- Where did this begin?
+- Which communities contributed?
+- How did it change in space?
+- Why did it survive?
+- What does it look like now?
+
+- Real-world cultural influences should be documented as lineage rather than used as one-to-one templates.
+- Do not use African, Indian, Muslim, Indigenous, or any other real human culture as a stand-in for Shawabti or any fictional species.
+
+## Package L — Human Divergence, Exile, Rescue, and Apprenticeship
+
+- Fictional Resonance history establishes that most Earth governments move toward authoritarianism, surveillance, exclusion, hierarchy, privatization, greed-driven policy, and conformity framed as public safety.
+- This describes institutions and governments, not every person on Earth.
+- Decentralized underground networks of doctors, nurses, teachers, engineers, pilots, maintenance workers, farmers, clergy, scientists, accessibility advocates, families, and local communities help people survive or leave.
+- Some governments replace portions of prison, long-term care, psychiatric confinement, political detention, or social removal systems with lunar or off-world exile facilities.
+- Some people sent there are prisoners; others may be dissidents, disabled, visibly different, poor, elderly, sick, or otherwise unwanted by authoritarian systems.
+- Retrieval Networks and Second Chance Fleets monitor known routes and facilities, recover survivors, deliver supplies, teach survival, reconnect families, document abuses, and offer asylum.
+- Many former exiles and rescued people later become rescuers.
+- Chain of Rescue: receiving help creates no debt to the rescuer; people are encouraged to extend care onward when they can.
+- The First Hand: a newcomer’s mentor helps them build a life, not merely learn a profession.
+- Standard newcomer apprenticeship is four years and includes technical skill, survival, shipboard culture, emergency response, language differences, space cultural norms, accessibility standards, mental health resources, mutual aid, and local traditions.
+
+## Package M — Beta Readiness Pivot
+
+The current project should now pivot from broad lore expansion to beta readiness for the existing playable web prototype.
+
+Beta target should be one complete playable slice, not the entire game.
+
+A tester should be able to launch the game, complete first-run accessibility setup, begin Operation One, understand where they are, navigate without requiring sight, identify relevant characters and interactables, complete at least one meaningful objective, receive clear success/failure feedback, reach a checkpoint, recover from mistakes, and exit/resume safely where supported.
+
+### Chunk One — Build Health
+
+- Confirm install, startup, typecheck, build, and automated tests.
+- Fix broken routes, runtime errors, missing assets, dead startup paths, and critical environment problems.
+
+### Chunk Two — Core Playable Loop
+
+- Ensure the selected beta slice can be completed without developer knowledge.
+- Remove traps, dead ends, unclear objectives, and unrecoverable states.
+
+### Chunk Three — Accessibility Gate
+
+Verify keyboard-only play, screen-reader labeling, focus order, audio-first pathways, braille-compatible text structure, captions/text alternatives, non-audio alternatives where audio conveys required information, and that no required information depends only on vision, color, hearing, timing, or pointer precision.
+
+### Chunk Four — Audio and Navigation Gate
+
+Verify orientation cues, interactable cues, environmental identity, character-recognition cues, danger/emergency cues, volume/mix behavior, and accessible alternatives for required audio information.
+
+### Chunk Five — Beta UX
+
+Add or verify first-run instructions, accessibility setup before gameplay, pause/help, restart/recovery, save/resume where supported, bug-report path, version/build identifier, and clear action success/failure feedback.
+
+### Chunk Six — Performance and Resilience
+
+Check load time, memory behavior, audio asset loading, slow-network behavior, reload/reconnect recovery, and degraded-device behavior.
+
+Beta release gate:
+
+- Typecheck/build/tests pass.
+- No known blocker prevents completion of the selected beta slice.
+- No known accessibility blocker makes the slice impossible through a supported nonvisual pathway.
+- Critical crashes and data-loss bugs are resolved.
+- Tester onboarding and feedback paths work.
+- Known issues are documented.
+
+## Instructions for Replit
+
+1. Read this entire handoff file.
+2. Compare every package against current repository contents.
+3. Do not duplicate material already merged.
+4. Merge missing canon into the appropriate existing canonical documents.
+5. Update the Decision Log after each logical canon package.
+6. Keep the Human Cultural Atlas, Human Civilization Bible, Canon Rules, Universe/Civilizations material, Accessibility Bible, and relevant design notes synchronized.
+7. After canon synchronization, stop broad lore work and begin the Beta Readiness Pivot in priority chunks.
+8. Finish and test one beta chunk before starting the next.
+9. After each chunk report: changed areas, tests run, passes, failures, remaining blockers, and whether it is safe to continue.
+10. Push changes through the normal GitHub workflow when available.

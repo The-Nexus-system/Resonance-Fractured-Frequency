@@ -1,0 +1,446 @@
+WORK ORDER 007 — PART THREE
+
+Continue:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_seven.md
+
+Maintain all previously established canon.
+
+Use proper Markdown headings.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Part Three
+
+## The Choice of Civilizations
+
+### Purpose
+
+This is the emotional and philosophical climax of Operation One.
+
+The player discovers that the Shawabti never intended humanity to become them.
+
+The Shawabti hoped humanity would become the best version of itself.
+
+The player learns that inheritance is not imitation.
+
+It is responsibility.
+
+---
+
+### Narrative Purpose
+
+Beyond the gateway lies another perfectly preserved Shawabti structure.
+
+Unlike every previous structure...
+
+This one contains no artifacts.
+
+No technology.
+
+No historical records.
+
+Only one circular chamber.
+
+The chamber was never intended to preserve the Shawabti.
+
+It was built to welcome whoever arrived after them.
+
+The room has been waiting.
+
+Not for a specific species.
+
+For a civilization capable of reaching it together.
+
+---
+
+### Gameplay Purpose
+
+The player demonstrates mastery of every system introduced throughout Operation One.
+
+Engineering.
+
+Leadership.
+
+Medicine.
+
+Research.
+
+Accessibility.
+
+Resonance.
+
+Knowledge.
+
+Community.
+
+The challenge has no single solution.
+
+The player succeeds by combining everything learned throughout the campaign.
+
+---
+
+### Chamber Philosophy
+
+The chamber never asks:
+
+Who are you?
+
+Instead it asks:
+
+Who have you become?
+
+The chamber evaluates civilization.
+
+Not individuals.
+
+---
+
+## Player Decisions
+
+Decision One
+
+The chamber requests the community's first declaration.
+
+"What should knowledge become?"
+
+---
+
+Choice A
+
+Knowledge should be shared freely.
+
+Immediate Result
+
+The chamber resonates warmly.
+
+Future Effect
+
+Knowledge Archive collaboration expands.
+
+Future civilizations become more cooperative.
+
+Additional diplomatic options unlock throughout future campaigns.
+
+---
+
+Choice B
+
+Knowledge should be carefully protected.
+
+Immediate Result
+
+The chamber accepts the answer.
+
+Future Effect
+
+Security systems expand.
+
+Historical preservation becomes more deliberate.
+
+Future research progresses more cautiously.
+
+---
+
+Choice C
+
+Knowledge should be earned through understanding.
+
+Immediate Result
+
+The chamber responds with additional Resonance pathways.
+
+Future Effect
+
+Exploration becomes deeper.
+
+Future Archive puzzles become richer.
+
+Knowledge develops through participation.
+
+---
+
+Choice D
+
+The community should decide together.
+
+Immediate Result
+
+The player invites every primary crew member to answer.
+
+Each gives a different perspective.
+
+The player records them all.
+
+Future Effect
+
+Collaborative governance becomes a defining principle of the station.
+
+Additional leadership systems unlock throughout future operations.
+
+---
+
+## Decision Two
+
+The chamber presents a second question.
+
+"What should power become?"
+
+---
+
+Choice A
+
+Power should protect.
+
+Immediate Result
+
+Additional defensive philosophies unlock.
+
+Future Effect
+
+Future diplomacy emphasizes safety.
+
+Security remains community-focused.
+
+---
+
+Choice B
+
+Power should teach.
+
+Immediate Result
+
+Educational systems expand.
+
+Future Effect
+
+Knowledge sharing increases.
+
+Future settlements become learning communities.
+
+---
+
+Choice C
+
+Power should heal.
+
+Immediate Result
+
+Healthcare and accessibility become central priorities.
+
+Future Effect
+
+Rehabilitation systems expand.
+
+Medical technologies develop more rapidly.
+
+---
+
+Choice D
+
+Power should serve everyone equally.
+
+Immediate Result
+
+The chamber harmonizes.
+
+Future Effect
+
+Future community systems balance every discipline.
+
+Accessibility continues developing alongside every major gameplay system.
+
+---
+
+## Decision Three
+
+The final question appears.
+
+"What should civilization remember?"
+
+---
+
+Choice A
+
+Its victories.
+
+Immediate Result
+
+Historical achievements become central.
+
+Future Effect
+
+Communities celebrate progress.
+
+Historical confidence increases.
+
+---
+ Choice B
+
+Its failures.
+
+Immediate Result
+
+Historical mistakes become preserved.
+
+Future Effect
+
+Future civilizations gain additional opportunities to avoid repeating them.
+
+Archive discussions deepen.
+
+---
+
+Choice C
+
+Its people.
+
+Immediate Result
+
+Personal histories become central.
+
+Future Effect
+
+Relationships strengthen.
+
+Future expeditions emphasize preservation of communities.
+
+---
+
+Choice D
+
+Everything.
+
+Immediate Result
+
+The Living Archive expands to preserve knowledge, mistakes, discoveries, relationships, accessibility innovations, engineering, medicine, culture and hope together.
+
+Future Effect
+
+The player's station becomes the first Human Living Archive.
+
+---
+
+### Canon Rule
+
+No answer is considered correct.
+
+The Shawabti never judge the player's philosophy.
+
+They simply preserve it.
+
+Operation One does not determine humanity's destiny.
+
+It begins humanity's conversation with itself.
+
+---
+
+### Advisor Contributions
+
+Every advisor responds personally.
+
+Rowan believes civilizations are remembered through what they build.
+
+Mara believes civilizations are remembered through how they communicate.
+
+Samira believes civilizations are remembered through how they care for one another.
+
+Jonah believes civilizations are remembered through organization and cooperation.
+
+Talia believes civilizations are remembered through the people they protect.
+
+Soren believes civilizations are remembered through curiosity.
+
+Mira believes civilizations are remembered through the questions children continue asking.
+
+The Vale System believes civilizations are remembered through every voice being heard.
+
+The player is encouraged to compare every philosophy before answering.
+
+---
+
+### Gameplay Systems
+
+Integrated leadership.
+
+Civilizational philosophy.
+
+Long-term governance.
+
+Collaborative decision making.
+
+Resonance evaluation.
+
+Legacy creation.
+
+The player now understands why every previous chapter taught community before power.
+
+---
+
+### Accessibility
+
+Every philosophical discussion supports:
+
+Speech.
+
+Captions.
+
+Braille.
+
+Environmental narration.
+
+Replay.
+
+Conversation summaries.
+
+Individual crew responses.
+
+Concept comparison.
+
+No player should lose access to these conversations because of pacing or memory.
+
+---
+
+### Emotional Goal
+
+The player should understand that the Shawabti never intended to leave behind an empire.
+
+They intended to leave behind a question.
+
+Every civilization must answer it for itself.
+
+---
+
+### End Condition
+
+After the player records the community's answers...
+
+The chamber slowly resonates one final time.
+
+Every Shawabti structure discovered throughout Operation One responds simultaneously.
+
+The Living Archive quietly stores humanity's first entry.
+
+Not as students.
+
+Not as successors.
+
+As equals beginning their own chapter.
+
+The chamber opens one final doorway.
+
+Beyond it...
+
+Not another ruin.
+
+An untouched frontier.
+
+Operation One has ended.
+
+Humanity's future has just begun.
+
+Part Four begins.

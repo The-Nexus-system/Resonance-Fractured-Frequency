@@ -1,0 +1,477 @@
+````text id="n7f4lz"
+WORK ORDER 004 — PART THREE
+
+Continue:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_four.md
+
+Maintain all previously established canon.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Part Three
+
+## First Expedition
+
+### Purpose
+
+Teach the player how exploration functions throughout Resonance.
+
+Teach that exploration is not about collecting resources.
+
+Teach that every location tells a story.
+
+Teach that preparation affects the player's experience without preventing success.
+
+This establishes the core exploration gameplay loop used throughout the remainder of the campaign.
+
+---
+
+### Narrative Purpose
+
+The player arrives at the outer edge of Hearth's debris field.
+
+The navigation systems automatically identify several possible expedition sites.
+
+These sites are not randomly generated.
+
+Each location existed before the destruction of Hearth.
+
+Each location has history.
+
+Each location has purpose.
+
+The player decides where to begin.
+
+Every location eventually becomes explorable.
+
+The player's decision determines which story is experienced first.
+
+---
+
+### Gameplay Purpose
+
+Introduce:
+
+Zone selection.
+
+Environmental storytelling.
+
+Mapping.
+
+Exploration logs.
+
+Mission recording.
+
+Recoverable history.
+
+Recoverable technology.
+
+Recoverable culture.
+
+Recoverable accessibility technology.
+
+---
+
+### Exploration Philosophy
+
+Every location should answer one question.
+
+Every location should create additional questions.
+
+Every location should provide:
+
+Something useful.
+
+Something emotional.
+
+Something historical.
+
+Something mysterious.
+
+Resources alone are never sufficient rewards.
+
+---
+
+## Expedition Choice One
+
+### Engineering Deck
+
+Primary Question
+
+How did Hearth keep millions of people alive?
+
+Primary Crew
+
+Rowan.
+
+Mara.
+
+Player.
+
+Player Learns
+
+Large engineering systems function because many small systems work together.
+
+Gameplay Introduced
+
+Power restoration.
+
+Equipment recovery.
+
+Engineering mapping.
+
+Structural diagnostics.
+
+Immediate Rewards
+
+Fabrication equipment.
+
+Engineering components.
+
+Maintenance records.
+
+Future Benefits
+
+Earlier engineering upgrades.
+
+Improved station construction.
+
+Additional engineering conversations.
+
+Future Chapters
+
+Engineering discoveries influence future construction options.
+
+---
+
+## Expedition Choice Two
+
+### Medical Complex
+
+Primary Question
+
+How did Hearth care for its people?
+
+Primary Crew
+
+Samira.
+
+Player.
+
+Player Learns
+
+Medicine extends beyond emergencies.
+
+Gameplay Introduced
+
+Medical archives.
+
+Hospital exploration.
+
+Patient record recovery.
+
+Medical logistics.
+
+Immediate Rewards
+
+Medical supplies.
+
+Medical equipment.
+
+Healthcare archives.
+
+Future Benefits
+
+Improved rehabilitation.
+
+Expanded preventative medicine.
+
+Additional medical accessibility technology.
+
+Future Chapters
+
+Medical discoveries improve long-term crew wellbeing.
+
+---
+
+## Expedition Choice Three
+
+### Educational District
+
+Primary Question
+
+What kind of civilization were people trying to build?
+
+Primary Crew
+
+Mira.
+
+Soren.
+
+Player.
+
+Player Learns
+
+Knowledge survives disaster.
+
+Gameplay Introduced
+
+Educational archives.
+
+Historical reconstruction.
+
+Civilian exploration.
+
+Memory preservation.
+
+Immediate Rewards
+
+Books.
+
+School projects.
+
+Recorded lessons.
+
+Children's artwork.
+
+Community history.
+
+Future Benefits
+
+Knowledge Archive expands dramatically.
+
+Additional cultural conversations.
+
+Greater understanding of Hearth.
+
+Future Chapters
+
+Recovered educational materials unlock optional learning opportunities throughout the campaign.
+
+---
+
+## Expedition Choice Four
+
+### Habitat Ring
+
+Primary Question
+
+Who lived here?
+
+Primary Crew
+
+The Vale System.
+
+Player.
+
+Player Learns
+
+Civilizations are remembered through ordinary life.
+
+Gameplay Introduced
+
+Residential exploration.
+
+Personal belongings.
+
+Family archives.
+
+Environmental storytelling.
+
+Immediate Rewards
+
+Personal journals.
+
+Family photographs.
+
+Voice recordings.
+
+Community records.
+
+Future Benefits
+
+Crew relationships deepen.
+
+Additional optional conversations.
+
+Greater emotional connection to Hearth.
+
+Future Chapters
+
+Recovered memories influence later diplomatic and ethical discussions.
+
+---
+
+### Canon Rule
+
+Every expedition zone eventually becomes required.
+
+The player chooses exploration order.
+
+Not exploration completion.
+
+Different playthroughs emphasize different discoveries first.
+
+Canon remains unchanged.
+
+---
+
+### Exploration Gameplay
+
+Every location contains multiple categories of discoveries.
+
+Recoverable technology.
+
+Recoverable history.
+
+Recoverable accessibility innovations.
+
+Recoverable cultural artifacts.
+
+Recoverable environmental recordings.
+
+Recoverable scientific observations.
+
+Recoverable personal stories.
+
+Recoverable maintenance records.
+
+Players are encouraged to investigate every category.
+
+None are mandatory.
+
+Curiosity is rewarded.
+
+---
+
+### Environmental Storytelling
+
+No location should explain itself through exposition.
+
+Instead players learn through observation.
+
+Examples include:
+
+Coffee mugs left on desks.
+
+Wheel tracks through corridors.
+
+Braille signage.
+
+AAC terminals.
+
+Children's drawings.
+
+Maintenance notes.
+
+Half-finished repairs.
+
+Open books.
+
+Musical instruments.
+
+Gardens.
+
+Personal decorations.
+
+These details should communicate that Hearth was lived in.
+
+---
+
+### Dynamic Discoveries
+
+Every expedition includes optional discoveries.
+
+Examples include:
+
+An emergency beacon still transmitting.
+
+A maintenance drone continuing its programmed route.
+
+A service animal quietly waiting beside its handler.
+
+An unfinished engineering project.
+
+A music rehearsal preserved in environmental recordings.
+
+A classroom lesson interrupted by evacuation.
+
+A community garden still growing under emergency lighting.
+
+The player chooses whether to investigate.
+
+Ignoring optional discoveries never prevents chapter completion.
+
+Investigating them permanently expands the Knowledge Archive and deepens community understanding.
+
+---
+
+### Advisor System
+
+The chosen advisor continues guiding the player.
+
+However, every crew member may occasionally contribute remotely if their expertise becomes relevant.
+
+The station remains part of the expedition.
+
+The player never feels alone.
+
+---
+
+### Accessibility
+
+Every environmental clue must exist through multiple sensory channels.
+
+Visual.
+
+Audio.
+
+Captions.
+
+Braille.
+
+Tactile feedback.
+
+Environmental descriptions.
+
+Players should never depend upon one sensory modality to understand a location.
+
+---
+
+### Emotional Goal
+
+The player should realize that Hearth was never simply a spacecraft.
+
+It was a city.
+
+A home.
+
+A school.
+
+A hospital.
+
+A workplace.
+
+A neighborhood.
+
+Exploration should feel like walking through memory rather than ruins.
+
+---
+
+### End Condition
+
+The player successfully completes their first exploration zone.
+
+Before returning home, they receive a notification.
+
+Multiple additional locations have now been identified.
+
+The player realizes that they have explored only a tiny portion of Hearth.
+
+The journey home begins, leading into Part Four.
+````

@@ -1,0 +1,397 @@
+WORK ORDER 008
+
+Continue:
+
+docs/design_notes/operation_one_exodus_master_timeline.md
+
+Maintain all established canon.
+
+Use proper Markdown headings.
+
+Do not write code.
+
+Do not summarize.
+
+This document is the definitive chronological reference for Operation One: Exodus.
+
+# Day Five
+
+# Part Nine
+
+## Theme
+
+Reflection.
+
+Tradition.
+
+Belonging.
+
+By now Hearth no longer feels like a ship.
+
+It feels like a hometown.
+
+The player should begin developing emotional routines that have nothing to do with gameplay objectives.
+
+These ordinary rituals become some of the strongest memories after Hearth is lost.
+
+---
+
+## 17:00
+
+### Evening Transition
+
+The workday concludes naturally.
+
+Maintenance completes the final work orders.
+
+Engineering begins scheduled overnight testing.
+
+Medical transitions to evening care.
+
+Security begins community patrols.
+
+Research prepares another overnight observation cycle.
+
+Cargo slows.
+
+Public areas become increasingly active.
+
+No alarms sound.
+
+No emergencies occur.
+ The player begins recognizing this transition simply by listening.
+
+---
+
+## Community Evening
+
+Every evening aboard Hearth develops its own personality.
+
+Residents gather because they want to.
+
+Not because the game requires it.
+
+The player may freely participate in:
+
+Community dinner.
+
+Music rehearsals.
+
+Theatre practice.
+
+Maker space.
+
+Storytelling.
+
+Language exchange.
+
+Adaptive sports.
+
+Youth science club.
+
+Public astronomy.
+
+Board games.
+
+Volunteer maintenance projects.
+
+Gardening.
+
+No activity exists simply as decoration.
+
+Every gathering reinforces relationships that later matter emotionally.
+
+---
+
+## Character Locations
+
+Captain Elian
+
+Shares dinner with residents.
+
+Thanks volunteers personally.
+
+Helps clean after the meal.
+
+Leaves only after everyone else has been served.
+
+Captain Naomi
+
+Reviews emergency readiness.
+
+Quietly joins dinner once satisfied.
+
+Speaks little.
+
+Listens carefully.
+
+Captain Gideon
+
+Reviews updated stellar observations with Soren.
+
+The anomaly appears again.
+
+Neither believes immediate action is necessary.
+
+Captain Iris
+
+Attends the community storytelling circle.
+
+Encourages residents to preserve family histories.
+
+Rowan
+
+Repairs a wheelchair footplate while chatting with its owner.
+
+Never treats the repair as unusual.
+
+Mara
+
+Leads an informal "listen to the ship" gathering.
+
+Residents close their eyes.
+
+Simply experience Hearth through sound.
+
+Doctor Samira Kade
+
+Hosts an accessibility design discussion.
+
+Residents propose ideas.
+
+Maintenance quietly begins writing tomorrow's work requests.
+
+Chief Petty Officer Jonah Briggs
+
+Completes tomorrow's staffing schedule.
+
+Leaves work on time.
+
+Encourages others to do the same.
+
+Security Lead Talia Rusk
+
+Joins children during adaptive obstacle course games.
+
+Quietly checks emergency lighting while laughing with them.
+
+Dr. Soren Qadir
+
+Continues public astronomy.
+
+Allows children to operate observation equipment.
+
+Mira
+
+Falls asleep during astronomy while trying to count constellations.
+ Faience
+
+Remains archived.
+
+Catalogued.
+
+Inactive.
+
+Completely ordinary.
+
+---
+
+## Cross-Perspective Moments
+
+Maintenance
+
+The player helps prepare the community hall before evening activities.
+
+Civilian Campaign later reveals the event from the residents' perspective.
+
+Engineering
+
+Mara's "Listen to the Ship" gathering becomes playable.
+
+Medical
+
+Samira's accessibility discussion becomes a Medical gameplay sequence.
+
+Research
+
+Astronomy night expands into a playable scientific investigation.
+
+Security
+
+Adaptive obstacle course becomes emergency preparedness training.
+
+Command
+
+Captain Elian quietly checks in with every department before ending the day.
+
+The player later experiences the same evening from each perspective.
+
+---
+
+## Accessibility
+
+The player notices that accessibility has become culture.
+
+Parents automatically introduce themselves verbally before conversations.
+
+Meeting agendas exist in print, braille and digital formats before meetings begin.
+
+Sign language naturally appears throughout public spaces.
+
+AAC users participate without interruption.
+
+Children imitate multiple communication styles during play.
+
+Nobody teaches inclusion.
+
+Children simply grow up surrounded by it.
+
+---
+
+## Environmental Storytelling
+
+Residents begin decorating common areas for the upcoming weekend community festival.
+
+Student artwork fills corridor walls.
+
+A repaired playground now contains twice as many children.
+
+Fresh produce from Hydroponics is shared freely during dinner.
+
+The public thank-you wall continues growing.
+
+Maintenance tools remain neatly organized because everyone returns borrowed equipment.
+
+The station feels deeply lived in.
+
+---
+
+## Soundscape
+
+Evening reaches its richest point.
+
+Community music.
+
+Children laughing.
+
+Conversation.
+
+Cooking.
+
+Coffee grinders.
+
+Hydroponic water.
+
+Engineering resonance.
+
+Observation dome activity.
+
+Transit slowing.
+
+Soft station announcements.
+
+The player should recognize Hearth without seeing it.
+
+The soundscape has become home.
+
+---
+
+## Narrative Foreshadowing
+
+Only the smallest hints continue appearing.
+
+Research quietly expands tomorrow night's observation schedule.
+
+Navigation recalculates several stellar positions.
+
+Engineering archives another microscopic resonance fluctuation.
+
+Captain Gideon schedules another interdisciplinary meeting.
+
+Captain Naomi requests additional inspection of emergency escape systems.
+
+No one connects these observations.
+
+No one should.
+
+The audience only recognizes the pattern during later playthroughs.
+
+---
+
+## Gameplay Philosophy
+
+Players should feel rewarded for slowing down.
+
+Listening.
+
+Helping.
+
+Talking.
+
+Participating.
+
+Belonging is progression.
+
+Relationships are progression.
+
+Community is progression.
+
+---
+
+## Emotional Goal
+
+The player should finish the evening believing:
+
+"I know these people."
+
+"I know this place."
+
+"I know what tomorrow will sound like."
+
+That confidence becomes one of the emotional foundations of Operation One.
+
+---
+
+## 22:00
+
+### Night
+
+Lighting dims throughout Hearth.
+
+Families return home.
+
+Night shift quietly takes over.
+
+Research telescopes rotate toward deep space.
+
+Engineering enters overnight diagnostics.
+
+Medical settles into overnight care.
+
+Maintenance completes one final walk through public corridors before handing responsibility to the overnight crew.
+
+The player hears the station breathing.
+
+Steady.
+
+Safe.
+
+Alive.
+
+---
+
+## End State
+
+Day Five concludes.
+
+Nothing dramatic has happened.
+
+Everything important has.
+
+The player now belongs completely.
+
+CSV Hearth no longer feels temporary.
+
+It feels permanent.
+
+Day Four begins in Part Ten.

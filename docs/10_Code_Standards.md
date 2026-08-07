@@ -81,3 +81,15 @@ The current playable web prototype still lives under `artifacts/resonance` and w
 - `src/` holds shared application source code.
 - `tests/` holds automated tests.
 - `tools/` holds developer tooling and scripts.
+
+## Relationship to other documents
+
+This document is the definitive reference for how the project's code is written and organised.
+
+- The Project Constitution defines the principles the code serves.
+- The Canon Rules document holds the master wording of the rules the implementation must uphold.
+- The Accessibility Bible defines the accessibility standards the code must implement.
+- The Audio Bible's Audio technology and engine section records the audio engine and abstraction-layer decision the code follows.
+- The Network and Multiplayer Bible defines the network model server code must realise.
+- The Production Pipeline Bible design note defines how new content passes review before integration.
+- The Decision Log records when engineering decisions were adopted or amended.

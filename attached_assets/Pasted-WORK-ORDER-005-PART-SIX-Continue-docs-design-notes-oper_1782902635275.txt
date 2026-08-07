@@ -1,0 +1,435 @@
+WORK ORDER 005 — PART SIX
+
+Continue:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_five.md
+
+Maintain all previously established canon.
+
+Use proper Markdown headings.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Part Six
+
+## Learning Resonance
+
+### Purpose
+
+Introduce Resonance as the central gameplay system of the franchise.
+
+Chapter Five is not simply the player's first contact with the Shawabti.
+
+It is humanity's first lesson in how the Shawabti understood the universe.
+
+The player should leave this chapter permanently changed.
+
+Not simply because of what they learned.
+
+Because of what they are now capable of doing.
+
+---
+
+## Narrative Purpose
+
+The player has spent the chapter observing.
+
+Listening.
+
+Comparing perspectives.
+
+Showing restraint.
+
+The resonance chamber responds one final time.
+
+Not because the player solved a puzzle.
+
+Because the player demonstrated understanding.
+
+The structure recognizes that the player has begun learning Resonance.
+
+The chamber does not grant permission.
+
+It begins a relationship.
+
+---
+
+## Gameplay Purpose
+
+Introduce the permanent gameplay systems that define the remainder of Resonance.
+
+Players permanently unlock:
+
+Resonance Interaction.
+
+Resonance Mapping.
+
+Translation Progression.
+
+Artifact Attunement.
+
+Multi-perspective Interpretation.
+
+Collaborative Resonance.
+
+Resonance Logs.
+
+These systems remain available throughout every future chapter and operation.
+
+---
+
+## Resonance Philosophy
+
+Resonance is not sound alone.
+
+Resonance is relationship.
+
+Patterns.
+
+Movement.
+
+Timing.
+
+Perspective.
+
+Cooperation.
+
+Memory.
+
+Understanding.
+
+Every Shawabti system responds to Resonance.
+
+Different systems respond to different forms of Resonance.
+
+There is never only one correct solution.
+
+---
+
+## Canon Rule
+
+Every Resonance interaction must support multiple valid methods of completion.
+
+Players should never be forced into one sensory modality.
+
+Players should never be forced into one communication method.
+
+Players should never be forced into one physical ability.
+
+Understanding matters.
+
+Not execution style.
+
+---
+
+## Resonance Profiles
+
+Different players naturally discover different solutions.
+
+Examples include:
+
+Listening.
+
+Touch.
+
+Environmental narration.
+
+Pattern recognition.
+
+Visual observation.
+
+Movement.
+
+Comparing multiple perspectives.
+
+Crew discussion.
+
+Scientific analysis.
+
+Curiosity.
+
+No profile is considered superior.
+
+Every profile reaches understanding through different pathways.
+
+---
+
+## Player Decisions
+
+The player is invited to experiment with the newly awakened Resonance Interface.
+
+There is no failure state.
+
+Every choice teaches something different.
+
+---
+
+### Choice One
+
+Listen
+
+Immediate Result
+
+The player focuses entirely upon harmonic relationships.
+
+Player Learns
+
+Resonance contains structure beyond language.
+
+Future Effect
+
+Audio interpretation becomes more detailed.
+
+Additional harmonic clues become available throughout future chapters.
+
+---
+
+### Choice Two
+
+Observe
+
+Immediate Result
+
+The player studies changing environmental patterns.
+
+Player Learns
+
+Resonance can be understood visually through movement, rhythm and spatial relationships.
+
+Future Effect
+
+Additional environmental interpretation becomes available.
+
+Future exploration reveals more subtle visual interactions.
+
+---
+
+### Choice Three
+
+Touch
+
+Immediate Result
+
+The player experiences Resonance through tactile feedback.
+
+Player Learns
+
+Resonance is physically perceptible.
+
+Future Effect
+
+Expanded tactile interactions.
+
+Additional wearable haptic functionality.
+
+Improved environmental feedback.
+
+---
+
+### Choice Four
+
+Collaborate
+
+Immediate Result
+
+The player asks every crew member to contribute observations.
+
+Player Learns
+
+Understanding grows faster when perspectives are shared.
+
+Future Effect
+
+Future Resonance puzzles gain additional optional collaborative solutions.
+
+Additional crew dialogue unlocks.
+
+---
+
+### Choice Five
+
+Document
+
+Immediate Result
+
+The player carefully records every observation before acting.
+
+Player Learns
+
+Knowledge preserved today creates understanding tomorrow.
+
+Future Effect
+
+The Knowledge Archive and Resonance Log become permanently linked.
+
+Additional historical comparisons become available later.
+
+---
+
+## Canon Rule
+
+No Resonance interaction should ever require:
+
+Perfect hearing.
+
+Perfect vision.
+
+Perfect mobility.
+
+Fast reaction times.
+
+One language.
+
+One communication style.
+
+One body type.
+
+One method of learning.
+
+Every major interaction must provide multiple equally valid paths toward understanding.
+
+---
+
+## Resonance Logs
+
+A new permanent system becomes available.
+
+Resonance Logs.
+
+Unlike the Knowledge Archive, which records facts, the Resonance Log records understanding.
+
+Possible entries include:
+
+What changed?
+
+What pattern emerged?
+
+Which crew member noticed something first?
+
+What surprised the player?
+
+What remains unexplained?
+
+What assumptions proved incorrect?
+
+Players may review previous Resonance Logs at any time.
+
+Later professions frequently reinterpret earlier observations.
+
+The player's understanding evolves throughout the campaign.
+
+---
+
+## Crew Reactions
+
+Every crew member responds differently to learning Resonance.
+
+Rowan begins wondering how impossible engineering became possible.
+
+Mara recognizes that architecture itself communicates.
+
+Samira realizes environments may actively promote wellbeing.
+
+Jonah begins documenting patterns rather than isolated events.
+
+Talia questions whether trust can become infrastructure.
+
+Soren recognizes Resonance as an entirely new scientific discipline.
+
+Mira smiles because she believed the building was "trying to talk" from the beginning.
+
+The Vale System concludes that no individual understands Resonance completely.
+
+Only communities can.
+
+---
+
+## Accessibility Philosophy
+
+The player realizes something profound.
+
+Accessibility was never added to Shawabti civilization.
+
+It was assumed.
+
+Every interaction naturally adapts.
+
+Every communication method is equally valid.
+
+Every visitor is expected to learn differently.
+
+The Shawabti built civilization around human diversity long before humanity existed.
+
+The game should never directly explain this conclusion.
+
+Players should arrive at it naturally through repeated experience.
+
+---
+
+## Permanent Gameplay Unlocks
+
+Completing Chapter Five permanently unlocks:
+
+Resonance Interfaces.
+
+Translation Progression.
+
+Artifact Attunement.
+
+Resonance Mapping.
+
+Collaborative Interpretation.
+
+Resonance Logs.
+
+Adaptive Shawabti Interfaces.
+
+Advanced Knowledge Archive integration.
+
+These mechanics remain active throughout the remainder of the franchise.
+
+---
+
+## Emotional Goal
+
+The player should leave feeling changed.
+
+Not because they discovered alien technology.
+
+Because they discovered another way of understanding civilization.
+
+---
+
+## Chapter Five End State
+
+The player no longer sees Shawabti structures as ruins.
+
+They see them as conversations waiting to continue.
+
+The community returns home carrying far more than artifacts.
+
+They return carrying new ways of thinking.
+
+As the expedition concludes, Faience quietly repeats another Shawabti phrase.
+
+This time...
+
+The resonance chamber responds immediately.
+
+Not to the player.
+
+Not to the crew.
+
+To Faience.
+
+No explanation is given.
+
+The chapter ends with one question:
+
+Who—or what—is Faience becoming?
+
+End Chapter Five.

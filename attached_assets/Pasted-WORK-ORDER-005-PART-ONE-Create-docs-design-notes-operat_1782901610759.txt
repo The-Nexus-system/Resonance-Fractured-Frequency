@@ -1,0 +1,374 @@
+WORK ORDER 005 — PART ONE
+
+Create:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_five.md
+
+Maintain all previously established canon.
+
+Use proper Markdown headings.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Operation One: Exodus
+
+# Chapter Five
+
+## First Contact
+
+### Primary Question
+
+What did the Shawabti leave behind?
+
+### Chapter Answer
+
+Something intentionally preserved.
+
+### Ending Question
+
+Why was it preserved for us?
+
+--------------------------------------------------
+
+## Purpose
+
+Chapter Five marks the player's first encounter with unmistakably non-human civilization.
+
+Until now every mystery has existed within humanity.
+
+Beginning with Chapter Five, the player begins uncovering a civilization that predates humanity's arrival.
+
+The player does not meet living Shawabti.
+
+The player meets their legacy.
+
+The chapter introduces archaeology, translation, environmental interpretation and ethical exploration.
+
+The player learns that exploration is not ownership.
+
+It is stewardship.
+
+--------------------------------------------------
+
+## Emotional Themes
+
+Wonder.
+
+Respect.
+
+Curiosity.
+
+Humility.
+
+Responsibility.
+
+Discovery.
+
+Hope.
+
+--------------------------------------------------
+
+## Gameplay Themes
+
+Archaeology.
+
+Translation.
+
+Environmental puzzles.
+
+Artifact interaction.
+
+Historical reconstruction.
+
+Ethical decision making.
+
+Scientific investigation.
+
+Collaborative problem solving.
+
+--------------------------------------------------
+
+# Part One
+
+## The Signal
+
+### Purpose
+
+Begin the chapter by answering the mystery introduced at the end of Chapter Four.
+
+The signal is real.
+
+It is intentional.
+
+It is repeating.
+
+It is not a distress beacon.
+
+It is not a weapon.
+
+It is waiting.
+
+--------------------------------------------------
+
+### Narrative
+
+The player returns to normal station life following the previous expedition.
+
+Several ordinary days pass.
+
+Construction continues.
+
+Life continues.
+
+Then...
+
+The signal returns.
+
+Unlike previous detections, every major system aboard the station confirms the same coordinates.
+
+For the first time:
+
+Rowan agrees.
+
+Mara agrees.
+
+Samira agrees.
+
+Jonah agrees.
+
+Talia agrees.
+
+Soren agrees.
+
+The Vale System agrees.
+
+Nobody knows what it is.
+
+Everyone agrees it should be investigated.
+
+--------------------------------------------------
+
+### Player Decisions
+
+Decision One
+
+Should the station immediately investigate?
+
+Choice A
+
+Launch immediately.
+
+Immediate Result
+
+The signal is reached sooner.
+
+Preparation is limited.
+
+Future Effect
+
+Additional unknown hazards.
+
+More surprises.
+
+Less initial understanding.
+
+--------------------------------------------------
+
+Choice B
+
+Spend time preparing.
+
+Immediate Result
+
+Additional research completed.
+
+Crew preparation improves.
+
+Future Effect
+
+Additional translation tools.
+
+Improved mission planning.
+
+The signal remains exactly where it was.
+
+It is waiting.
+
+--------------------------------------------------
+
+Decision Two
+
+Who leads the investigation?
+
+The player chooses a primary advisor.
+
+Every advisor changes interpretation.
+
+Not canon.
+
+--------------------------------------------------
+
+Choose Rowan
+
+Focus
+
+Engineering.
+
+He immediately notices construction techniques unlike anything humanity has built.
+
+Future Benefit
+
+Engineering observations unlock additional structural analysis.
+
+--------------------------------------------------
+
+Choose Mara
+
+Focus
+
+Acoustic interpretation.
+
+She notices repeating resonance patterns hidden within the signal.
+
+Future Benefit
+
+Additional audio puzzles.
+
+--------------------------------------------------
+
+Choose Samira
+
+Focus
+
+Biological safety.
+
+She evaluates whether the location could threaten the crew.
+
+Future Benefit
+
+Improved environmental hazard detection.
+
+--------------------------------------------------
+
+Choose Jonah
+
+Focus
+
+Mission planning.
+
+He organizes a systematic survey before entering.
+
+Future Benefit
+
+Additional mapped areas.
+ --------------------------------------------------
+
+Choose Talia
+
+Focus
+
+Security.
+
+She assumes nothing is safe.
+
+Future Benefit
+
+Additional hazard warnings.
+
+--------------------------------------------------
+
+Choose Soren
+
+Focus
+
+Scientific curiosity.
+
+He immediately recognizes the signal is mathematical rather than random.
+
+Future Benefit
+
+Additional research opportunities.
+
+--------------------------------------------------
+
+Choose Mira
+
+Focus
+
+Curiosity.
+
+She notices simple patterns adults overlook.
+
+Future Benefit
+
+Additional optional discoveries.
+
+--------------------------------------------------
+
+Choose The Vale System
+
+Focus
+
+Leadership.
+
+The investigation balances every discipline.
+
+Future Benefit
+
+Additional dialogue with every crew member throughout the expedition.
+
+--------------------------------------------------
+
+### Gameplay Systems Introduced
+
+Archaeological expeditions.
+
+Translation preparation.
+
+Scientific interpretation.
+
+Expedition specialization.
+
+Environmental mystery.
+
+Collaborative investigation.
+
+--------------------------------------------------
+
+### Emotional Goal
+
+The player should feel curiosity.
+
+Not fear.
+
+The unknown should invite exploration rather than threaten it.
+
+--------------------------------------------------
+
+### End Condition
+
+The expedition reaches its destination.
+
+There is no ruined city.
+
+No spacecraft.
+
+No battlefield.
+
+Instead...
+
+There is a single structure.
+
+Perfectly intact.
+
+Waiting.
+
+It has been waiting for an impossibly long time.
+
+It activates only when the player approaches.
+
+End Part One.

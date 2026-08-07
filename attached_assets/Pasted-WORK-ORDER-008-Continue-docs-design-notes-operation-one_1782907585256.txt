@@ -1,0 +1,374 @@
+WORK ORDER 008
+
+Continue:
+
+docs/design_notes/operation_one_exodus_master_timeline.md
+
+Maintain all established canon.
+
+Use proper Markdown headings.
+
+Do not write code.
+
+Do not summarize.
+
+This document is the definitive chronological reference for Operation One: Exodus.
+
+# Day Five
+
+# Part Eight
+
+## Theme
+
+Community.
+
+Responsibility.
+
+Investment.
+
+The player has stopped asking where things are.
+
+They now notice when something feels out of place.
+
+The player has become part of Hearth's immune system.
+
+The player quietly helps keep civilization healthy.
+
+---
+
+## 12:00
+
+### Midday
+
+CSV Hearth reaches another busy afternoon.
+
+Departments no longer feel separate.
+
+People naturally move between them.
+
+Lunch meetings happen spontaneously.
+
+Problems are solved before becoming emergencies.
+
+The player witnesses a civilization functioning at its best.
+
+---
+
+## Department Activity
+
+### Maintenance
+
+Long-term improvement projects continue.
+
+Several departments request the player's assistance directly.
+
+Maintenance is no longer simply repairing equipment.
+
+Maintenance is improving quality of life.
+
+---
+
+### Engineering
+
+Mara begins preparing for next week's preventative overhaul of one auxiliary power network.
+
+Nothing is failing.
+
+She simply refuses to wait until something does.
+
+Engineering apprentices begin relying upon listening before reading diagnostics.
+
+Mara quietly smiles.
+
+---
+
+### Medical
+
+Samira begins an accessibility walkthrough with Maintenance.
+
+Rather than repairing broken equipment, the goal is identifying small improvements before anyone asks.
+
+Examples include:
+
+Improved tactile room numbering.
+
+Lower medication storage.
+
+Better acoustic treatment.
+
+Reduced hallway echo.
+
+Improved lighting transitions.
+
+More comfortable waiting areas.
+
+Accessibility is treated as preventative medicine.
+
+---
+
+### Security
+
+Talia conducts another evacuation exercise.
+
+This time involving adults.
+
+The exercise is calm.
+
+Orderly.
+
+Almost routine.
+
+The player notices emergency preparedness feels reassuring rather than frightening.
+
+---
+
+### Research
+
+Soren compares several days of stellar observations.
+
+The anomaly appears again.
+
+Still inconsistent.
+
+Still unexplained.
+
+Still not statistically significant.
+
+He quietly expands tonight's observation schedule.
+
+---
+
+### Command
+
+Captain Gideon requests another routine navigation review.
+
+Captain Naomi approves another emergency systems inspection.
+
+Captain Iris hosts a community planning session regarding future colony neighborhoods.
+
+Captain Elian spends the afternoon visiting departments simply to thank people.
+
+---
+
+## Character Development
+
+Rowan begins asking the player's opinion before making decisions.
+
+Mara trusts the player with increasingly complex diagnostics.
+
+Samira asks whether Maintenance has noticed accessibility improvements that Medical overlooked.
+
+Jonah delegates scheduling decisions to experienced crew.
+
+Talia jokes that Maintenance has removed all the interesting emergencies.
+ Soren absent-mindedly forgets lunch again.
+
+Captain Elian quietly leaves a handwritten thank-you note in the Maintenance workshop.
+
+Nobody sees him do it.
+
+Mira proudly introduces the player as:
+
+"My Maintenance friend."
+
+---
+
+## Community Life
+
+Afternoon slows naturally into community activity.
+
+School groups visit Engineering.
+
+Researchers give public talks.
+
+Hydroponics hosts volunteer gardening.
+
+Medical teaches first-aid workshops.
+
+Maintenance demonstrates basic household repairs.
+
+Security hosts bicycle and mobility safety activities for children.
+
+The player realizes every department also teaches.
+
+Knowledge belongs to everyone.
+
+---
+
+## Optional Community Events
+
+Players may participate in:
+
+Engineering open house.
+
+Medical wellness seminar.
+
+Community gardening.
+
+Youth maintenance workshop.
+
+Astronomy lecture.
+
+Music rehearsal.
+
+Maker fair.
+
+Adaptive technology showcase.
+
+Accessibility design forum.
+
+These activities provide:
+
+Conversation.
+
+Relationships.
+
+Environmental storytelling.
+
+Future callbacks.
+
+No mandatory rewards.
+
+---
+
+## Accessibility in Action
+
+The player observes:
+
+A Deaf engineer leading a meeting through signing, projected captions and speech simultaneously.
+
+A blind apprentice independently completing inspections using acoustic landmarks.
+
+AAC users contributing during planning meetings.
+
+Wheelchair users participating in emergency drills alongside everyone else.
+
+Children naturally switching between spoken language, signing and AAC while playing.
+
+Nobody explains accessibility.
+
+Nobody comments on accessibility.
+
+It simply exists.
+
+---
+
+## Soundscape
+
+Mid-afternoon sounds include:
+
+Children touring Engineering.
+
+Power relays cycling.
+
+Medical rehabilitation.
+
+Cargo traffic.
+
+Garden fountains.
+
+Maintenance tools.
+
+Community lectures.
+
+Music rehearsals.
+
+School dismissal.
+
+Transit announcements.
+
+The player now instinctively knows where they are simply by listening.
+
+---
+
+## Environmental Storytelling
+
+The player notices yesterday's work continuing to shape daily life.
+
+The repaired playground is crowded.
+
+Community gardens continue growing.
+
+Public thank-you boards gain new messages.
+
+Engineers proudly show visitors new systems.
+
+Medical patients leave Rehabilitation smiling.
+
+Residents decorate shared spaces with art.
+
+CSV Hearth continues becoming more beautiful through countless small contributions.
+
+---
+
+## Narrative Foreshadowing
+
+Tiny inconsistencies begin appearing.
+
+Almost invisible.
+
+Navigation recalculates a star position twice.
+
+Engineering logs a harmonic fluctuation lasting less than one second.
+
+Research quietly compares multiple observation nights.
+
+Captain Gideon requests another review.
+
+Captain Naomi quietly approves additional emergency equipment inspections.
+
+Nobody is worried.
+
+Everyone assumes they are simply being thorough.
+
+The audience later realizes that every department independently noticed the first signs of the coming disaster.
+
+---
+
+## Gameplay Philosophy
+
+The player is now expected to think proactively.
+
+Not:
+
+"What needs repaired?"
+
+Instead:
+
+"What could become a problem later?"
+
+The game begins rewarding anticipation rather than reaction.
+
+This lesson becomes essential during the attack.
+
+---
+
+## Emotional Goal
+
+The player should begin imagining a future aboard Hearth.
+
+Not just next week.
+
+Years from now.
+
+Friendships deepen.
+
+Departments trust one another.
+
+Life feels stable.
+
+The future feels certain.
+
+---
+
+## End State
+
+The afternoon concludes.
+
+The station continues another peaceful day.
+
+The player has become an accepted member of the community.
+
+Nothing appears capable of changing that.
+
+Day Five continues in Part Nine.

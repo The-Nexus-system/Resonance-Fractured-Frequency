@@ -1,0 +1,466 @@
+WORK ORDER 007 — PART TWO
+
+Continue:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_seven.md
+
+Maintain all previously established canon.
+
+Use proper Markdown headings.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Part Two
+
+## The Journey
+
+### Purpose
+
+Demonstrate that the community has mastered every core gameplay system introduced throughout Operation One.
+
+The player no longer completes isolated mechanics.
+
+Every decision now combines:
+
+Leadership.
+
+Engineering.
+
+Medicine.
+
+Navigation.
+
+Research.
+
+Accessibility.
+
+Knowledge.
+
+Resonance.
+
+Community.
+
+The player succeeds because the community succeeds.
+
+---
+
+### Narrative Purpose
+
+The expedition leaves the station.
+
+This journey is unlike previous expeditions.
+
+The destination does not appear on any human map.
+
+The Living Archive continuously updates the route.
+
+Faience quietly guides the expedition.
+
+Not by giving directions.
+
+By recognizing Resonance patterns.
+
+The farther the expedition travels...
+
+The more frequently ancient Shawabti structures begin responding.
+
+It becomes obvious that the player is traveling along a route intentionally designed thousands of years ago.
+
+---
+
+### Gameplay Purpose
+
+Teach integrated decision making.
+
+Every challenge now requires multiple gameplay systems working together.
+
+No challenge should ever be solved by one mechanic alone.
+
+Every solution should require cooperation.
+
+---
+
+### Expedition Philosophy
+
+Every major obstacle should have multiple valid solutions.
+
+No solution is universally superior.
+
+Every solution reflects the player's philosophy developed throughout Operation One.
+
+---
+
+## Player Decisions
+
+Decision One
+
+The expedition encounters a massive debris field surrounding an ancient Shawabti gateway.
+
+How should the expedition proceed?
+
+---
+
+Choice A
+
+Engineering Route
+
+Primary Crew
+
+Rowan.
+
+Mara.
+
+Player.
+
+Immediate Result
+
+Construct a safe passage through unstable debris.
+
+Player Uses
+
+Maintenance.
+
+Engineering.
+ Navigation.
+
+Resonance Mapping.
+
+Future Effect
+
+The route becomes permanently available for future expeditions.
+
+Engineering knowledge expands.
+
+---
+
+Choice B
+
+Scientific Route
+
+Primary Crew
+
+Soren.
+
+Player.
+
+Immediate Result
+
+Study debris movement before proceeding.
+
+Player Uses
+
+Research.
+
+Pattern recognition.
+
+Knowledge Archive.
+
+Future Effect
+
+New scientific discoveries.
+
+Additional Archive entries.
+
+Future expeditions become safer.
+
+---
+
+Choice C
+
+Community Route
+
+Primary Crew
+
+Jonah.
+
+Samira.
+
+Player.
+
+Immediate Result
+
+Coordinate the expedition carefully through the hazards.
+
+Player Uses
+
+Leadership.
+
+Crew management.
+
+Medical readiness.
+
+Planning.
+
+Future Effect
+
+Crew trust increases.
+
+Future large expeditions become more efficient.
+
+---
+
+Choice D
+
+Resonance Route
+
+Primary Crew
+
+Faience.
+
+The Vale System.
+
+Player.
+
+Immediate Result
+
+Allow Resonance to guide the expedition.
+
+Player Uses
+
+Resonance.
+
+Observation.
+
+Collaboration.
+
+Patience.
+
+Future Effect
+
+Additional Shawabti pathways become available.
+
+Future Resonance interactions become richer.
+
+---
+
+## Decision Two
+
+The gateway remains inactive.
+
+No controls exist.
+
+The expedition must determine how to proceed.
+
+---
+
+Choice A
+
+Attempt engineering analysis.
+
+Immediate Result
+
+The crew better understands the structure.
+
+Future Effect
+
+Engineering principles improve.
+
+The gateway remains inactive.
+
+---
+
+Choice B
+
+Attempt scientific experimentation.
+
+Immediate Result
+
+Additional Resonance measurements.
+
+Future Effect
+
+Research expands.
+
+The gateway remains inactive.
+
+---
+
+Choice C
+
+Review every previous expedition.
+
+Immediate Result
+
+The player revisits earlier Knowledge Archive entries and Resonance Logs.
+
+Future Effect
+
+The player notices recurring patterns previously overlooked.
+
+Understanding grows.
+
+---
+
+Choice D
+
+Allow every crew member to compare observations.
+
+Immediate Result
+
+Each advisor contributes one missing piece.
+
+Only together do the observations form a complete pattern.
+
+Future Effect
+
+The gateway begins responding.
+
+The player learns that no single discipline could have solved the problem alone.
+
+---
+
+## Decision Three
+
+The gateway begins responding.
+
+The expedition must determine how to continue.
+
+---
+
+Choice A
+
+Proceed immediately.
+
+Immediate Result
+
+Earlier access.
+
+Future Effect
+
+Additional unknown challenges.
+
+---
+
+Choice B
+
+Document everything first.
+
+Immediate Result
+
+Historical records expand.
+
+Future Effect
+
+Future expeditions gain improved preparation.
+
+---
+
+Choice C
+
+Invite every crew member to experience the gateway before continuing.
+
+Immediate Result
+
+Additional dialogue.
+
+Community reflection.
+
+Future Effect
+
+Every primary crew member develops new optional conversations throughout the remainder of the game.
+
+---
+
+Choice D
+
+Allow Faience to decide when the expedition should proceed.
+
+Immediate Result
+
+Faience quietly waits.
+
+The gateway activates only after everyone is ready.
+
+Future Effect
+
+The player begins trusting Faience as a collaborator rather than a tool.
+
+---
+
+### Advisor Contributions
+
+Every advisor contributes equally.
+
+No single crew member solves the challenge.
+
+Every discipline becomes necessary.
+
+The player recognizes that the station has become greater than the sum of its parts.
+
+---
+
+### Gameplay Systems
+
+Integrated engineering.
+
+Integrated medicine.
+
+Integrated leadership.
+
+Integrated research.
+
+Integrated accessibility.
+
+Integrated Resonance.
+
+Integrated historical interpretation.
+
+Integrated community decision making.
+
+---
+
+### Accessibility
+
+Every integrated challenge must support multiple valid completion methods.
+
+No player should be required to solve challenges through one sensory modality.
+
+No player should ever fail because of accessibility choices.
+
+Accessibility remains one of the expedition's strengths.
+
+Not a limitation.
+
+---
+
+### Emotional Goal
+
+The player should realize something profound.
+
+At the beginning of Operation One...
+
+The crew survived together.
+
+Now...
+
+They think together.
+
+Every challenge demonstrates that civilization itself has become the player's greatest achievement.
+
+---
+
+### End Condition
+
+The gateway slowly activates.
+
+Not with lights.
+
+Not with machinery.
+
+With Resonance.
+
+The harmonic frequencies surrounding the expedition align into a complete pattern.
+
+The stars themselves appear to shift as ancient navigation pathways become visible.
+
+The player realizes they are no longer following Shawabti history.
+
+They are following a journey the Shawabti expected someone to complete.
+
+The gateway opens.
+
+Part Three begins.

@@ -1,0 +1,136 @@
+----------------------------------------------------------------
+
+CANON RULE — THE WORLD CONTINUES
+
+The world never pauses because a player disconnects or logs out.
+
+Communities continue living.
+
+Construction continues.
+
+Research continues.
+
+Medical care continues.
+
+Maintenance continues.
+
+Children continue attending school.
+
+Crew members continue their daily lives.
+
+The player returns to a living civilization rather than a frozen save state.
+
+----------------------------------------------------------------
+
+CANON RULE — PROTECTED PERSONAL SPACES
+
+Certain locations aboard a station or within a settlement are designated as Protected Personal Spaces.
+
+Examples include:
+
+Crew quarters.
+
+Family apartments.
+
+Assigned private cabins.
+
+Long-term patient recovery rooms.
+
+Other creator-designated personal spaces.
+
+When a player logs out from a Protected Personal Space:
+
+The character is considered safely off duty.
+
+The world continues normally around them.
+
+Time passes.
+
+NPCs continue living.
+ Projects continue progressing.
+
+However, the logged-out character is not harmed, moved, injured, assigned new duties or placed into dangerous situations while absent.
+
+The character is treated as resting, sleeping or otherwise unavailable.
+
+----------------------------------------------------------------
+
+CANON RULE — UNSAFE LOGOUTS
+
+If a player disconnects outside a Protected Personal Space:
+
+The game attempts to protect the character.
+
+Priority order:
+
+Reach a nearby Protected Personal Space.
+
+Escort the character to safety.
+
+Transfer responsibility to trusted NPCs.
+
+If immediate evacuation is impossible, place the character into an AI-controlled emergency safety routine.
+
+The game should always prioritize preserving player agency while maintaining world continuity.
+
+----------------------------------------------------------------
+
+CANON RULE — SAFE RETURN
+
+When returning to the world, players receive a summary of meaningful events that occurred during their absence.
+
+Examples include:
+
+Crew rescued.
+
+Research completed.
+
+Construction finished.
+
+Medical recoveries.
+
+Community meetings.
+
+Station announcements.
+
+Knowledge Archive updates.
+
+Mission invitations.
+
+Messages left by NPCs.
+
+The player should feel they are returning to a community that missed them rather than reopening a paused game.
+
+----------------------------------------------------------------
+
+CANON RULE — COMMUNITY RESPONSIBILITY
+
+No player should feel punished for logging out.
+
+Communities naturally adapt when members are unavailable.
+
+NPCs temporarily redistribute responsibilities.
+
+Other players may assist.
+
+Work continues.
+
+The returning player always has meaningful ways to contribute without feeling left behind.
+
+----------------------------------------------------------------
+
+CANON RULE — EMERGENCY EXCEPTION
+
+If a player logs out during an active emergency, the game should make every reasonable effort to preserve both narrative continuity and player safety.
+
+Whenever possible:
+
+NPCs escort the character to safety.
+
+The character withdraws from immediate danger.
+
+The character is considered unavailable until the player returns.
+
+Only when absolutely necessary should the game record that the character participated in emergency actions while offline, and those actions should be limited to realistic defensive or evacuation behavior rather than major story decisions.
+
+Player absence should never become the cause of catastrophic failure for the community.

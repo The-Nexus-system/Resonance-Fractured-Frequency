@@ -1,0 +1,247 @@
+I think Chapter Three has one job:
+
+Turn a collection of survivors into a functioning community.
+
+Not “build a base.”
+
+Not “craft better gear.”
+
+Those happen, but they’re consequences.
+
+The question is:
+
+Can we survive together?
+
+Here’s the backbone I’d hand to Replit before we flesh out every part.
+
+WORK ORDER 003
+Create:
+docs/design_notes/operation_one_exodus_maintenance_chapter_three.md
+Use proper Markdown headings.
+Do not summarize.
+Do not write code.
+This document is a gameplay design document.
+# Operation One: Exodus
+# Chapter Three
+## Community
+Primary Question
+Can we survive together?
+Chapter Answer
+Yes.
+But only if everyone contributes.
+Ending Question
+What are we willing to build together?
+--------------------------------------------------
+## Purpose
+Chapter Three transforms the rescued survivors into a functioning community.
+Chapter Two taught rescue.
+Chapter Three teaches cooperation.
+The player is no longer responsible for saving isolated people.
+The player is responsible for helping very different people live together inside a fragile new home.
+The chapter introduces long-term progression systems.
+The player learns that civilization is built through relationships rather than resources.
+--------------------------------------------------
+## Emotional Themes
+Belonging.
+Trust.
+Responsibility.
+Routine.
+Adaptation.
+Hope.
+Purpose.
+Shared knowledge.
+--------------------------------------------------
+## Gameplay Themes
+Community management.
+Crew cooperation.
+Station expansion.
+Daily routines.
+Research.
+Crafting.
+Accessibility.
+Learning from one another.
+No major combat focus.
+--------------------------------------------------
+## Purpose of the Chapter
+The station begins feeling permanent.
+The crew begins thinking about tomorrow instead of today.
+Players establish routines.
+Repair living space.
+Assign work.
+Organize supplies.
+Share meals.
+Develop friendships.
+Resolve disagreements.
+Begin planning for the future.
+--------------------------------------------------
+## Parts
+Part One
+The First Morning
+Purpose
+The first ordinary morning since Hearth.
+The player wakes.
+The station is alive.
+People are already working.
+The player hears:
+Morning announcements.
+Tools.
+Coffee.
+Medical rounds.
+Mission planning.
+AAC notifications.
+Conversation.
+Children laughing.
+The station sounds different from yesterday.
+Home has returned.
+--------------------------------------------------
+Part Two
+Everyone Has A Job
+Purpose
+Teach crew assignments.
+The player learns every crew member contributes differently.
+Gameplay introduces:
+Crew schedules.
+Work priorities.
+Long-term projects.
+Station tasks.
+Maintenance planning.
+Medical rounds.
+Research assignments.
+Security patrols.
+Community needs.
+--------------------------------------------------
+Part Three
+Building Together
+Purpose
+Teach construction.
+Large projects require multiple experts.
+Examples:
+Rowan fabricates.
+Mara engineers.
+Soren researches.
+Jonah coordinates.
+Samira ensures safety.
+Talia secures work sites.
+The Vale System resolves conflicts.
+The player learns collaboration.
+--------------------------------------------------
+Part Four
+Knowledge Lives Here
+Purpose
+Expand the Knowledge Archive.
+The player discovers that research changes future gameplay.
+Crew members begin discussing discoveries.
+History becomes practical.
+Knowledge unlocks diplomacy.
+Engineering.
+Medicine.
+Accessibility.
+Exploration.
+--------------------------------------------------
+Part Five
+The First Disagreement
+Purpose
+Teach conflict.
+Good communities disagree.
+Conflict is not failure.
+Crew members debate priorities.
+Repair?
+Explore?
+Search for more survivors?
+Research strange signals?
+Protect the station?
+The player learns leadership through listening rather than choosing "right" answers.
+--------------------------------------------------
+Part Six
+The Station Grows
+Purpose
+Teach expansion.
+New modules attach.
+Rooms change.
+Accessibility improves.
+The player hears construction.
+New routes appear.
+The station becomes easier to navigate.
+Every improvement changes both sound and gameplay.
+--------------------------------------------------
+Part Seven
+The Outside World
+Purpose
+The crew finally has time to observe what surrounds them.
+They begin mapping debris.
+Recording signals.
+Planning expeditions.
+They realize Hearth's debris field is enormous.
+There are mysteries waiting.
+--------------------------------------------------
+Part Eight
+Community
+Purpose
+Demonstrate ordinary life.
+Nothing dramatic happens.
+Players simply experience community.
+Meals.
+Games.
+Stories.
+Music.
+Learning.
+Friendships.
+Accessibility adaptations.
+People helping one another.
+The player understands exactly what they're protecting.
+--------------------------------------------------
+Part Nine
+A Decision
+Purpose
+The crew debates the future.
+Do they remain hidden?
+Search for survivors?
+Investigate the strange signal?
+Leave Hearth behind?
+Every crew member contributes according to their expertise.
+The player participates.
+Nobody decides alone.
+--------------------------------------------------
+Part Ten
+The Invitation
+Purpose
+End Chapter Three.
+The strange signal returns.
+This time...
+It appears intentional.
+Not random.
+Not damaged.
+Someone...
+Or something...
+Knows the station exists.
+End Chapter Three.
+--------------------------------------------------
+Chapter Three Gameplay Systems
+Crew management.
+Long-term projects.
+Station expansion.
+Research.
+Community relationships.
+Knowledge Archive progression.
+Accessibility customization.
+Construction.
+Exploration planning.
+Collaborative problem solving.
+--------------------------------------------------
+Chapter Three End State
+The player no longer commands survivors.
+The player belongs to a community.
+The station has become a true home.
+The crew is functioning.
+The future has begun.
+The next journey will be chosen rather than forced.
+
+I also want to make one recommendation before we build the detailed parts.
+
+Don’t make Chapter Three feel like “base management.”
+
+Make it feel like living.
+
+Think of Mass Effect’s Normandy between missions, Red Dead Redemption 2’s camp, or Star Trek: The Next Generation when there isn’t a crisis. Those quieter moments are where players become attached to the people.
+
+I think Chapter Three should be the chapter where players stop thinking, “these are NPCs,” and start thinking, “this is my crew.” That’s what will make Chapters Four through Seven matter emotionally.

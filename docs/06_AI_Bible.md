@@ -52,3 +52,14 @@ After the announcement, immersion fades naturally back in. Players may replay th
 ## Ethics of the AI
 
 Technology exists to serve people. Faience embodies both the promise and the risk of adaptive AI. The story uses Faience to explore trust, memory, privacy, identity, and adaptation without lecturing the player.
+
+## Relationship to other documents
+
+This document is the definitive reference for artificial minds in the franchise, including Faience.
+
+- The Canon Rules document holds the master wording of the AI-related rules.
+- The Universe Bible situates artificial minds within the species and civilisation framework and records what humanity currently knows about Faience.
+- The Campaign Bible defines how Faience is encountered and revealed across Operation One.
+- The Knowledge Archive Bible elaborates Faience's relationship to recorded knowledge.
+- The Presentation Bible's Vale System document is the definitive reference for the rotating AI captain personas.
+- The Decision Log records when AI decisions were adopted or amended.

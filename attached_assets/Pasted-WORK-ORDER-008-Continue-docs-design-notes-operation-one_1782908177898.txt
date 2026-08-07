@@ -1,0 +1,668 @@
+WORK ORDER 008
+
+Continue:
+
+docs/design_notes/operation_one_exodus_master_timeline.md
+
+Maintain all established canon.
+
+Use proper Markdown headings.
+
+Do not write code.
+
+Do not summarize.
+
+This document is the definitive chronological reference for Operation One: Exodus.
+
+# Day Three
+
+## Theme
+
+Investment.
+
+Stewardship.
+
+Civilization.
+
+Hope.
+
+Day Three marks the point where the player stops thinking about Hearth as something they inherited.
+
+They begin thinking about what they want to leave behind.
+
+For the first time, the player actively shapes the future of the station rather than simply maintaining the present.
+
+The central lesson of Day Three is:
+
+Civilizations are not preserved accidentally.
+
+They are deliberately built every single day.
+
+---
+
+# Morning
+
+## 05:30
+
+Night crews complete another routine shift.
+
+Engineering reports all primary systems nominal.
+
+Maintenance closes every overnight work order.
+
+Security reports another incident-free night.
+
+Medical reports several patients discharged.
+
+Research records another unexplained astronomical anomaly.
+
+The anomaly now appears consistently every night.
+
+Its duration has increased.
+
+No one yet recognizes the pattern.
+
+---
+
+## 06:30 Morning Announcement
+
+Captain Elian of the Vale System.
+
+"This is Captain Elian of the Vale System.
+
+Good morning everyone.
+
+Today I'd like you to notice something.
+
+Everything around us exists because someone believed tomorrow was worth preparing for.
+
+Someone planted today's gardens.
+
+Someone designed today's classrooms.
+
+Someone repaired today's elevators.
+
+Someone taught today's teachers.
+
+Someone trained today's doctors.
+
+Someone built today's home.
+
+Someday...
+
+Someone else will inherit what we build today.
+
+Let's leave them something worth inheriting.
+
+Have a wonderful morning."
+
+Morning music begins.
+
+Artificial sunrise gradually illuminates Hearth.
+
+The player immediately recognizes dozens of familiar sounds.
+
+No tutorial is necessary.
+
+Hearth now feels instinctively familiar.
+
+---
+
+# Morning Responsibilities
+
+The player receives very few direct work orders.
+
+Instead...
+
+Departments begin asking questions.
+
+"What would you improve?"
+
+The player begins acting as an experienced Maintenance technician rather than an apprentice.
+
+Rowan deliberately gives fewer instructions.
+
+Instead he asks:
+
+"What do you notice?"
+
+The player's observations become today's work.
+
+---
+
+# Major Maintenance Projects
+
+Rather than repairing failures...
+
+The player helps build future improvements.
+
+Examples include:
+
+Installing an additional public elevator.
+
+Expanding tactile navigation throughout Hydroponics.
+
+Retrofitting classrooms for greater flexibility.
+
+Building modular wall systems for future expansion.
+
+Installing adaptive workstations inside Engineering.
+
+Expanding charging infrastructure for mobility devices.
+
+Improving emergency shelter supplies.
+
+Constructing community workshop space.
+
+Creating additional quiet rooms.
+
+Improving public acoustics.
+
+Preparing new housing modules.
+
+Maintenance has become city planning.
+
+---
+
+# Engineering
+
+Mara introduces predictive engineering.
+
+The player assists with:
+
+Long-term stress analysis.
+
+Power reserve planning.
+
+Resonance forecasting.
+
+Thermal expansion modeling.
+
+Generator optimization.
+
+Rather than asking:
+
+"What broke?"
+
+Engineering now asks:
+
+"What might eventually fail?"
+
+Mara teaches:
+
+"The best repair happens before damage exists."
+
+---
+
+# Medical
+
+Samira expands community healthcare.
+
+Medical staff leave the hospital.
+
+Instead they visit neighborhoods.
+
+Schools.
+
+Workshops.
+
+Gardens.
+
+Community centers.
+
+Medical becomes part of everyday life.
+
+Examples include:
+
+Preventative screenings.
+
+Accessibility consultations.
+
+Mental wellness visits.
+
+Hearing aid adjustments.
+
+Wheelchair maintenance.
+
+Communication device support.
+
+Medication education.
+
+The player assists Medical by improving environments instead of equipment.
+
+---
+
+# Security
+
+Talia conducts community resilience exercises.
+
+Not combat drills.
+
+Neighborhood readiness.
+
+Emergency communication.
+
+Family reunification procedures.
+
+Community volunteers participate.
+
+Children participate.
+
+Teachers participate.
+
+Everyone understands emergencies are survived together.
+
+---
+
+# Research
+
+Soren receives another unusual observation.
+
+Three independent astronomical systems confirm the anomaly.
+
+Navigation notices it.
+
+Engineering notices microscopic resonance shifts.
+
+Research notices stellar irregularities.
+
+Still...
+
+No department possesses enough information to understand what they are seeing.
+
+The audience will.
+
+---
+
+# Logistics
+
+Jonah begins planning six months ahead.
+
+Supply forecasting.
+
+Population growth.
+
+Expansion planning.
+
+Resource sustainability.
+
+Maintenance planning.
+
+Crew training.
+
+The player begins understanding civilization through logistics.
+
+Nothing survives without organization.
+
+---
+
+# Command
+
+Captain Elian spends much of the day visiting departments.
+
+Not inspecting.
+
+Listening.
+
+Captain Naomi quietly reviews emergency contingency plans.
+
+Captain Gideon continues studying navigation data.
+
+Captain Iris conducts community listening sessions regarding future expansion.
+
+Leadership appears invisible.
+
+Exactly as intended.
+
+---
+
+# Civilian Life
+
+Life continues flourishing.
+
+School field trips.
+
+Community gardens.
+
+Music lessons.
+
+Storytelling circles.
+
+Volunteer repair teams.
+
+Adaptive sports.
+
+Art installations.
+
+Cooking classes.
+
+Neighborhood celebrations.
+
+Book clubs.
+
+Maker fairs.
+
+Public science demonstrations.
+
+Children interview residents about their professions.
+
+The player increasingly recognizes recurring faces.
+
+---
+
+# Mira's Project
+
+Mira's school assignment expands.
+
+Title:
+
+Everybody Makes Hearth.
+
+She interviews representatives from every department.
+
+Questions include:
+
+What do you fix?
+
+Who taught you?
+
+Who do you help?
+
+Who helps you?
+
+What would happen if nobody did your job?
+
+The player eventually realizes every campaign contributes another interview.
+
+By the end of the franchise...
+
+The completed project becomes the simplest explanation of civilization ever created.
+
+---
+
+# Cross-Perspective Anchor Events
+
+Engineering Campaign
+
+Mara introduces predictive maintenance.
+
+Maintenance experiences only part of the lesson.
+
+Engineering later reveals the complete lecture.
+
+Medical Campaign
+
+Samira begins neighborhood wellness.
+
+Maintenance experiences the environmental changes.
+
+Medical later reveals the patient stories.
+
+Research Campaign
+
+Soren quietly notices the anomaly growing stronger.
+
+Maintenance only sees him looking distracted.
+
+Research reveals why.
+
+Command Campaign
+
+Captain Elian spends nearly the entire day walking the station.
+
+Maintenance assumes he's simply friendly.
+
+Command later reveals he deliberately walks every neighborhood every day.
+
+Security Campaign
+
+Talia's community exercises appear playful.
+
+Security later reveals the planning behind them.
+
+Civilian Campaign
+
+Mira interviews the player.
+
+Later the player discovers everyone else was interviewed too.
+
+---
+
+# Accessibility
+
+Accessibility begins evolving through community participation.
+
+Children submit ideas.
+
+Residents sketch improvements.
+
+Maintenance receives suggestions directly from civilians.
+
+Medical evaluates them.
+
+Engineering builds them.
+
+Accessibility belongs to everyone.
+
+Not specialists.
+
+---
+
+# Environmental Storytelling
+
+Construction continues.
+
+Gardens expand.
+
+Murals grow.
+
+Public seating increases.
+
+Student projects appear throughout Education.
+
+Hydroponics produces enough food for donation programs.
+
+Community kitchens expand.
+
+Public libraries become busier.
+
+Neighborhood identity begins emerging.
+
+Residents increasingly refer to specific areas as home.
+
+---
+
+# Soundscape
+
+Day Three sounds different.
+
+Not louder.
+
+Richer.
+
+Construction.
+
+Conversation.
+
+Community lectures.
+
+Music.
+
+Gardens.
+
+Transit.
+
+Engineering.
+
+Medical.
+
+Schools.
+
+Children.
+
+Public workshops.
+
+Neighborhood life.
+
+The player now recognizes entire districts purely by sound.
+
+---
+
+# Philosophy
+
+Civilizations become stronger by investing in tomorrow before tomorrow arrives.
+
+Maintenance.
+
+Engineering.
+
+Medicine.
+
+Research.
+
+Security.
+
+Education.
+
+Command.
+
+None of these professions protect today.
+
+They protect tomorrow.
+
+The player begins understanding why.
+
+---
+
+# Foreshadowing
+
+For the first time...
+
+Four departments independently schedule additional meetings concerning unrelated observations.
+
+Research expands astronomical monitoring.
+
+Engineering increases resonance logging.
+
+Navigation performs another verification.
+
+Command quietly schedules an interdisciplinary review for tomorrow.
+
+Nobody believes anything is wrong.
+
+They simply believe careful observation is good practice.
+
+They are right.
+
+---
+
+# Afternoon
+
+The player is encouraged to spend much of the afternoon exploring rather than working.
+
+Neighborhood festivals.
+
+Engineering demonstrations.
+
+Research presentations.
+
+School exhibitions.
+
+Medical outreach.
+
+Hydroponic tours.
+ Accessibility showcase.
+
+Public concerts.
+
+Every optional activity teaches another piece of Hearth's culture.
+
+---
+
+# Evening
+
+The community gathers naturally.
+
+The upcoming Hearth Festival is only days away.
+
+Rehearsals continue.
+
+Decorations multiply.
+
+Children become excited.
+
+Adults begin discussing future plans.
+
+The player overhears conversations about:
+
+Future promotions.
+
+Upcoming weddings.
+
+New housing.
+
+Children graduating.
+
+Research expeditions.
+
+Gardening competitions.
+
+Nobody talks like someone expecting the end.
+
+Everyone talks like someone expecting decades.
+
+---
+
+# Night
+
+Engineering begins another overnight resonance survey.
+
+Research begins another observation cycle.
+
+Medical settles into routine care.
+
+Security patrols remain quiet.
+
+Maintenance completes final inspections.
+
+The player walks home.
+
+The corridors feel familiar.
+
+Safe.
+
+Comfortable.
+
+Ordinary.
+
+---
+
+# Emotional Goal
+
+By the end of Day Three...
+
+The player should stop wondering whether Hearth is worth saving.
+
+The player should instead wonder how they could ever replace it.
+
+The answer...
+
+They can't.
+
+---
+
+# End State
+
+Day Three concludes.
+
+The station is thriving.
+
+Relationships deepen.
+
+Departments cooperate effortlessly.
+
+The future appears limitless.
+
+Only the audience knows that tomorrow marks the beginning of subtle change.
+
+Day Two begins.

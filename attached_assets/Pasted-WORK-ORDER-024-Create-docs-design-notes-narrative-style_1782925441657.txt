@@ -1,0 +1,561 @@
+WORK ORDER 024
+
+Create:
+
+docs/design_notes/narrative_style_guide.md
+
+Purpose
+
+The definitive writing guide for the entire Resonance franchise.
+
+Define:
+
+How dialogue is written.
+
+How exposition is avoided.
+
+How humor works.
+
+How grief is written.
+
+How hope is written.
+
+How scientists speak.
+
+How engineers speak.
+
+How maintenance workers speak.
+
+How command speaks.
+
+How civilians speak.
+
+How children speak.
+
+How different cultures speak.
+
+How different species communicate.
+
+How DID is portrayed.
+
+How disability is portrayed.
+
+How Deaf characters communicate.
+
+How blind characters communicate.
+
+How AAC users communicate.
+
+How multilingual conversations function.
+
+How translators work.
+
+How sign languages are represented.
+
+How thoughts are written.
+
+How logs are written.
+
+How journals are written.
+
+How scientific papers are written.
+
+How reports are written.
+
+How announcements are written.
+
+How emergency communications are written.
+
+How NPCs interrupt one another.
+
+How silence is written. 
+How environmental storytelling replaces exposition.
+
+How information is slowly discovered.
+
+This becomes the writing standard for every future game.
+
+------------------------------------------------------------
+
+WORK ORDER 025
+
+Create:
+
+docs/design_notes/player_interaction_bible.md
+
+Purpose
+
+Every possible player interaction.
+
+Define:
+
+Inspect.
+
+Examine.
+
+Listen.
+
+Feel.
+
+Touch.
+
+Push.
+
+Pull.
+
+Lift.
+
+Carry.
+
+Drag.
+
+Throw.
+
+Repair.
+
+Construct.
+
+Fabricate.
+
+Scan.
+
+Research.
+
+Cook.
+
+Garden.
+
+Harvest.
+
+Teach.
+
+Learn.
+
+Comfort.
+
+Rescue.
+
+Evacuate.
+
+Transfer.
+
+Sign.
+
+Speak.
+
+AAC.
+
+Braille reading.
+
+White cane interaction.
+
+Wheelchair interaction.
+
+Medical examination.
+
+Engineering diagnostics.
+
+Maintenance inspection.
+
+Security investigation.
+
+Research documentation.
+
+Every interaction should define:
+
+Animation.
+
+Audio.
+
+Accessibility.
+
+Failure states.
+
+Alternative methods.
+
+NPC reactions.
+
+Story opportunities.
+
+Gameplay progression.
+ ------------------------------------------------------------
+
+WORK ORDER 026
+
+Create:
+
+docs/design_notes/community_simulation_bible.md
+
+Purpose
+
+Define how civilization lives.
+
+Document:
+
+Births.
+
+Deaths.
+
+Schools.
+
+Gardens.
+
+Festivals.
+
+Birthdays.
+
+Memorials.
+
+Volunteer work.
+
+Neighborhood councils.
+
+Maintenance schedules.
+
+Construction.
+
+Research.
+
+Friendships.
+
+Families.
+
+Relationships.
+
+Dating.
+
+Marriage.
+
+Adoption.
+
+Pets.
+
+Service animals.
+
+Restaurants.
+
+Music.
+
+Sports.
+
+Libraries.
+
+Museums.
+
+Religious gatherings.
+
+Community meetings.
+
+Disaster recovery.
+
+Economic activity.
+
+Trade.
+
+Food distribution.
+
+Utilities.
+
+Children's games.
+
+Seasonal celebrations.
+
+Every NPC continues living whether or not the player is present.
+
+------------------------------------------------------------
+
+WORK ORDER 027
+
+Expand:
+
+docs/01_Project_Constitution.md
+
+Do not replace.
+
+Purpose
+
+Create the definitive Design Principles section.
+
+Document:
+
+What Resonance always does.
+
+What Resonance never does.
+ Accessibility philosophy.
+
+Community philosophy.
+
+Narrative philosophy.
+
+Player philosophy.
+
+Scientific philosophy.
+
+Representation philosophy.
+
+World-building philosophy.
+
+Multiplayer philosophy.
+
+Knowledge philosophy.
+
+Combat philosophy.
+
+Audio philosophy.
+
+UI philosophy.
+
+Save philosophy.
+
+Exploration philosophy.
+
+Include:
+
+THINGS WE WILL NEVER DO
+
+Never require vision.
+
+Never require hearing.
+
+Never require one control method.
+
+Never force multiplayer.
+
+Never use accessibility as a cheat.
+
+Never make disability a joke.
+
+Never reduce a character to identity alone.
+
+Never make the player the chosen one.
+
+Never pause civilization because the player logged out.
+
+Never treat an entire species as one culture.
+
+Never retcon established canon without explicit creator approval.
+
+Never make violence the only solution.
+
+Never make NPCs exist solely to give quests.
+
+Never make accessibility optional.
+
+Never design a mechanic without narrative purpose.
+
+Never design narrative without gameplay purpose.
+
+This becomes the studio constitution.
+
+------------------------------------------------------------
+
+WORK ORDER 028
+
+Create:
+
+docs/design_notes/discovery_bible.md
+
+Purpose
+
+Define curiosity.
+
+Document:
+
+Environmental storytelling.
+
+Hidden journals.
+
+Scientific discoveries.
+
+Optional conversations.
+
+Historical discoveries.
+
+Secret rooms.
+
+Maintenance secrets.
+
+Engineering secrets.
+
+Medical discoveries.
+
+Research discoveries.
+
+Accessibility discoveries.
+
+Community discoveries.
+
+Player-created discoveries.
+
+Knowledge Archive discoveries.
+
+Resonance Logs.
+
+Progressive mystery solving.
+
+How discovery changes gameplay.
+
+How discovery changes dialogue.
+
+How discovery changes future campaigns.
+
+------------------------------------------------------------
+
+WORK ORDER 029
+
+Create:
+
+docs/design_notes/franchise_asset_bible.md
+
+Purpose
+
+Define every asset category.
+
+Characters.
+
+Creatures.
+
+Species.
+
+Vehicles.
+
+Ships.
+
+Escape pods.
+
+Stations.
+
+Worlds.
+
+Cities.
+
+Buildings.
+
+Rooms.
+ Furniture.
+
+Medical equipment.
+
+Engineering equipment.
+
+Maintenance tools.
+
+Security tools.
+
+Research tools.
+
+Weapons.
+
+Clothing.
+
+Uniforms.
+
+Food.
+
+Plants.
+
+Trees.
+
+Animals.
+
+Service animals.
+
+Guide animals.
+
+Robots.
+
+AI.
+
+Holograms.
+
+Particles.
+
+Lighting.
+
+Materials.
+
+UI assets.
+
+Audio assets.
+
+Animations.
+
+Portraits.
+
+Icons.
+
+Accessibility assets.
+
+Every asset receives:
+
+Naming standards.
+
+File organization.
+
+LOD rules.
+
+Animation rules.
+
+Audio references.
+
+Accessibility metadata.
+
+Localization requirements.
+
+Future expansion rules.
+
+------------------------------------------------------------
+
+WORK ORDER 030
+
+Create:
+
+docs/design_notes/production_pipeline_bible.md
+
+Purpose
+
+Define how new content enters the franchise.
+
+Document:
+
+Idea.
+
+Review.
+
+Canon check.
+
+Representation review.
+
+Accessibility review.
+
+Audio review.
+
+Narrative review.
+
+Gameplay review.
+
+Technical review.
+
+Implementation.
+
+Testing.
+
+Localization.
+
+Regression testing.
+
+Documentation.
+
+Approval.
+
+Repository integration.
+
+Every future chapter, mechanic, character, species, civilization, room and gameplay system follows this workflow.
+
+------------------------------------------------------------
+
+END STATE
+
+After these documents exist, the repository should function like a professional game studio's pre-production documentation.
+
+Future developers should be able to join the project, read the repository, and understand not only WHAT Resonance is, but WHY every major design decision was made.

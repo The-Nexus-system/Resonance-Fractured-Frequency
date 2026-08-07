@@ -1,0 +1,255 @@
+WORK ORDER 013
+
+Create:
+
+docs/design_notes/gameplay_progression_matrix.md
+
+Maintain all established canon.
+
+Reference:
+
+- docs/03_Campaign_Bible.md
+
+- docs/design_notes/crew_progression_system.md
+
+- docs/design_notes/operation_one_exodus_perspective_map.md
+
+- docs/design_notes/operation_one_exodus_master_timeline.md
+
+- docs/design_notes/modular_architecture_bible.md
+
+- docs/04_Systems_Bible.md
+
+- docs/11_Decision_Log.md
+
+Use proper Markdown headings.
+
+Do not write code.
+
+Do not summarize.
+
+Do not use placeholder text.
+
+This document becomes the definitive gameplay progression reference for the Resonance franchise.
+
+----------------------------------------------------------------
+
+PURPOSE
+
+Every gameplay mechanic must have:
+
+A narrative reason.
+
+A professional reason.
+
+A progression reason.
+
+An accessibility reason.
+
+This document maps every gameplay system from first introduction through full mastery.
+
+----------------------------------------------------------------
+
+CANON RULES
+ Players do not unlock mechanics because they level up.
+
+Players unlock mechanics because:
+
+They learn.
+
+They rescue people.
+
+They build community.
+
+They discover knowledge.
+
+They improve accessibility.
+
+Every mechanic must permanently expand future possibilities.
+
+Nothing is unlocked arbitrarily.
+
+----------------------------------------------------------------
+
+For every gameplay system define:
+
+Initial introduction.
+
+Tutorial chapter.
+
+Tutorial profession.
+
+Core loop.
+
+Intermediate mastery.
+
+Advanced mastery.
+
+Late-game mastery.
+
+Interaction with every other gameplay system.
+
+Accessibility considerations.
+
+Failure states.
+
+Alternative solutions.
+
+Narrative purpose.
+
+Emotional purpose.
+
+Replay value.
+
+----------------------------------------------------------------
+
+Document progression for:
+
+Maintenance
+
+Engineering
+
+Medical
+
+Research
+
+Security
+
+Logistics
+
+Command
+
+Construction
+
+Fabrication
+
+Exploration
+
+Scanning
+
+Repair
+
+Rescue
+
+Docking
+
+EVA
+
+Crew Management
+
+Knowledge Archive
+ Accessibility
+
+Navigation
+
+Audio Navigation
+
+Environmental Observation
+
+Diplomacy
+
+Negotiation
+
+Artifact Research
+
+Shawabti Technology
+
+Civilian Community Building
+
+Settlement Expansion
+
+Large-scale Operations
+
+----------------------------------------------------------------
+
+Crew Progression
+
+For every rescued crew member define:
+
+Exactly which gameplay mechanics become available.
+
+Exactly which mechanics improve.
+
+Exactly which mechanics become easier.
+
+Exactly which mechanics become safer.
+
+Exactly which mechanics gain accessibility improvements.
+
+Exactly which future mechanics become possible.
+
+----------------------------------------------------------------
+
+Knowledge Progression
+
+Define how knowledge unlocks:
+
+Dialogue.
+
+Engineering.
+
+Medical.
+
+Diplomacy.
+
+Construction.
+
+Accessibility.
+
+Alternative endings.
+
+Combat avoidance.
+
+Scientific discoveries.
+
+Settlement options.
+
+----------------------------------------------------------------
+
+Accessibility Progression
+
+Accessibility itself should progress.
+
+The player gradually gains:
+
+Better audio rendering.
+
+Better tactile navigation.
+
+Better communication options.
+
+Better orientation systems.
+
+Better NPC collaboration.
+
+Better adaptive interfaces.
+
+Accessibility is progression.
+
+----------------------------------------------------------------
+
+Campaign Matrix
+
+For every campaign identify:
+
+New gameplay systems introduced.
+
+Gameplay systems expanded.
+
+Gameplay systems mastered.
+
+Gameplay systems unavailable.
+
+Shared mechanics.
+
+Profession-exclusive mechanics.
+
+----------------------------------------------------------------
+
+End State
+
+This document becomes the master reference for gameplay progression.
+
+Future campaigns should reference this document before introducing any new mechanic.
+
+No gameplay system should appear in the franchise without first being mapped here.

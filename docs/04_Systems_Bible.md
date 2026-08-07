@@ -105,3 +105,17 @@ Escape pods, fighters, and capital ships share one control philosophy. Faience a
 ## Boarding and exploration
 
 Players board enemy ships, derelicts, space stations, alien ruins, and abandoned colonies. Exploration relies on sound, conversation, objects, ship logs, environmental storytelling, and archives. Faience should rarely explain everything immediately, because discovery is part of the gameplay.
+
+## Relationship to other documents
+
+This document is the definitive reference for gameplay systems and mechanics.
+
+- The Project Constitution defines the philosophy these systems serve.
+- The Canon Rules document holds the master wording of the rules these systems implement.
+- The Campaign Bible defines the chapters through which each system is introduced.
+- The Audio Bible elaborates how systems are heard, including spatial audio in play.
+- The Accessibility Bible defines the accessibility standards every system must meet.
+- The Knowledge Archive Bible elaborates how knowledge changes gameplay.
+- The Network and Multiplayer Bible elaborates the persistent-world model these systems run within.
+- The Player Interaction Bible and Gameplay Progression Matrix design notes elaborate individual interactions and long-term progression.
+- The Decision Log records when system decisions were adopted or amended.

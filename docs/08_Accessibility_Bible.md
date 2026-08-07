@@ -145,3 +145,16 @@ For the definitive rules on sound, music, and acoustic identity, see the Audio B
 ## Accessibility in multiplayer
 
 Accessibility preferences remain individual to each player. One player's accessibility settings must never alter another player's experience. See the Network and Multiplayer Bible for details.
+
+## Relationship to other documents
+
+This document is the definitive reference for accessibility standards across the franchise.
+
+- The Project Constitution establishes accessibility as a core principle, not an optional feature.
+- The Canon Rules document holds the master wording of the accessibility rules, including Accessibility Is Standard Equipment.
+- The Audio Bible defines the audio-first rendering and the captions and non-audio equivalents these standards require.
+- The Systems Bible elaborates how every mechanic meets these standards.
+- The Universe Bible records how accessibility works inside the fiction, including care systems, service partners, and accessibility across species.
+- The Accessibility Lab design note is the experimental space for emerging accessibility technology.
+- The Playtesting Bible elaborates how accessibility is verified with players.
+- The Decision Log records when accessibility decisions were adopted or amended.

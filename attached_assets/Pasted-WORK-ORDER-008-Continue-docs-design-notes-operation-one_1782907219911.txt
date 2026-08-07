@@ -1,0 +1,335 @@
+WORK ORDER 008
+
+Continue:
+
+docs/design_notes/operation_one_exodus_master_timeline.md
+
+Maintain all established canon.
+
+Use proper Markdown headings.
+
+Do not write code.
+
+Do not summarize.
+
+This document is the definitive chronological reference for Operation One: Exodus.
+
+# Day Six
+
+# Part Four
+
+## Theme
+
+Competence.
+
+Routine.
+
+Growth.
+
+Connection.
+
+Day Six should feel almost identical to Day Seven.
+
+The subtle differences matter.
+
+The player begins noticing people instead of simply noticing departments.
+
+Relationships begin forming naturally.
+
+The player is becoming part of the community.
+
+---
+
+## 05:30
+
+### Night Shift
+
+CSV Hearth continues operating without interruption.
+
+Overnight maintenance completes several preventative inspections scheduled the previous evening.
+
+Engineering successfully recalibrates the generator harmonics Mara identified yesterday.
+
+Research records another night of deep-space observations.
+
+Medical reports an uneventful night.
+
+Security reports no incidents. 
+Hydroponics begins another harvest cycle.
+
+Nothing unusual occurs.
+
+Routine itself becomes reassuring.
+
+---
+
+## 06:30
+
+### Morning Announcement
+
+Captain Elian of the Vale System begins the day.
+
+"This is Captain Elian of the Vale System.
+
+Good morning, everyone.
+
+Yesterday's work became today's ordinary life.
+
+Doors opened.
+
+Lights stayed on.
+
+Meals were prepared.
+
+Children learned.
+
+Patients recovered.
+
+Ships continued flying.
+
+Most people never noticed.
+
+Thank you.
+
+Civilization is built by ordinary people doing ordinary things well.
+
+Have a wonderful day."
+
+Morning music begins.
+
+Artificial sunrise gradually brightens Hearth once again.
+
+The player recognizes the routine.
+
+The station already feels familiar.
+
+---
+
+## 07:00
+
+### Shift Handover
+
+Maintenance
+
+Yesterday's completed work orders are reviewed.
+
+Several departments submit appreciation notes rather than complaints.
+
+Preventative maintenance prevented several potential equipment failures overnight.
+
+Engineering
+
+Mara confirms stable power systems.
+
+She invites the player to listen to the generators again.
+
+The subtle harmonic drift has disappeared.
+
+The player begins understanding engineering through sound rather than numbers.
+
+Medical
+
+Samira begins rounds.
+
+Several patients have already improved enough to return to work.
+
+Medical success is measured by people returning to their lives.
+
+Security
+
+Talia begins another day of community patrols.
+
+Most interactions involve helping rather than enforcement.
+
+Research
+
+Soren notices a tiny irregularity within the latest astronomical observations.
+
+The anomaly remains statistically insignificant.
+
+It is documented.
+
+Nothing more.
+
+Command
+
+Captain Gideon requests additional astronomical modeling.
+
+Captain Naomi quietly approves another emergency systems inspection.
+
+Captain Iris schedules another civilian listening session.
+
+Captain Elian walks the station before formal meetings begin.
+
+---
+
+## Character Development
+
+The player now recognizes familiar routines.
+
+Rowan automatically hands the player today's work tablet before being asked.
+
+Mara greets the player by recognizing their footsteps.
+
+Samira asks how yesterday's shoulder strain feels after moving heavy equipment.
+
+Jonah thanks the player for finishing repairs ahead of schedule.
+
+Talia jokes that Maintenance is making Security's job boring.
+
+Soren briefly forgets breakfast while reviewing overnight observations.
+
+Mira proudly shows the player yesterday's drawing.
+
+Faience remains silent.
+
+---
+
+## New Routine Work Orders
+
+Today's work emphasizes improving quality of life rather than repairing failures.
+
+Examples include:
+
+Installing new tactile navigation strips.
+
+Adjusting lighting within public gardens.
+
+Repairing playground equipment.
+
+Improving classroom acoustics.
+
+Replacing worn handrails.
+
+Updating public caption displays.
+
+Inspecting hover-chair charging stations.
+
+Calibrating emergency haptic guidance beacons.
+
+Improving accessibility remains ordinary maintenance.
+ No one refers to these tasks as special accommodations.
+
+They are simply good engineering.
+
+---
+
+## Community Life
+
+The player notices yesterday's work already affecting daily life.
+
+Children instinctively follow newly installed tactile pathways.
+
+An elderly resident thanks Maintenance for repairing a lift.
+
+Teachers comment that classroom acoustics sound clearer.
+
+Medical staff report improved accessibility after workstation adjustments.
+
+Engineers compliment preventative maintenance completed overnight.
+
+The player sees the consequences of quiet work.
+
+---
+
+## Cross-Perspective Moments
+
+Maintenance assists Engineering with a generator inspection.
+
+Engineering Campaign later reveals Mara teaching apprentices why she trusts sound over visual displays.
+
+Samira pauses to compliment newly repaired rehabilitation equipment.
+
+Medical Campaign later shows how important those repairs were to a patient's recovery.
+
+Jonah reroutes cargo around an ongoing maintenance project.
+
+Logistics Campaign later explains the complex planning involved.
+
+Captain Elian thanks the player in passing.
+
+Command Campaign later reveals Elian intentionally memorizes maintenance crew names because invisible work deserves recognition.
+
+Mira asks whether machines enjoy being repaired.
+
+The Civilian Campaign later expands that conversation.
+
+---
+
+## Soundscape
+
+The player begins noticing change through sound.
+
+Generator harmonics sound smoother.
+
+Lift doors close more quietly after maintenance.
+
+Children confidently navigate corridors using tactile landmarks.
+
+Medical rehabilitation equipment sounds less strained.
+
+Public spaces feel fuller.
+
+The player unconsciously realizes they can hear yesterday's work.
+
+---
+
+## Environmental Storytelling
+
+Several details reinforce continuity.
+
+Yesterday's thank-you notes remain pinned to the Maintenance workshop wall.
+
+The repaired playground is now full of children.
+
+Community gardens contain new seedlings planted overnight.
+
+Musicians rehearse for the upcoming weekend gathering.
+
+A maintenance apprentice proudly copies Rowan's organizational system.
+
+Nothing dramatic happens.
+
+Everything changes slowly.
+
+---
+
+## Narrative Purpose
+
+Teach that maintenance creates tomorrow's ordinary life.
+
+The player begins seeing long-term consequences rather than isolated repairs.
+
+Community develops because people continue caring for it every day.
+
+---
+
+## Emotional Goal
+
+The player should begin feeling ownership.
+
+Not ownership of Hearth.
+
+Responsibility for Hearth.
+
+The player quietly starts noticing things that need attention before Rowan mentions them.
+
+Without realizing it...
+
+They are becoming part of the crew.
+
+---
+
+## End State
+
+Day Six morning concludes.
+
+CSV Hearth continues another ordinary day.
+
+The routines feel increasingly familiar.
+
+The player no longer feels like a visitor.
+
+They feel like they belong.
+
+Day Six continues in Part Five.

@@ -1,0 +1,360 @@
+WORK ORDER 009
+
+Create:
+
+docs/design_notes/operation_one_exodus_character_schedule.md
+
+Maintain all established canon from:
+
+- docs/03_Campaign_Bible.md
+
+- docs/design_notes/operation_one_exodus_master_timeline.md
+
+- docs/design_notes/crew_progression_system.md
+
+- docs/design_notes/operation_one_exodus_perspective_map.md
+
+- docs/11_Decision_Log.md
+
+Use proper Markdown headings.
+
+Do not write code.
+
+Do not summarize.
+
+This document is a franchise canon document.
+
+# Operation One: Exodus
+
+# Character Schedule
+
+## Purpose
+
+This document defines the ordinary lives of the people aboard CSV Hearth.
+
+The Master Timeline answers:
+
+"What happened?"
+
+This document answers:
+
+"Where is everyone when it happens?"
+
+Every playable campaign references this document before creating scenes.
+
+If a campaign conflicts with this schedule, this document is canon.
+
+---
+
+# Canon Rules
+
+## Canon Rule
+
+Characters continue living their lives when the player is somewhere else.
+
+No character waits for the player.
+ Everyone has responsibilities independent of gameplay.
+
+---
+
+## Canon Rule
+
+Professional responsibilities always come before plot convenience.
+
+Characters feel like real crew members rather than quest givers.
+
+---
+
+## Canon Rule
+
+Every recurring character has a complete daily routine.
+
+Wake.
+
+Meals.
+
+Work.
+
+Breaks.
+
+Community.
+
+Sleep.
+
+Routine creates personality.
+
+---
+
+## Canon Rule
+
+Every recurring character should naturally appear in multiple campaigns.
+
+No appearance should feel forced.
+
+Crossovers happen because people work together.
+
+---
+
+## Canon Rule
+
+Characters should become recognizable by routine.
+
+The player should eventually know where someone probably is without opening a map.
+
+---
+
+# Schedule Template
+
+Every recurring character should contain the following sections.
+
+## Identity
+
+Full name.
+
+Role.
+
+Department.
+
+Rank.
+
+Disability.
+
+Primary workplace.
+
+Secondary workplace.
+
+Home neighborhood.
+
+Typical communication style.
+
+---
+
+## Daily Routine
+
+Wake time.
+
+Morning routine.
+
+Breakfast.
+
+Work start.
+
+Morning duties.
+
+Lunch.
+
+Afternoon duties.
+
+Evening routine.
+
+Community involvement.
+
+Night routine.
+
+Sleep.
+
+---
+
+## Weekly Responsibilities
+
+Meetings.
+
+Training.
+
+Maintenance.
+
+Community events.
+
+Teaching.
+
+Volunteer work.
+
+Festival participation.
+
+Emergency preparedness.
+
+---
+
+## Professional Responsibilities
+
+Primary responsibilities.
+
+Secondary responsibilities.
+
+Who reports to them.
+
+Who they report to.
+
+Departments they interact with most often.
+
+---
+
+## Community Relationships
+
+Friends.
+
+Frequent coworkers.
+
+Mentors.
+
+Students.
+
+Neighbors.
+
+Regular lunch companions.
+
+Children who know them.
+
+Residents they routinely help.
+
+---
+
+## Accessibility
+
+Adaptive equipment.
+
+Communication methods.
+
+Environmental adaptations.
+
+Workplace accommodations.
+
+How they naturally improve accessibility for others.
+
+---
+
+## Sound Identity
+
+Voice.
+
+Footsteps.
+
+Mobility sounds.
+
+Equipment.
+
+Tools.
+
+Habitual sounds.
+
+Music preferences.
+
+Environmental cues.
+
+Players should eventually recognize this person without visual confirmation.
+
+---
+
+## Cross-Perspective Scenes
+
+Identify every campaign where this character naturally appears.
+
+Maintenance.
+
+Engineering.
+
+Medical.
+
+Research.
+
+Security.
+
+Logistics.
+
+Command.
+
+Civilian.
+
+Describe why they appear.
+
+Never because the plot requires them.
+
+Always because their responsibilities naturally place them there.
+
+---
+
+## Emergency Routine
+
+Where this character reports.
+
+Who they check first.
+
+Who they protect.
+
+Who they coordinate with.
+
+How their routine changes during General Quarters.
+
+Where they are likely to be when the attack begins.
+
+---
+
+# Characters
+
+Create complete schedules for:
+
+Captain Elian of the Vale System
+
+Captain Naomi of the Vale System
+
+Captain Gideon of the Vale System
+
+Captain Iris of the Vale System
+
+Rowan Ives
+
+Mara Chen
+
+Doctor Samira Kade
+
+Chief Petty Officer Jonah Briggs
+
+Security Lead Talia Rusk
+
+Dr. Soren Qadir
+
+Mira Ives
+
+Faience
+
+---
+
+# Department Rhythm
+
+Document the daily operating rhythm of:
+
+Command
+
+Maintenance
+
+Engineering
+
+Medical
+
+Research
+
+Security
+
+Logistics
+
+Education
+
+Hydroponics
+
+Manufacturing
+
+Civilian Services
+
+Transportation
+
+Flight Operations
+
+Each department should feel alive whether or not the player is present.
+
+---
+
+# End State
+
+This document becomes the definitive reference for where every major character is, what they are doing, and why they are there throughout Operation One.
+
+Future campaigns should reveal different perspectives of these established routines rather than creating new continuity.

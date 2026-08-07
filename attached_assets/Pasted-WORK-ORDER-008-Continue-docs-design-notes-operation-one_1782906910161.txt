@@ -1,0 +1,479 @@
+WORK ORDER 008
+
+Continue:
+
+docs/design_notes/operation_one_exodus_master_timeline.md
+
+Maintain all established canon from:
+
+- docs/03_Campaign_Bible.md
+- docs/design_notes/operation_one_exodus_maintenance_chapter_one.md
+- docs/design_notes/operation_one_exodus_maintenance_chapter_two.md
+- docs/design_notes/crew_progression_system.md
+- docs/11_Decision_Log.md
+
+Use proper Markdown headings.
+
+Do not write code.
+
+Do not summarize.
+
+This document is the definitive chronological reference for Operation One: Exodus.
+
+# Day Seven
+
+## Theme
+
+Routine.
+
+Belonging.
+
+Purpose.
+
+Community.
+
+The player begins learning that Hearth is not transportation.
+
+Hearth is home.
+
+Nothing extraordinary happens today.
+
+That is intentional.
+
+The player should begin emotionally investing in ordinary life.
+
+---
+
+## 05:30
+
+### Night Shift
+
+Most of Hearth is still asleep.
+
+Maintenance crews quietly finish overnight inspections.
+
+Engineering completes overnight diagnostics.
+
+Medical staff monitor overnight patients.
+
+Security patrols continue through quiet corridors.
+
+Hydroponics begins its first harvest cycle beneath artificial sunrise lighting.
+
+Cleaning crews quietly restore public spaces before the station wakes.
+
+The player hears:
+
+Soft ventilation.
+
+Distant machinery.
+
+Wheelchairs crossing polished flooring.
+
+Cleaning equipment.
+
+Quiet conversations between overnight staff.
+
+Coffee brewing.
+
+The station feels peaceful.
+
+---
+
+## 06:00
+
+### Shift Change
+
+Night crews begin handing responsibilities to day crews.
+
+Maintenance reviews overnight work orders.
+
+Engineering reports stable power generation.
+
+Medical reports routine overnight care.
+
+Security reports no incidents.
+
+Research notes several interesting astronomical observations for later discussion.
+
+Cargo prepares for routine inventory movement.
+
+The player witnesses departments cooperating naturally.
+
+Nobody works in isolation.
+
+---
+
+## 06:30
+
+### Morning Announcement
+
+Captain Elian of the Vale System speaks over the station.
+
+"This is Captain Elian of the Vale System.
+
+Good morning, everyone.
+
+Whether you're preparing breakfast...
+
+Changing a coolant pump...
+
+Helping someone through physical therapy...
+
+Teaching today's lessons...
+
+Repairing tomorrow's problems before they happen...
+
+Or simply making someone smile...
+
+Thank you.
+
+Every job matters.
+
+Every person matters.
+
+Let's take good care of one another today."
+
+Gentle instrumental music follows.
+
+Lighting gradually brightens throughout habitation decks.
+
+Artificial sunrise begins.
+
+Across the station people begin waking naturally.
+
+---
+
+## 06:45
+
+### Civilian Life Begins
+
+Families prepare for school and work.
+
+Children race through corridors.
+
+Parents negotiate breakfast.
+
+Morning exercise groups begin.
+
+Several residents walk service dogs through designated recreation corridors.
+
+Public gardens begin opening.
+
+Coffee shops begin serving breakfast.
+
+The player is encouraged to wander.
+
+Nothing is urgent.
+
+Exploration is rewarded.
+
+---
+
+## Accessibility in Everyday Life
+
+Throughout the station the player naturally observes:
+
+Braille beside every doorway.
+
+High-contrast tactile flooring.
+
+Accessible elevators.
+
+Live captions displayed on public announcement screens.
+
+Announcements transmitted through:
+
+Speech.
+
+Text.
+
+Haptic pulses.
+
+Visual lighting cues.
+
+Every public terminal supports:
+
+Speech.
+
+Touch.
+
+Braille displays.
+
+Switch access.
+
+AAC devices.
+
+Nobody comments on accessibility.
+
+It is simply how Hearth was built.
+
+---
+
+## 07:00
+
+### Department Briefings
+
+Maintenance
+
+Rowan conducts the morning briefing.
+
+Assignments focus almost entirely on preventative maintenance.
+
+Rowan reminds the crew:
+
+"If we do our jobs right today, nobody notices we were here."
+
+Engineering
+
+Mara reviews overnight diagnostics.
+
+She notices several generator harmonics drifting slightly outside preferred tolerances.
+
+No emergency exists.
+
+She schedules inspection later in the week.
+
+Medical
+
+Doctor Samira Kade begins rounds.
+
+She checks overnight patients.
+
+Reviews rehabilitation plans.
+
+Confirms medication schedules.
+
+Communicates naturally through ASL, projected captions and speech depending upon individual preference.
+
+Security
+
+Talia assigns patrols.
+
+Today's priorities include:
+
+Emergency exit inspections.
+
+Fire suppression testing.
+
+Community outreach.
+
+School visit.
+
+Research
+
+Soren presents unusual stellar readings collected overnight.
+
+Most researchers consider them interesting but routine.
+
+The player later recognizes these observations foreshadow Operation One.
+
+Command
+
+Captain Gideon reviews long-range navigation.
+
+Captain Iris meets newly arrived civilian families.
+
+Captain Naomi quietly inspects emergency readiness reports.
+
+Captain Elian walks through public areas greeting crew members by name.
+
+---
+
+## 07:30
+
+### School Begins
+
+Children begin classes.
+
+Mira arrives early.
+
+Before lessons officially begin she is already asking questions.
+
+Why do stars move differently outside the observation dome?
+
+Why do generators hum differently after maintenance?
+
+Can sounds have shapes?
+
+Teachers smile.
+
+Nobody discourages curiosity.
+
+The player may overhear these conversations.
+
+Many become important later.
+
+---
+
+## 08:00
+
+### Maintenance Shift Begins
+
+The player officially begins work.
+
+No pop-up tutorial appears.
+
+Instead Rowan hands the player a work tablet.
+
+Today's assignments include:
+
+Repairing automatic doors.
+
+Replacing worn tactile flooring.
+
+Lubricating lift mechanisms.
+
+Checking emergency lighting.
+
+Replacing environmental sensors.
+
+Inspecting cargo lift safety systems.
+
+Minor plumbing repairs.
+
+None of these jobs seem important individually.
+
+Together they quietly keep civilization functioning.
+
+---
+
+## Natural Crossovers
+
+During routine work the player naturally encounters:
+
+Mara diagnosing generator harmonics.
+
+Samira helping a patient practice using a new mobility device.
+
+Jonah reorganizing supply deliveries.
+
+Talia chatting with schoolchildren while inspecting emergency exits.
+
+Soren carrying research samples.
+
+Captain Elian helping a civilian locate an appointment.
+
+Mira wandering into Engineering because she has another question.
+
+Faience remains inactive inside Research storage.
+
+No one pays special attention to the damaged helmet.
+
+It is simply another object waiting to be studied someday.
+
+---
+
+## Environmental Storytelling
+
+While completing work orders the player gradually learns:
+
+Which hallways are busiest.
+
+Which elevators each department prefers.
+
+Which cafés engineers frequent.
+
+Where security naturally gathers.
+
+How different decks sound.
+
+Where children like to play.
+
+Where people stop simply to talk.
+
+The player is not memorizing a map.
+
+The player is learning a neighbourhood.
+
+---
+
+## Soundscape
+
+The station should sound alive.
+
+Children laughing.
+
+Wheelchairs crossing textured flooring.
+
+Lift chimes.
+
+Coffee machines.
+
+Morning announcements fading into conversation.
+
+Maintenance carts.
+
+Engineering tools.
+
+Hydroponic irrigation.
+
+Soft music from civilian areas.
+
+Medical monitors.
+
+Public transit trams.
+
+The player should begin navigating by sound without realizing it.
+
+---
+
+## Gameplay Systems Reinforced
+
+Environmental navigation.
+
+Acoustic geography.
+
+Routine maintenance.
+
+Department cooperation.
+
+Accessibility as infrastructure.
+
+Community interaction.
+
+Observation.
+
+Exploration.
+
+No combat.
+
+No danger.
+
+Only life.
+
+---
+
+## Emotional Goal
+
+By the end of the morning the player should no longer think of CSV Hearth as a level.
+
+It should feel like somewhere they belong.
+
+They should have favourite corridors.
+
+Favourite people.
+
+Favourite sounds.
+
+Favourite routines.
+
+The loss of Hearth later only matters if the player first believes it was worth living aboard.
+
+---
+
+## End State
+
+The morning shift continues normally.
+
+Departments work together.
+
+Children attend lessons.
+
+Maintenance keeps civilization running.
+
+Engineering quietly prepares for work scheduled later in the week.
+
+No one realizes they are living through the final ordinary week aboard CSV Hearth.
+
+Day Seven continues in Part Two.

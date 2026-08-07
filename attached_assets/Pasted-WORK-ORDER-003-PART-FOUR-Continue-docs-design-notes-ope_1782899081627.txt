@@ -1,0 +1,321 @@
+WORK ORDER 003 — PART FOUR
+
+Continue:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_three.md
+
+Maintain all previously established canon.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Part Four
+
+## The First Tests
+
+### Purpose
+
+The player has spent Chapter Three learning how a community functions.
+
+This section asks the player to demonstrate that learning.
+
+The player must complete every test before Chapter Three can end.
+
+The order is chosen by the player.
+
+Each completed test permanently reinforces a gameplay system introduced earlier in the chapter.
+
+Each test also demonstrates why every crew member remains essential.
+
+No crew member solves their own test alone.
+
+The player participates in every solution.
+
+---
+
+### Gameplay Philosophy
+
+These are not examinations.
+
+These are ordinary problems experienced by a growing community.
+
+Nothing is world-ending.
+
+Nothing is a boss battle.
+
+These moments teach that civilization survives through countless small acts of cooperation.
+
+---
+
+## Test One
+
+### Rowan
+
+Problem
+
+A newly completed habitat module develops small structural problems.
+
+Player Learns
+
+Preventative maintenance.
+
+Player Decision
+
+Repair immediately.
+
+Or
+
+Continue observing before committing resources.
+
+Immediate repair consumes resources now but prevents future failures.
+
+Observation saves resources now but creates more repair work later.
+
+Neither choice is wrong.
+
+The player learns maintenance is about balancing risk.
+
+---
+
+## Test Two
+
+### Mara
+
+Problem
+
+Power demand exceeds projections after recent construction.
+
+Player Learns
+
+Power management.
+
+Player Decision
+
+Reduce power to non-essential systems.
+
+Or
+
+Reroute power and accept temporary instability.
+
+Or
+
+Delay expansion until additional generation is available.
+
+Each approach changes future engineering priorities.
+
+---
+
+## Test Three
+
+### Samira
+
+Problem
+
+Several crew members are exhausted after continuous construction.
+
+No one is seriously injured.
+ Player Learns
+
+Communities require recovery.
+
+Player Decision
+
+Continue construction.
+
+Schedule mandatory rest.
+
+Rotate work shifts.
+
+Different choices alter project timelines and crew morale.
+
+The player learns that efficiency is not always measured by speed.
+
+---
+
+## Test Four
+
+### Jonah
+
+Problem
+
+Three important projects now compete for the same resources.
+
+Player Learns
+
+Prioritization.
+
+Player Decision
+
+Determine which project receives available materials first.
+
+The remaining projects wait.
+
+Nothing is cancelled.
+
+Only delayed.
+
+The player's priorities begin shaping the station's history.
+
+---
+
+## Test Five
+
+### Talia
+
+Problem
+
+Routine inspection identifies several preventable safety hazards.
+
+Player Learns
+
+Risk assessment.
+
+Player Decision
+
+Correct every hazard before work resumes.
+
+Or
+
+Accept limited risk in order to maintain construction schedules.
+
+Future incidents reflect the player's philosophy toward safety.
+
+---
+
+## Test Six
+
+### Soren
+
+Problem
+
+An unusual material recovered from Hearth cannot be identified.
+
+Player Learns
+
+Scientific method.
+
+Player Decision
+
+Experiment immediately.
+
+Research existing records first.
+
+Ask other crew members for observations before forming conclusions.
+
+Different approaches unlock different Knowledge Archive entries.
+
+Curiosity is rewarded.
+
+Rushing assumptions is not.
+
+---
+
+## Test Seven
+
+### Mira
+
+Problem
+
+Mira notices something everyone else overlooked.
+
+The observation seems insignificant.
+
+The player chooses whether to investigate.
+
+Player Learns
+
+Never dismiss curiosity.
+
+If investigated:
+
+The player discovers an accessibility improvement, environmental shortcut, hidden resource or future story thread.
+
+If ignored:
+
+The opportunity remains available later, but the community misses an immediate improvement.
+
+The lesson is that valuable ideas can come from anyone.
+
+---
+
+## Test Eight
+
+### The Vale System
+
+Problem
+
+The previous seven tests produce conflicting priorities.
+
+Not everyone agrees.
+
+Player Learns
+ Leadership.
+
+Player Decision
+
+Before making a final decision, the player must speak with every primary crew member.
+
+Every crew member explains:
+
+Their concern.
+
+Their recommendation.
+
+Their reasoning.
+
+Only after hearing every perspective may the player make a final decision.
+
+The player's decision establishes the station's immediate direction moving into Chapter Four.
+
+---
+
+### Completion Requirement
+
+All eight First Tests must be completed before the chapter can end.
+
+No crew member may be skipped.
+
+Every completed test permanently expands the player's gameplay abilities.
+
+Every completed test reinforces one of the core philosophies of Resonance:
+
+Community.
+
+Accessibility.
+
+Curiosity.
+
+Adaptation.
+
+Shared knowledge.
+
+Hope.
+
+---
+
+### Chapter End
+
+The station successfully overcomes its first ordinary challenges.
+
+The player has demonstrated competence in every core community system.
+
+The crew is no longer simply surviving together.
+
+They are functioning together.
+
+As normal routines begin to resume...
+
+The unknown signal returns.
+
+This time it is stronger.
+
+Longer.
+
+Intentional.
+
+Someone—or something—knows the station exists.
+
+End Chapter Three.

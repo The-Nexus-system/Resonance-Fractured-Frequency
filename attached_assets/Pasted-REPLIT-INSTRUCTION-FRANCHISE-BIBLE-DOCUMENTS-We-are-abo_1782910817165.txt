@@ -1,0 +1,436 @@
+REPLIT INSTRUCTION — FRANCHISE BIBLE DOCUMENTS
+
+We are about to create the next core franchise bible documents for Resonance: Fractured Frequency.
+
+Before writing any of them, use the existing repository canon.
+
+Read and preserve canon from:
+
+docs/01_Project_Constitution.md
+
+docs/02_Universe_Bible.md
+
+docs/03_Campaign_Bible.md
+
+docs/04_Systems_Bible.md
+
+docs/05_Knowledge_Archive_Bible.md
+
+docs/06_AI_Bible.md
+
+docs/07_Audio_Bible.md
+
+docs/08_Accessibility_Bible.md
+
+docs/09_Network_and_Multiplayer_Bible.md
+
+docs/10_Code_Standards.md
+
+docs/11_Decision_Log.md
+
+docs/12_Glossary.md
+
+docs/design_notes/crew_progression_system.md
+
+docs/design_notes/operation_one_exodus_master_timeline.md
+
+docs/design_notes/operation_one_exodus_character_schedule.md
+
+docs/design_notes/operation_one_exodus_perspective_map.md
+
+docs/design_notes/modular_architecture_bible.md
+
+Do not contradict existing canon.
+
+Do not create duplicate documents if an existing bible already covers the topic. If a document already exists, update and expand the existing document instead of creating a competing version.
+
+Use proper Markdown headings.
+
+Do not use tables unless absolutely necessary.
+
+Do not write code.
+
+Do not summarize.
+
+Do not leave placeholder sections.
+
+Every document must be written as franchise canon.
+
+Core rules to preserve:
+
+Community is progression.
+
+People are progression.
+
+Knowledge is progression.
+
+Accessibility is civilization.
+
+Sound is navigation, memory, and world-rendering.
+
+Every chapter introduces one major gameplay system.
+
+Every chapter answers one major narrative question.
+
+Every chapter ends by asking a larger question.
+
+History does not change between perspectives.
+
+Perspective changes what the player knows, feels, notices, and misunderstands.
+
+No single perspective tells the whole truth.
+
+No accessibility feature is special equipment.
+
+Accessibility is ordinary infrastructure.
+
+No primary crew member becomes obsolete.
+
+No gameplay system exists without narrative purpose.
+
+No narrative event exists without gameplay meaning.
+
+The player is never the sole hero.
+
+The player helps civilization function.
+
+Documents to create or expand next:
+
+1. Knowledge Archive Bible
+
+If docs/05_Knowledge_Archive_Bible.md already exists, expand it instead of creating a duplicate.
+
+Define:
+
+Knowledge categories.
+
+Research unlocks.
+
+Historical records.
+
+Scientific records.
+
+Medical records.
+
+Engineering manuals.
+
+Disability history.
+
+Accessibility history.
+
+Human culture.
+
+Shawabti history.
+
+Living Archive rules.
+
+Resonance Logs.
+
+How knowledge changes gameplay, dialogue, diplomacy, exploration, accessibility, and construction.
+
+2. Accessibility Bible
+
+If docs/08_Accessibility_Bible.md already exists, expand it instead of creating a duplicate.
+
+Define:
+
+Blind navigation.
+
+Deaf communication.
+
+DeafBlind support.
+
+AAC.
+
+Braille displays.
+
+Captions.
+
+ASL and sign support.
+
+Haptics.
+
+Mobility access.
+
+Cognitive access.
+
+Neurodivergent access.
+
+No time-limit alternatives.
+
+Custom gestures.
+
+Shake/back-tap actions.
+
+Wearables.
+
+Emergency accessibility.
+
+Accessibility as world-building.
+
+3. Audio Bible
+
+If docs/07_Audio_Bible.md already exists, expand it instead of creating a duplicate.
+
+Define:
+
+Sound as primary renderer.
+
+Acoustic geography.
+
+Character sound identities.
+
+Department sound identities.
+
+Room sound identities.
+
+Silence as storytelling.
+
+Orientation layer.
+
+Independent volume channels.
+
+Environmental sound profiles.
+
+Hearing aids.
+
+Cochlear implants.
+
+Open headphones.
+
+No-audio mode.
+
+Tactile music.
+
+Spatial audio.
+
+Combat audio.
+
+Exploration audio.
+
+Emergency audio.
+
+4. Gameplay Systems Bible
+
+If docs/04_Systems_Bible.md already covers this, expand it instead of creating a duplicate.
+
+Define:
+
+Maintenance.
+
+Engineering.
+
+Medical.
+
+Research.
+
+Security.
+
+Logistics.
+
+Command.
+
+Civilian.
+
+Exploration.
+
+Salvage.
+
+Construction.
+
+Crew progression.
+
+Station progression.
+
+Expedition loop.
+
+Resonance interaction.
+
+Knowledge progression.
+
+Accessibility progression.
+
+NPC collaboration.
+
+5. NPC Interaction Bible
+
+Create only if no existing document covers it.
+
+Define:
+
+Daily greetings.
+
+Optional conversations.
+
+Crew memory.
+
+Relationship progression.
+
+Trust.
+
+Mentorship.
+
+Conflict.
+
+Crew disagreement.
+
+Community meetings.
+
+Advisor system.
+
+Crew requests.
+
+Cross-perspective scenes.
+
+How NPCs continue living when player is elsewhere.
+
+6. Technology Bible
+
+Create only if no existing document covers it.
+
+Define:
+
+Ships.
+
+Escape pods.
+
+Station modules.
+
+Fabricators.
+
+Medical equipment.
+
+Engineering tools.
+
+Mobility devices.
+
+AAC systems.
+
+Braille systems.
+
+Haptic systems.
+
+Sensors.
+
+Communications.
+
+Power systems.
+
+Resonance interfaces.
+
+Shawabti technology.
+
+Human technology.
+
+How technology supports people rather than replacing them.
+
+7. History Bible
+
+Create only if no existing document covers it.
+
+Define:
+
+Human history relevant to Resonance.
+
+CSV Hearth.
+
+Operation One.
+
+Shawabti history.
+
+Human-Shawabti mystery.
+
+Faience mystery.
+ Major timeline eras.
+
+What is known.
+
+What is suspected.
+
+What is intentionally unresolved.
+
+8. Faction Bible
+
+Create only if no existing document covers it.
+
+Define:
+
+Human civilian structures.
+
+Command structures.
+
+Research organizations.
+
+Medical organizations.
+
+Rescue services.
+
+Volunteer groups.
+
+Future governments.
+
+Shawabti.
+
+Unknown future civilizations.
+
+Faction philosophy.
+
+How factions interact.
+
+How diplomacy works.
+
+9. Philosophy Bible
+
+Create only if no existing document covers it.
+
+Define:
+
+What makes something feel like Resonance.
+
+Community before individual heroism.
+
+Accessibility as civilization.
+
+Curiosity before violence.
+
+Rescue before combat.
+
+Maintenance as hope.
+
+Leadership as service.
+
+Knowledge as responsibility.
+
+Technology serving people.
+
+Shared decision-making.
+
+No one disposable.
+
+Civilization as gameplay.
+
+Important instruction:
+
+Do not make these documents generic sci-fi references.
+
+Every document must feel specific to Resonance.
+
+Every section should answer:
+
+How does this affect gameplay?
+
+How does this affect story?
+
+How does this affect accessibility?
+
+How does this affect sound?
+
+How does this affect community?
+
+How does this remain useful across future campaigns and operations?
+
+End result:
+
+The repository should become a coherent franchise bible.
+
+Future chapters, campaigns, operations, sequels, DLC, novels, and prototypes should be able to reference these documents without reinventing canon.

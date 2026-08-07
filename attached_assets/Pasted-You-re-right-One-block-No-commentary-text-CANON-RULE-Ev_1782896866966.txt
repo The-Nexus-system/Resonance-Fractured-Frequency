@@ -1,0 +1,269 @@
+You're right. One block. No commentary.
+
+````text
+CANON RULE
+
+Every chapter must introduce one major gameplay system.
+
+Every chapter must answer one major narrative question.
+
+Every chapter must end by asking a larger question than it answered.
+
+Gameplay progression and narrative progression must grow together.
+
+The player should feel they are becoming more capable for the same reason the story is becoming more complex.
+
+--------------------------------------------------
+
+CANON RULE
+
+Operation One exists only once.
+
+Every profession experiences the same historical events.
+
+No profession changes history.
+
+Only perspective changes.
+
+The player gains a fuller understanding of the story by replaying different professions.
+
+Events that appear mysterious from one perspective become understandable from another.
+
+All profession campaigns must remain synchronized to the same timeline.
+
+--------------------------------------------------
+
+CANON RULE
+
+A campaign is not complete until every primary profession has been fully implemented.
+
+Maintenance is developed first.
+
+The remaining professions are then built upon the same historical timeline.
+
+Each profession contributes different gameplay, different knowledge, different responsibilities and different emotional experiences.
+
+--------------------------------------------------
+
+CANON RULE
+
+Every gameplay mechanic must be introduced by a person before it becomes a player ability.
+
+Players learn from people.
+
+Not menus.
+
+--------------------------------------------------
+
+CANON RULE
+
+No accessibility feature is considered special equipment.
+
+Accessibility technology is standard equipment aboard human vessels.
+
+Crew members customize interfaces rather than requesting permission to use them.
+
+--------------------------------------------------
+
+CANON RULE
+
+Every major location has an identifiable acoustic identity.
+
+Players should eventually recognize locations by sound before dialogue confirms where they are.
+
+--------------------------------------------------
+
+CANON RULE
+
+Silence is a deliberate storytelling tool.
+
+Silence should communicate emotion, danger, absence, distance or anticipation.
+
+Silence should never exist simply because audio has not yet been created.
+
+--------------------------------------------------
+
+CANON RULE
+
+Failure changes history.
+
+Failure does not normally restart history.
+
+Players recover from mistakes whenever narratively reasonable.
+
+Consequences become part of the continuing story.
+
+--------------------------------------------------
+
+CANON RULE
+
+Knowledge never exists only as collectible lore.
+
+Every Knowledge Archive entry must eventually change gameplay, dialogue, exploration, diplomacy, accessibility, relationships or player understanding.
+
+If knowledge changes nothing, it should not exist.
+
+--------------------------------------------------
+
+CANON RULE
+
+Every crew member teaches.
+
+Every crew member continues learning.
+
+Expertise is shared throughout the community.
+
+No crew member knows everything.
+
+--------------------------------------------------
+
+CANON RULE
+
+The player is never the smartest person in the room.
+
+Every crew member possesses expertise unavailable to the player.
+
+The player's greatest strength is bringing expertise together.
+
+--------------------------------------------------
+
+CANON RULE
+
+The player's home is always evolving.
+
+Rooms change.
+
+Soundscapes change.
+
+Relationships change.
+
+Daily routines change.
+
+The station continues living even when the player is elsewhere.
+
+--------------------------------------------------
+
+CANON RULE
+
+The player's actions create history.
+
+The player's observations create understanding.
+
+History and understanding are not always acquired at the same time.
+
+--------------------------------------------------
+
+CANON RULE
+
+Every chapter should leave the player's home better than it was before.
+
+Even during tragedy.
+
+Even during loss.
+
+Humanity continues building.
+
+Hope is measured by what people create together.
+
+--------------------------------------------------
+
+CANON RULE
+
+No primary crew member ever becomes obsolete.
+
+Every primary crew member remains mechanically and emotionally relevant throughout the entire campaign.
+
+Every chapter should provide meaningful opportunities for every primary crew member to contribute according to their expertise.
+
+People remain progression from the first rescue through the final chapter.
+
+--------------------------------------------------
+
+CANON RULE
+
+A rescued crew member is not considered home immediately after rescue.
+
+A crew member becomes home only after they unpack, settle, begin contributing and change the environment around them.
+
+Only then does their portrait illuminate.
+
+Portraits represent belonging, not recruitment.
+
+--------------------------------------------------
+
+CANON RULE
+
+Sound is progression.
+
+The player should hear the community growing before receiving visual confirmation.
+
+Every rescued crew member permanently changes the station's soundscape.
+
+Visual progression follows acoustic progression.
+
+--------------------------------------------------
+
+CANON RULE
+
+Community is progression.
+
+People—not equipment—are the primary progression system throughout Resonance.
+
+Technology supports people.
+
+People give technology purpose.
+
+--------------------------------------------------
+
+CANON RULE
+
+The station never grows because the player collected enough resources alone.
+
+The station grows because people work together.
+
+Major construction projects should require multiple crew members with different expertise.
+
+--------------------------------------------------
+
+CANON RULE
+
+No perspective may contradict another perspective.
+
+Different professions reveal different pieces of the same historical events.
+
+Together they create a complete historical record.
+
+No single profession tells the entire truth.
+
+--------------------------------------------------
+
+CANON RULE
+
+Every profession should answer three questions differently:
+
+What does this profession notice?
+
+What responsibilities does this profession carry?
+
+What knowledge is available only from this perspective?
+
+--------------------------------------------------
+
+CANON RULE
+
+Every gameplay system should reinforce the central themes of Resonance:
+
+Community.
+
+Accessibility.
+
+Curiosity.
+
+Adaptation.
+
+Shared knowledge.
+
+Hope.
+
+If a mechanic reinforces none of these themes, it should be reconsidered.
+````

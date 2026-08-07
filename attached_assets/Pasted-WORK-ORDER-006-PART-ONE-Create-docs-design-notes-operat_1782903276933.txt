@@ -1,0 +1,422 @@
+WORK ORDER 006 — PART ONE
+
+Create:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_six.md
+
+Maintain all previously established canon.
+
+Use proper Markdown headings.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Operation One: Exodus
+
+# Chapter Six
+
+## The Living Archive
+
+### Primary Question
+
+What were the Shawabti trying to preserve?
+
+### Chapter Answer
+
+More than knowledge.
+
+### Ending Question
+
+Why does Faience understand them?
+
+--------------------------------------------------
+
+## Purpose
+
+Chapter Six transforms the Knowledge Archive from a library into an active participant.
+
+The player no longer studies isolated discoveries.
+
+The player begins assembling an entire civilization from fragments.
+
+The chapter teaches that preserving knowledge also preserves values, relationships and ways of thinking.
+
+The player discovers that the Shawabti were preserving an entire civilization rather than simply recording history.
+ --------------------------------------------------
+
+## Emotional Themes
+
+Wonder.
+
+Empathy.
+
+Responsibility.
+
+Stewardship.
+
+Trust.
+
+Connection.
+
+Curiosity.
+
+Hope.
+
+--------------------------------------------------
+
+## Gameplay Themes
+
+Translation.
+
+Historical reconstruction.
+
+Pattern recognition.
+
+Archive exploration.
+
+Collaborative interpretation.
+
+Civilizational analysis.
+
+Resonance communication.
+
+--------------------------------------------------
+
+## Chapter Structure
+
+The chapter follows the established expedition loop.
+
+Prepare.
+
+Depart.
+
+Explore.
+
+Recover.
+
+Return.
+
+Reflect.
+
+Rebuild.
+
+However...
+
+For the first time the destination is not primarily physical.
+
+The player explores the Living Archive itself.
+
+--------------------------------------------------
+
+# Part One
+
+## Awakening
+
+### Purpose
+
+Introduce the Living Archive.
+
+Teach that preserved knowledge can respond intelligently without becoming artificial intelligence.
+
+Teach that Faience is changing.
+
+The player begins recognizing that Faience is no longer simply translating.
+
+Faience is remembering.
+
+--------------------------------------------------
+
+### Narrative
+
+Several days pass after the previous expedition.
+
+Life aboard the station continues.
+
+Recovered discoveries have been catalogued.
+
+Construction continues.
+
+The resonance chamber remains silent.
+
+Then...
+
+Without warning...
+
+The damaged helmet activates.
+
+No one touched it.
+
+No expedition has begun.
+
+A single harmonic tone fills the station.
+
+Faience quietly says:
+
+"I remember..."
+
+The crew falls silent.
+
+Nobody knows what Faience means.
+
+Not even Faience.
+
+--------------------------------------------------
+
+### Gameplay Purpose
+
+Introduce:
+
+Living Archive.
+
+Translation progression.
+
+Archive conversations.
+
+Historical reconstruction.
+
+Memory fragments.
+
+Collaborative interpretation.
+
+--------------------------------------------------
+
+### Player Decisions
+
+Decision One
+
+How should the community respond?
+ --------------------------------------------------
+
+Choice A
+
+Engineering Investigation
+
+Immediate Result
+
+Rowan and Mara begin analyzing the helmet.
+
+Future Effect
+
+Engineering understanding increases.
+
+New Resonance interfaces become available.
+
+Faience remains confused.
+
+--------------------------------------------------
+
+Choice B
+
+Scientific Investigation
+
+Immediate Result
+
+Soren begins documenting every change.
+
+Future Effect
+
+Additional Archive reconstruction.
+
+Expanded research tools.
+
+Translation progresses more quickly.
+
+--------------------------------------------------
+
+Choice C
+
+Medical Observation
+
+Immediate Result
+
+Samira monitors the crew and Faience for unexpected effects.
+
+Future Effect
+
+Additional understanding of Resonance's effects on living beings.
+
+New medical dialogue unlocks.
+
+--------------------------------------------------
+
+Choice D
+
+Simply Listen
+
+Immediate Result
+
+The crew does nothing.
+
+They allow Faience to continue speaking.
+
+Future Effect
+
+Additional memories surface naturally.
+
+Trust grows.
+
+Several technical discoveries occur later than other choices.
+
+--------------------------------------------------
+
+Decision Two
+
+Who should work most closely with Faience?
+
+The player chooses one primary collaborator.
+
+This changes interpretation.
+
+Not canon.
+
+--------------------------------------------------
+
+Choose Rowan
+
+Faience begins describing impossible engineering principles.
+
+Future Benefit
+
+Engineering research accelerates.
+
+--------------------------------------------------
+
+Choose Mara
+
+Faience begins responding through harmonic resonance.
+
+Future Benefit
+
+Advanced Resonance interpretation.
+
+--------------------------------------------------
+
+Choose Samira
+
+Faience discusses wellbeing, recovery and community health.
+
+Future Benefit
+
+Expanded rehabilitation systems.
+
+--------------------------------------------------
+
+Choose Jonah
+
+Faience begins organizing fragmented memories into historical timelines.
+
+Future Benefit
+
+Archive navigation becomes easier.
+
+--------------------------------------------------
+
+Choose Talia
+
+Faience begins discussing responsibility, protection and stewardship.
+
+Future Benefit
+
+Additional ethical dialogue.
+
+--------------------------------------------------
+
+Choose Soren
+
+Faience begins reconstructing historical relationships.
+
+Future Benefit
+
+Translation develops rapidly.
+
+--------------------------------------------------
+
+Choose Mira
+
+Faience answers questions nobody else considered asking.
+
+Future Benefit
+
+Additional optional discoveries.
+
+Unexpected Archive pathways.
+
+--------------------------------------------------
+
+Choose The Vale System
+
+Faience speaks with every member naturally.
+
+Future Benefit
+
+Additional collaborative dialogue.
+
+Expanded leadership interactions.
+
+--------------------------------------------------
+
+### Gameplay Systems Introduced
+
+Living Archive.
+
+Memory reconstruction.
+
+Translation progression.
+
+Archive conversations.
+
+Historical synthesis.
+ --------------------------------------------------
+
+### Accessibility
+
+Every Archive interaction supports:
+
+Speech.
+
+Captions.
+
+Braille displays.
+
+Environmental narration.
+
+Wearable haptics.
+
+Replay.
+
+Speed adjustment.
+
+No conversation should become inaccessible because it occurred only once.
+
+--------------------------------------------------
+
+### Emotional Goal
+
+The player should begin wondering whether Faience is translating the Shawabti...
+
+Or remembering them.
+
+--------------------------------------------------
+
+### End Condition
+
+Faience quietly speaks another Shawabti sentence.
+
+This time...
+
+The Living Archive responds.
+
+Not by displaying information.
+
+By asking a question.
+
+No one understands the language.
+
+Yet every crew member somehow understands the feeling behind it.
+
+The expedition into the Living Archive begins.
+
+End Part One.

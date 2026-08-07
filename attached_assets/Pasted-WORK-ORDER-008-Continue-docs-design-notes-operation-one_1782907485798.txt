@@ -1,0 +1,389 @@
+WORK ORDER 008
+
+Continue:
+
+docs/design_notes/operation_one_exodus_master_timeline.md
+
+Maintain all established canon.
+
+Use proper Markdown headings.
+
+Do not write code.
+
+Do not summarize.
+
+This document is the definitive chronological reference for Operation One: Exodus.
+
+# Day Five
+
+# Part Seven
+
+## Theme
+
+Mastery.
+
+Trust.
+
+Preparation.
+
+The player is no longer the newest member of Maintenance.
+
+Coworkers trust the player.
+
+Departments begin requesting the player by name.
+
+The player has become part of the rhythm of CSV Hearth.
+
+Nothing remarkable happens.
+
+That is exactly what makes this day important.
+
+---
+
+## 05:30
+
+### Night Shift
+
+The station continues its normal cycle.
+
+Overnight maintenance reports every scheduled inspection completed.
+
+Engineering confirms stable generator output.
+
+Medical reports one routine overnight admission.
+
+Security logs no significant incidents.
+
+Research records another unexplained deep-space anomaly.
+
+The anomaly appears for less than a second.
+ Soren flags it.
+
+Again.
+
+Nobody believes it represents immediate danger.
+
+---
+
+## 06:30
+
+### Morning Announcement
+
+Captain Elian of the Vale System begins another ordinary morning.
+
+"This is Captain Elian of the Vale System.
+
+Good morning, everyone.
+
+Take a moment today to notice the people whose work often goes unseen.
+
+Someone repaired the lift before you woke.
+
+Someone prepared breakfast.
+
+Someone kept the lights on through the night.
+
+Someone watched over patients while the rest of us slept.
+
+Civilization is built through trust.
+
+Thank you for trusting one another.
+
+Let's have another good day."
+
+The station slowly wakes.
+
+The announcement has become familiar.
+
+Comforting.
+
+The player now instinctively knows the rhythm of the morning.
+
+---
+
+## Morning Operations
+
+Maintenance begins another preventative maintenance cycle.
+
+The player receives increasingly independent assignments.
+
+Rowan no longer explains every task.
+
+Instead he asks:
+
+"What do you think should happen first?"
+
+The player is expected to prioritize work.
+
+Not simply complete it.
+
+The game quietly begins testing what the player has already learned.
+
+---
+
+## Department Status
+
+Maintenance
+
+Several long-term improvement projects begin.
+
+Engineering
+
+Power systems remain exceptionally stable.
+
+Mara begins training newer engineers without direct supervision.
+
+Medical
+
+Routine care.
+
+Accessibility consultations.
+
+Preventative wellness.
+
+Security
+
+Emergency response refresher.
+
+Community patrols.
+
+Public education.
+
+Research
+
+Long-range observations continue.
+
+Soren notices the anomaly appears slightly longer today.
+
+Still no alarm.
+
+Still no emergency.
+
+Command
+
+Routine governance.
+
+Civilian planning.
+
+Mission preparation.
+
+Long-term colony planning.
+
+Nobody anticipates disaster.
+
+---
+
+## Character Growth
+
+Captain Elian
+
+Now recognizes the player immediately.
+
+Greets them by name during morning rounds.
+
+Captain Naomi
+
+Quietly compliments Maintenance after reviewing emergency readiness.
+
+Captain Gideon
+ Requests updated vibration reports from Engineering and Maintenance.
+
+Captain Iris
+
+Invites the player to a civilian planning discussion regarding future neighborhoods.
+
+Rowan
+
+Begins treating the player as a fellow technician rather than a trainee.
+
+Mara
+
+Allows the player to diagnose several systems independently before confirming their conclusions.
+
+Samira
+
+Thanks Maintenance for improving accessibility inside Medical.
+
+Patient fatigue has noticeably decreased.
+
+Jonah
+
+Requests the player's input regarding future maintenance scheduling.
+
+Talia
+
+Asks Maintenance to review training equipment before tomorrow's emergency drill.
+
+Soren
+
+Shares a cup of coffee with the player.
+
+Mentions that deep space always becomes interesting just after everyone stops paying attention.
+
+Mira
+
+Presents another drawing.
+
+This one shows the entire station.
+
+Every department connected by colorful lines.
+
+She proudly explains:
+
+"Everybody makes everybody."
+
+No adult corrects her.
+
+---
+
+## New Gameplay Expectations
+
+The player now receives broader objectives.
+
+Examples include:
+
+Improve accessibility within an entire neighborhood.
+
+Reduce unnecessary power consumption.
+
+Decrease elevator downtime.
+
+Improve playground safety.
+
+Support Medical during rehabilitation equipment upgrades.
+
+Coordinate with Engineering before beginning repairs.
+
+The player begins thinking in systems instead of individual repairs.
+
+---
+
+## Cross-Perspective Events
+
+Engineering
+
+Mara teaches apprentices why preventative maintenance saves more lives than emergency repair.
+
+Medical
+
+Samira demonstrates how environmental design improves patient outcomes.
+
+Security
+
+Talia's emergency training quietly depends on Maintenance completing inspections first.
+
+Research
+
+Soren requests vibration isolation for sensitive equipment.
+
+Command
+
+Captain Elian publicly thanks every department during a community briefing.
+
+Civilian
+
+Mira's classroom begins constructing a scale model of Hearth.
+
+Every campaign later expands one of these scenes.
+
+---
+
+## Accessibility
+
+The player notices accessibility continually evolving.
+
+Maintenance receives improvement suggestions directly from residents.
+
+Many suggestions come from disabled crew members.
+
+Others come from engineers.
+
+Teachers.
+
+Children.
+
+Families.
+
+Accessibility belongs to everyone.
+
+The station improves because everyone contributes ideas.
+
+---
+
+## Soundscape
+
+The player now instinctively recognizes:
+
+Morning cargo.
+
+Engineering resonance.
+
+Medical shift change.
+
+Hydroponic irrigation.
+
+Public transit.
+
+School bells.
+
+Captain Elian's footsteps during morning rounds.
+
+Rowan's tool cart.
+
+Mara's diagnostic equipment.
+
+The station has become audible geography.
+
+---
+
+## Narrative Foreshadowing
+
+The unexplained stellar anomaly appears again.
+
+This time...
+
+Three different departments notice unrelated effects.
+
+Engineering detects a microscopic resonance fluctuation.
+
+Research records another unusual signal.
+
+Navigation requests another verification.
+
+No department possesses enough information to recognize the connection.
+
+The audience will.
+
+Much later.
+
+---
+
+## Emotional Goal
+
+The player should begin believing they have years ahead aboard Hearth.
+
+The future feels secure.
+
+The routines feel permanent.
+
+The friendships feel permanent.
+
+Nothing suggests that this confidence is misplaced.
+
+---
+
+## End State
+
+Day Five begins exactly as every other day has.
+
+The player now belongs completely.
+
+The station trusts them.
+
+The crew trusts them.
+
+Hearth feels less like where the player works...
+
+And more like where the player lives.
+
+Day Five continues in Part Eight.

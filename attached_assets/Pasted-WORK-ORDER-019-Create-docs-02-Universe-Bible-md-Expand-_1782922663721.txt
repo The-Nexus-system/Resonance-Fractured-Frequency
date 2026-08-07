@@ -1,0 +1,341 @@
+WORK ORDER 019
+
+Create:
+
+docs/02_Universe_Bible.md
+
+Expand the existing Universe Bible.
+
+Do NOT replace it.
+
+Do NOT rewrite existing canon.
+
+Expand the document into the definitive reference for every intelligent species, civilization, culture and society within the Resonance universe.
+
+Maintain all established canon.
+
+Use proper Markdown headings.
+
+Do not write code.
+
+Do not summarize.
+
+Do not leave placeholders.
+
+This is a franchise canon document.
+
+------------------------------------------------------------
+
+PURPOSE
+
+The Universe Bible defines every known intelligent species and civilization.
+
+It explains:
+
+Who exists.
+
+Where they live.
+
+How they communicate.
+
+How they govern themselves.
+
+How they build.
+
+How they learn.
+
+How they remember.
+
+How they cooperate.
+
+How they disagree.
+
+How they explore.
+
+How they interact with humanity.
+
+How they interact with one another.
+
+Every campaign, operation, novel, expansion and future civilization must reference this document.
+ ------------------------------------------------------------
+
+CANON RULE
+
+Species are not factions.
+
+Species are biological or artificial peoples.
+
+Civilizations are social, political and cultural organizations.
+
+A single species may contain many civilizations.
+
+A civilization may include multiple species.
+
+Do not treat an entire species as sharing one culture or one government.
+
+------------------------------------------------------------
+
+For every intelligent species define:
+
+Biology.
+
+Evolution.
+
+Homeworld.
+
+Environment.
+
+Average lifespan.
+
+Reproduction.
+
+Growth and development.
+
+Communication.
+
+Language.
+
+Writing systems.
+
+Education.
+
+Family structures.
+
+Disability.
+
+Accessibility.
+
+Technology.
+
+Architecture.
+
+Religion or philosophy.
+
+Art.
+
+Music.
+
+Food.
+
+Memory.
+
+Storytelling.
+
+Exploration.
+
+Science.
+
+Medicine.
+
+Transportation.
+
+Political diversity.
+
+Economic systems.
+
+Conflict resolution.
+
+Relationship with other species.
+
+Relationship with humanity.
+
+Known history.
+
+Unknown history.
+
+Major mysteries.
+
+Typical occupations.
+
+Daily life.
+
+How the player first encounters them.
+
+------------------------------------------------------------
+
+For every civilization define:
+
+Founding.
+
+Government.
+
+Laws.
+
+Territory.
+
+Population.
+
+Species represented.
+
+Languages.
+
+Accessibility standards.
+
+Education.
+
+Healthcare.
+
+Research.
+
+Engineering.
+
+Military (if applicable).
+
+Emergency response.
+
+Transportation.
+
+Trade.
+
+Diplomacy.
+
+Architecture.
+
+Community life.
+
+Art.
+
+Music.
+
+Celebrations.
+
+Food.
+
+Technology.
+
+Relationship with neighboring civilizations.
+
+Relationship with humanity.
+
+Relationship with the Shawabti.
+
+Relationship with Faience.
+
+Historical conflicts.
+
+Historical cooperation.
+
+Current priorities.
+
+Future goals.
+
+------------------------------------------------------------
+
+KNOWN CIVILIZATIONS
+
+Expand and maintain canon for:
+
+Human civilization.
+
+CSV Hearth community.
+
+Future human settlements.
+
+The Shawabti.
+
+Any known allied civilizations.
+
+Unknown civilizations referenced by existing canon.
+
+Leave expansion sections for future discoveries.
+
+------------------------------------------------------------
+
+FIRST CONTACT
+
+Define:
+
+How first contact occurs.
+
+Scientific protocol.
+
+Medical protocol.
+
+Translation.
+
+Diplomatic procedure.
+
+Accessibility during first contact.
+
+Conflict avoidance.
+
+Knowledge sharing.
+
+Ethical responsibilities.
+
+------------------------------------------------------------
+
+MULTI-SPECIES COMMUNITIES
+
+Define how communities function when multiple species live together.
+
+Housing.
+
+Education.
+
+Healthcare.
+
+Accessibility.
+
+Employment.
+
+Language.
+
+Public transportation.
+
+Emergency planning.
+
+Architecture.
+
+Food.
+
+Law.
+
+Culture.
+
+Celebrations.
+
+Conflict resolution.
+
+Community governance.
+
+------------------------------------------------------------
+
+DESIGN PHILOSOPHY
+
+No civilization should exist only to become an enemy.
+
+No species should exist as a stereotype.
+
+Every civilization should feel capable of producing:
+ Scientists.
+
+Teachers.
+
+Children.
+
+Artists.
+
+Engineers.
+
+Doctors.
+
+Maintenance workers.
+
+Caretakers.
+
+Musicians.
+
+Leaders.
+
+Ordinary citizens.
+
+The universe should feel inhabited by people rather than archetypes.
+
+------------------------------------------------------------
+
+END STATE
+
+This document becomes the definitive reference for every intelligent species and civilization in the Resonance franchise.
+
+Future writers should expand this document rather than inventing disconnected cultures.

@@ -1,0 +1,335 @@
+WORK ORDER 004 — PART TWO
+
+Continue:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_four.md
+
+Maintain all previously established canon.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Part Two
+
+## Departure
+
+### Purpose
+
+Teach the player how expeditions actually begin.
+
+Leaving the station should always feel meaningful.
+
+The player is leaving the safety of home.
+
+The community watches them go.
+
+Every departure should reinforce that someone is waiting for the player to return.
+
+---
+
+### Narrative
+
+Construction briefly pauses.
+
+Crew members naturally gather near the docking bay.
+
+No ceremony is held.
+
+This has already begun to feel normal.
+
+The player performs a final systems check.
+
+The advisor selected during mission preparation joins the player over radio.
+
+The remaining crew continue supporting the expedition from home.
+
+The player launches.
+
+The station slowly disappears behind them.
+
+---
+
+### Gameplay Purpose
+
+Teach:
+
+Launch procedures.
+
+Long-range navigation.
+
+Mission logging.
+
+Return point management.
+
+Safe travel.
+
+Orientation outside the station.
+
+Players should learn that traveling away from home requires preparation.
+
+---
+
+### Sound Design
+
+Before launch:
+
+Airlocks cycling.
+
+Dock clamps releasing.
+
+Crew conversations fading.
+
+Morning activity continues behind the player.
+
+During departure:
+
+Thrusters.
+
+Navigation tones.
+
+Beacon confirmation.
+
+Station communications.
+
+As distance increases:
+
+The station grows quieter.
+
+The surrounding debris field grows louder.
+
+The player realizes how isolated they truly are.
+
+---
+
+### Accessibility
+
+At any point the player may request:
+
+Current heading.
+
+Distance from home.
+
+Estimated travel time.
+
+Remaining oxygen.
+
+Power status.
+
+Mission objective.
+
+Current destination.
+
+Orientation information is always available without interrupting gameplay.
+
+Blind players should never become disoriented while traveling.
+
+---
+
+### Player Decision
+
+The player must choose the route toward Hearth.
+
+The destination remains the same.
+
+The journey differs.
+
+--------------------------------------------------
+
+Choice One
+
+Shortest Route
+
+Benefits
+
+Arrive more quickly.
+
+Consume fewer supplies.
+
+Future Effects
+
+Miss optional discoveries.
+
+Fewer opportunities to recover minor salvage.
+
+Lower Knowledge Archive growth.
+
+---
+
+Choice Two
+
+Survey Route
+
+Benefits
+
+Map surrounding debris.
+
+Identify future exploration locations.
+
+Discover additional radio signals.
+
+Future Effects
+
+Additional optional expeditions unlock later.
+
+Knowledge Archive expands.
+
+Travel takes longer.
+
+---
+
+Choice Three
+
+Hazard Route
+
+Benefits
+
+Travel through a dangerous debris field containing unusually valuable salvage.
+
+Future Effects
+
+Rare engineering materials.
+
+Earlier advanced upgrades.
+
+Greater navigation difficulty.
+
+Higher equipment wear.
+
+---
+
+Choice Four
+
+Historical Route
+
+Benefits
+
+Travel through known civilian sections of the former station.
+
+Recover cultural information.
+
+Hear preserved environmental recordings.
+
+Future Effects
+
+Additional historical discoveries.
+
+Personal stories.
+
+Family recordings.
+
+Educational archives.
+
+Unique conversations become available later.
+
+Engineering rewards are reduced.
+
+---
+
+### Advisor Interaction
+
+The selected advisor actively changes the journey.
+
+Rowan notices structural debris.
+
+Mara identifies damaged systems through sound.
+
+Samira monitors environmental health.
+
+Jonah tracks mission efficiency.
+
+Talia identifies hazards.
+
+Soren recognizes unusual scientific patterns.
+
+Mira notices details adults overlook.
+
+The Vale System provides balanced strategic guidance.
+
+The advisor is not passive narration.
+
+They actively teach the player throughout travel.
+
+---
+
+### Dynamic Events
+
+During travel several optional discoveries may appear.
+
+Examples include:
+
+A drifting toolbox.
+
+A damaged maintenance drone.
+
+A personal backpack.
+
+An emergency beacon.
+
+A sealed cargo container.
+
+A classroom assignment floating through space.
+
+A family photograph.
+
+A musical instrument.
+
+The player chooses whether to investigate.
+
+Ignoring these discoveries never prevents progression.
+
+Investigating them expands understanding of Hearth and its people.
+
+---
+
+### Gameplay Systems Introduced
+
+Long-range navigation.
+
+Exploration routing.
+
+Dynamic discoveries.
+
+Mission logging.
+
+Advisor dialogue.
+
+Environmental storytelling.
+
+---
+
+### Emotional Goal
+
+The player should gradually realize they are not simply traveling through wreckage.
+
+They are traveling through the remains of people's lives.
+
+Every object once belonged somewhere.
+
+Every location once mattered to someone.
+
+---
+
+### End Condition
+
+The player reaches the outer edge of Hearth's debris field.
+
+The navigation computer identifies multiple possible expedition sites.
+
+The player stops.
+
+Looks outward.
+
+For the first time since Chapter One...
+
+The player voluntarily returns home.
+
+Not to reclaim it.
+
+To remember it.
+
+The first exploration zone becomes available.
+
+Part Three begins.

@@ -1,0 +1,281 @@
+WORK ORDER 003 — PART ONE
+
+Continue:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_three.md
+
+Maintain all previously established canon.
+
+Do not summarize.
+
+Do not convert into screenplay.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Operation One: Exodus
+
+# Chapter Three
+
+## Community
+
+### Purpose
+
+Chapter Three marks the transition from survival to civilization.
+
+Chapter One taught the player their profession.
+
+Chapter Two taught the player how to rescue people.
+
+Chapter Three teaches the player how communities function.
+
+The player is no longer reacting to disaster.
+
+The player is now helping shape the future.
+
+Every part of this chapter must satisfy three goals:
+
+1. The player makes meaningful decisions.
+
+2. The player learns a new gameplay system.
+
+3. The player learns something from a crew member that permanently expands their understanding and abilities.
+
+Every section should end with the player becoming more capable than when it began.
+
+---
+
+## Chapter Question
+
+Can we survive together?
+
+By the end of the chapter the answer is:
+
+Yes.
+
+If everyone contributes.
+
+The chapter ends by asking:
+
+What are we willing to build together?
+
+---
+
+# Part One
+
+## The First Morning
+
+### Purpose
+
+The first peaceful morning since the destruction of Hearth.
+
+No alarms.
+
+No explosions.
+
+No emergency countdowns.
+
+The player wakes to ordinary life.
+
+Ordinary life is the reward for surviving Chapter Two.
+
+---
+
+### Narrative Purpose
+
+Demonstrate that the station is now a living community.
+
+People have routines.
+
+People have responsibilities.
+
+Life continued while the player slept.
+
+The world does not wait for the player.
+
+Instead, the player joins a community already beginning another day.
+
+---
+
+### Gameplay Purpose
+
+Teach observation.
+
+Teach routine.
+
+Teach environmental awareness.
+
+Teach that important gameplay information is often discovered by paying attention to everyday life.
+
+Combat is absent.
+
+Listening is the primary mechanic.
+
+---
+
+### Soundscape
+
+The player wakes to:
+
+Ventilation.
+
+Coffee brewing.
+
+Tools being organized.
+
+Medical monitors.
+
+Someone humming while working.
+
+AAC notifications.
+
+Children laughing.
+
+Morning announcements.
+
+Engineering diagnostics.
+
+Maintenance drones.
+
+Footsteps.
+
+Conversations between crew members beginning their day.
+
+The station sounds alive.
+
+---
+
+### Player Agency
+
+The player is free to decide:
+
+Who to visit first.
+
+Whether to immediately begin work or simply explore.
+
+Whether to listen to conversations.
+
+Whether to check reports before speaking to anyone.
+
+Whether to visit each workspace.
+
+No choice is considered wrong.
+
+Each choice changes what the player learns first.
+
+---
+
+### Crew Learning
+
+Every crew member teaches something simply by living their routine.
+
+Rowan teaches preventative maintenance.
+
+The player learns that fixing small problems early prevents larger failures later.
+
+Mara teaches active listening.
+
+She demonstrates identifying equipment problems entirely through sound.
+
+Samira teaches preventative medicine.
+
+She explains that healthy communities prevent illness rather than waiting to treat it.
+
+Jonah teaches organization.
+
+The player learns that planning saves more time than rushing.
+
+Talia teaches situational awareness.
+
+Security begins with observation, not weapons.
+
+Soren teaches curiosity.
+
+He demonstrates recording questions before searching for answers.
+
+Mira teaches perspective.
+
+She notices details every adult has ignored.
+
+The Vale System teaches collaborative leadership.
+
+Leadership begins by listening.
+
+Not speaking.
+
+---
+
+### Gameplay System Introduced
+
+Daily routines.
+
+Crew schedules.
+
+Environmental observation.
+
+Optional conversations.
+
+Routine reports.
+
+Morning briefings.
+
+Station orientation.
+
+Relationship building.
+
+Passive world discovery.
+
+---
+
+### Accessibility
+
+Every piece of information available through environmental observation must also be available through accessible interaction.
+
+Players may request:
+
+Today's schedule.
+
+Crew locations.
+
+Current projects.
+
+Unread reports.
+
+Morning announcements.
+
+Construction progress.
+
+Station orientation.
+
+No player should miss important information because they cannot perceive one particular sensory channel.
+
+---
+
+### Emotional Goal
+
+The player should feel:
+
+Safe.
+
+Welcomed.
+
+Useful.
+
+Part of something larger than themselves.
+
+---
+
+### End Condition
+
+After exploring the station and speaking with crew members, the player receives an invitation from Jonah.
+
+"The morning meeting is about to begin.
+
+Everyone's waiting."
+
+The player chooses when to attend.
+
+The meeting does not begin until the player arrives.
+
+This becomes the transition into Part Two.

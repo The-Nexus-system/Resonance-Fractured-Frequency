@@ -1,0 +1,554 @@
+WORK ORDER 007 — PART FOUR
+
+Continue:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_seven.md
+
+Maintain all previously established canon.
+
+Use proper Markdown headings.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Part Four
+
+## The First Human Archive
+
+### Purpose
+
+Complete Operation One.
+
+Demonstrate that the player has not inherited the Shawabti civilization.
+
+Instead...
+
+Humanity begins creating its own.
+
+The player leaves this chapter understanding that civilization is never finished.
+
+It is continuously built.
+
+Operation One ends.
+
+The future begins.
+
+---
+
+## Narrative Purpose
+
+The expedition returns home.
+
+The journey back is quiet.
+
+Nobody speaks very much.
+
+Everyone understands they have witnessed something larger than themselves.
+
+The station no longer feels temporary.
+
+It feels permanent.
+
+It feels alive.
+
+For the first time...
+
+The player realizes they are no longer rebuilding after disaster.
+
+They are building the first chapter of a new civilization.
+
+---
+
+## Gameplay Purpose
+
+Finalize every gameplay system introduced throughout Operation One.
+
+No new mechanics are introduced.
+
+Instead every permanent system becomes fully integrated into station life.
+
+The station permanently becomes:
+
+A home.
+
+A research center.
+
+A Living Archive.
+
+A school.
+
+A medical center.
+
+An engineering facility.
+
+A cultural center.
+
+A launching point for future exploration.
+
+---
+
+## Player Decisions
+
+Decision One
+
+What should the community build next?
+
+This becomes the first long-term station project after Operation One.
+
+---
+
+Choice A
+
+Expand Exploration
+
+Immediate Result
+
+Construction begins on new exploration vessels.
+
+Future Effect
+
+Operation Two begins with expanded exploration capabilities.
+
+Additional expedition opportunities become available earlier.
+
+---
+
+Choice B
+
+Expand Research
+
+Immediate Result
+
+The Living Archive grows.
+
+Research facilities expand.
+
+Future Effect
+
+Translation progresses faster.
+
+Scientific discoveries become more frequent.
+
+Future investigations become deeper.
+
+---
+
+Choice C
+
+Expand Community
+
+Immediate Result
+
+Living quarters.
+
+Education.
+
+Healthcare.
+
+Community gathering spaces.
+
+Accessibility improvements.
+
+Expand first.
+
+Future Effect
+
+Station morale increases.
+
+New community interactions develop.
+
+Future operations begin from a stronger social foundation.
+
+---
+
+Choice D
+
+Balanced Development
+
+Immediate Result
+
+All major departments grow together.
+
+Future Effect
+
+Steady long-term progression.
+
+No department advances dramatically faster than another.
+
+The station remains adaptable.
+
+---
+
+## Decision Two
+
+What should become humanity's first permanent contribution to the Living Archive?
+
+---
+
+Choice A
+
+Engineering Knowledge
+
+Immediate Result
+
+Human engineering philosophy becomes permanently preserved.
+
+Future Effect
+
+Future civilizations discover humanity's practical problem solving.
+
+---
+
+Choice B
+
+Medical Knowledge
+
+Immediate Result
+
+Healthcare.
+
+Accessibility.
+
+Rehabilitation.
+ Community care.
+
+Become permanently preserved.
+
+Future Effect
+
+Medical cooperation expands throughout future operations.
+
+---
+
+Choice C
+
+Community History
+
+Immediate Result
+
+The stories of Hearth.
+
+The expedition.
+
+The rescued crew.
+
+The rebuilding of the station.
+
+Become humanity's first preserved historical record.
+
+Future Effect
+
+Future generations understand how civilization began again.
+
+---
+
+Choice D
+
+Everything Together
+
+Immediate Result
+
+Engineering.
+
+Medicine.
+
+History.
+
+Accessibility.
+
+Culture.
+
+Education.
+
+Relationships.
+
+Hope.
+
+Become humanity's first complete Archive contribution.
+
+Future Effect
+
+The Human Living Archive officially begins.
+
+---
+
+## Decision Three
+
+How should future discoveries be treated?
+
+---
+
+Choice A
+
+Share openly.
+
+Immediate Result
+
+Knowledge spreads rapidly.
+
+Future Effect
+
+Future communities collaborate more easily.
+
+Diplomatic opportunities expand.
+
+---
+
+Choice B
+
+Protect carefully.
+
+Immediate Result
+
+Sensitive discoveries remain controlled.
+
+Future Effect
+
+Research becomes slower but more deliberate.
+
+Security systems expand.
+
+---
+
+Choice C
+
+Evaluate each discovery individually.
+
+Immediate Result
+
+Every future expedition includes ethical discussion.
+
+Future Effect
+
+The player continues making meaningful decisions throughout future operations.
+
+No universal policy exists.
+
+---
+
+Choice D
+
+Community consensus.
+
+Immediate Result
+
+Major discoveries always involve the entire community.
+
+Future Effect
+
+Collaborative governance becomes permanent throughout the franchise.
+
+Every major discovery includes multiple perspectives.
+
+---
+
+## Canon Rule
+
+Operation One ends without final answers.
+
+The player has inherited responsibility.
+
+Not certainty.
+
+Questions remain.
+
+Curiosity remains.
+
+Hope remains.
+
+The future remains unwritten.
+
+---
+
+## Permanent Unlocks
+
+Completing Operation One permanently unlocks:
+
+Human Living Archive.
+
+Civilization Timeline.
+
+Resonance Network.
+
+Advanced Expedition Planning.
+
+Cross-profession Campaigns.
+
+Historical Comparison.
+
+Long-term Community Development.
+
+Adaptive Accessibility Evolution.
+
+Civilization Philosophy Tracking.
+
+Operation Selection.
+
+These systems remain active throughout every future operation.
+
+---
+
+## Accessibility
+
+Operation One concludes by demonstrating that accessibility is now inseparable from civilization.
+
+Every future operation inherits:
+
+Braille support.
+
+Captions.
+
+Environmental narration.
+
+Adaptive controls.
+
+Custom gestures.
+
+Resonance accessibility.
+
+Multiple puzzle solutions.
+
+Adjustable information density.
+
+Collaborative interaction.
+
+Accessibility is never revisited as a feature.
+
+It has become part of the world's identity.
+
+---
+
+## Emotional Goal
+
+The player should feel proud.
+
+Not because they defeated an enemy.
+
+Because they helped build a community.
+
+Because they preserved history.
+
+Because they chose curiosity over fear.
+
+Because they demonstrated that civilization grows through cooperation.
+
+The player should feel excited for what comes next.
+
+Not relieved that the game is over.
+
+---
+
+## Final Sequence
+
+The station completes its first official Archive entry.
+
+One by one...
+
+Every crew member contributes something.
+
+A maintenance log.
+
+A medical observation.
+
+A scientific theory.
+
+A historical memory.
+
+A leadership philosophy.
+
+A child's drawing.
+
+A piece of music.
+
+A story.
+
+Finally...
+
+The player is invited to make humanity's first Archive entry.
+
+Participation is optional.
+
+The player may write.
+
+Record audio.
+
+Sign.
+
+Use AAC.
+
+Use braille.
+
+Or simply leave a symbol.
+
+Every communication method is treated as equally valid.
+
+The Living Archive accepts them all without distinction.
+
+The Archive records:
+
+"This is where humanity began again."
+
+---
+
+## Final Scene
+
+The camera slowly leaves the station.
+
+The station remains busy.
+
+People continue living.
+
+Children continue learning.
+
+Repairs continue.
+
+Music continues.
+
+Construction continues.
+
+Life continues.
+
+Far beyond the station...
+
+The Shawabti gateway quietly closes.
+
+Not because humanity failed.
+
+Because humanity no longer needs an invitation.
+
+A new constellation slowly appears within the stars.
+
+Its shape resembles two civilizations connected by one line.
+
+The title appears.
+
+RESONANCE
+
+Fractured Frequency
+
+Operation One: Exodus
+
+Complete.
+
+The screen fades.
+
+No credits immediately appear.
+
+Instead...
+
+The player hears the familiar 06:30 morning klaxon.
+
+Captain Mara Vale of the Vale System calmly announces:
+
+"Good morning, everyone.
+
+Welcome home.
+
+We've got work to do."
+
+Fade to black.
+
+End Operation One.

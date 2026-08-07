@@ -1,0 +1,437 @@
+WORK ORDER 006 — PART SIX
+
+Continue:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_six.md
+
+Maintain all previously established canon.
+
+Use proper Markdown headings.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Part Six
+
+## Carrying the Archive Forward
+
+### Purpose
+
+Complete every gameplay system introduced during Chapter Six.
+
+Teach that the Living Archive is no longer a location.
+
+It has become part of the player's civilization.
+
+The player does not simply leave the Archive.
+
+The Archive now travels with the community.
+
+---
+
+## Narrative Purpose
+
+The expedition returns home.
+
+Nothing dramatic happens.
+
+Instead...
+
+The station feels different.
+
+Crew members naturally begin using ideas recovered from the Living Archive.
+
+Engineering changes.
+
+Medicine changes.
+
+Education changes.
+
+Leadership changes.
+
+Community life changes.
+
+The player realizes that knowledge has become infrastructure.
+
+---
+
+## Gameplay Purpose
+
+Permanently unlock:
+ Living Archive access aboard the station.
+
+Historical comparison tools.
+
+Translation Workspace.
+
+Civilization Timeline.
+
+Archive Investigation Board.
+
+Resonance Analysis.
+
+Collaborative Research.
+
+These systems become permanent features of the station.
+
+---
+
+## Canon Rule
+
+Knowledge must always produce action.
+
+Every major historical discovery should eventually change at least one of the following:
+
+Dialogue.
+
+Exploration.
+
+Engineering.
+
+Medicine.
+
+Leadership.
+
+Accessibility.
+
+Research.
+
+Community life.
+
+If knowledge changes nothing...
+
+It should not exist.
+
+---
+
+## Player Decisions
+
+Decision One
+
+How should the station organize newly recovered knowledge?
+
+---
+
+Choice A
+
+Engineering Repository
+
+Immediate Result
+
+Engineering teams gain immediate access.
+
+Future Effect
+
+Construction develops more rapidly.
+
+Future engineering expeditions unlock earlier.
+
+---
+
+Choice B
+
+Community Library
+
+Immediate Result
+
+Every crew member gains access.
+
+Future Effect
+
+Additional conversations.
+
+Improved morale.
+
+Educational opportunities expand.
+
+---
+
+Choice C
+
+Research Laboratory
+
+Immediate Result
+
+Scientific investigation accelerates.
+
+Future Effect
+
+Translation and experimentation improve.
+
+Engineering develops more slowly.
+
+---
+
+Choice D
+
+Distributed Archive
+
+Immediate Result
+
+Knowledge is integrated throughout the station.
+
+Future Effect
+
+Balanced progression across all gameplay systems.
+
+The station increasingly resembles a living civilization.
+
+---
+
+## Decision Two
+
+How should unresolved mysteries be tracked?
+
+---
+
+Choice A
+
+Chronological Timeline
+
+Immediate Result
+
+Events organize by history.
+
+Future Effect
+
+Historical relationships become easier to understand.
+
+---
+
+Choice B
+
+Relationship Map
+
+Immediate Result
+
+Connections between people and civilizations become easier to follow.
+
+Future Effect
+
+Diplomatic and social discoveries become easier to interpret.
+
+---
+
+Choice C
+
+Scientific Investigation Board
+
+Immediate Result
+
+Questions organize by evidence.
+
+Future Effect
+ Research planning becomes more efficient.
+
+---
+
+Choice D
+
+Multiple Views
+
+Immediate Result
+
+Players may switch freely between every organizational method.
+
+Future Effect
+
+Maximum flexibility.
+
+Additional accessibility options become available.
+
+---
+
+## Decision Three
+
+How should Faience participate going forward?
+
+---
+
+Choice A
+
+Research Partner
+
+Immediate Result
+
+Faience assists investigations.
+
+Future Effect
+
+Scientific discoveries accelerate.
+
+Faience asks increasingly complex questions.
+
+---
+
+Choice B
+
+Community Member
+
+Immediate Result
+
+Faience begins participating in ordinary station life.
+
+Future Effect
+
+Crew relationships deepen.
+
+Additional optional dialogue unlocks.
+
+---
+
+Choice C
+
+Archive Keeper
+
+Immediate Result
+
+Faience focuses on preserving discoveries.
+
+Future Effect
+
+Historical reconstruction becomes more complete.
+
+Translation progresses steadily.
+
+---
+
+Choice D
+
+Allow Faience to choose.
+
+Immediate Result
+
+Faience begins making independent decisions about where they are most helpful.
+
+Future Effect
+
+Faience's personality develops naturally throughout future chapters.
+
+The player's relationship with Faience becomes increasingly personal.
+
+---
+
+## Permanent Gameplay Unlocks
+
+Completing Chapter Six permanently unlocks:
+
+Living Archive.
+
+Translation Workspace.
+
+Investigation Board.
+
+Historical Timeline.
+
+Relationship Mapping.
+
+Resonance Analysis.
+
+Collaborative Research.
+
+Advanced Archive Search.
+
+Cross-profession comparison.
+
+Archive replay.
+
+---
+
+## Accessibility
+
+Every Archive system supports:
+
+Speech.
+
+Captions.
+
+Braille.
+
+Environmental narration.
+
+Relationship summaries.
+
+Timeline summaries.
+
+Investigation summaries.
+
+Replay.
+
+Adjustable complexity.
+
+Players may simplify or expand information density at any time.
+
+No player should become overwhelmed by the amount of available historical information.
+
+---
+
+## Emotional Goal
+
+The player should realize that civilization is not inherited.
+
+It is maintained.
+
+Every generation becomes responsible for carrying knowledge forward.
+
+The community aboard the station has accepted that responsibility.
+
+---
+
+## Chapter Climax
+
+As the station quietly settles into its new routines...
+
+Faience asks a question.
+
+Not translated.
+
+Not repeated from the Archive.
+
+An original question.
+
+"Are we becoming... what they hoped for?"
+
+No one answers immediately.
+
+The player is not asked to answer.
+
+The question lingers.
+
+The camera slowly pulls away from the station.
+
+Far beyond the debris field...
+
+Another Shawabti structure quietly awakens.
+
+For the first time...
+
+It begins transmitting.
+
+Not to the station.
+
+Not to Faience.
+
+To somewhere much farther away.
+
+---
+
+## Chapter Six End State
+
+The Living Archive has become part of the community.
+
+Faience has become a true member of the crew.
+
+Humanity's understanding of the Shawabti has expanded dramatically.
+
+The player has learned that preserving civilization is an ongoing responsibility.
+
+One final question remains before Operation One concludes:
+
+Now that humanity has inherited this legacy...
+
+What kind of civilization will we choose to become?
+
+End Chapter Six.

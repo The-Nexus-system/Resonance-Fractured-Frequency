@@ -1,0 +1,350 @@
+WORK ORDER 008
+
+Continue:
+
+docs/design_notes/operation_one_exodus_master_timeline.md
+
+Maintain all established canon.
+
+Use proper Markdown headings.
+
+Do not write code.
+
+Do not summarize.
+
+This document is the definitive chronological reference for Operation One: Exodus.
+
+# Day Six
+
+# Part Five
+
+## Theme
+
+Confidence.
+
+Competence.
+
+Connection.
+
+The player begins anticipating the needs of the station instead of simply responding to work orders.
+
+Departments begin trusting one another enough that collaboration becomes instinctive.
+
+Life aboard Hearth feels effortless because thousands of people quietly make it so.
+
+---
+
+## 12:00
+
+### Midday
+
+The station reaches its busiest point.
+
+Schools are in session.
+
+Engineering runs peak production.
+
+Cargo traffic increases.
+
+Maintenance performs work in occupied areas.
+
+Medical transitions into afternoon clinics.
+
+Research receives new observational data.
+
+The player notices every department operating simultaneously without interfering with one another.
+
+Hearth functions like a living organism.
+
+---
+
+## Department Activity
+
+### Maintenance
+
+Preventative inspections continue.
+
+The player begins receiving work requests directly from crew members.
+
+Several requests are improvements rather than repairs.
+
+Rowan reminds apprentices:
+
+"Maintenance isn't about fixing broken things.
+
+It's about helping people forget they were ever broken."
+
+---
+
+### Engineering
+
+Mara conducts resonance calibration throughout Engineering.
+
+Several apprentices attempt to diagnose equipment visually.
+
+Mara asks them to close their eyes.
+
+She teaches them to recognize healthy machinery by listening first.
+
+The player may observe or assist.
+
+---
+
+### Medical
+
+Samira conducts rehabilitation appointments.
+
+Several former patients return only to say thank you before returning to work.
+
+Medical success is measured by independence.
+
+Not occupancy.
+
+---
+
+### Security
+
+Talia conducts emergency evacuation training with schoolchildren.
+
+The exercise is calm.
+ Friendly.
+
+Educational.
+
+Children laugh when they successfully complete the drill.
+
+Preparedness never feels frightening.
+
+---
+
+### Research
+
+Soren receives another night of stellar observations.
+
+The unexplained anomaly appears again.
+
+It remains extremely small.
+
+He flags it for continued observation.
+
+No alert is issued.
+
+---
+
+### Command
+
+Captain Elian visits multiple departments.
+
+Captain Gideon reviews long-range mission planning.
+
+Captain Naomi quietly verifies emergency readiness.
+
+Captain Iris hosts an open civilian discussion regarding future community improvements.
+
+---
+
+## Character Crossovers
+
+Maintenance Campaign naturally encounters:
+
+Mara teaching apprentices.
+
+Samira helping a patient regain confidence using adaptive equipment.
+
+Jonah reorganizing Cargo after an unexpected shipment delay.
+
+Talia encouraging children during evacuation practice.
+
+Soren absent-mindedly walking into Maintenance while reading research notes.
+
+Captain Elian helping cafeteria volunteers clean tables after lunch.
+
+Mira asking Rowan whether spaceships dream.
+
+Every encounter becomes a future playable moment from another campaign.
+
+---
+
+## Optional Exploration
+
+The player may choose to visit:
+
+Engineering observation gallery.
+
+Medical rehabilitation center.
+
+Hydroponics research greenhouse.
+
+Public library.
+
+The station museum.
+
+The education wing.
+
+The recreation deck.
+
+Cargo observation platform.
+
+These locations contain optional dialogue and environmental storytelling.
+
+They reward curiosity.
+
+Not completion percentage.
+
+---
+
+## Accessibility in Action
+
+The player observes accessibility quietly improving everyday life.
+
+A maintenance crew installs tactile labels requested by Medical.
+
+Engineering recalibrates audio navigation beacons.
+
+Children naturally switch between speech, signing and AAC while playing.
+
+Wheelchair users and standing workers collaborate without comment.
+
+A blind researcher independently navigates a laboratory using acoustic landmarks.
+
+Accessibility continues appearing as ordinary infrastructure rather than exceptional design.
+
+---
+
+## Soundscape
+
+Midday is the fullest the station ever sounds.
+
+Cargo movers.
+
+Hydraulic lifts.
+
+School lessons.
+
+Kitchen activity.
+
+Engineering resonance testing.
+
+Medical rehabilitation equipment.
+
+Public announcements.
+
+Children laughing.
+
+Maintenance carts.
+
+Hydroponic irrigation.
+
+Music drifting from the recreation deck.
+
+The player should recognize where they are by listening alone.
+
+---
+
+## Environmental Storytelling
+
+Yesterday's maintenance requests have already disappeared from conversation because the problems no longer exist.
+
+People remember comfort.
+
+Not repairs.
+
+The player notices:
+
+A repaired classroom now being used without interruption.
+
+Fresh vegetables arriving from Hydroponics.
+
+Engineers thanking Maintenance over lunch.
+
+Security officers stopping to help civilians instead of directing them.
+
+Research staff debating ideas in the café.
+
+Parents watching children play beneath artwork created aboard Hearth.
+
+Nothing remarkable happens.
+
+Everything matters.
+
+---
+
+## Gameplay Philosophy
+
+Ordinary work permanently changes the station.
+
+Every completed task should have visible—or audible—consequences later.
+
+Players should feel that their work accumulates.
+
+Civilization improves one small decision at a time.
+
+---
+
+## Emotional Goal
+
+The player should stop thinking of departments as separate organizations.
+
+Instead...
+
+Maintenance.
+
+Engineering.
+
+Medical.
+
+Security.
+
+Research.
+
+Education.
+
+Command.
+
+Civilian life.
+
+Should all feel like different expressions of one community.
+
+The player should begin believing Hearth could continue forever.
+
+---
+
+## Narrative Foreshadowing
+
+Tiny details begin appearing.
+
+Only obvious in hindsight.
+
+Soren quietly requests another review of the unexplained stellar readings.
+
+Captain Gideon schedules an additional navigation meeting.
+
+Naomi requests another emergency systems inspection.
+
+Engineering stores several replacement components closer to critical systems.
+
+Nobody explains why.
+
+No one appears worried.
+
+The player interprets these as examples of a well-run ship.
+
+Only later do they realize the crew had begun noticing the first whispers of something unusual.
+
+---
+
+## End State
+
+Day Six afternoon concludes.
+
+Community activities begin preparing for the evening.
+
+The station continues functioning beautifully.
+
+The player feels increasingly competent.
+
+Increasingly trusted.
+
+Increasingly at home.
+
+Day Six continues in Part Six.

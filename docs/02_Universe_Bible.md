@@ -355,6 +355,75 @@ Space traditions do not emerge from nothing. They descend from Earth lineages, t
 
 Where a tradition in Resonance draws from a specific real-world cultural source, that lineage is documented in this section or in a dedicated cultural genealogy note. The tradition is not a copy of its source. It is something that source helped become.
 
+## Communities of expertise and Learning Circuits
+
+Permanent stations, colonies, ships, and settlements gradually become known for particular areas of excellence based on their history, professions, environment, and lived experience. No community is best at everything. Knowledge is intentionally distributed across civilisation, and that distribution is understood as a strength rather than an inefficiency.
+
+### Learning Circuits
+
+Learning Circuits replace the idea of one elite university. Students rotate through multiple communities with different specialities before completing apprenticeship, so that education is never experienced from only one perspective. A Learning Circuit is planned around the learner: their profession, their interests, their access needs, and the communities whose teaching styles suit them.
+
+### Station educational ecologies
+
+Communities differ in how they teach, not only in what they teach. Examples of educational ecologies that Learning Circuits may pass through:
+
+- Mobility engineering communities may teach through prosthetics, adaptive movement, EVA mobility, exoskeletons, chair-equivalent systems, universal design, and accessible architecture.
+- Vision-sciences communities may emphasise nonvisual navigation, tactile mapping, sonification, spatial audio, orientation, and blind astronomy.
+- Deaf-communication communities may emphasise sign languages, visual and tactile communication, captioning, multimodal systems, and silent emergency systems.
+- Medical-anthropology communities may combine medicine with culture, ethics, disability history, community healing, field medicine, and rescue traditions.
+
+### Knowledge exchange
+
+Knowledge exchange is normal. Apprentices, mentors, clinicians, engineers, artists, researchers, and educators travel between communities and carry ideas home. Specialised communities arise through expertise and choice. Forced segregation belongs to authoritarian systems, not to cooperative space civilisation.
+
+## The Station Legacy Atlas
+
+Every major station, colony, ship, or world should have three defining historical events rather than one. The Station Legacy Atlas records each community against a common template:
+
+- Original purpose.
+- Founding Event: what created or established the community.
+- Breaking Event: what nearly destroyed, discredited, or fundamentally tested it.
+- Transforming Event: the event after which the community consciously chose what it wanted to become.
+- Community response.
+- New identity.
+- Modern reputation.
+- Signature traditions.
+- Accessibility legacy.
+- Educational philosophy.
+- Contributions to humanity.
+
+### Legacy archetypes to develop later
+
+The following archetypes are established as directions to develop without locking names prematurely:
+
+- A trauma-medicine station may become renowned after a catastrophic decompression or mass-casualty event exposed failures in coordination, training, and survival medicine. The community rebuilds around the promise that the same failure will never happen again. Students learn the names and stories of those lost, making trauma medicine partly an act of remembrance.
+- A mobility-engineering station may originate as an industrial or reactor facility where an accident leaves many residents with permanent mobility disabilities. Rather than evacuating them, the community redesigns the station, eventually becoming a centre for prosthetics, mobility systems, EVA adaptation, and universal design.
+- A blind-navigation or vision-sciences station may become famous because blind navigators and researchers develop safer nonvisual navigation methods that outperform conventional visual-only assumptions in debris fields, low-visibility emergencies, or complex environments.
+
+## Living Libraries and the human knowledge network
+
+Living Libraries are people who spend long periods travelling among communities, learning and teaching across disciplines and cultures. They are respected because they connect knowledge rather than because they claim to know everything. Their value lies partly in knowing who has the right expertise and how to connect communities to each other.
+
+A lifelong learner who completes extensive rotations across many stations may earn a recognised social role. Candidate terms include Circuit Scholar, Living Library, and Knowledge Steward; the final canonical term is creator-approved and remains open until then. Knowledge Stewards preserve, verify, teach, and transmit essential knowledge.
+
+When a Living Library chooses to settle, that event can be culturally significant, because the community gains a resident with decades of cross-civilisational memory and relationships.
+
+## Bodily autonomy, modification, and assistive technology markets
+
+Human civilisation protects extensive bodily autonomy and distinguishes reversible, long-term, and irreversible body modifications, with informed-consent and counselling processes that scale with permanence. The binding principles are recorded in the Canon Rules document; this section records how the world works around them.
+
+People who identify strongly with wheelchair or mobility-device use may choose reversible or non-destructive systems that suppress, bypass, or replace walking without intentionally injuring the body. Clinicians practise harm reduction for chosen nonuse of an ability, monitoring consequences such as muscle mass, bone density, circulation, skin integrity, joint health, and cardiovascular fitness, and offering ways to reduce risk without punishment or shame.
+
+A grey and black market in assistive technology exists at the edges of human space: unlicensed neural interfaces, exoskeletons, mobility systems, and sensory augmentations. When a patient arrives with such a device, immediate medical safety comes first. Clinicians stabilise the person, evaluate the device, explain risks, and preserve access to care. Illegal manufacturers, traffickers, coercive sellers, and dangerous supply networks may be investigated under law without making medical care contingent on punishment.
+
+## Community Endowments
+
+Fundamental services and rights remain guaranteed across cooperative human space. Beyond that baseline, individual communities choose additional priorities based on their history and values, and these traditions become Community Endowments and sources of local identity.
+
+Examples of endowments include paediatric rehabilitation, advanced prosthetics and mobility equipment, trauma response, refugee and exile rescue, elder care, mental health, cultural preservation, public art, apprenticeship scholarships, habitat maintenance, and food security.
+
+Wealthier families and citizens are culturally encouraged to contribute to shared endowments, but exact legal obligations vary by station and governance model. Different stations may be famous for who or what they prioritise. Local differences are legitimate as long as baseline rights are not denied.
+
 ## The Shawabti as species and civilisation
 
 This section places the Shawabti within the species and civilisation framework and does not replace the canon established above. The Shawabti are an ancient people known to humanity only through their preserved legacy, and the distinction between their biology and their society is itself part of their mystery.

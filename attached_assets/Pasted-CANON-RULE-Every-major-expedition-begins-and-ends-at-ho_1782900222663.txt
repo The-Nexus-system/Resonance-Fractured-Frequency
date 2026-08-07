@@ -1,0 +1,585 @@
+CANON RULE
+
+Every major expedition begins and ends at home.
+
+The player's home serves as the emotional, mechanical and narrative anchor of Resonance.
+
+Every expedition follows the same narrative rhythm:
+
+Prepare.
+
+Depart.
+
+Explore.
+
+Recover.
+
+Return.
+
+Reflect.
+
+Rebuild.
+
+The player should always return home changed.
+
+The station should always change because of what the player brought home.
+
+The player never returns with resources alone.
+
+Every expedition must return with at least one meaningful contribution to the community.
+
+Meaningful contributions include:
+
+A survivor.
+
+Knowledge.
+
+History.
+
+Technology.
+
+Cultural artifacts.
+
+Accessibility improvements.
+
+Engineering discoveries.
+
+Medical discoveries.
+
+Relationships.
+
+Hope.
+
+Resources support these discoveries.
+
+Resources are never the primary reward.
+
+--------------------------------------------------
+
+CANON RULE
+
+Every expedition must answer one important question.
+
+Every expedition must create at least two new questions.
+
+Understanding should continually expand.
+
+Curiosity should always outpace certainty.
+
+The player should finish every expedition knowing more than before while realizing there is still far more left to discover.
+
+--------------------------------------------------
+
+WORK ORDER 004 — PART ONE
+
+Create:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_four.md
+
+Maintain all previously established canon.
+
+Use proper Markdown headings.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Operation One: Exodus
+
+# Chapter Four
+
+## Salvage
+
+### Primary Question
+
+Can we build something worth protecting?
+
+### Chapter Answer
+
+Yes.
+
+By remembering what came before.
+
+### Ending Question
+
+What really happened aboard Hearth before its destruction?
+
+--------------------------------------------------
+
+## Purpose
+
+Chapter Four introduces the expedition gameplay loop that will define the remainder of Operation One.
+
+For the first time, the player deliberately leaves home.
+
+Not because of an emergency.
+
+Because the community has chosen to explore.
+
+The player is no longer escaping Hearth.
+
+The player is returning to Hearth.
+
+This chapter introduces exploration, mapping, environmental storytelling and recovery.
+
+The player learns that salvaging history is just as important as salvaging technology.
+
+--------------------------------------------------
+
+## Emotional Themes
+
+Memory.
+
+Loss.
+
+Healing.
+
+Discovery.
+
+Responsibility.
+
+Respect.
+
+Hope.
+
+Curiosity.
+
+The player should experience grief without despair.
+
+The player is returning to places they once called home.
+
+--------------------------------------------------
+
+## Gameplay Themes
+
+Mission preparation.
+
+Crew consultation.
+
+Expedition planning.
+
+Environmental exploration.
+
+Navigation.
+
+Mapping.
+
+Artifact recovery.
+
+Historical investigation.
+
+Meaningful salvage.
+
+Community growth.
+
+--------------------------------------------------
+
+## Chapter Structure
+
+Every expedition throughout Chapter Four follows the same rhythm.
+
+Preparation.
+
+Departure.
+
+Exploration.
+
+Recovery.
+
+Return.
+
+Reflection.
+
+Rebuilding.
+
+The player should become familiar with this rhythm because it becomes the foundation for future exploration chapters.
+
+--------------------------------------------------
+
+# Part One
+
+## Preparing For The First Expedition
+
+### Purpose
+
+Teach expedition planning.
+
+Teach that preparation determines success.
+
+Teach that leaving home is a community effort rather than a solo activity.
+
+The player should never simply press a button labeled "Start Mission."
+
+Every expedition begins through conversation, planning and preparation.
+
+--------------------------------------------------
+
+### Narrative
+
+Several days have passed since the completion of the station's first major expansion.
+
+Life has become more predictable.
+
+Morning routines exist.
+
+Construction continues.
+
+The community is stable enough to begin exploring.
+
+During the morning briefing, the crew agrees it is finally time to return to Hearth.
+
+Not to reclaim it.
+
+To learn from it.
+
+--------------------------------------------------
+
+### Community Discussion
+
+Every primary crew member contributes.
+
+Rowan wishes to recover tools and fabrication equipment.
+
+Mara wishes to recover engineering systems and power infrastructure.
+
+Samira wishes to recover medical supplies and patient records.
+
+Jonah wishes to recover logistics data and station maps.
+
+Talia wishes to secure safe expedition routes.
+
+Soren wishes to investigate unusual readings from the wreckage.
+
+Mira asks whether anyone left messages behind.
+
+The Vale System moderates discussion while encouraging every voice to be heard.
+
+--------------------------------------------------
+
+### Player Decisions
+
+The player must make three decisions before departure.
+
+These choices change the expedition.
+
+They do not change canon.
+
+--------------------------------------------------
+
+Decision One
+
+Select Expedition Priority
+
+Choice A
+
+Engineering Recovery
+
+Primary Goal
+
+Recover fabrication equipment and engineering components.
+
+Immediate Benefits
+
+Additional engineering resources.
+
+New fabrication recipes.
+
+Engineering research progresses faster.
+
+Future Effects
+
+Construction projects require fewer salvaged materials.
+
+Advanced station upgrades unlock earlier.
+
+--------------------------------------------------
+
+Choice B
+
+Medical Recovery
+
+Primary Goal
+
+Recover medical equipment and patient archives.
+
+Immediate Benefits
+
+Expanded medical inventory.
+
+Additional rehabilitation equipment.
+
+Medical Archive entries.
+
+Future Effects
+
+Future injuries recover more quickly.
+
+Preventative healthcare projects expand sooner.
+
+--------------------------------------------------
+
+Choice C
+
+Historical Recovery
+
+Primary Goal
+
+Recover personal records, educational archives and cultural artifacts.
+
+Immediate Benefits
+
+Knowledge Archive expands significantly.
+
+Additional optional conversations.
+
+Historical discoveries.
+
+Future Effects
+
+Diplomatic understanding.
+
+Additional exploration clues.
+
+Greater emotional understanding of Hearth.
+
+--------------------------------------------------
+
+Choice D
+
+Infrastructure Recovery
+
+Primary Goal
+
+Recover station systems and habitat modules.
+
+Immediate Benefits
+
+Additional construction materials.
+
+Habitat expansion.
+
+Life support redundancy.
+
+Future Effects
+
+Larger station modules become available sooner.
+
+Community growth accelerates.
+
+--------------------------------------------------
+
+Decision Two
+
+Preparation Focus
+
+Choice A
+
+Pack additional tools.
+
+Benefits
+
+Additional repair options during exploration.
+
+Reduced equipment failures.
+
+Less inventory space for recovered items.
+
+--------------------------------------------------
+
+Choice B
+
+Pack additional medical supplies.
+
+Benefits
+
+Improved emergency response.
+
+Safer exploration.
+
+Reduced cargo capacity.
+
+--------------------------------------------------
+
+Choice C
+
+Pack additional research equipment.
+
+Benefits
+
+Additional environmental discoveries.
+
+Expanded Knowledge Archive.
+
+Reduced available space for engineering equipment.
+
+--------------------------------------------------
+
+Choice D
+
+Travel light.
+
+Benefits
+
+Maximum salvage capacity.
+
+Less flexibility when unexpected problems arise.
+
+--------------------------------------------------
+
+Decision Three
+
+Consult A Crew Member Before Departure
+
+The player may consult everyone.
+
+However, one crew member may be selected as the expedition's primary advisor.
+
+This determines who provides the majority of guidance throughout the mission.
+
+--------------------------------------------------
+
+Choose Rowan
+
+Benefits
+
+Maintenance shortcuts.
+
+Hidden repair opportunities.
+
+Structural observations.
+
+--------------------------------------------------
+
+Choose Mara
+
+Benefits
+
+Advanced audio navigation.
+
+Engineering insight.
+
+Power diagnostics.
+
+--------------------------------------------------
+
+Choose Samira
+
+Benefits
+
+Environmental health observations.
+
+Medical preparedness.
+
+Crew safety advice.
+
+--------------------------------------------------
+
+Choose Jonah
+
+Benefits
+
+Improved navigation planning.
+
+Mission efficiency.
+
+Resource management.
+
+--------------------------------------------------
+
+Choose Talia
+
+Benefits
+
+Hazard awareness.
+
+Risk identification.
+
+Safer exploration routes.
+
+--------------------------------------------------
+
+Choose Soren
+
+Benefits
+
+Research observations.
+
+Artifact analysis.
+
+Historical interpretation.
+
+--------------------------------------------------
+
+Choose Mira
+
+Benefits
+
+Additional optional discoveries.
+
+Hidden environmental storytelling.
+
+Unexpected interactions adults overlook.
+
+--------------------------------------------------
+
+Choose The Vale System
+
+Benefits
+
+Balanced strategic guidance.
+
+Leadership advice.
+
+Crew coordination.
+
+Decision support.
+
+--------------------------------------------------
+
+### Gameplay Systems Introduced
+
+Mission preparation.
+
+Expedition planning.
+
+Equipment selection.
+
+Mission priorities.
+
+Advisor system.
+
+Expedition briefing.
+
+Long-term mission consequences.
+
+--------------------------------------------------
+
+### Accessibility
+
+All preparation choices must remain fully reviewable before departure.
+
+Players may change selections until confirming launch.
+
+Mission summaries must clearly explain:
+
+Benefits.
+
+Trade-offs.
+
+Recommended crew expertise.
+
+Accessibility considerations.
+
+No player should be required to memorize preparation choices.
+
+--------------------------------------------------
+
+### Emotional Goal
+
+The player should understand that every expedition belongs to the entire community.
+
+They are leaving home.
+
+Everyone is trusting them to return.

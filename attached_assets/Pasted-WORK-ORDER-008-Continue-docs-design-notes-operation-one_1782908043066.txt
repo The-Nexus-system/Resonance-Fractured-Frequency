@@ -1,0 +1,532 @@
+WORK ORDER 008
+
+Continue:
+
+docs/design_notes/operation_one_exodus_master_timeline.md
+
+Maintain all established canon.
+
+Use proper Markdown headings.
+
+Do not write code.
+
+Do not summarize.
+
+This document is the definitive chronological reference for Operation One: Exodus.
+
+# Day Four
+
+# Part Twelve
+
+## Theme
+
+Home.
+
+Tradition.
+
+Civilization.
+
+The workday has ended.
+
+The player no longer sees crew members only as professionals.
+
+Everyone aboard Hearth becomes a person.
+
+This evening establishes what everyone is fighting to preserve.
+
+---
+
+# 17:00
+
+## Shift Transition
+
+The station gradually changes rhythm.
+
+Maintenance signs over unfinished work.
+
+Engineering begins low-load diagnostics that are safest during reduced demand.
+
+Medical transitions from scheduled appointments to overnight care.
+
+Research prepares another observation cycle.
+
+Security shifts from workplace patrols toward community presence.
+
+Cargo operations conclude.
+
+School ends.
+
+Families begin returning home.
+
+The sound of Hearth changes.
+
+Work slowly gives way to life.
+
+---
+
+# Evening Community
+
+Every district aboard Hearth begins coming alive.
+
+The Community Hall prepares dinner.
+
+Public gardens fill with residents.
+
+Music drifts into open corridors.
+
+Children race through the central promenade.
+
+Artists prepare exhibits.
+
+Scientists continue arguing over impossible theories.
+
+Maintenance crews finally put away their tools.
+
+Engineers continue listening to machinery even while off duty.
+
+Nobody appears rushed.
+
+Nobody appears frightened.
+
+Everyone assumes tomorrow will arrive.
+
+---
+
+# Community Festival Preparation
+
+The station is preparing for the upcoming Hearth Community Festival later in the week.
+
+Residents decorate corridors.
+
+Children paint banners.
+
+Gardeners prepare displays.
+
+Musicians rehearse.
+
+Teachers organize student projects.
+
+Medical prepares wellness demonstrations.
+
+Engineering builds interactive exhibits.
+
+Maintenance quietly repairs display booths after hours.
+
+Security coordinates crowd safety.
+
+Nobody thinks of these preparations as important.
+
+Later...
+
+The player realizes almost every department's happiest memories were attached to a celebration that never happened.
+
+---
+
+# Character Evening
+
+## Captain Elian
+
+Visits nearly every community gathering.
+
+Knows hundreds of residents by name.
+
+Stops repeatedly to introduce strangers to one another.
+
+Quietly thanks volunteers.
+
+Leaves every place slightly happier than he found it.
+
+---
+
+## Captain Naomi
+
+Completes final readiness checks.
+
+Confirms emergency systems.
+
+Confirms escape pod readiness.
+
+Confirms security staffing.
+
+Only after satisfying herself that Hearth is prepared does she allow herself to join dinner.
+
+She relaxes very little.
+
+---
+
+## Captain Gideon
+
+Spends most of the evening inside the Observatory with Soren.
+
+They compare several nights of unexplained stellar observations.
+
+Neither believes immediate action is warranted.
+
+Both agree more data is needed.
+
+The discussion quietly becomes one of the most important conversations in Operation One.
+
+Neither realizes it.
+
+---
+
+## Captain Iris
+
+Attends community planning meetings.
+
+Speaks very little.
+
+Listens almost constantly.
+
+Residents leave believing their voices matter.
+
+They do.
+
+---
+
+## Rowan
+
+Repairs personal belongings after work.
+
+Wheelchairs.
+
+Children's toys.
+
+Kitchen appliances.
+
+Musical instruments.
+
+He never charges anyone.
+
+Maintenance is simply who he is.
+
+---
+
+## Mara
+
+Invites residents into Engineering.
+
+She turns off every monitor.
+
+The room becomes almost completely dark.
+
+She asks everyone to simply listen.
+
+Generator harmonics.
+
+Cooling pumps.
+
+Air circulation.
+
+Structural resonance.
+
+She explains:
+
+"Every home has a heartbeat.
+
+This is Hearth's."
+
+The player remembers this long after the ship is gone.
+
+---
+
+## Doctor Samira Kade
+
+Hosts an open accessibility discussion.
+
+Residents propose improvements.
+
+Children participate.
+
+Engineers take notes.
+
+Maintenance quietly writes future work orders.
+
+Medical explains accessibility as preventative healthcare.
+
+The meeting ends with applause.
+
+Not because a speech was given.
+
+Because everyone feels heard.
+
+---
+
+## Jonah Briggs
+
+Finalizes staffing for tomorrow.
+
+Checks supply projections.
+
+Closes his terminal.
+
+Leaves on time.
+
+He reminds younger crew:
+
+"If the schedule depends on exhaustion...
+
+The schedule is wrong."
+
+---
+
+## Talia Rusk
+
+Organizes children's obstacle games.
+
+Parents see play.
+
+Security sees evacuation confidence.
+
+Maintenance sees accessibility testing.
+
+Medical sees mobility assessment.
+
+Everyone is right.
+
+---
+
+## Dr. Soren Qadir
+
+Continues astronomy night.
+
+Children ask impossible questions.
+
+Adults ask harder ones.
+
+Soren answers every question seriously.
+
+He quietly saves one unexplained observation for later analysis.
+
+---
+
+## Mira
+
+Carries a notebook.
+
+She interviews residents.
+
+The title written across the front reads:
+
+"Everybody Makes Hearth."
+
+She asks everyone exactly one question.
+
+"What do you do that helps everybody else?"
+
+Every answer becomes part of her school project.
+
+Unknown to everyone...
+
+It also becomes one of the most important historical documents preserved after the destruction of Hearth.
+
+---
+
+## Faience
+
+Research staff catalogue another damaged artifact.
+
+Its designation changes.
+
+Its storage shelf changes.
+
+Nothing else.
+
+No one speaks to it.
+
+No one expects it ever to answer.
+
+---
+
+# Community Traditions
+
+Recurring traditions include:
+
+Wednesday orchestra rehearsal.
+
+Thursday public lecture.
+
+Friday astronomy gathering.
+
+Weekend community festival.
+
+Hydroponics harvest celebration.
+
+Volunteer repair mornings.
+
+Children's invention showcase.
+
+Storytelling evenings.
+
+Shared meals.
+
+Public gardening.
+
+Neighborhood improvement projects.
+
+The player should begin looking forward to future events.
+
+Many will never happen.
+
+---
+
+# Environmental Storytelling
+
+Small details reward careful observation.
+
+Fresh paint dries along corridor walls.
+
+Student artwork slowly expands through Education.
+
+Community gardens produce enough food to share freely.
+
+Thank-you boards become crowded.
+
+Engineers leave handwritten notes for Maintenance.
+
+Medical staff deliver baked goods to Night Shift.
+
+Security officers know children's names.
+
+Research papers sit forgotten beside half-finished coffee.
+
+The station feels deeply inhabited.
+
+---
+
+# Soundscape
+
+Day Four evening possesses the richest soundscape yet.
+
+Music.
+
+Conversation.
+
+Children.
+
+Cooking.
+
+Hydroponic irrigation.
+
+Engineering resonance.
+
+Transit slowing.
+
+Maintenance cleaning tools.
+
+Observation dome activity.
+
+Coffee grinders.
+
+Public laughter.
+
+Quiet station announcements.
+
+Distant ventilation.
+
+The player should recognize Hearth immediately with their eyes closed.
+
+---
+
+# Long-Term Foreshadowing
+
+The audience notices subtle patterns.
+
+Research requests expanded observations.
+
+Navigation quietly recalculates several distant stars.
+
+Engineering archives another resonance fluctuation.
+
+Naomi requests another emergency readiness review.
+
+Gideon schedules another interdisciplinary meeting.
+
+Nobody shares enough information to recognize the pattern.
+
+The player believes they are witnessing competent professionals doing their jobs.
+
+They are.
+
+---
+
+# Philosophy
+
+This section exists to establish the emotional cost of loss.
+
+Operation One is not about watching a civilization die.
+
+It is about first believing that civilization deserved to live.
+
+The player should leave Day Four believing Hearth has decades ahead of it.
+
+That belief is necessary.
+
+---
+
+# Emotional Goal
+
+By the end of Day Four...
+
+The player should know where they would eat.
+
+Who they would wave to.
+
+Which hallway they naturally take home.
+
+Which café they prefer.
+
+Which music they stop to hear.
+
+Which people they would miss.
+
+The player is no longer learning Hearth.
+
+They are living there.
+
+---
+
+# 22:30
+
+## Night
+
+The station slowly falls quiet.
+
+Families return home.
+
+Public lighting softens.
+
+Engineering begins overnight diagnostics.
+ Maintenance performs final inspections.
+
+Medical settles into overnight care.
+
+Security begins low-visibility patrols.
+
+Research points telescopes toward deep space.
+
+Artificial gravity hums steadily.
+
+Ventilation breathes.
+
+The ship feels alive.
+
+---
+
+# End State
+
+Day Four concludes.
+
+CSV Hearth has reached the height of its ordinary life.
+
+The community is thriving.
+
+Departments work in harmony.
+
+The player belongs completely.
+
+Tomorrow begins like every day before it.
+
+No one aboard believes they are only four days away from losing everything.
+
+Day Three begins.

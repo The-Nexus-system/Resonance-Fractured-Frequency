@@ -1,0 +1,289 @@
+WORK ORDER
+
+Create:
+
+docs/design_notes/operation_one_exodus_character_schedule.md
+
+Maintain all established canon from:
+
+- docs/03_Campaign_Bible.md
+
+- docs/design_notes/operation_one_exodus_master_timeline.md
+
+- docs/design_notes/crew_progression_system.md
+
+- docs/design_notes/operation_one_exodus_maintenance_chapter_one.md
+
+- docs/design_notes/operation_one_exodus_maintenance_chapter_two.md
+
+Use proper Markdown headings.
+
+Do not write code.
+
+Do not summarize.
+
+This is a franchise canon document.
+
+# Operation One: Exodus
+
+# Character Schedule
+
+## Purpose
+
+This document defines the normal daily routines, duty schedules, locations and crossover opportunities for every major recurring character aboard CSV Hearth.
+
+This document exists to ensure that every playable campaign remains chronologically consistent.
+
+If two campaigns depict the same moment, every character should already have a defined location and responsibility.
+
+---
+
+# Canon Rule
+
+Characters continue living their lives even when the player is not controlling them.
+
+The player experiences one perspective.
+
+The world continues everywhere else.
+
+---
+
+# Canon Rule
+
+Characters must never exist in two places simultaneously.
+
+Every appearance should be consistent with this schedule unless interrupted by story events.
+
+---
+
+# Canon Rule
+
+Professional responsibilities come before gameplay convenience.
+
+Characters should always feel like real crew members doing real jobs.
+
+---
+
+# Character Template
+
+Create a complete profile for every recurring character using the following structure.
+
+## Daily Schedule
+
+Typical wake time.
+
+Morning routine.
+
+Breakfast location.
+
+Shift start.
+
+Primary duty station.
+
+Regular patrol or work areas.
+
+Lunch routine.
+
+Afternoon responsibilities.
+
+Evening responsibilities.
+
+Night routine.
+
+Sleep location.
+
+---
+
+## Professional Responsibilities
+
+Daily responsibilities.
+
+Weekly responsibilities.
+
+Emergency responsibilities.
+
+Who reports to them.
+
+Who they report to.
+
+Departments they interact with most often.
+
+---
+
+## Regular Interactions
+
+Which characters they naturally encounter every day.
+
+Who they mentor.
+
+Who they frequently assist.
+
+Who they work beside.
+
+Who interrupts them.
+
+Who they seek out.
+
+---
+
+## Accessibility
+
+Adaptive technologies used.
+
+Environmental adaptations.
+
+Preferred communication methods.
+
+How accessibility is naturally integrated into their work.
+
+---
+
+## Sound Identity
+
+What sounds usually accompany this character.
+
+Footsteps.
+
+Mobility aids.
+
+Tools.
+
+Medical equipment.
+
+AAC.
+
+Engineering equipment.
+
+Environmental cues.
+
+Voice cadence.
+
+Announcement style.
+
+The player should eventually recognize many characters by sound alone.
+
+---
+
+## Perspective Crossovers
+
+Identify scenes where other campaigns naturally observe this character.
+
+These become reusable crossover scenes.
+
+---
+
+# Complete Profiles
+
+Create schedules for:
+
+Captain Elian of the Vale System.
+
+Captain Naomi of the Vale System.
+
+Captain Gideon of the Vale System.
+
+Captain Iris of the Vale System.
+
+Rowan Ives.
+
+Mara Chen.
+
+Doctor Samira Kade.
+
+Chief Petty Officer Jonah Briggs.
+
+Security Lead Talia Rusk.
+
+Dr. Soren Qadir.
+
+Mira Ives.
+
+Faience.
+
+---
+
+# Department Rhythm
+
+Define the operating rhythm of:
+
+Command.
+
+Engineering.
+
+Maintenance.
+
+Medical.
+
+Research.
+
+Security.
+
+Logistics.
+
+Education.
+
+Hydroponics.
+
+Manufacturing.
+
+Flight Operations.
+
+Civilian Services.
+
+Every department should feel alive even when the player is elsewhere.
+
+---
+
+# Shift Changes
+
+Define:
+
+Morning shift.
+
+Day shift.
+
+Evening shift.
+
+Night shift.
+
+Emergency staffing.
+
+Cross-department cooperation.
+
+Command rotation for the Vale System.
+
+---
+
+# Emergency Deviations
+
+Describe how normal schedules change during:
+
+General Quarters.
+
+Hull breaches.
+
+Medical emergencies.
+
+Power failures.
+
+Evacuation.
+
+Escape pod launch.
+
+These schedules must synchronize with the Master Timeline.
+
+---
+
+# Narrative Goal
+
+By reading this document, a writer should know exactly where every major character is likely to be at any point during Operation One.
+
+Future campaigns should reveal different perspectives of the same living world rather than inventing new continuity.
+
+---
+
+# End State
+
+This document becomes the definitive scheduling reference for the Resonance franchise.
+
+Every future campaign references this schedule before introducing new scenes.

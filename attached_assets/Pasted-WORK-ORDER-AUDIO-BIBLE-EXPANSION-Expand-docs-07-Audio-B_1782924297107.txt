@@ -1,0 +1,551 @@
+WORK ORDER — AUDIO BIBLE EXPANSION
+
+Expand:
+
+docs/07_Audio_Bible.md
+
+Do NOT create a new document.
+
+Do NOT rewrite existing sections.
+
+Do NOT remove existing canon.
+
+Expand the existing Audio Bible with the following systems.
+
+Maintain all established canon.
+
+Reference the Accessibility Bible, Modular Architecture Bible, Player Identity and Character Presentation Bible, Systems Bible and Universe Bible where appropriate.
+
+Remember:
+
+In Resonance, sound is not simply atmosphere.
+
+Sound is gameplay.
+
+Sound is navigation.
+
+Sound is memory.
+
+Sound is communication.
+
+Sound is accessibility.
+
+Sound is identity.
+
+Every sound should teach the player something meaningful.
+
+----------------------------------------------------------------
+
+MOVEMENT SOUND LIBRARY
+
+Create comprehensive sound standards for every method of movement throughout the Resonance universe.
+
+Movement sounds are gameplay.
+
+Movement sounds communicate identity.
+
+Movement sounds communicate accessibility.
+
+Movement sounds communicate environment.
+
+Movement sounds communicate emotion.
+
+Movement sounds help players build mental maps.
+
+Document sound profiles for:
+
+Walking.
+
+Running.
+
+Jogging.
+
+Standing.
+
+Shifting weight.
+
+Turning.
+
+Sitting.
+
+Standing up.
+
+Crawling.
+
+Climbing.
+
+Ladders.
+
+Ramps.
+
+Stairs.
+
+Jumping.
+
+Sliding.
+
+Falling.
+
+Swimming.
+
+Floating in zero gravity.
+
+Magnetic boots.
+
+Spacewalks.
+
+Transfers.
+
+Manual wheelchair propulsion.
+
+Power wheelchair propulsion.
+
+Mobility scooters.
+
+Walkers.
+
+White cane travel.
+
+Support canes.
+
+Forearm crutches.
+
+Platform crutches.
+
+Prosthetic limbs.
+
+Exoskeletons.
+
+Guide animals.
+
+Service animals.
+
+Robotic mobility assistance.
+
+Children's movement.
+
+Older adult movement.
+
+Fatigue.
+
+Injury.
+
+Medical gait changes.
+
+Different walking styles.
+
+Running styles.
+
+Personality through movement.
+
+Different floor materials including:
+
+Metal.
+
+Carpet.
+
+Concrete.
+
+Wood.
+
+Glass.
+
+Grating.
+
+Tile.
+
+Soil.
+
+Grass.
+
+Sand.
+
+Snow.
+
+Ice.
+
+Mud.
+
+Water.
+
+Maintenance tunnels.
+ Engineering.
+
+Medical.
+
+Civilian housing.
+
+Hydroponics.
+
+Exterior settlements.
+
+Every movement profile should define:
+
+Normal sound.
+
+Fast movement.
+
+Slow movement.
+
+Environmental interaction.
+
+Surface interaction.
+
+Accessibility considerations.
+
+Recognition cues.
+
+Navigation value.
+
+Gameplay value.
+
+Emotional storytelling.
+
+----------------------------------------------------------------
+
+VEHICLE SOUND LIBRARY
+
+Document sound identities for every recurring vehicle and transportation system.
+
+Include:
+
+Escape pods.
+
+Shuttles.
+
+Maintenance carts.
+
+Cargo vehicles.
+
+Forklifts.
+
+Medical transport.
+
+Construction equipment.
+
+Wheelchairs.
+
+Power chairs.
+
+Transit systems.
+
+Elevators.
+
+Trams.
+
+Planetary vehicles.
+
+Exploration craft.
+
+Dropships.
+
+Docking systems.
+
+Airlocks.
+
+Research vessels.
+
+Capital ships.
+
+Civilian spacecraft.
+
+Emergency response vehicles.
+
+Service robots.
+
+Autonomous delivery systems.
+
+For every vehicle define:
+
+Idle.
+
+Startup.
+
+Shutdown.
+
+Acceleration.
+
+Deceleration.
+ Turning.
+
+Doors.
+
+Passenger alerts.
+
+Accessibility announcements.
+
+Emergency operation.
+
+Mechanical failure.
+
+Exterior sound.
+
+Interior sound.
+
+Environmental interaction.
+
+Recognition cues.
+
+Blind navigation.
+
+Passenger experience.
+
+Crew experience.
+
+Gameplay purpose.
+
+----------------------------------------------------------------
+
+EQUIPMENT SOUND LIBRARY
+
+Every recurring tool and accessibility device should possess a recognizable sound identity.
+
+Include:
+
+AAC devices.
+
+Refreshable braille displays.
+
+Braille note takers.
+
+Screen readers.
+
+Hearing aids.
+
+Cochlear implants.
+
+White canes.
+
+Smart canes.
+
+Medical scanners.
+
+Engineering tools.
+
+Maintenance tools.
+
+Fabricators.
+
+Research equipment.
+
+Security equipment.
+
+Communicators.
+
+Personal Beacons.
+
+Digital Identity Badges.
+
+Smart name tapes.
+
+Doors.
+
+Control panels.
+
+Consoles.
+
+Wearable devices.
+
+Protective equipment.
+
+Environmental sensors.
+
+Laboratory equipment.
+
+Diagnostic equipment.
+
+Portable power tools.
+
+Inspection equipment.
+ Every sound should communicate useful information before the player sees the device.
+
+Define:
+
+Activation.
+
+Idle.
+
+Use.
+
+Completion.
+
+Warnings.
+
+Errors.
+
+Accessibility alternatives.
+
+Recognition cues.
+
+Gameplay purpose.
+
+Navigation value.
+
+Emotional storytelling.
+
+----------------------------------------------------------------
+
+ANIMAL SOUND LIBRARY
+
+Document sound identities for animals throughout the Resonance universe.
+
+Include:
+
+Companion animals.
+
+Service animals.
+
+Working animals.
+
+Native wildlife.
+
+Alien wildlife.
+
+Environmental insects.
+
+Aquatic life.
+
+Birds.
+
+Urban wildlife.
+
+Agricultural animals.
+
+Every species should have:
+
+Daily sounds.
+
+Movement sounds.
+
+Emotional sounds.
+
+Warning sounds.
+
+Environmental interaction.
+
+Recognition cues.
+
+Accessibility value.
+
+Gameplay value.
+
+----------------------------------------------------------------
+
+ENVIRONMENTAL SOUND PROGRESSION
+
+Document how locations evolve acoustically over time.
+
+Examples:
+
+Construction progresses.
+
+Gardens mature.
+
+Schools become active.
+
+Communities grow.
+
+Repairs finish.
+
+Neighborhoods develop.
+
+Stations recover.
+
+Settlements expand.
+
+The player should hear civilization evolving.
+
+----------------------------------------------------------------
+
+CULTURAL SOUND IDENTITY
+
+Every civilization should possess recognizable sound characteristics.
+
+Include:
+
+Languages.
+
+Greetings.
+
+Public announcements.
+
+Music.
+
+Celebrations.
+
+Ceremonies.
+
+Markets.
+
+Schools.
+
+Religious or philosophical gatherings.
+
+Emergency broadcasts.
+
+Public transportation.
+
+Workplaces.
+
+Community events.
+
+Accessibility systems.
+
+No civilization should sound identical to another.
+
+----------------------------------------------------------------
+
+EMOTIONAL SOUND DESIGN
+
+Document how sound communicates:
+
+Safety.
+
+Danger.
+
+Hope.
+
+Recovery.
+
+Loss.
+
+Celebration.
+
+Discovery.
+
+Curiosity.
+
+Belonging.
+
+Isolation.
+
+Memory.
+
+Resilience.
+
+Without relying solely on music.
+
+----------------------------------------------------------------
+ END STATE
+
+The Audio Bible becomes the definitive reference for every sound in the Resonance franchise.
+
+No sound should exist without purpose.
+
+Every sound should contribute to:
+
+Gameplay.
+
+Accessibility.
+
+Navigation.
+
+Identity.
+
+World-building.
+
+Community.
+
+Memory.
+
+Emotional storytelling.

@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/session-report/"
+title = "Work Report"
+version = "1.0.0"
+id = "artifacts/session-report"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/session-report/" ]
+localPort = 19121
+
+[services.development]
+run = "pnpm --filter @workspace/session-report run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/session-report", "run", "build" ]
+publicDir = "artifacts/session-report/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "19121"
+BASE_PATH = "/session-report/"

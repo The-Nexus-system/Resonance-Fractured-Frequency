@@ -1,0 +1,152 @@
+You’re right. That’s the difference between a design document and an implementation document.
+
+If we say:
+
+“The player can choose who to visit.”
+
+We have to answer:
+
+* Why would they?
+* What changes?
+* What is learned?
+* What is unlocked?
+* What carries forward?
+
+That’s the level Replit needs.
+
+Here’s what I mean for Part One:
+
+Player Choice Structure
+The player wakes naturally.
+There are no urgent objectives.
+Instead, Jonah has left a morning schedule.
+The player may visit the crew in any order.
+The order chosen does not change canon.
+The order changes what the player learns first, what conversations occur later in the day, and which optional gameplay bonuses become available earliest.
+Every first visit permanently unlocks one gameplay concept.
+The player is expected to eventually visit everyone before attending the community meeting.
+No crew member should ever become optional.
+--------------------------------------------------
+Visit Rowan First
+Player learns:
+Preventative maintenance.
+Rowan demonstrates inspecting systems before they fail.
+Gameplay unlock:
+Maintenance Inspection Mode.
+The player can now perform preventative inspections around the station.
+Benefits:
+Reduced future equipment failures.
+Small resource rewards.
+Hidden maintenance problems become detectable.
+Future dialogue:
+Rowan later comments that the player is beginning to think like a maintenance engineer.
+--------------------------------------------------
+Visit Mara First
+Player learns:
+Active listening.
+Mara teaches identifying system health entirely by sound.
+Gameplay unlock:
+Engineering Diagnostics.
+The player begins recognizing different machinery states through their acoustic signatures.
+Benefits:
+Earlier warning of equipment failures.
+Improved engineering puzzles.
+Reduced repair time.
+Future dialogue:
+Mara begins occasionally asking the player what they hear before explaining the answer.
+--------------------------------------------------
+Visit Samira First
+Player learns:
+Communities survive because they prevent illness rather than simply treating it.
+Gameplay unlock:
+Crew Wellness.
+The player can begin checking overall crew wellbeing instead of waiting for medical emergencies.
+Benefits:
+Improved morale.
+Reduced long-term injuries.
+Preventative medical projects become available.
+Future dialogue:
+Crew members begin voluntarily discussing health concerns with the player.
+--------------------------------------------------
+Visit Jonah First
+Player learns:
+Planning saves time.
+Gameplay unlock:
+Mission Planning Board.
+The player can organize projects, prioritize work and schedule future tasks.
+Benefits:
+Projects complete more efficiently.
+Reduced idle time.
+Additional cooperative projects become available.
+Future dialogue:
+Jonah increasingly trusts the player's organizational ability.
+--------------------------------------------------
+Visit Talia First
+Player learns:
+Situational awareness prevents danger.
+Gameplay unlock:
+Environmental Risk Assessment.
+The player can identify potential hazards before beginning projects.
+Benefits:
+Fewer accidents.
+Safer exploration.
+Improved rescue planning.
+Future dialogue:
+Talia begins involving the player in security planning rather than only emergency response.
+--------------------------------------------------
+Visit Soren First
+Player learns:
+Questions are as valuable as answers.
+Gameplay unlock:
+Research Notebook.
+Players can now record theories, unanswered questions and observations for later investigation.
+Benefits:
+Knowledge Archive discoveries become easier to connect.
+Hidden research opportunities become visible.
+Future dialogue:
+Soren begins asking the player for observations before giving explanations.
+--------------------------------------------------
+Visit Mira First
+Player learns:
+Curiosity reveals details expertise often overlooks.
+Gameplay unlock:
+Curiosity Prompts.
+The player occasionally notices optional environmental details that begin side conversations, research opportunities and accessibility improvements.
+Benefits:
+Additional Knowledge Archive entries.
+Optional discoveries.
+Unique conversations.
+Future dialogue:
+Mira regularly asks the player questions that encourage exploration instead of objective chasing.
+--------------------------------------------------
+Visit the Vale System First
+Player learns:
+Leadership begins by listening.
+Gameplay unlock:
+Crew Consultation.
+Major decisions now display who wishes to speak before the player commits to a course of action.
+Benefits:
+Better informed decisions.
+Additional dialogue.
+Improved diplomatic outcomes later in the campaign.
+Future dialogue:
+Members of the Vale System begin asking the player what they think before offering their own opinions.
+--------------------------------------------------
+Completion Requirement
+Before the community meeting begins, the player must have visited every primary crew member at least once.
+Every first conversation permanently unlocks one gameplay system.
+Every first conversation permanently expands the player's understanding of how communities function.
+The order changes the player's experience.
+The destination does not.
+Canon remains unchanged.
+
+I actually think this is the structure we should use for almost every chapter going forward.
+
+Every major section should answer four questions:
+
+1. What decision does the player make?
+2. What gameplay system is learned?
+3. What philosophy or life lesson is learned?
+4. What permanently changes because of that decision?
+
+That gives Replit something concrete to build instead of just atmosphere, while keeping player choice meaningful even when the main story stays on the same timeline.

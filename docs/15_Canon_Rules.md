@@ -1035,6 +1035,114 @@ Human space traditions may preserve and transform Earth practices while acknowle
 
 This rule applies the existing principles of cultural consultation and fictional cultures as non-substitutes to the specific context of documented human civilisation genealogy.
 
+## Every Community Teaches Humanity
+
+Permanent stations, colonies, ships, and settlements gradually become known for particular areas of excellence, shaped by their history, professions, environment, and lived experience. No community is best at everything. Knowledge is intentionally distributed across civilisation, and education is incomplete if it is experienced from only one perspective.
+
+Learning Circuits replace the idea of a single elite university. Students rotate through multiple communities with different specialities before completing apprenticeship. Communities differ in how they teach, not only in what they teach. Specialised communities arise through expertise and choice; forced segregation belongs to authoritarian systems, not to cooperative space civilisation.
+
+The Universe Bible elaborates the communities of expertise, their educational ecologies, and the Learning Circuit structure.
+
+## Every Person Arrives With Knowledge
+
+Knowledge exchange flows in every direction. Apprentices learn from mentors, and mentors learn from apprentices. Former patients may become clinicians. Former refugees may become rescuers. Former students may become teachers. Apprentices, mentors, clinicians, engineers, artists, researchers, and educators travel between communities and carry ideas home.
+
+No one enters a community empty-handed. Whoever a person was before they arrived, they bring experience that the community does not yet have.
+
+## Knowledge Is a Common Inheritance
+
+Human civilisation recognises knowledge as a shared inheritance rather than private property. People may receive credit and recognition for discovery, creativity, scholarship, and craft, but intentionally withholding knowledge that could materially improve public safety, accessibility, medicine, education, or civilisation is a profound civic breach.
+
+Essential knowledge gains value by being shared.
+
+## Reputation Is Earned Through Contribution
+
+Status in human space is measured less by possession than by contribution. Those who preserve, teach, mentor, repair, rescue, and share are widely respected. Those who exploit dependency or deliberately restrict essential knowledge lose professional trust and influence.
+
+Society generally responds to knowledge hoarding through loss of trust, access, apprentices, collaboration, and professional standing rather than through automatic imprisonment.
+
+## Human Worth Is Not Measured by Capacity
+
+Dignity does not depend on productivity, intelligence, memory, speed of learning, physical ability, or economic contribution. All of these may change across a lifetime. Human worth does not.
+
+Bias still exists, but cooperative space culture treats simplistic ability hierarchies as remnants of older Earth systems.
+
+## Knowledge Exists in Many Forms
+
+Recognised forms of knowledge include scientific understanding, technical skill, emotional intelligence, cultural memory, practical experience, artistic expression, caregiving, pattern recognition, navigation, observation, storytelling, community leadership, craftsmanship, and survival knowledge.
+
+People who lose professional knowledge through accident, illness, injury, or cognitive change remain full members of society. A former engineer may become a mentor, storyteller, patient advocate, historian, cultural steward, caregiver, parent, or rescuer, or may retrain in something entirely new.
+
+A candidate cultural saying expresses the principle: every human teaches; every human learns.
+
+## Children Do Not Belong to a Single World
+
+Every child has their own body, mind, senses, communication style, strengths, and challenges. Families are expected to grow alongside the child. The child is not expected to erase themselves to preserve family tradition.
+
+## Families Learn the Child
+
+Families adapt to who their child actually is. A Deaf family with a hearing child supports both sign and spoken-language access as appropriate. A blind family with a sighted child teaches tactile and audio skills while also supporting visual development. Hearing parents of a Deaf child are expected to learn the child's communication language and connect with Deaf community mentors. Mobility-disabled parents with a walking child support both the family's accessibility culture and the child's available physical development.
+
+Family Circles may include other families with similar experiences, paediatric clinicians, educators, cultural stewards, disability mentors, elders, and community supports.
+
+## Belonging Shapes Development
+
+Children imitate the people they love. A sighted child of blind parents may close their eyes or prefer nonvisual navigation because of belonging, identity, play, sensory preference, or family modelling. A walking child of wheelchair-using parents may prefer a chair or refuse to walk for similar reasons.
+
+Families, educators, and clinicians first ask what a behaviour means rather than assuming defiance.
+
+## Capability Precedes Choice
+
+Children are encouraged to develop every ability reasonably available to them so that later choices are meaningful. The purpose is not to dictate how they must live. The purpose is to preserve future options.
+
+By the age at which a person has legal decision-making authority for a given choice, informed preference receives increasing weight.
+
+## Bodily Autonomy Is Graduated by Permanence
+
+Human civilisation protects extensive bodily autonomy and distinguishes reversible, long-term, and irreversible body modifications. The more permanent the change, the more robust the informed-consent and counselling processes become.
+
+Civilisation does not treat intentionally damaging a healthy spinal cord or comparable irreversible injury as a routine method of identity expression. People who identify strongly with wheelchair or mobility-device use may choose reversible or non-destructive systems that suppress, bypass, or replace walking without intentionally injuring the body.
+
+Medical ethics actively debate enhancement, disability, identity, informed consent, clinician refusal, and long-term consequences. These debates are part of the healthy disagreement that human civilisation sustains.
+
+## Professional Neutrality
+
+Clinicians, therapists, engineers, and other professionals may challenge a person's thinking, explain evidence, describe long-term consequences, and present alternatives. Their role is informed decision support, not choosing a person's values for them.
+
+## Operational Neutrality
+
+A supervisor cannot restrict lawful accessibility technology or body modifications merely because they personally dislike them. Restrictions must be based on demonstrable safety, mission performance, or technical necessity.
+
+For example, a neural interface may be restricted in a reactor space if measurable interference creates risk, but not simply because the supervisor opposes neural interfaces.
+
+## Difference Is Not Misconduct
+
+Lawful accessibility tools, communication methods, assistive technology, body modifications, or identity may not be restricted solely because another person disagrees with them. Professional disagreements are resolved through evidence, ethics, and safety.
+
+## Liberty Requires Responsibility
+
+Human civilisation protects broad personal freedom. In turn, people are expected to understand the consequences of their choices, respect the equal freedoms of others, and contribute to community wellbeing according to their abilities.
+
+## Medicine Practises Harm Reduction for Chosen Nonuse
+
+If a person who can physically walk chooses not to walk, clinicians do not punish or shame them. Medicine shifts toward harm reduction: monitoring consequences such as muscle mass, bone density, circulation, skin integrity, joint health, and cardiovascular fitness, explaining risks, and offering ways to reduce them.
+
+A person with decision-making capacity may accept or decline recommendations unless immediate substantial risk to others triggers the established emergency rules. This rule applies the same harm-reduction philosophy to any lawful choice not to use an available ability or treatment.
+
+## Care Is Never Contingent on Punishment
+
+If a patient arrives with an unlicensed neural interface, exoskeleton, mobility system, sensory augmentation, or similar grey-market or black-market device, immediate medical safety comes first. Clinicians stabilise the person, evaluate the device, explain risks, and preserve access to care.
+
+Patients are not treated as enemies merely because they obtained technology outside official channels. Illegal manufacturers, traffickers, coercive sellers, and dangerous supply networks may be investigated under law, but medical care is never made contingent on punishment.
+
+## Community Endowments Express Local Identity
+
+Fundamental services and rights remain guaranteed across cooperative human space. Beyond that baseline, individual communities may choose additional priorities based on their history and values. These traditions become Community Endowments and sources of local identity.
+
+Wealthier families and citizens are culturally encouraged to contribute to shared endowments, though exact legal obligations may vary by station and governance model. Different stations may be famous for who or what they prioritise. Local differences are legitimate as long as baseline rights are not denied.
+
+The Universe Bible elaborates Community Endowments and their examples.
+
 ## Knowledge Is Historical
 
 The repository records objective canon, and characters record subjective knowledge, and these two are not always identical.

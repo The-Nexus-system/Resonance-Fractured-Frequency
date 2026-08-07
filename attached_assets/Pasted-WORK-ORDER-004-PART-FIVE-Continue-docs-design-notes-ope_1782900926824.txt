@@ -1,0 +1,432 @@
+WORK ORDER 004 — PART FIVE
+
+Continue:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_four.md
+
+Maintain all previously established canon.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Part Five
+
+## Living With Discovery
+
+### Purpose
+
+Expand the expedition system beyond exploration.
+
+Teach that discoveries continue affecting the community long after an expedition ends.
+
+Introduce long-term consequences, return expeditions and personal reflection.
+
+This section completes the gameplay philosophy of Chapter Four.
+
+---
+
+## Expedition Philosophy
+
+No expedition is ever considered completely finished.
+
+Every expedition changes future expeditions.
+
+Every discovery creates new opportunities.
+
+Every unanswered question becomes a future destination.
+
+The player should regularly revisit previously explored locations with new knowledge, new equipment and new perspectives.
+
+---
+
+## Canon Rule
+
+No exploration zone should ever be permanently completed on the first visit.
+
+Every major location should contain discoveries that become accessible only after later chapters, later professions, new equipment or new Knowledge Archive discoveries.
+
+The player should always have reasons to return.
+
+Curiosity should outlive completion.
+
+---
+
+## Gameplay Purpose
+
+Introduce:
+
+Return expeditions.
+
+Incomplete discoveries.
+
+Long-term exploration.
+
+Expedition journals.
+
+Artifact categorization.
+
+Crew requests.
+
+Mission consequences.
+
+Adaptive exploration.
+
+---
+
+## Expedition Consequences
+
+Every expedition should evaluate the player's preparation and decisions.
+
+Poor planning does not end the game.
+
+Poor planning creates additional work.
+
+Examples include:
+
+Equipment wears out sooner.
+
+Power reserves become limited.
+
+Navigation becomes more difficult.
+
+Additional maintenance is required after returning home.
+
+Certain discoveries must wait until another expedition.
+
+Crew discussions reflect lessons learned.
+
+Failure becomes history.
+
+Not punishment.
+
+---
+
+## Player Decisions
+
+Every expedition should include meaningful optional decisions.
+
+Every decision changes future gameplay.
+
+Nothing permanently removes content.
+
+The player chooses priorities.
+
+Not permanent outcomes.
+
+---
+
+### Decision One
+
+Continue Exploring
+
+The player discovers another promising area.
+
+Choice A
+
+Continue searching.
+
+Immediate Result
+
+Additional discoveries.
+
+Greater rewards.
+
+Future Effect
+
+Higher fatigue.
+
+Increased equipment wear.
+
+Reduced remaining supplies.
+
+---
+
+Choice B
+
+Return home now.
+
+Immediate Result
+
+Safer return.
+
+Earlier community development.
+
+Future Effect
+
+Additional discoveries remain for later expeditions.
+
+Nothing is lost.
+
+---
+
+### Decision Two
+
+Unexpected Discovery
+
+The player finds an object that cannot immediately be understood.
+
+Choice A
+
+Recover it immediately.
+
+Immediate Result
+
+Unknown technology returns home.
+
+Future Effect
+
+Research begins immediately.
+
+Potential risks remain unknown.
+
+---
+
+Choice B
+
+Document its location.
+
+Immediate Result
+
+Detailed survey completed.
+
+Future Effect
+
+Later expeditions may return with better equipment.
+
+Research becomes more efficient.
+
+---
+
+Choice C
+
+Leave it untouched.
+
+Immediate Result
+
+No immediate change.
+
+Future Effect
+
+The location becomes an ongoing mystery discussed by the crew.
+
+Future storylines expand naturally.
+
+---
+
+### Decision Three
+
+Crew Request
+
+Before every expedition at least one crew member asks the player to look for something personally meaningful.
+
+Examples include:
+
+Rowan requests specialized maintenance tools.
+
+Mara requests engineering components.
+
+Samira requests medical records.
+
+Jonah requests logistics databases.
+
+Talia requests security logs.
+
+Soren requests scientific samples.
+
+Mira asks whether her old classroom still exists.
+
+The Vale System requests command archives.
+
+The player chooses whether to prioritize the request.
+
+---
+
+Choice A
+
+Complete the request.
+
+Immediate Result
+
+Relationship deepens.
+
+Unique conversations unlock.
+
+Future Effect
+ Additional cooperative opportunities become available.
+
+Crew trust increases.
+
+---
+
+Choice B
+
+Focus on primary mission.
+
+Immediate Result
+
+Mission progresses more efficiently.
+
+Future Effect
+
+Crew member understands.
+
+The request remains available for future expeditions.
+
+Relationships are unchanged.
+
+---
+
+## Artifact Classification
+
+Every recovered item belongs to one primary category.
+
+Engineering.
+
+Medical.
+
+Scientific.
+
+Historical.
+
+Educational.
+
+Accessibility.
+
+Personal.
+
+Cultural.
+
+Environmental.
+
+Unknown.
+
+Artifact categories determine:
+
+Who studies the item.
+
+Which gameplay systems expand.
+
+Which Knowledge Archive entries unlock.
+
+Which conversations become available.
+
+Which future expeditions are generated.
+
+Resources should never exist without context.
+
+Every artifact should tell part of Hearth's story.
+
+---
+
+## Expedition Journal
+
+After every expedition the player is invited to record observations.
+
+Participation is optional.
+
+The journal never grades the player.
+
+Possible entries include:
+
+What surprised you?
+
+What questions remain unanswered?
+
+What would you investigate next?
+
+What discovery mattered most?
+
+Which crew member would appreciate this discovery?
+
+The journal becomes part of the player's permanent history.
+
+Future professions may reveal that earlier assumptions were incomplete.
+
+Players gradually reconstruct the truth across multiple perspectives.
+
+---
+
+## Community Reflection
+
+Following every expedition, crew members naturally discuss discoveries with one another.
+
+Conversations continue even when the player does not participate.
+
+The station remembers.
+
+Recovered discoveries begin appearing throughout the station.
+
+Books appear on shelves.
+
+Recovered artwork hangs on walls.
+
+Engineering equipment enters workshops.
+
+Medical devices begin operating.
+
+Plants are replanted.
+
+Historical displays emerge.
+
+The station slowly becomes a living museum of Hearth.
+
+---
+
+## Accessibility
+
+Every exploration zone records:
+
+Visited areas.
+
+Unfinished discoveries.
+
+Outstanding crew requests.
+
+Artifact categories.
+
+Remaining mysteries.
+
+Players may request summaries at any time through speech, captions, braille displays or tactile interfaces.
+
+No player should need to remember unfinished exploration from memory alone.
+
+---
+
+## Emotional Goal
+
+The player should leave Chapter Four understanding one central truth:
+
+Nothing important has been lost forever if someone remembers it.
+
+Every expedition preserves part of a civilization.
+
+Every return home keeps that civilization alive.
+
+---
+
+## Chapter Four Design Outcome
+
+By the end of Chapter Four the player understands that exploration is not driven by loot.
+
+It is driven by memory.
+
+Knowledge.
+
+Community.
+
+Hope.
+
+The expedition loop has become second nature.
+
+The player no longer asks:
+
+"What can I collect?"
+
+The player asks:
+
+"What can I preserve?"
+
+Chapter Four ends with the station preparing for a future that extends far beyond simple survival.

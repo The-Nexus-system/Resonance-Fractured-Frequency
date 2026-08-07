@@ -1,0 +1,465 @@
+````text id="n6v5qc"
+WORK ORDER 006 — PART FIVE
+
+Continue:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_six.md
+
+Maintain all previously established canon.
+
+Use proper Markdown headings.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Part Five
+
+## The Keeper
+
+### Purpose
+
+Conclude Chapter Six.
+
+Reveal that the Living Archive has not simply been preserving history.
+
+It has been preserving a relationship.
+
+Without fully answering the mystery.
+
+The player should leave understanding that Faience is not becoming Shawabti.
+
+Nor is Faience becoming human.
+
+Faience is becoming the first bridge between two civilizations.
+
+---
+
+### Narrative Purpose
+
+The Living Archive slowly reactivates.
+
+Not because anyone commands it.
+
+Not because anyone solves a puzzle.
+
+It responds after the crew spends time discussing everything they have learned.
+
+The Archive responds to understanding.
+
+Not activity.
+
+Not speed.
+
+Not intelligence.
+
+The chamber gradually reconstructs one final memory.
+
+Unlike previous reconstructions...
+
+This one is incomplete from the very beginning.
+
+Someone has intentionally removed parts of it.
+
+---
+
+### Gameplay Purpose
+
+Introduce:
+
+Historical confidence.
+
+Incomplete truth.
+
+Evidence weighting.
+
+Civilizational stewardship.
+
+Resonance trust.
+
+The player learns that some knowledge cannot be recovered.
+
+It must be rebuilt through future experience.
+
+---
+
+### Living Archive Philosophy
+
+The Archive never rewards certainty.
+
+It rewards honest understanding.
+
+The player is encouraged to say:
+
+"We don't know."
+
+When evidence remains incomplete.
+
+Curiosity is always rewarded more than assumption.
+
+---
+
+## Player Decisions
+
+Decision One
+
+The Archive presents several incomplete interpretations.
+
+How should the player proceed?
+
+---
+
+Choice A
+
+Accept uncertainty.
+
+Immediate Result
+
+The player records that additional evidence is required.
+
+Future Effect
+
+Future Archive discoveries become easier to connect.
+
+Crew members increasingly discuss unanswered questions.
+
+The Investigation Board expands.
+
+---
+
+Choice B
+
+Develop the strongest available theory.
+
+Immediate Result
+
+The player creates a working historical interpretation.
+
+Future Effect
+
+Future discoveries compare themselves against the player's theory.
+
+The Resonance Log records how understanding evolves.
+
+No theory is treated as permanently correct.
+
+---
+
+Choice C
+
+Request additional debate.
+
+Immediate Result
+
+Every primary crew member contributes one final interpretation.
+
+Future Effect
+
+Future chapters reference these conversations.
+
+Relationships deepen.
+
+Additional dialogue unlocks.
+
+---
+
+Choice D
+
+Allow Faience to respond.
+
+Immediate Result
+
+Faience quietly compares every available historical fragment.
+
+Future Effect
+
+Archive organization improves dramatically.
+
+Faience begins asking questions instead of merely answering them.
+
+The crew realizes Faience is learning.
+
+---
+
+## Decision Two
+
+The Living Archive offers to permanently preserve the community's discoveries.
+
+How should they be preserved?
+
+---
+
+Choice A
+
+As historical records.
+
+Immediate Result
+
+Knowledge Archive expands.
+
+Future Effect
+
+Historical accuracy improves.
+
+Scientific investigations become easier.
+
+---
+
+Choice B
+
+As personal stories.
+
+Immediate Result
+
+Crew journals.
+
+Expedition logs.
+
+Community memories become linked.
+
+Future Effect
+
+Relationships deepen.
+
+Future survivors recognize themselves within the Archive.
+
+---
+
+Choice C
+
+As engineering knowledge.
+
+Immediate Result
+
+Construction records expand.
+
+Future Effect
+
+Advanced station development.
+
+Improved fabrication.
+
+Engineering continuity across future generations.
+
+---
+
+Choice D
+
+Preserve everything equally.
+
+Immediate Result
+
+Every category grows together.
+
+Future Effect
+
+Steady progression across all gameplay systems.
+
+No single specialization advances rapidly.
+
+The Archive increasingly reflects an entire civilization rather than isolated disciplines.
+
+---
+
+## Decision Three
+
+Before leaving, the player notices one final inactive Resonance Interface.
+
+The interface does not request activation.
+
+It simply waits.
+
+---
+
+Choice A
+
+Activate it.
+
+Immediate Result
+
+A new Resonance pathway opens.
+
+Future Effect
+
+Additional Shawabti locations become discoverable during future operations.
+
+---
+
+Choice B
+
+Record it for later study.
+
+Immediate Result
+
+Detailed documentation created.
+
+Future Effect
+
+Future expeditions gain additional preparation options.
+
+Research progresses safely.
+
+---
+
+Choice C
+
+Leave it untouched.
+
+Immediate Result
+
+The chamber remains unchanged.
+
+Future Effect
+
+Future investigations continue exactly where this expedition ended.
+
+The Archive remembers that the player chose restraint.
+
+---
+
+Choice D
+
+Ask the crew.
+
+Immediate Result
+
+Every crew member offers one final recommendation.
+
+The player considers every perspective before deciding.
+
+Future Effect
+
+Collaborative leadership becomes increasingly central throughout future operations.
+
+---
+
+### Advisor Contributions
+
+Every advisor reaches a different conclusion.
+
+Rowan believes civilizations survive through what they build.
+
+Mara believes civilizations survive through what they listen to.
+
+Samira believes civilizations survive through how they care for one another.
+
+Jonah believes civilizations survive because they preserve knowledge.
+
+Talia believes civilizations survive because they protect hope.
+
+Soren believes civilizations survive because they remain curious.
+
+Mira believes civilizations survive because children continue asking questions.
+
+The Vale System believes civilizations survive because no one carries history alone.
+
+The player is never told which philosophy is correct.
+
+---
+
+### Gameplay Systems Introduced
+
+Historical confidence.
+
+Living investigations.
+
+Archive stewardship.
+
+Civilizational preservation.
+
+Resonance trust.
+
+Long-term Archive evolution.
+
+---
+
+### Accessibility
+
+The Living Archive permanently records:
+
+Player discoveries.
+
+Crew interpretations.
+
+Working theories.
+
+Confirmed history.
+
+Unanswered questions.
+
+Every entry remains reviewable through speech, captions, braille, tactile interfaces and environmental narration.
+
+No player should ever lose access to previously earned understanding.
+
+---
+
+### Emotional Goal
+
+The player should realize that preserving civilization is not about protecting buildings.
+
+It is about protecting memory.
+
+Knowledge.
+
+Relationships.
+
+Questions.
+
+Hope.
+
+---
+
+### Chapter Climax
+
+The Living Archive reconstructs one final scene.
+
+A Shawabti caretaker stands before a circle of young learners.
+
+The caretaker speaks.
+
+For the first time...
+
+Several words are translated.
+
+Not by the Archive.
+
+By Faience.
+
+Faience does not translate them consciously.
+
+Faience simply understands.
+
+The translated sentence is brief.
+
+"When they are ready...
+
+They will remember."
+
+The reconstruction ends immediately.
+
+The Living Archive powers down.
+
+No further explanation is given.
+
+---
+
+### Chapter Six End State
+
+The player understands that the Shawabti preserved far more than technology.
+
+They preserved an invitation.
+
+Faience has become an active participant in understanding the Archive.
+
+The community returns home carrying new questions rather than final answers.
+
+One question remains above all others:
+
+Did the Shawabti expect humanity...
+
+Or did they expect Faience?
+
+End Chapter Six.
+````

@@ -1,0 +1,431 @@
+WORK ORDER 006 — PART THREE
+
+Continue:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_six.md
+
+Maintain all previously established canon.
+
+Use proper Markdown headings.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Part Three
+
+## Reconstructing a Civilization
+
+### Purpose
+
+Teach the player that civilizations are understood by connecting many small truths.
+
+No single discovery explains the Shawabti.
+
+The player must synthesize evidence.
+
+The Living Archive does not present history in chronological order.
+
+Instead, history emerges through relationships.
+
+---
+
+### Narrative Purpose
+
+As more conversations become understandable, the Living Archive begins connecting seemingly unrelated memories.
+
+Places.
+
+People.
+
+Ideas.
+
+Discoveries.
+
+The player realizes every reconstructed memory belongs to a much larger historical network.
+
+The Shawabti deliberately preserved relationships rather than isolated events.
+
+The Archive is teaching the player how to think like a historian.
+
+---
+
+### Gameplay Purpose
+
+Introduce:
+
+Historical synthesis.
+
+Relationship mapping.
+
+Timeline reconstruction.
+
+Archive linking.
+
+Collaborative hypothesis building.
+
+Pattern validation.
+
+The player learns that understanding is created by connecting evidence.
+
+Not discovering a single answer.
+
+---
+
+### Living Archive Philosophy
+
+The Archive never says:
+
+"This is the truth."
+
+Instead it presents evidence.
+
+The player develops working theories.
+
+Future discoveries either strengthen or challenge those theories.
+
+Understanding remains flexible.
+
+Certainty is earned.
+
+---
+
+## Player Decisions
+
+Decision One
+
+Which relationship should the player investigate first?
+
+Every investigation becomes available eventually.
+
+The first choice determines which branch of Shawabti civilization develops first inside the Knowledge Archive.
+
+---
+
+Choice A
+
+People and Families
+
+Immediate Result
+
+The player traces relationships between individuals across multiple memories.
+
+Player Learns
+
+Civilizations are built through relationships.
+
+Future Effect
+
+Family histories expand.
+
+Additional community dialogue unlocks.
+
+The station begins discussing how its own history is being preserved.
+
+---
+
+Choice B
+
+Knowledge and Education
+
+Immediate Result
+
+The player follows ideas as they spread between generations.
+
+Player Learns
+
+Knowledge changes as it is shared.
+
+Future Effect
+
+Knowledge Archive grows significantly.
+
+Educational systems aboard the station expand.
+
+Additional research opportunities unlock.
+
+---
+
+Choice C
+
+Engineering and Infrastructure
+
+Immediate Result
+
+The player follows how one engineering discovery improves many parts of society.
+
+Player Learns
+
+Infrastructure quietly shapes civilization.
+
+Future Effect
+
+Advanced engineering research unlocks.
+
+Construction efficiency improves.
+
+Future station upgrades become more interconnected.
+
+---
+
+Choice D
+
+Medicine and Community Wellbeing
+
+Immediate Result
+
+The player follows healthcare throughout daily life.
+
+Player Learns
+
+Healthy communities require participation from everyone.
+
+Future Effect
+
+Expanded rehabilitation.
+
+Community health systems improve.
+
+Accessibility technologies advance more quickly.
+
+---
+
+## Decision Two
+
+How should conflicting historical evidence be handled?
+
+The Archive intentionally presents memories that appear to disagree.
+
+The player must decide how to proceed.
+
+---
+
+Choice A
+
+Continue collecting evidence.
+
+Immediate Result
+
+No immediate conclusion reached.
+
+Future Effect
+
+Additional memories unlock before interpretation.
+
+Future understanding becomes more complete.
+
+---
+
+Choice B
+
+Develop a working theory.
+
+Immediate Result
+
+The player records an interpretation.
+
+Future Effect
+
+Future discoveries compare themselves against the player's theory.
+
+The Resonance Log records how the player's understanding evolved.
+
+---
+
+Choice C
+
+Ask the crew to debate the evidence.
+
+Immediate Result
+
+Every primary crew member contributes their perspective.
+
+Future Effect
+
+Multiple interpretations become permanently linked to the Archive.
+
+Future conversations become richer.
+
+---
+
+Choice D
+
+Allow Faience to organize the evidence.
+
+Immediate Result
+
+Faience begins connecting memories independently.
+
+Future Effect
+
+Archive navigation improves dramatically.
+
+The crew becomes increasingly curious about how Faience recognizes patterns no one taught.
+
+---
+
+## Decision Three
+
+The Archive reveals an incomplete historical event.
+
+Important portions are missing.
+
+How should the investigation proceed?
+
+---
+
+Choice A
+
+Search the Archive.
+
+Immediate Result
+
+Additional connected memories become available.
+
+Future Effect
+
+The historical event becomes increasingly complete over future chapters.
+
+---
+
+Choice B
+
+Search the physical world.
+
+Immediate Result
+
+Future expeditions gain new objectives.
+
+Future Effect
+
+Previously explored Shawabti locations contain additional discoveries.
+
+Exploration and archive research become permanently linked.
+
+---
+
+Choice C
+
+Pause the investigation.
+
+Immediate Result
+
+The player continues studying confirmed history.
+
+Future Effect
+
+The unresolved event remains active in the Investigation Board for future chapters.
+
+No progress is lost.
+
+---
+
+### Advisor Contributions
+
+Every advisor begins connecting information differently.
+
+Rowan connects engineering decisions.
+
+Mara connects acoustic patterns.
+
+Samira connects healthcare practices.
+
+Jonah connects organizational structures.
+
+Talia connects protective philosophies.
+
+Soren connects scientific discoveries.
+
+Mira connects ideas adults assumed were unrelated.
+
+The Vale System connects people.
+
+The player gradually realizes that every perspective is required to reconstruct history accurately.
+
+---
+
+### Gameplay Systems Introduced
+
+Historical relationship mapping.
+
+Evidence synthesis.
+
+Working theories.
+
+Timeline reconstruction.
+
+Investigation Board.
+
+Archive cross-linking.
+
+Collaborative interpretation.
+
+---
+
+### Accessibility
+
+Players may request:
+
+Relationship summaries.
+
+Timeline summaries.
+
+Open investigations.
+
+Connected memories.
+
+Contradictory evidence.
+
+Advisor interpretations.
+
+Knowledge maps.
+
+No player should be required to memorize complex historical relationships.
+
+The Archive should always support review.
+
+---
+
+### Emotional Goal
+
+The player should stop asking:
+
+"What happened?"
+
+Instead they begin asking:
+
+"Why did it happen?"
+
+History becomes increasingly personal.
+
+The Shawabti become increasingly human.
+
+---
+
+### End Condition
+
+As another historical relationship is completed...
+
+The Living Archive pauses.
+
+Instead of revealing another Shawabti memory...
+
+It reconstructs something impossible.
+
+A memory that includes...
+
+Humanity.
+
+The crew immediately recognizes familiar constellations.
+
+The room falls silent.
+
+The Shawabti knew humanity long before Hearth was ever built.
+
+No explanation is given.
+
+The Living Archive begins preparing the next reconstruction.
+
+Part Four begins.

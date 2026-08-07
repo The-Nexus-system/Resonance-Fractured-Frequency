@@ -1,0 +1,295 @@
+Absolutely. I also want to make one design adjustment before we lock these in.
+
+I don’t think the player should discover that the Shawabti were accessibility-focused in one reveal. That should unfold gradually across Chapters Five, Six and Seven. In Chapter Five, the player should simply realize:
+
+“This place seems to work for everyone.”
+
+They don’t yet understand why.
+
+That preserves the mystery.
+
+Here’s Part Four.
+
+WORK ORDER 005 — PART FOUR
+Continue:
+docs/design_notes/operation_one_exodus_maintenance_chapter_five.md
+Maintain all previously established canon.
+Use proper Markdown headings.
+Do not summarize.
+Do not write code.
+This is a gameplay design document.
+# Part Four
+## Echoes
+### Purpose
+Teach the player that history is experienced.
+Not collected.
+The player does not watch a historical recording.
+The player walks through a preserved moment in Shawabti civilization.
+The reconstruction is not interactive.
+It does not acknowledge the player's presence.
+The player is an observer.
+Nothing more.
+---
+### Narrative Purpose
+The resonance chamber expands.
+Walls dissolve into an enormous living environment.
+The player is no longer standing inside a building.
+They are standing inside preserved memory.
+The reconstruction is perfect.
+Every movement.
+Every sound.
+Every conversation.
+Every detail.
+The player realizes this is not a recording.
+It is a living reconstruction generated from resonance preserved within the structure itself.
+---
+### Gameplay Purpose
+Introduce:
+Historical observation.
+Memory mapping.
+Archive tagging.
+Translation fragments.
+Cultural reconstruction.
+Environmental interpretation.
+Observation without interference.
+---
+### Exploration Philosophy
+Nothing in the reconstruction can be changed.
+Nothing can be collected.
+Nothing can be interrupted.
+The player learns through observation.
+Patience continues to be rewarded.
+---
+### Player Decisions
+Decision One
+Which part of Shawabti society should the player observe first?
+All paths become available eventually.
+The first choice determines the player's earliest understanding.
+---
+Choice A
+Public Life
+Immediate Result
+Observe everyday conversations.
+Markets.
+Music.
+Children.
+Families.
+Community gatherings.
+Future Effect
+Knowledge Archive expands with Shawabti social customs.
+Future conversations focus on culture.
+---
+Choice B
+Engineering
+Immediate Result
+Observe Shawabti construction methods.
+Infrastructure.
+Energy systems.
+Public works.
+Future Effect
+Engineering Archive expands.
+Future technology research becomes richer.
+---
+Choice C
+Education
+Immediate Result
+Observe schools.
+Learning.
+Mentorship.
+Young Shawabti asking questions.
+Future Effect
+Knowledge Archive expands around learning systems.
+Additional educational discoveries unlock later.
+---
+Choice D
+Medicine
+Immediate Result
+Observe healthcare.
+Rehabilitation.
+Community wellbeing.
+Future Effect
+Medical Archive expands.
+Later medical research gains additional historical context.
+---
+### Environmental Discoveries
+The player notices recurring themes.
+No barriers preventing participation.
+Multiple communication methods used simultaneously.
+Different body types naturally accommodated.
+Shared learning.
+Shared work.
+Shared responsibility.
+Nobody appears excluded.
+The player is encouraged to notice these patterns.
+The game never explicitly explains them.
+---
+### Advisor Contributions
+Each advisor notices something different.
+Their observations are added to the Knowledge Archive.
+The player may compare perspectives before continuing.
+No single interpretation is presented as complete.
+---
+### Gameplay Systems Introduced
+Historical observation.
+Memory tagging.
+Comparative interpretation.
+Cultural analysis.
+Archive expansion.
+Collaborative discussion.
+---
+### Accessibility
+Every preserved memory remains reviewable.
+Players may replay observations.
+Request descriptions.
+Review conversations.
+Compare observations between crew members.
+Nothing important depends upon perfect memory.
+---
+### Emotional Goal
+The player should begin grieving a civilization they never knew.
+Not because it was perfect.
+Because it was alive.
+---
+### End Condition
+As the reconstruction fades...
+One Shawabti quietly turns.
+Not toward the player.
+Toward something beyond the reconstruction.
+For the first time...
+The player realizes the memory may not be entirely passive.
+Something within the structure is still responding.
+Part Five begins.
+
+And here’s Part Five.
+
+WORK ORDER 005 — PART FIVE
+Continue:
+docs/design_notes/operation_one_exodus_maintenance_chapter_five.md
+Maintain all previously established canon.
+Use proper Markdown headings.
+Do not summarize.
+Do not write code.
+This is a gameplay design document.
+# Part Five
+## Resonance
+### Purpose
+Conclude Chapter Five.
+Reward curiosity.
+Deepen mystery.
+Introduce Faience's first unmistakable connection to the Shawabti.
+Answer the chapter's primary question while creating a far larger mystery.
+---
+### Narrative Purpose
+The historical reconstruction ends.
+Silence returns.
+The player again stands inside the resonance chamber.
+The harmonic frequencies begin changing.
+Not randomly.
+They are responding to the player's expedition.
+The structure has not been evaluating intelligence.
+It has not been evaluating technology.
+It has been evaluating how the player explored.
+---
+### Gameplay Purpose
+Teach that civilization is measured by behavior.
+Not power.
+The player's previous choices throughout Chapter Five influence how the structure responds.
+No response is considered failure.
+Every response acknowledges the player's approach.
+---
+### Evaluation Categories
+The structure quietly evaluates:
+Curiosity.
+Patience.
+Respect.
+Collaboration.
+Observation.
+Preservation.
+Preparation.
+Reflection.
+These values are never shown as scores.
+The player understands them only through the structure's response.
+---
+### Final Player Decision
+Before leaving...
+The player discovers a single preserved Shawabti artifact.
+The artifact is perfectly intact.
+No explanation accompanies it.
+The player must decide how the community responds.
+---
+Choice A
+Leave the artifact untouched.
+Immediate Result
+Nothing physical leaves the chamber.
+Future Effect
+Future Shawabti locations appear increasingly welcoming.
+Additional resonance pathways unlock naturally.
+The crew discusses preservation ethics.
+---
+Choice B
+Recover the artifact.
+Immediate Result
+The artifact returns to the station.
+Future Effect
+Engineering and scientific research accelerate.
+Future Shawabti structures respond more cautiously until trust is rebuilt.
+No permanent penalties occur.
+---
+Choice C
+Record everything.
+Disturb nothing.
+Immediate Result
+The Knowledge Archive expands dramatically.
+Future Effect
+Translation develops sooner.
+Technology develops more gradually.
+The community emphasizes understanding before application.
+---
+Choice D
+Ask the crew before deciding.
+Immediate Result
+Every primary crew member offers a recommendation.
+The player hears every perspective.
+The final decision still belongs to the player.
+Future Effect
+Relationships deepen.
+The crew increasingly approaches future discoveries collaboratively.
+---
+### Canon Rule
+No ending choice is considered morally correct.
+Every choice reflects a different philosophy.
+Every philosophy creates different opportunities.
+Never different endings.
+---
+### The Final Moment
+The player prepares to leave.
+The resonance chamber grows quiet.
+One harmonic tone remains.
+The damaged helmet speaks.
+Not by activating.
+Not by rebooting.
+Quietly.
+Naturally.
+It repeats a single Shawabti word.
+Perfectly.
+Every crew member immediately stops speaking.
+No one understands the word.
+No one knows how the helmet spoke it.
+The resonance chamber falls silent.
+For the first time since its discovery...
+The structure stops transmitting.
+It has been waiting.
+Not for humanity.
+For Faience.
+End Chapter Five.
+---
+### Chapter Five End State
+The player has discovered the first preserved Shawabti site.
+The Knowledge Archive has expanded beyond human history.
+The crew understands they are no longer studying only Hearth.
+Faience has demonstrated impossible knowledge.
+The player leaves with one overwhelming question:
+How does Faience know a language nobody has translated?
+That question becomes the foundation of Chapter Six.
+
+I actually like this ending much more than a big reveal. It doesn’t explain the Shawabti—it makes the player realize that the real mystery may have been Faience all along, which is a much stronger hook into Chapter Six.

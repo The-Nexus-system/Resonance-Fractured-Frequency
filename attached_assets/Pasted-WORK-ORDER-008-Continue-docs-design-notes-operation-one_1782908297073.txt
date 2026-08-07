@@ -1,0 +1,583 @@
+WORK ORDER 008
+
+Continue:
+
+docs/design_notes/operation_one_exodus_master_timeline.md
+
+Maintain all established canon.
+
+Use proper Markdown headings.
+
+Do not write code.
+
+Do not summarize.
+
+This document is the definitive chronological reference for Operation One: Exodus.
+
+# Day Two
+
+## Theme
+
+Awareness.
+
+Preparation.
+
+Confidence.
+
+The station reaches its highest point of stability.
+
+Every department is functioning exceptionally well.
+
+The player should feel that Hearth has found its rhythm.
+
+At the same time...
+
+Tiny inconsistencies begin appearing across multiple departments.
+
+No individual observation is alarming.
+
+Together...
+
+They form the first complete warning.
+
+No one yet realizes this.
+
+---
+
+# 05:30
+
+Another quiet night concludes.
+
+Engineering reports perfect power stability.
+
+Maintenance reports no emergency repairs.
+
+Medical reports another healthy shift.
+
+Security reports routine patrol activity.
+
+Research records the anomaly again.
+
+For the first time...
+
+The anomaly remains visible long enough to be confirmed independently by multiple observatories.
+
+Soren creates a Priority Observation file.
+
+He still classifies it as:
+
+Continue Monitoring.
+
+---
+
+# 06:30 Morning Announcement
+
+Captain Elian of the Vale System.
+
+"This is Captain Elian of the Vale System.
+
+Good morning everyone.
+
+One of the privileges of living together is knowing we never build tomorrow alone.
+
+Someone beside you knows something you don't.
+
+Someone behind you solved a problem you'll never see.
+
+Someone ahead of you is preparing a future you'll eventually inherit.
+
+Take time today to thank someone whose work usually goes unnoticed.
+
+Have a wonderful day."
+
+The announcement feels familiar.
+
+Comforting.
+
+The player barely notices it anymore.
+
+It has become home.
+
+---
+
+# Morning Operations
+
+Departments begin preparing for tomorrow's Hearth Community Festival.
+
+Maintenance finishes cosmetic improvements.
+
+Engineering installs interactive demonstrations.
+
+Medical prepares community health exhibits.
+
+Security coordinates public safety volunteers.
+
+Research prepares public astronomy presentations.
+
+Education prepares student projects.
+
+Hydroponics prepares harvest displays.
+
+Community volunteers decorate nearly every public district.
+
+The station has never looked better.
+
+---
+
+# Department Activity
+
+Maintenance
+
+Final accessibility improvements.
+
+Festival preparation.
+
+Preventative inspections.
+
+Engineering
+
+Power systems remain nominal.
+
+Minor resonance fluctuations continue.
+
+Still below operational concern.
+
+Medical
+
+Routine care.
+
+Community outreach.
+
+Accessibility reviews.
+
+Security
+
+Crowd management planning.
+
+Emergency response rehearsal.
+
+Family reunification planning.
+
+Research
+
+Additional observation requests.
+
+Signal comparison.
+
+Navigation correlation.
+
+Scientific debate.
+
+Command
+
+Interdepartmental planning.
+
+Festival preparation.
+
+Future expansion discussions.
+
+No crisis meetings occur.
+
+Everything appears normal.
+
+---
+
+# Character Moments
+
+Rowan begins allowing the player to supervise newer technicians.
+
+Mara asks the player to diagnose a resonance problem entirely by sound.
+
+Samira invites the player to evaluate accessibility alongside patients rather than staff.
+
+Jonah asks whether Maintenance can support future station expansion.
+
+Talia discusses the difference between protecting buildings and protecting communities.
+
+Soren quietly asks whether Maintenance has ever noticed machinery "feeling different."
+
+Captain Elian thanks the player for becoming someone others rely upon.
+
+Captain Naomi privately requests confirmation that every escape pod inspection is current.
+
+The request feels routine.
+
+Later...
+
+The player remembers it differently.
+
+Mira proudly finishes "Everybody Makes Hearth."
+
+The finished project contains interviews from every department aboard the station.
+
+---
+
+# Midday
+
+The station is busier than ever.
+
+Visitors move through Engineering demonstrations.
+
+Children tour Medical.
+
+Researchers answer public questions.
+
+Artists perform.
+
+Community choirs rehearse.
+
+Maintenance crews quietly repair decorations damaged during setup.
+
+Life feels abundant.
+
+The player should begin believing Hearth represents humanity at its best.
+
+---
+
+# Environmental Storytelling
+
+Everywhere the player looks...
+
+Evidence of ordinary life.
+
+Fresh bread.
+
+Public gardens.
+
+Students laughing.
+
+Families arguing over dinner plans.
+
+Engineers debating impossible theories.
+
+Security officers helping children.
+
+Medical staff eating lunch together.
+
+Maintenance apprentices proudly comparing repaired equipment.
+
+The station feels completely alive.
+
+---
+
+# Foreshadowing
+
+Research now confirms the anomaly repeats.
+
+Engineering confirms unexplained resonance drift.
+
+Navigation confirms tiny positional inconsistencies.
+
+Communications reports brief static lasting fractions of a second.
+
+Medical notices several crew members describing unusually vivid dreams.
+
+No pattern exists.
+
+No conclusion is reached.
+
+Each department continues independently.
+
+---
+
+# Evening
+
+Festival decorations continue.
+
+Music fills the station.
+
+Residents make plans for tomorrow.
+
+The player overhears conversations about the future.
+
+Vacations.
+
+Relationships.
+
+New research.
+
+New children.
+
+New housing.
+
+Tomorrow feels guaranteed.
+
+---
+
+# Emotional Goal
+
+The player should leave Day Two believing that Hearth represents the future humanity deserves.
+
+The audience should desperately want tomorrow to arrive.
+
+---
+
+# End State
+
+The station settles peacefully.
+
+The anomaly continues growing.
+
+No one aboard recognizes what they are seeing.
+
+Day One begins.
+
+====================================================================
+
+# Day One
+
+## Theme
+
+The Last Ordinary Day.
+
+Hope.
+
+Memory.
+
+The player does not know this is the final full day aboard Hearth.
+
+Neither does anyone else.
+
+The audience knows disaster is approaching.
+
+The characters do not.
+
+Everything on Day One should therefore feel heartbreakingly ordinary.
+
+---
+
+# 05:30
+
+Night Shift concludes.
+
+Maintenance completes another flawless overnight report.
+
+Engineering reports stable systems.
+
+Medical reports routine care.
+
+Security reports no incidents.
+
+Research confirms the anomaly one final time.
+
+Soren requests a full interdisciplinary meeting tomorrow morning.
+
+The meeting will never happen.
+
+---
+
+# 06:30 Morning Announcement
+
+Captain Elian of the Vale System.
+
+"This is Captain Elian of the Vale System.
+
+Good morning everyone.
+
+Tomorrow we'll celebrate another year together aboard Hearth.
+
+Thank you to everyone preparing today's final festival arrangements.
+
+Take care of one another.
+
+Take time to laugh.
+
+Take time to rest.
+
+Take time to tell people what they mean to you.
+
+Have a wonderful day."
+
+Nobody realizes how important those words will become.
+
+---
+
+# Morning
+
+The station prepares for tomorrow's celebration.
+
+Children rehearse performances.
+
+Music echoes through public spaces.
+
+Maintenance hangs decorations.
+
+Engineering finishes exhibit displays.
+ Medical prepares wellness stations.
+
+Research calibrates telescopes.
+
+Security coordinates volunteers.
+
+Everything feels hopeful.
+
+---
+
+# Department Activity
+
+Maintenance completes every outstanding work order.
+
+Engineering finishes every scheduled inspection.
+
+Medical reports excellent crew health.
+
+Security confirms emergency readiness.
+
+Research prepares tomorrow's scientific presentations.
+
+Command approves tomorrow's festival schedule.
+
+CSV Hearth has never functioned better.
+
+---
+
+# Character Moments
+
+Captain Elian spends almost the entire day walking Hearth.
+
+Captain Naomi quietly completes one final emergency readiness inspection.
+
+Captain Gideon reviews Soren's anomaly report.
+
+Both agree additional information is required.
+
+Captain Iris finalizes tomorrow's community schedule.
+
+Rowan congratulates the player.
+
+"You aren't new anymore."
+
+Mara smiles after the player correctly identifies a resonance imbalance without instruments.
+
+Samira thanks the player for making Medical easier to navigate.
+
+Jonah quietly updates next month's maintenance projections.
+
+Talia jokes that Security is becoming bored because Maintenance refuses to let anything fail.
+
+Soren schedules tomorrow's interdisciplinary review.
+
+Mira proudly hangs "Everybody Makes Hearth" inside the Community Hall.
+
+Residents stop to read it throughout the day.
+
+Some laugh.
+
+Some cry.
+
+Most simply smile.
+
+Faience remains locked away.
+
+Silent.
+
+Waiting.
+
+---
+
+# Midday
+
+The player experiences Hearth at its absolute best.
+
+Every department works together.
+
+No emergencies.
+
+No failures.
+
+No fear.
+
+Only community.
+
+---
+
+# Afternoon
+
+Players are encouraged to revisit every district.
+
+Speak with anyone.
+
+Attend rehearsals.
+
+Visit gardens.
+
+Listen to music.
+
+Watch children play.
+
+Help decorate.
+
+Read community boards.
+
+Explore the station one final time.
+
+Nothing is marked as important.
+
+Everything is.
+
+---
+
+# Evening
+
+The player witnesses Hearth preparing for tomorrow.
+
+Musicians finish rehearsals.
+ Decorations are completed.
+
+Community volunteers stack chairs.
+
+Teachers organize classrooms.
+
+Engineers shut down demonstrations.
+
+Medical prepares first-aid stations.
+
+Children reluctantly go home.
+
+The player walks through a civilization completely at peace.
+
+---
+
+# Night
+
+The station becomes quiet.
+
+Research continues observing the anomaly.
+
+Engineering begins routine overnight diagnostics.
+
+Maintenance completes final inspections.
+
+Medical settles into overnight care.
+
+Security begins another ordinary patrol.
+
+The player goes to sleep expecting another ordinary morning.
+
+Instead...
+
+Tomorrow will begin the final chapter of ordinary life.
+
+---
+
+# Emotional Goal
+
+The player should leave Day One believing nothing could possibly happen to Hearth.
+
+The player should have a favorite place.
+
+Favorite person.
+
+Favorite routine.
+
+Favorite sound.
+
+Favorite memory.
+
+Operation One depends upon these memories.
+
+The player cannot mourn a civilization they never loved.
+
+Day Zero...
+
+The attack begins.

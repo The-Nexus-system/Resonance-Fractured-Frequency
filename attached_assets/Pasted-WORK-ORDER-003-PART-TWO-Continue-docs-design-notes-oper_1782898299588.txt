@@ -1,0 +1,419 @@
+WORK ORDER 003 — PART TWO
+
+Continue:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_three.md
+
+Maintain all previously established canon.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Part Two
+
+## The First Community Meeting
+
+### Purpose
+
+Teach collaborative leadership.
+
+Teach long-term planning.
+
+Teach that communities function because people solve problems together.
+
+The player does not attend this meeting to receive orders.
+
+The player attends to become part of the discussion.
+
+The meeting should feel closer to a town council than a military briefing.
+
+---
+
+### Narrative Purpose
+
+This is the first time every primary crew member has occupied the same room since the destruction of Hearth.
+
+The immediate emergency has ended.
+
+The future now depends upon planning rather than reacting.
+
+Every person has different priorities.
+
+None of those priorities are wrong.
+
+---
+
+### Gameplay Purpose
+
+Introduce:
+
+Community planning.
+
+Long-term station projects.
+
+Project priorities.
+
+Shared decision making.
+
+Crew consultation.
+
+Mission planning.
+
+Station needs.
+
+Consensus building.
+
+The player learns that planning itself is gameplay.
+
+---
+
+### Meeting Structure
+
+The Vale System opens the meeting.
+
+Different members naturally front as different topics arise.
+
+No explanation is given.
+
+This is simply how command functions.
+
+The meeting follows a predictable structure.
+
+Current status.
+
+Immediate concerns.
+
+Long-term projects.
+
+Open discussion.
+
+Community requests.
+
+Player input.
+
+Final decisions.
+
+---
+
+### Crew Reports
+
+Rowan reports:
+
+Structural integrity.
+
+Maintenance backlog.
+
+Repair priorities.
+
+Fabrication capacity.
+
+Hidden maintenance concerns the player discovered earlier alter his report.
+
+If the player completed preventative inspections, Rowan has fewer urgent repairs to discuss.
+
+---
+
+Mara reports:
+
+Power reserves.
+
+Engineering capacity.
+
+Upgrade opportunities.
+
+Energy shortages.
+
+If the player visited Mara first earlier that morning, additional engineering options become available because the player already understands her diagnostic terminology.
+
+---
+
+Samira reports:
+
+Crew health.
+
+Mental wellbeing.
+
+Medical inventory.
+
+Fatigue.
+
+Preventative care priorities.
+
+If the player visited Samira first, optional wellness projects become available.
+
+Crew morale begins slightly higher.
+
+---
+
+Jonah reports:
+
+Supply inventory.
+
+Mission readiness.
+
+Construction schedules.
+
+Outstanding requests.
+
+If the player organized tasks earlier, Jonah's report reflects improved efficiency.
+
+---
+
+Talia reports:
+
+Security concerns.
+
+Hazard assessments.
+
+Emergency preparedness.
+
+External risks.
+
+If the player previously completed environmental assessments, fewer unknown risks remain.
+
+---
+
+Soren reports:
+
+Research progress.
+
+Questions requiring investigation.
+
+Knowledge Archive updates.
+
+Strange signal observations.
+
+If the player documented additional observations earlier, Soren incorporates those discoveries into future research.
+
+---
+
+Mira reports:
+
+Not formally.
+
+Instead she interrupts.
+
+She asks questions.
+
+Those questions expose assumptions adults have made.
+
+At least one optional project should become available because of something Mira notices.
+
+Curiosity changes planning.
+
+---
+
+### Player Decisions
+
+The player is asked to help establish the station's first major priorities.
+
+The player does not choose one "correct" answer.
+
+Instead the player determines what receives attention first.
+
+Choice One
+
+Expand living space.
+
+Immediate Result:
+
+Construction begins.
+
+Crew comfort increases.
+
+Future Result:
+
+Higher morale.
+
+Additional community conversations.
+
+Earlier access to optional social activities.
+
+Construction projects progress more slowly.
+
+---
+
+Choice Two
+
+Strengthen engineering systems.
+
+Immediate Result:
+
+Power reliability improves.
+
+Engineering upgrades unlock sooner.
+
+Future Result:
+
+Advanced equipment becomes available earlier.
+
+Living conditions improve more slowly.
+
+---
+
+Choice Three
+
+Increase medical preparedness.
+
+Immediate Result:
+
+Medical inventory expands.
+
+Crew health improves.
+
+Future Result:
+
+Future injuries recover faster.
+
+Medical research becomes available sooner.
+
+Other construction projects progress more slowly.
+
+---
+
+Choice Four
+
+Expand research capabilities.
+
+Immediate Result:
+
+Knowledge Archive develops faster.
+
+New discoveries occur earlier.
+
+Future Result:
+
+Additional dialogue options.
+
+Earlier diplomatic advantages.
+
+Engineering and construction improvements occur more gradually.
+
+---
+
+Choice Five
+
+Strengthen station defenses.
+
+Immediate Result:
+
+Security systems improve.
+
+Future exploration becomes safer.
+
+Future Result:
+
+Earlier defensive upgrades.
+
+Reduced accidental damage.
+
+Scientific progress slows slightly.
+
+---
+
+Choice Six
+
+Search immediately for additional survivors.
+
+Immediate Result:
+
+Exploration projects begin sooner.
+
+Additional optional rescue opportunities appear earlier.
+
+Future Result:
+
+The station develops more slowly because resources are shared with rescue operations.
+
+---
+
+### Canon Rule
+
+None of these choices create a better or worse playthrough.
+
+Every priority eventually becomes available.
+
+The player's choice determines what the community accomplishes first.
+
+History changes.
+
+Canon does not.
+
+---
+
+### Crew Reactions
+
+Every crew member responds differently to each priority.
+
+Nobody is universally pleased.
+
+Nobody is universally disappointed.
+
+Respectful disagreement is healthy.
+
+The player begins understanding personalities through discussion rather than exposition.
+
+---
+
+### Gameplay Systems Introduced
+
+Station project board.
+
+Priority management.
+
+Community voting.
+
+Long-term planning.
+
+Crew consultation.
+
+Project dependencies.
+
+Project timelines.
+
+Community requests.
+
+---
+
+### Accessibility
+
+Every discussion topic is reviewable after the meeting.
+
+Players may replay:
+
+Entire meeting.
+
+Individual reports.
+
+Player decisions.
+
+Crew recommendations.
+
+Meeting minutes.
+
+No information should be permanently lost because a player became distracted or missed dialogue.
+
+---
+
+### Emotional Goal
+
+The player should leave the meeting feeling trusted.
+
+They are no longer simply another survivor.
+
+They have become one of the people helping shape the future.
+
+---
+
+### End Condition
+
+The first major community project officially begins.
+
+Construction starts.
+
+The station begins changing because of the player's decision.
+
+The player is asked to report to Rowan, where practical work on the chosen project begins in Part Three.

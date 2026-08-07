@@ -1,0 +1,420 @@
+WORK ORDER 018
+
+Create or expand:
+
+docs/09_Network_and_Multiplayer_Bible.md
+
+Maintain all established canon.
+
+Reference every existing franchise bible document.
+
+Do not contradict canon.
+
+Do not write code.
+
+Do not summarize.
+
+Do not leave placeholders.
+
+This document becomes the definitive multiplayer and networking reference for the Resonance franchise.
+
+----------------------------------------------------------------
+
+PURPOSE
+
+Multiplayer exists to strengthen community.
+
+It is never required to experience the complete story.
+
+Every campaign must remain fully playable solo.
+
+Multiplayer should enhance cooperation rather than create dependency.
+
+----------------------------------------------------------------
+
+DESIGN PHILOSOPHY
+
+Resonance is cooperative by design.
+
+Players succeed by sharing knowledge.
+
+Sharing professions.
+
+Sharing perspectives.
+
+Sharing accessibility.
+
+Sharing responsibility.
+
+The game should reward communication rather than mechanical perfection.
+ ----------------------------------------------------------------
+
+CORE PRINCIPLES
+
+Every campaign is fully playable:
+
+Solo.
+
+Online co-op.
+
+LAN.
+
+Private servers.
+
+Dedicated servers.
+
+Future community-hosted servers.
+
+Players may freely move between solo and cooperative play without losing progression.
+
+----------------------------------------------------------------
+
+COOPERATIVE STRUCTURE
+
+Support:
+
+Two-player.
+
+Four-player.
+
+Profession-based teams.
+
+Drop-in.
+
+Drop-out.
+
+Asynchronous cooperation where appropriate.
+
+Observers.
+
+Accessibility assistants.
+
+Teachers.
+
+Therapists.
+
+Parents.
+
+Support workers.
+
+Friends.
+
+----------------------------------------------------------------
+
+PROFESSION COOPERATION
+
+Every profession should naturally cooperate.
+
+Maintenance and Engineering.
+
+Medical and Security.
+
+Research and Command.
+
+Logistics and Civilian Services.
+
+Education and Community.
+
+No profession should become obsolete in multiplayer.
+
+Each contributes unique knowledge rather than exclusive abilities.
+
+----------------------------------------------------------------
+
+KNOWLEDGE SHARING
+
+Knowledge discovered by one player may be:
+
+Shared immediately.
+
+Shared intentionally.
+
+Kept private until discussed.
+
+Published to the Knowledge Archive.
+
+Crew members should react naturally based upon what has actually been shared.
+
+----------------------------------------------------------------
+
+COMMUNICATION
+
+Support:
+
+Voice.
+
+Text.
+
+Quick chat.
+
+AAC.
+
+Sign language.
+
+Emotes.
+
+Pointer systems.
+
+Drawing.
+
+Shared planning boards.
+
+Ping systems.
+
+Braille-compatible messaging.
+
+Caption-first communication.
+
+Communication should remain fully accessible.
+
+----------------------------------------------------------------
+
+ACCESSIBILITY
+
+Every multiplayer feature must support:
+
+Blind players.
+
+Low-vision players.
+
+Deaf players.
+
+Hard-of-hearing players.
+
+DeafBlind players.
+
+Wheelchair users.
+
+Players with limited mobility.
+
+Switch users.
+
+Voice control.
+
+Eye tracking.
+
+Screen readers. 
+Refreshable braille displays.
+
+Custom gestures.
+
+Alternative communication.
+
+Accessibility is identical in solo and multiplayer.
+
+----------------------------------------------------------------
+
+PLAYER ROLES
+
+Players may choose to act as:
+
+Crew member.
+
+Mentor.
+
+Teacher.
+
+Observer.
+
+Accessibility assistant.
+
+Mission coordinator.
+
+Expedition planner.
+
+Community organizer.
+
+No role should require fast reflexes.
+
+----------------------------------------------------------------
+
+SAVE SYSTEM
+
+Define:
+
+Host authority.
+
+Shared progression.
+
+Individual progression.
+
+Knowledge synchronization.
+
+Crew rescue synchronization.
+
+Station upgrades.
+
+Accessibility profiles.
+
+Cross-campaign persistence.
+
+Perspective progression.
+
+----------------------------------------------------------------
+
+NETWORK DESIGN
+
+Document:
+
+Authoritative server model.
+
+Peer-to-peer support (if any).
+
+Dedicated servers.
+
+Offline mode.
+
+Reconnect behavior.
+
+Migration.
+
+Latency philosophy.
+
+Bandwidth priorities.
+ Accessibility during connection loss.
+
+Cross-platform support.
+
+Cross-save support.
+
+Future expansion support.
+
+----------------------------------------------------------------
+
+COMMUNITY FEATURES
+
+Support:
+
+Shared stations.
+
+Shared settlements.
+
+Community projects.
+
+Research collaborations.
+
+Engineering collaborations.
+
+Knowledge sharing.
+
+Historical archives.
+
+Photo journals.
+
+Resonance Logs.
+
+Community events.
+
+Festival participation.
+
+Accessibility demonstrations.
+
+Teaching spaces.
+
+----------------------------------------------------------------
+
+MODDING
+
+Document how multiplayer interacts with:
+
+Community servers.
+
+Custom campaigns.
+
+Accessibility mods.
+
+Translation packs.
+
+Audio packs.
+
+Visual packs.
+
+Educational content.
+
+Roleplay communities.
+
+----------------------------------------------------------------
+
+SAFETY
+
+Document:
+
+Privacy.
+
+Blocking.
+
+Muting.
+
+Reporting.
+
+Consent.
+
+Child safety.
+
+Therapist mode.
+
+Education mode.
+
+Streaming mode.
+
+Anonymous mode.
+
+Accessibility privacy.
+
+Medical privacy.
+
+Pronoun respect.
+
+Communication preferences.
+
+Identity visibility controls.
+
+----------------------------------------------------------------
+
+TESTING
+
+Document multiplayer testing requirements for:
+
+Screen readers.
+
+Braille displays.
+
+Audio-only play.
+
+Caption-only play.
+
+Mixed-ability teams.
+
+High latency.
+
+Low bandwidth.
+
+Connection interruption.
+
+Controller.
+
+Keyboard.
+
+Touch.
+
+Switch access.
+
+Voice control.
+
+Eye tracking.
+
+----------------------------------------------------------------
+
+END STATE
+
+This document becomes the definitive multiplayer reference for the Resonance franchise.
+
+Every multiplayer feature should reinforce the central philosophy of Resonance:
+
+Community is progression.
+
+Knowledge is progression.
+
+Accessibility is civilization.
+
+Cooperation is the default way humanity survives.

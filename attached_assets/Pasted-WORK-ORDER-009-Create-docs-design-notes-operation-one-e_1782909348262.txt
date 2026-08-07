@@ -1,0 +1,282 @@
+WORK ORDER 009
+
+Create:
+
+docs/design_notes/operation_one_exodus_character_schedule.md
+
+Maintain all established canon from:
+
+- docs/03_Campaign_Bible.md
+
+- docs/design_notes/operation_one_exodus_master_timeline.md
+
+- docs/design_notes/crew_progression_system.md
+
+- docs/design_notes/operation_one_exodus_perspective_map.md
+
+- docs/11_Decision_Log.md
+
+This document becomes the definitive scheduling reference for every recurring character aboard CSV Hearth.
+
+Do not summarize.
+
+Do not generate placeholders.
+
+Completely flesh out every character.
+
+Use proper Markdown headings.
+
+Do not write code.
+
+This is a franchise canon document.
+
+------------------------------------------------------------
+
+PURPOSE
+
+The Master Timeline answers:
+
+"What happened?"
+
+This document answers:
+
+"Where is everyone when it happened?"
+
+Every playable campaign references this document.
+
+Every cinematic references this document.
+
+Every conversation references this document.
+
+If another document disagrees with this schedule,
+
+this document is canon.
+
+------------------------------------------------------------
+
+CANON RULES
+
+Characters continue living their lives whether or not the player is present.
+
+Characters never wait for the player.
+
+Characters never exist solely to hand out quests.
+
+Professional responsibility always comes before plot convenience.
+
+Every recurring character has a complete daily routine.
+
+Every recurring character has favorite places aboard Hearth.
+
+Every recurring character has recurring habits.
+
+The player should eventually know where someone is likely to be simply by understanding who they are.
+
+------------------------------------------------------------
+
+Create complete schedules for:
+
+Captain Elian of the Vale System
+
+Captain Naomi of the Vale System
+
+Captain Gideon of the Vale System
+
+Captain Iris of the Vale System
+
+Rowan Ives
+
+Mara Chen
+
+Doctor Samira Kade
+
+Chief Petty Officer Jonah Briggs
+
+Security Lead Talia Rusk
+
+Dr. Soren Qadir
+
+Mira Ives
+
+Faience
+ ------------------------------------------------------------
+
+Every character should include:
+
+Identity
+
+Role
+
+Department
+
+Rank
+
+Disability
+
+Primary workplace
+
+Secondary workplace
+
+Home neighborhood
+
+Communication style
+
+------------------------------------------------------------
+
+Daily routine
+
+Wake time
+
+Morning routine
+
+Breakfast
+
+Work start
+
+Morning responsibilities
+
+Lunch
+
+Afternoon responsibilities
+
+Evening routine
+
+Community activities
+
+Night routine
+
+Sleep
+
+Preferred routes through the station
+
+Favorite places
+
+Favorite quiet place
+
+Favorite public place
+
+------------------------------------------------------------
+
+Professional responsibilities
+
+Primary duties
+
+Secondary duties
+
+Weekly duties
+
+Monthly duties
+
+Emergency duties
+
+Who reports to them
+
+Who they report to
+
+Departments they interact with
+
+------------------------------------------------------------
+
+Community relationships
+
+Friends
+
+Frequent coworkers
+
+Mentors
+
+Students
+
+Lunch companions
+
+Neighbors
+
+People they naturally check on
+
+Children who know them
+
+People they quietly admire
+
+------------------------------------------------------------
+
+Accessibility
+
+Adaptive equipment
+
+Communication methods
+
+Environmental adaptations
+
+Workstation adaptations
+
+How they naturally improve accessibility for others
+
+------------------------------------------------------------
+
+Sound identity
+
+Voice
+
+Walking pattern
+
+Equipment sounds
+
+Mobility sounds
+
+Tool sounds
+
+Music preferences
+
+Typical environmental sounds
+
+Players should eventually recognize each character entirely through sound.
+
+------------------------------------------------------------
+
+Cross-perspective scenes
+
+Maintenance
+
+Engineering
+
+Medical
+
+Research
+
+Security
+
+Command
+
+Logistics
+
+Civilian
+
+Describe why this character naturally appears in each campaign.
+
+Never because the story needs them.
+
+Always because their responsibilities place them there.
+
+------------------------------------------------------------
+
+Emergency routine
+
+Where they report.
+
+Who they contact first.
+
+Who they protect.
+
+Who they coordinate with.
+
+How their routine changes during General Quarters.
+
+Where they are when the attack begins.
+
+------------------------------------------------------------
+
+End State
+
+This document becomes the definitive scheduling reference for every recurring character throughout Operation One.
+
+Future campaigns reveal different perspectives of these routines rather than inventing new continuity.

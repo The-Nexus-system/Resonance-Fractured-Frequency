@@ -1,0 +1,118 @@
+WORK ORDER — CROSS-REFERENCE PROPAGATION PASS
+
+Review the repository after the recent franchise bible updates.
+
+Do not create new canon.
+
+Do not rewrite completed sections.
+
+Do not duplicate existing material.
+
+Do not summarize or shorten existing documents.
+
+Purpose:
+
+Update earlier documents so they correctly reference newer canonical systems, especially:
+
+Audio Bible
+
+Accessibility Bible
+
+Universe Bible
+
+Network and Multiplayer Bible
+
+Player Identity and Character Presentation Bible
+
+Modular Architecture Bible
+
+Gameplay Progression Matrix
+
+Task:
+
+Find earlier documents that mention sound, accessibility, species, civilizations, multiplayer, character identity, player identity, rooms, architecture, gameplay progression, crew identity, or character presentation.
+
+Where appropriate, add short cross-reference notes pointing to the correct canon document.
+
+Do not paste full duplicated sections into older files.
+
+Use brief language such as:
+
+"For detailed audio implementation rules, see docs/07_Audio_Bible.md."
+
+"For character recognition, presentation, EDC, identity badges and avatar rules, see docs/design_notes/player_identity_and_character_presentation_bible.md."
+
+"For reusable rooms and architecture modules, see docs/design_notes/modular_architecture_bible.md."
+
+"For species and civilization rules, see docs/02_Universe_Bible.md."
+
+"For multiplayer persistence and protected personal spaces, see docs/09_Network_and_Multiplayer_Bible.md."
+
+Specifically check and update:
+
+README.md
+
+docs/README.md
+
+docs/03_Campaign_Bible.md
+
+docs/04_Systems_Bible.md
+
+docs/07_Audio_Bible.md
+
+docs/08_Accessibility_Bible.md
+
+docs/11_Decision_Log.md
+
+docs/12_Glossary.md
+
+docs/design_notes/crew_progression_system.md
+
+docs/design_notes/operation_one_exodus_master_timeline.md
+
+docs/design_notes/operation_one_exodus_character_schedule.md
+
+docs/design_notes/operation_one_exodus_perspective_map.md
+
+docs/design_notes/modular_architecture_bible.md
+
+all Operation One chapter design notes
+ Audio-specific pass:
+
+Whenever earlier documents say sound is progression, sound is navigation, acoustic geography, soundscape, character sound identity, room sound identity, combat audio, emergency audio, or no-audio accessibility, ensure they reference:
+
+docs/07_Audio_Bible.md
+
+Do not move the content unless it is duplicated.
+
+If duplicated audio rules exist in multiple places, keep the most complete version in docs/07_Audio_Bible.md and replace duplicates elsewhere with a short reference.
+
+Accessibility-specific pass:
+
+Whenever earlier documents mention accessibility as civilization, braille, captions, AAC, haptics, DeafBlind support, custom gestures, no-time-limit alternatives, or emergency accessibility, ensure they reference:
+
+docs/08_Accessibility_Bible.md
+
+Identity-specific pass:
+
+Whenever earlier documents mention character appearance, player avatar, Vale System presentation, pronoun changes, smart name tape, digital ID badge, Personal Beacon, EDC, or recognition cues, ensure they reference:
+
+docs/design_notes/player_identity_and_character_presentation_bible.md
+
+Universe-specific pass:
+
+Whenever earlier documents mention species, civilizations, Shawabti, humanity, Faience, first contact, worlds, settlements, or multi-species communities, ensure they reference:
+
+docs/02_Universe_Bible.md
+
+Deliverables:
+
+1. List files modified.
+
+2. List cross-references added.
+
+3. List duplicate sections replaced with references.
+
+4. List any unresolved contradictions found.
+
+5. Do not make unrelated changes.

@@ -1,0 +1,153 @@
+WORK ORDER
+
+Create:
+
+docs/design_notes/operation_one_exodus_master_timeline.md
+
+Use proper Markdown headings.
+
+Do not write code.
+
+Purpose:
+
+Create the definitive chronological timeline for Operation One: Exodus.
+
+This document becomes the master source of truth for every playable perspective.
+
+Every future campaign, chapter, mission, conversation, rescue, flashback and cinematic must remain consistent with this timeline.
+
+This document defines what objectively happened.
+
+Perspective campaigns define how the player experienced those events.
+
+--------------------------------------------------
+
+CANON RULE
+
+There is only one timeline.
+
+There are many perspectives.
+
+--------------------------------------------------
+
+Timeline Scope
+
+Begin seven days before the destruction of CSV Hearth.
+
+End when the player regains consciousness inside the damaged escape pod at the beginning of Chapter Two.
+
+Cover every day.
+
+Cover every major shift.
+
+Cover the attack minute-by-minute.
+ --------------------------------------------------
+
+For every major event include:
+
+Approximate time.
+
+Location aboard Hearth.
+
+Characters present.
+
+Characters absent.
+
+Departments involved.
+
+Whether the player witnesses the event in the Maintenance campaign.
+
+Whether the event is visible from other campaigns.
+
+Whether the event becomes important later.
+
+--------------------------------------------------
+
+Include recurring daily events such as:
+
+Morning announcements.
+
+Shift changes.
+
+Meals.
+
+Maintenance windows.
+
+Engineering inspections.
+
+Medical rounds.
+
+Research meetings.
+
+Training exercises.
+
+School activities.
+
+Community gatherings.
+
+Emergency drills.
+
+Evening routines.
+
+Night shift.
+
+--------------------------------------------------
+
+Attack Timeline
+
+Create a minute-by-minute timeline covering:
+
+Initial anomaly.
+
+Detection.
+
+Command response.
+
+Engineering response.
+
+Maintenance response.
+
+Medical response.
+
+Security response.
+
+Civilian response.
+
+Research response.
+ Communications.
+
+Evacuation orders.
+
+Escape pod launches.
+
+CSV Hearth destruction.
+
+Player blackout.
+
+--------------------------------------------------
+
+Perspective Crossovers
+
+Mark every event where two or more future protagonists cross paths.
+
+These crossover points become reusable scenes for every campaign.
+
+The same event should be experienced differently depending upon the player's profession.
+
+--------------------------------------------------
+
+Canon Rule
+
+Nothing in a later campaign may contradict this timeline.
+
+Later campaigns reveal additional context.
+
+Never alternate history.
+
+--------------------------------------------------
+
+End State
+
+This document becomes the master continuity reference for the entire Resonance franchise.
+
+Every campaign, operation and future expansion references this document before adding new content.

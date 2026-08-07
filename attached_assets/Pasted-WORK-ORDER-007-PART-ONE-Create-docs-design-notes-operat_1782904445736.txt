@@ -1,0 +1,447 @@
+WORK ORDER 007 — PART ONE
+
+Create:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_seven.md
+
+Maintain all previously established canon.
+
+Use proper Markdown headings.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Operation One: Exodus
+
+# Chapter Seven
+
+## Resonance
+
+### Primary Question
+
+What kind of civilization will we become?
+
+### Chapter Answer
+
+The answer belongs to the player.
+
+### Ending Question
+
+Operation One concludes.
+
+Operation Two begins.
+
+--------------------------------------------------
+
+## Purpose
+
+Chapter Seven serves as the conclusion of Operation One.
+
+The chapter introduces no major gameplay systems.
+
+Instead, every system introduced throughout Chapters One through Six is combined into increasingly complex situations.
+
+The player demonstrates mastery through application rather than instruction.
+
+The player's philosophy throughout the campaign now shapes how the community responds to its greatest challenge.
+
+---
+
+## Emotional Themes
+
+Hope.
+
+Responsibility.
+
+Trust.
+
+Legacy.
+
+Community.
+
+Stewardship.
+
+Discovery.
+
+Beginning.
+
+---
+
+## Gameplay Themes
+
+Integrated problem solving.
+
+Community leadership.
+
+Civilizational decision making.
+
+Knowledge application.
+
+Collaborative exploration.
+
+Resonance.
+
+Everything the player has learned becomes necessary.
+
+---
+
+## Chapter Philosophy
+
+Every previous chapter asked:
+
+"What can the player learn?"
+
+Chapter Seven asks:
+
+"What will the player do with that knowledge?"
+
+The player is no longer becoming part of a community.
+
+The player is helping define that community's future.
+
+---
+
+## Structure
+
+The chapter follows the familiar expedition rhythm.
+
+Prepare.
+
+Depart.
+
+Explore.
+
+Recover.
+
+Return.
+
+Reflect.
+
+Rebuild.
+
+However...
+
+Every stage now requires systems learned throughout the campaign.
+
+Nothing is introduced.
+
+Everything is combined.
+
+---
+
+# Part One
+
+## The Invitation
+
+### Purpose
+
+Begin the final chapter.
+
+Demonstrate that the community is no longer reacting to events.
+
+The community chooses to answer the Shawabti invitation.
+
+Not because they must.
+
+Because they are ready.
+
+---
+
+### Narrative
+
+Several weeks have passed.
+
+The station has grown.
+
+Morning routines continue.
+
+Construction continues.
+
+Research continues.
+
+Children continue learning.
+
+Life has become ordinary.
+
+Then...
+
+Every Shawabti structure discovered so far activates simultaneously.
+
+Not as an alarm.
+
+As an invitation.
+
+The harmonic patterns form one complete sequence for the first time.
+
+Faience quietly says:
+
+"I think...
+
+they're asking us to come."
+
+Nobody argues.
+
+The decision now belongs to the community.
+
+---
+
+### Gameplay Purpose
+
+The player prepares for the largest expedition undertaken so far.
+
+Every major system returns.
+
+Mission planning.
+
+Engineering.
+
+Medicine.
+
+Research.
+
+Leadership.
+
+Accessibility.
+
+Knowledge Archive.
+
+Resonance.
+
+Community consultation.
+
+Everything contributes.
+
+---
+
+## Player Decisions
+
+Decision One
+
+Should the community accept the invitation?
+
+---
+
+Choice A
+
+Leave immediately.
+
+Immediate Result
+
+Earlier arrival.
+
+Less preparation.
+
+Future Effect
+
+Greater uncertainty.
+
+More discoveries during the expedition.
+
+Additional improvisation required.
+
+---
+
+Choice B
+
+Prepare thoroughly.
+
+Immediate Result
+
+Additional planning.
+
+Equipment upgrades.
+
+Crew readiness improves.
+
+Future Effect
+
+More options become available throughout the expedition.
+
+The invitation patiently waits.
+
+---
+
+Decision Two
+
+What philosophy guides the expedition?
+
+---
+
+Choice A
+
+Discovery.
+
+Immediate Result
+
+Research becomes the highest priority.
+
+Future Effect
+
+Additional scientific discoveries.
+
+---
+
+Choice B
+
+Preservation.
+
+Immediate Result
+
+Historical protection becomes the highest priority.
+
+Future Effect
+
+Additional Archive content.
+
+---
+
+Choice C
+
+Community.
+
+Immediate Result
+
+Crew wellbeing becomes the highest priority.
+
+Future Effect
+
+Expanded relationships.
+
+Improved morale.
+
+---
+
+Choice D
+
+Balance.
+
+Immediate Result
+
+Every system progresses together.
+
+Future Effect
+
+No specialization advances as rapidly.
+
+The community remains highly adaptable.
+
+---
+
+Decision Three
+
+How should the community travel?
+
+---
+
+Choice A
+
+Small expedition.
+
+Immediate Result
+
+Greater flexibility.
+
+Future Effect
+
+Higher individual responsibility.
+
+---
+
+Choice B
+
+Large expedition.
+
+Immediate Result
+
+More expertise available immediately.
+
+Future Effect
+
+Greater logistical complexity.
+
+---
+
+Choice C
+
+Rotating teams.
+
+Immediate Result
+
+Balanced workload.
+
+Future Effect
+
+More crew interactions.
+
+Expanded dialogue.
+
+---
+
+Choice D
+
+Community vote.
+
+Immediate Result
+
+Every primary crew member participates in planning.
+
+Future Effect
+
+The chosen plan reflects the station's collective philosophy.
+
+Leadership through collaboration is reinforced.
+
+---
+
+### Gameplay Systems
+
+Every previously learned gameplay system becomes active.
+
+No tutorials appear.
+
+The player is expected to combine previous knowledge independently.
+
+---
+
+### Accessibility
+
+Every accessibility feature introduced throughout Operation One remains fully available.
+
+No finale should become less accessible because of increased complexity.
+
+Accessibility remains part of the world.
+
+Not a separate mode.
+
+---
+
+### Emotional Goal
+
+The player should realize:
+
+The frightened survivor from Chapter One no longer exists.
+
+The community has become explorers.
+
+The expedition is no longer about survival.
+
+It is about deciding who humanity chooses to become.
+
+---
+
+### End Condition
+
+The expedition departs.
+
+For the first time...
+
+The player leaves home knowing they will return.
+
+Not because they hope.
+
+Because they built something worth returning to.
+
+Part Two begins.

@@ -1,0 +1,497 @@
+WORK ORDER
+
+Create:
+
+docs/design_notes/operation_one_exodus_master_timeline.md
+
+Maintain all established canon from:
+
+- docs/03_Campaign_Bible.md
+
+- docs/design_notes/operation_one_exodus_maintenance_chapter_one.md
+
+- docs/design_notes/operation_one_exodus_maintenance_chapter_two.md
+
+- docs/design_notes/crew_progression_system.md
+
+- docs/11_Decision_Log.md
+
+This document becomes the single source of truth for the chronology of Operation One: Exodus.
+
+Use proper Markdown headings.
+
+Do not write code.
+
+Do not summarize.
+
+This is a franchise canon document.
+
+# Operation One: Exodus
+
+# Master Timeline
+
+## Purpose
+
+This document defines the objective chronology of Operation One: Exodus.
+
+Every playable campaign follows this timeline.
+
+Campaigns never alter history.
+
+Campaigns reveal different perspectives of the same history.
+
+There is only one canon timeline.
+
+There are many valid perspectives.
+
+---
+
+# Canon Rules
+
+## Canon Rule
+
+Every campaign depicts the same historical events.
+
+No campaign changes history.
+
+Each campaign reveals information unavailable to the others.
+
+Events overlap naturally.
+
+Together, all campaigns tell one complete story.
+
+---
+
+## Canon Rule
+
+Every playable protagonist exists simultaneously.
+
+When the player controls one protagonist, every other protagonist continues performing their own duties elsewhere aboard CSV Hearth.
+
+The player may witness them.
+
+The player may interact with them.
+
+The player may never prevent them from performing their responsibilities.
+
+---
+
+## Canon Rule
+
+Every major event must occur at exactly the same point in time in every campaign.
+
+Dialogue may differ.
+
+Perspective may differ.
+
+Knowledge may differ.
+
+The event itself never changes.
+
+---
+
+## Canon Rule
+
+Every campaign contains crossover moments.
+
+The player regularly witnesses other future protagonists performing their jobs.
+
+When replaying another campaign, those same scenes become playable from the opposite perspective.
+
+---
+
+## Canon Rule
+
+No campaign contains information the protagonist could not reasonably know.
+
+The audience gains understanding through multiple playthroughs.
+
+The characters do not possess impossible knowledge.
+
+---
+
+## Canon Rule
+
+The player never becomes the sole hero.
+
+CSV Hearth survives as long as it does because hundreds of people perform their jobs simultaneously.
+
+The player contributes.
+
+The player does not single-handedly save the ship.
+
+---
+
+# Timeline Scope
+
+Begin:
+
+Seven days before the destruction of CSV Hearth.
+
+End:
+
+The player regains consciousness inside the damaged escape pod at the opening of Chapter Two.
+
+---
+
+# Timeline Format
+
+Every timeline entry should include:
+
+Approximate date.
+
+Approximate time.
+
+Deck or location.
+
+Departments involved.
+
+Primary characters present.
+
+Supporting characters present.
+
+Whether the event is seen during the Maintenance campaign.
+
+Which other campaigns witness the event.
+
+Future narrative significance.
+
+Gameplay systems introduced.
+
+Accessibility systems demonstrated.
+
+Soundscape changes.
+
+Environmental storytelling opportunities.
+
+---
+
+# Week Structure
+
+Create a complete chronology covering:
+
+Day Seven
+
+Day Six
+
+Day Five
+
+Day Four
+
+Day Three
+
+Day Two
+
+Day One
+
+Attack Day
+
+---
+
+# Daily Station Life
+
+Every day should include recurring events such as:
+
+06:30 Morning announcements.
+
+Breakfast.
+
+Shift handover.
+
+Maintenance inspections.
+
+Engineering diagnostics.
+
+Medical rounds.
+
+Research activities.
+
+Security patrols.
+
+Training exercises.
+
+School sessions.
+
+Community meals.
+
+Recreation.
+
+Department meetings.
+
+Evening maintenance.
+
+Night shift.
+
+Emergency preparedness.
+
+Civilian life.
+
+Hydroponics.
+
+Cargo operations.
+
+Flight operations.
+
+Routine accessibility technology use.
+
+Children playing.
+
+Music.
+
+Quiet moments.
+
+Life aboard Hearth should feel ordinary.
+
+The player should grow emotionally attached to routine before it is lost.
+
+---
+
+# Department Activity
+
+For every day define what each department is doing.
+
+Maintenance.
+
+Engineering.
+ Medical.
+
+Security.
+
+Research.
+
+Command.
+
+Logistics.
+
+Civilian services.
+
+Education.
+
+Agriculture.
+
+Flight Operations.
+
+Manufacturing.
+
+Hydroponics.
+
+Governance.
+
+---
+
+# Character Presence
+
+Track every primary protagonist.
+
+Captain Elian of the Vale System.
+
+Captain Naomi of the Vale System.
+
+Captain Gideon of the Vale System.
+
+Captain Iris of the Vale System.
+
+Rowan Ives.
+
+Mara Chen.
+
+Doctor Samira Kade.
+
+Chief Petty Officer Jonah Briggs.
+
+Security Lead Talia Rusk.
+
+Dr. Soren Qadir.
+
+Mira Ives.
+
+Faience.
+
+Record:
+
+Duty shifts.
+
+Known locations.
+
+Routine interactions.
+
+Professional responsibilities.
+
+Important crossover scenes.
+
+---
+
+# Attack Timeline
+
+Create a detailed minute-by-minute chronology beginning with the first anomaly.
+
+Include:
+
+Initial sensor anomaly.
+
+Engineering investigation.
+
+Maintenance response.
+
+Scientific observations.
+
+Medical preparation.
+
+Security posture changes.
+
+Command discussions.
+
+Civilian awareness.
+
+Emergency announcements.
+
+General Quarters.
+
+Power failures.
+
+Hull breaches.
+
+Fire suppression.
+
+Communications failures.
+
+Escape pod preparation.
+
+Evacuation.
+
+Individual department actions.
+
+Primary character separation.
+
+Player separation from the crew.
+
+CSV Hearth destruction.
+
+Player blackout.
+
+Opening of Chapter Two.
+
+---
+
+# Perspective Crossovers
+
+Identify every event where campaigns overlap.
+
+Examples include:
+
+Maintenance meeting Engineering.
+
+Medical responding to Maintenance injuries.
+
+Security escorting Research.
+
+Command visiting Engineering.
+
+Mira interrupting professional conversations.
+
+Rowan speaking with Mara.
+
+Jonah coordinating Talia.
+
+Samira checking on crew before shifts.
+
+The Vale System making routine announcements.
+
+These become reusable scenes viewed from different playable perspectives.
+
+---
+
+# Sound Timeline
+
+Track how Hearth sounds throughout the week.
+
+Morning.
+
+Midday.
+
+Evening.
+
+Night.
+
+Emergency.
+
+Evacuation.
+
+Silence after destruction.
+
+Sound is narrative.
+
+Sound is navigation.
+
+Sound is memory.
+
+---
+ # Accessibility Timeline
+
+Document where accessibility is naturally demonstrated.
+
+Braille.
+
+Environmental narration.
+
+Haptics.
+
+AAC.
+
+ASL.
+
+Caption systems.
+
+Accessible workstations.
+
+Adaptive engineering.
+
+Adaptive medicine.
+
+Accessible command systems.
+
+Accessibility should always appear as ordinary infrastructure.
+
+---
+
+# Narrative Goals
+
+The player should finish Operation One understanding that:
+
+They did not save Hearth.
+
+They belonged to Hearth.
+
+The ship was a civilization.
+
+The loss matters because life mattered.
+
+Every future campaign should deepen that understanding rather than replace it.
+
+---
+
+# End State
+
+This document becomes the definitive chronological reference for the Resonance franchise.
+
+Every future campaign.
+
+Every operation.
+
+Every expansion.
+
+Every cinematic.
+
+Every mission.
+
+Every conversation.
+
+Every flashback.
+
+Every rescue.
+
+Must remain consistent with this timeline.
+
+If a conflict exists between a campaign and this document,
+
+this document is canon.

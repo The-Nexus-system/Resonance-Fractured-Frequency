@@ -1,0 +1,453 @@
+````text id="g6p8xn"
+WORK ORDER 006 — PART FOUR
+
+Continue:
+
+docs/design_notes/operation_one_exodus_maintenance_chapter_six.md
+
+Maintain all previously established canon.
+
+Use proper Markdown headings.
+
+Do not summarize.
+
+Do not write code.
+
+This is a gameplay design document.
+
+# Part Four
+
+## Humanity in the Archive
+
+### Purpose
+
+Reveal that the Shawabti did not accidentally discover humanity.
+
+They deliberately observed humanity for an extraordinarily long period of time.
+
+The player does not yet learn why.
+
+The mystery deepens.
+
+The player realizes they are no longer studying an extinct civilization.
+
+They are studying a relationship between civilizations.
+
+---
+
+### Narrative Purpose
+
+The Living Archive reconstructs another preserved memory.
+
+Unlike previous reconstructions...
+
+This one is incomplete.
+
+The environment repeatedly shifts between Shawabti locations and scenes from early human history.
+
+The player recognizes Earth.
+
+Not because someone says so.
+
+Because the constellations are unmistakable.
+
+The Shawabti were here.
+
+Watching.
+
+Learning.
+
+Recording.
+
+Never interfering.
+
+The reconstruction repeatedly breaks apart before revealing too much.
+
+Almost as though portions remain intentionally protected.
+
+---
+
+### Gameplay Purpose
+
+Introduce:
+
+Civilizational comparison.
+
+Historical overlap.
+
+Evidence weighting.
+
+Archive integrity.
+
+Incomplete reconstruction.
+
+Long-term mysteries.
+
+The player learns that unanswered questions are sometimes intentionally preserved.
+
+---
+
+### Archive Philosophy
+
+The Archive does not reveal secrets all at once.
+
+The Archive reveals only what the player has learned to understand.
+
+Knowledge is earned through demonstrated understanding.
+
+Not simply by reaching the next chapter.
+
+---
+
+## Player Decisions
+
+Decision One
+
+What should the player investigate first?
+
+---
+
+Choice A
+
+Human History
+
+Immediate Result
+
+The player compares known human history with Shawabti observations.
+
+Future Effect
+
+Additional historical comparisons unlock.
+
+Knowledge Archive expands.
+
+Future diplomatic understanding improves.
+
+---
+
+Choice B
+
+Shawabti History
+
+Immediate Result
+
+The player follows Shawabti historical development.
+
+Future Effect
+
+Additional cultural discoveries.
+
+Expanded Archive relationships.
+
+Future translation accuracy improves.
+
+---
+
+Choice C
+
+Points of Contact
+
+Immediate Result
+
+The player studies moments where both civilizations appear within the same historical reconstruction.
+
+Future Effect
+
+Additional mystery investigations unlock.
+
+Future expeditions gain new objectives.
+
+---
+
+Choice D
+
+Archive Integrity
+
+Immediate Result
+
+The player investigates why sections of the reconstruction remain incomplete.
+
+Future Effect
+
+Additional Archive restoration systems unlock.
+
+Future reconstruction quality improves.
+
+---
+
+## Decision Two
+
+The Archive detects damaged historical segments.
+
+How should the player proceed?
+
+---
+
+Choice A
+
+Attempt restoration immediately.
+
+Immediate Result
+
+Additional historical information becomes available.
+
+Future Effect
+
+Some reconstructed memories remain uncertain until later evidence is discovered.
+
+---
+
+Choice B
+
+Preserve damaged sections unchanged.
+
+Immediate Result
+
+Historical integrity remains intact.
+
+Future Effect
+
+Later discoveries restore missing information more accurately.
+
+Additional ethical discussions unlock.
+
+---
+
+Choice C
+
+Ask every advisor before acting.
+
+Immediate Result
+
+Every primary crew member provides recommendations.
+
+Future Effect
+
+Multiple restoration philosophies become permanently documented.
+
+Future player decisions reference previous discussions.
+
+---
+
+Choice D
+
+Allow Faience to attempt reconstruction.
+
+Immediate Result
+
+Faience restores portions no one expected.
+
+Future Effect
+
+The crew becomes increasingly uncertain whether Faience is translating...
+
+Or remembering.
+
+Additional Living Archive pathways become accessible.
+
+---
+
+## Decision Three
+
+A reconstructed historical sequence suddenly stops.
+
+The Archive requests assistance.
+
+Not with technology.
+
+With interpretation.
+
+---
+
+Choice A
+
+Compare multiple memories.
+
+Immediate Result
+
+Additional relationship mapping.
+
+Future Effect
+
+Historical confidence improves.
+
+Contradictions become easier to identify.
+
+---
+
+Choice B
+
+Search the Knowledge Archive.
+
+Immediate Result
+
+Previously recovered artifacts become relevant.
+
+Future Effect
+
+Past expeditions gain entirely new meaning.
+
+The player is encouraged to revisit earlier discoveries.
+
+---
+
+Choice C
+
+Record uncertainty.
+
+Immediate Result
+
+The player deliberately leaves the historical question unresolved.
+
+Future Effect
+
+The Investigation Board records unresolved questions for future chapters.
+
+Players are rewarded for acknowledging uncertainty rather than guessing.
+
+---
+
+Choice D
+
+Invite open discussion.
+
+Immediate Result
+
+Every crew member debates possible explanations.
+
+The player listens before deciding.
+
+Future Effect
+
+Additional crew relationships develop.
+
+Future conversations reference earlier theories as understanding evolves.
+
+---
+
+### Advisor Contributions
+
+Every advisor interprets humanity differently.
+
+Rowan studies technological development.
+
+Mara notices similarities in acoustic architecture.
+
+Samira studies healthcare philosophies.
+
+Jonah studies organizational development.
+
+Talia studies conflict and cooperation.
+
+Soren studies scientific progress.
+
+Mira asks why the Shawabti never introduced themselves.
+
+The Vale System asks whether observation without interference is an ethical choice.
+
+No answer is presented as correct.
+
+The player develops their own understanding.
+
+---
+
+### Gameplay Systems Introduced
+
+Historical comparison.
+
+Archive restoration.
+
+Evidence confidence.
+
+Civilizational overlap.
+
+Investigation Board expansion.
+
+Collaborative historical interpretation.
+
+---
+
+### Accessibility
+
+Every historical comparison may be reviewed through:
+
+Speech.
+
+Captions.
+
+Braille.
+
+Environmental narration.
+
+Relationship maps.
+
+Timeline summaries.
+
+Archive replay.
+
+Variable playback speed.
+
+No complex historical comparison should rely upon memory alone.
+
+---
+
+### Emotional Goal
+
+The player should experience wonder.
+
+Not fear.
+
+Humanity was never alone.
+
+Yet humanity was never controlled.
+
+The Shawabti watched.
+
+Waited.
+
+Learned.
+
+Something prevented them from revealing themselves.
+
+The player desperately wants to know why.
+
+---
+
+### End Condition
+
+As the final reconstruction concludes...
+
+The Living Archive briefly displays an impossible image.
+
+Hearth.
+
+Not destroyed.
+
+Still under construction.
+
+Several Shawabti stand silently watching the vessel from an observation platform.
+
+One turns toward another.
+
+They speak a single untranslated sentence.
+
+Faience quietly finishes it.
+
+Without hesitation.
+
+Without translation.
+
+The Living Archive immediately shuts down.
+
+Complete silence fills the chamber.
+
+No one aboard the station speaks.
+
+For the first time...
+
+Everyone realizes the greatest mystery may not be the Shawabti.
+
+It may be Faience.
+
+Part Five begins.
+````

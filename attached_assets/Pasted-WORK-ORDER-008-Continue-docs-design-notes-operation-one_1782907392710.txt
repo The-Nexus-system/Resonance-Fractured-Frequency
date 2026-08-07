@@ -1,0 +1,376 @@
+WORK ORDER 008
+
+Continue:
+
+docs/design_notes/operation_one_exodus_master_timeline.md
+
+Maintain all established canon.
+
+Use proper Markdown headings.
+
+Do not write code.
+
+Do not summarize.
+
+This document is the definitive chronological reference for Operation One: Exodus.
+
+# Day Six
+
+# Part Six
+
+## Theme
+
+Home.
+
+Belonging.
+
+Tradition.
+
+The player should begin participating in the culture of Hearth rather than simply observing it.
+
+By the end of Day Six, the player should unconsciously think of CSV Hearth as "our ship."
+
+---
+
+## 17:00
+
+### Evening Shift Change
+
+The station transitions naturally into evening.
+
+Maintenance hands unresolved work orders to the night crew.
+
+Engineering schedules overnight diagnostics.
+
+Medical completes daytime appointments and prepares overnight staffing.
+
+Security increases community patrols.
+
+Research begins preparing astronomical equipment for another observation cycle.
+
+Cargo operations slow.
+
+Civilian activity increases.
+
+---
+
+## Community Night
+
+Every evening aboard Hearth feels different.
+
+No two evenings are identical.
+
+The station should feel like a real city.
+
+Examples of activities include:
+
+Community dinner.
+
+Music rehearsals.
+
+Board games.
+
+Language exchange groups.
+
+Exercise classes.
+
+Movie night.
+
+Storytelling circles.
+
+Maker workshops.
+
+Youth engineering club.
+
+Public lectures.
+
+Astronomy night.
+
+Volunteer repair projects.
+
+The player is encouraged to participate.
+
+Nothing is required.
+
+Everything builds belonging.
+
+---
+
+## Character Locations
+
+Captain Elian
+
+Moves naturally between community activities.
+
+Greets people by name.
+
+Stops to help stack chairs after dinner.
+
+Never behaves like someone above the community.
+
+Captain Naomi
+
+Quietly reviews emergency readiness one final time.
+
+Later joins the community meal after confirming everything is in order.
+
+Captain Gideon
+
+Attends an astronomy discussion hosted by Soren.
+
+The conversation eventually turns toward navigation.
+
+Captain Iris
+
+Moderates a civilian planning meeting.
+
+Everyone leaves feeling heard.
+
+No vote is required.
+
+Consensus forms naturally.
+
+Rowan
+
+Repairs a child's toy after dinner.
+
+Insists it only needed "five minutes."
+
+Never accepts thanks comfortably.
+
+Mara
+
+Invites several apprentices into Engineering after hours.
+
+Turns off visual displays.
+
+Challenges them to identify machinery entirely through sound.
+
+Doctor Samira Kade
+
+Hosts an informal accessibility discussion.
+
+Crew members exchange ideas for improving everyday life aboard Hearth.
+
+Suggestions become future Maintenance work orders.
+
+Jonah Briggs
+
+Quietly updates tomorrow's schedules.
+
+Leaves work exactly on time.
+
+Reminds others that rest is part of readiness.
+
+Talia Rusk
+
+Joins children playing an obstacle course designed to teach emergency navigation.
+
+Nobody realizes it is also tomorrow's evacuation training.
+
+Soren Qadir
+
+Hosts public astronomy night.
+
+Encourages civilians to ask impossible questions.
+
+Mira
+
+Asks Soren whether stars can remember people.
+
+Soren answers:
+
+"I don't know.
+
+Let's find out."
+
+Faience
+
+Remains catalogued inside Research.
+
+Another artifact.
+
+Nothing more.
+
+---
+
+## Cross-Perspective Moments
+
+Engineering Campaign
+
+Mara's lesson becomes playable from Engineering.
+
+Medical Campaign
+
+Samira's accessibility discussion becomes playable.
+
+Research Campaign
+
+Astronomy night becomes a major optional scene.
+
+Command Campaign
+
+Captain Elian's evening walk becomes a playable leadership sequence.
+
+Civilian Campaign
+
+The obstacle course becomes a child's game.
+
+Security Campaign
+
+The same obstacle course is recognized as emergency preparedness training.
+
+Maintenance Campaign
+
+The player simply experiences a pleasant evening.
+
+Only later does its importance become clear.
+
+---
+
+## Soundscape
+
+Evening aboard Hearth has its own identity.
+
+Live music.
+
+Soft conversations.
+
+Dishes being cleared.
+
+Children playing.
+
+Hydroponic irrigation.
+
+Distant Engineering diagnostics.
+
+Transit announcements.
+
+Public laughter.
+
+Coffee grinders.
+
+The Observatory opening.
+
+The player should immediately know it is evening without checking a clock.
+
+---
+
+## Environmental Storytelling
+
+The player notices traditions developing.
+
+Residents reserve the same dinner tables.
+
+Musicians always gather near the central promenade.
+
+Children race Maintenance carts pretending to repair imaginary ships.
+
+Engineers argue about impossible designs over coffee.
+
+Medical staff decorate the rehabilitation center with patient artwork.
+
+A public wall slowly fills with thank-you notes.
+
+The station remembers kindness.
+
+---
+
+## Quiet Foreshadowing
+
+Very small details appear.
+
+Only noticeable during later playthroughs.
+
+Captain Gideon excuses himself briefly from astronomy night after receiving a navigation update.
+
+Naomi pauses slightly longer than usual while reviewing emergency systems.
+
+Soren quietly requests tomorrow night's observations be expanded.
+
+Mara notices a harmonic variation somewhere deep inside the ship.
+
+She dismisses it as thermal settling. 
+The player should never interpret these moments as warnings.
+
+They simply feel like competent professionals doing their jobs.
+
+---
+
+## Gameplay Philosophy
+
+Players are rewarded for slowing down.
+
+Talking to people.
+
+Listening.
+
+Exploring.
+
+Participating.
+
+No experience points appear.
+
+The reward is belonging.
+
+Players who invest time in the community experience richer emotional consequences later.
+
+---
+
+## Emotional Goal
+
+By the end of Day Six the player should know:
+
+Where they eat.
+
+Where they relax.
+
+Who they like talking to.
+
+Which route they naturally walk home.
+
+Which sounds comfort them.
+
+CSV Hearth should now feel familiar enough that the player unconsciously begins planning for tomorrow.
+
+---
+
+## 21:30
+
+### Night Routine
+
+Lighting gradually softens.
+
+Public areas empty.
+
+Night crews quietly begin another shift.
+
+Maintenance responds only to routine overnight requests.
+
+Engineering begins long-duration diagnostics.
+
+Medical settles into overnight care.
+
+Security patrols become quieter.
+
+Research points telescopes toward deep space.
+
+Families sleep.
+
+Children dream.
+
+The station breathes.
+
+---
+
+## End State
+
+Day Six ends peacefully.
+
+The player has become part of Hearth's daily life.
+
+Nothing extraordinary has happened.
+
+That ordinary life is now worth protecting.
+
+Day Five begins in Part Seven.

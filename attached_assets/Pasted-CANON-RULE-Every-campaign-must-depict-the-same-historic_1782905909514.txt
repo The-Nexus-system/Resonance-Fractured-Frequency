@@ -1,0 +1,98 @@
+CANON RULE
+
+Every campaign must depict the same historical events.
+
+No campaign changes canon.
+
+Instead, each campaign reveals information unavailable to the others.
+
+Events overlap naturally.
+
+Characters appear across campaigns.
+
+Actions taken in one campaign explain events witnessed in another.
+
+Together, all campaigns create one complete understanding of Operation One.
+
+No single campaign tells the whole story.
+
+--------------------------------------------------
+
+CANON RULE
+
+Every campaign must contain at least one moment where the player witnesses another playable protagonist doing their own job.
+
+The player cannot control them in that campaign.
+
+The player simply observes them.
+
+Later, when playing that protagonist's campaign, the same event is experienced from the other perspective.
+
+The player gradually realizes that every member of the crew was contributing to the survival of Hearth long before the attack.
+
+No campaign exists in isolation.
+
+Every campaign reinforces the others. 
+--------------------------------------------------
+
+NEXT WORK ORDER
+
+Create:
+
+docs/design_notes/operation_one_exodus_perspective_map.md
+
+Use proper Markdown headings.
+
+Do not write code.
+
+Purpose:
+
+Define how Operation One: Exodus works across all playable perspectives.
+
+This document should explain that Maintenance is the completed foundation timeline, and every other perspective must synchronize to the same historical events.
+
+Required perspectives:
+
+Maintenance
+
+Engineering
+
+Medical
+
+Security
+
+Research
+
+Command
+
+Non-Commissioned Officer / Logistics
+
+Civilian
+
+For each perspective, define:
+
+What the player notices first.
+
+What professional responsibilities they carry.
+
+What information they know that other perspectives do not.
+
+Which systems they learn first.
+
+Which Chapter One events overlap with Maintenance Chapter One.
+
+Which Chapter Two rescue sequence they experience from their side.
+
+Which major NPCs they witness doing their work.
+
+How Faience eventually speaks differently to them.
+
+What unique emotional question their perspective answers.
+
+Do not rewrite all chapters yet.
+
+This document is a map for building the remaining perspectives one at a time without contradicting the Maintenance campaign.
+
+Start with Chapter One perspective differences only.
+
+After this map is complete, build Engineering Chapter One next.

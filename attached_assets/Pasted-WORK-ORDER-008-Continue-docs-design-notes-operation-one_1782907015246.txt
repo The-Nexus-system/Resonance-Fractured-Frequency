@@ -1,0 +1,432 @@
+WORK ORDER 008
+
+Continue:
+
+docs/design_notes/operation_one_exodus_master_timeline.md
+
+Maintain all established canon.
+
+Use proper Markdown headings.
+
+Do not write code.
+
+Do not summarize.
+
+This document is the definitive chronological reference for Operation One: Exodus.
+
+# Day Seven
+
+# Part Two
+
+## Theme
+
+Community.
+
+Competence.
+
+Routine.
+
+Interdependence.
+
+The player should begin understanding that Hearth functions because thousands of ordinary people quietly perform extraordinary work every day.
+
+No department exists independently.
+
+Every system supports another.
+
+---
+
+## 12:00
+
+### Midday
+
+The station slows slightly.
+
+Morning work transitions into afternoon operations.
+
+Departments naturally overlap.
+
+The station sounds different.
+
+Lunch conversations replace morning briefings.
+
+Schools prepare for afternoon lessons.
+
+Public gardens become busier.
+
+Civilian traffic increases.
+
+Maintenance work shifts toward lower-priority requests.
+
+The player notices that Hearth has daily rhythms. 
+---
+
+## Department Activity
+
+Maintenance
+
+Morning preventative work concludes.
+
+Routine inspections continue.
+
+Several requests arrive from Engineering after Mara's diagnostics.
+
+Minor accessibility improvements are scheduled.
+
+Engineering
+
+Generator harmonics remain stable.
+
+Power-routing simulations begin.
+
+Engineering apprentices rotate through diagnostics under Mara's supervision.
+
+Medical
+
+Morning rehabilitation sessions conclude.
+
+Afternoon clinics begin.
+
+Samira visits departments rather than waiting for patients to arrive.
+
+Preventative care is considered part of everyday work.
+
+Security
+
+Lunch patrols.
+
+School safety presence.
+
+Emergency equipment audit.
+
+Community outreach.
+
+Research
+
+Laboratories remain active.
+
+Astronomical data continues downloading.
+
+Several researchers debate unexplained signal drift.
+
+No one considers it urgent.
+
+Command
+
+Routine meetings.
+
+Civilian concerns.
+
+Long-range mission planning.
+
+Budget reviews.
+
+The ship feels governed rather than commanded. 
+---
+
+## Character Locations
+
+Captain Elian
+
+Eats lunch in a public dining area.
+
+Crew members freely approach with questions.
+
+Elian intentionally remains accessible.
+
+Captain Naomi
+
+Reviews emergency readiness reports.
+
+Visits Security.
+
+Inspects escape pod maintenance records.
+
+Captain Gideon
+
+Meets with Research regarding long-range navigation.
+
+Reviews unusual stellar observations.
+
+Captain Iris
+
+Visits schools.
+
+Checks in with civilian families.
+
+Speaks with teachers.
+
+Listens more than she talks.
+
+Rowan
+
+Inspects completed maintenance work.
+
+Mentors newer technicians.
+
+Shows the player shortcuts through service corridors.
+
+Mara
+
+Conducts acoustic diagnostics inside Engineering.
+
+Frequently pauses to simply listen.
+
+Explains that machinery has personalities if people learn to hear them.
+
+Doctor Samira Kade
+
+Joins rehabilitation sessions.
+
+Reviews adaptive equipment.
+
+Checks hearing aids.
+
+Wheelchairs.
+
+Prosthetics.
+
+Communication devices.
+
+Chief Petty Officer Jonah Briggs
+ Coordinates afternoon cargo deliveries.
+
+Balances staffing.
+
+Quietly solves problems before they become visible.
+
+Talia Rusk
+
+Visits public spaces.
+
+Greets civilians by name.
+
+Conducts unobtrusive security inspections.
+
+Explains that people should notice safety...
+
+Not security.
+
+Dr. Soren Qadir
+
+Reviews newly received astronomical observations.
+
+Continues cataloguing unidentified artifacts.
+
+Faience remains inactive.
+
+Mira
+
+Finishes lessons.
+
+Visits Engineering.
+
+Asks Mara whether machines ever become lonely.
+
+---
+
+## Community Life
+
+Lunch fills public gathering spaces.
+
+Families eat together.
+
+Engineers debate technical problems.
+
+Researchers sketch ideas on napkins.
+
+Maintenance crews joke about impossible repair requests.
+
+Medical staff remind one another to take breaks.
+
+Children compare classroom projects.
+
+Musicians rehearse for the weekend community gathering.
+
+The player should see civilization relaxing.
+
+---
+
+## Optional Exploration
+
+The player may spend time exploring:
+ Public gardens.
+
+Observation lounges.
+
+Hydroponics.
+
+The community library.
+
+The recreation deck.
+
+The education wing.
+
+The memorial corridor.
+
+Art displays created by residents.
+
+The central promenade.
+
+These locations contain no critical objectives.
+
+They exist because people deserve places simply to exist.
+
+---
+
+## Accessibility in Daily Life
+
+The player naturally observes:
+
+Children using AAC during class discussions.
+
+Blind residents independently navigating through tactile landmarks.
+
+Deaf residents following captioned public announcements.
+
+Wheelchair users repairing equipment alongside standing coworkers.
+
+Voice, text, sign language and AAC used interchangeably during meetings.
+
+Nobody asks permission to communicate differently.
+
+Communication adapts to people.
+
+Never the other way around.
+
+---
+
+## Environmental Storytelling
+
+The player notices small details.
+
+A repaired handrail already shows signs of use.
+
+A child's drawing hangs outside Engineering thanking Rowan for fixing a classroom door.
+
+Medical staff wave to Security as they pass.
+
+Researchers stop to listen when musicians rehearse nearby.
+
+Public bulletin boards advertise:
+
+Music nights.
+
+Volunteer opportunities.
+
+Gardening clubs.
+
+Support groups.
+
+Movie nights.
+
+Language exchanges.
+
+The station feels lived in.
+
+---
+
+## Soundscape
+
+The station sounds fuller than morning.
+
+Conversations overlap.
+
+Cutlery.
+
+Kitchen activity.
+
+Music rehearsals.
+
+Hydroponic irrigation.
+
+Cargo lifts.
+
+School dismissal bells.
+
+Engineering machinery.
+
+Soft laughter.
+
+Announcements requesting routine assistance.
+
+None of these sounds compete.
+
+Together they create Hearth's identity.
+
+---
+
+## Cross-Perspective Moments
+
+These scenes appear in multiple future campaigns.
+
+The Maintenance player briefly assists Mara with a diagnostic panel.
+
+Engineering later reveals Mara's perspective of the same interaction.
+
+The player passes Samira treating a child with a scraped knee.
+
+Medical later reveals the complete interaction.
+
+Jonah reroutes a cargo delivery around ongoing maintenance.
+
+Logistics later explains why.
+
+Captain Elian thanks Rowan for preventing problems the public never noticed.
+
+Command later reveals why Elian intentionally walks the ship every afternoon.
+
+Mira asks Soren whether stars remember people.
+
+Research later expands upon that conversation.
+
+Every campaign adds another layer to these moments.
+
+---
+
+## Gameplay Philosophy
+
+Nothing dramatic happens.
+
+That is the lesson.
+
+Civilizations are built during ordinary afternoons.
+
+Not only during emergencies.
+
+The player should begin appreciating maintenance, kindness and routine as meaningful gameplay.
+
+---
+
+## Emotional Goal
+
+The player should begin recognizing faces.
+
+Recognizing voices.
+
+Recognizing footsteps.
+
+Recognizing departments by sound alone.
+
+Without realizing it...
+
+The player is creating memories.
+
+Those memories become the emotional foundation for everything that follows.
+
+---
+
+## End State
+
+Afternoon slowly becomes evening.
+ Departments complete their daily work.
+
+Families begin returning home.
+
+Community events begin preparing for the evening.
+
+CSV Hearth continues through another perfectly ordinary day.
+
+The player has no reason to believe anything will ever change.
+
+Day Seven continues in Part Three.

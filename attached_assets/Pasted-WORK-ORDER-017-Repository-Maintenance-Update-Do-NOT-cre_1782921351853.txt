@@ -1,0 +1,254 @@
+WORK ORDER 017
+
+Repository Maintenance Update
+
+Do NOT create a new document for this work.
+
+Do NOT rewrite completed sections.
+
+Do NOT duplicate existing canon.
+
+Instead, integrate the following canon into the appropriate existing franchise bible documents.
+
+Before making changes, review the repository and determine where each section logically belongs.
+
+Expand existing documents rather than replacing them.
+
+Preserve all existing canon.
+
+Preserve existing writing style.
+
+Preserve document organization whenever possible.
+
+If a section already exists, merge the new material into that section instead of creating duplicate headings.
+
+------------------------------------------------------------
+
+Integrate the following new canon:
+
+• Everyday Carry (EDC)
+
+Every recurring character possesses a canonical Everyday Carry profile.
+
+Every recurring character profile should permanently include:
+
+Professional equipment.
+
+Personal equipment.
+
+Accessibility equipment.
+
+Medical equipment.
+ Communication equipment.
+
+Emergency equipment.
+
+Sentimental items.
+
+Off-duty equipment.
+
+Mission-specific equipment.
+
+Everyday Carry should evolve naturally over the course of the franchise.
+
+No two recurring characters should have identical EDC profiles.
+
+------------------------------------------------------------
+
+• Universal Crew Identification
+
+All crew members use a standardized multi-layer identity system.
+
+Integrate this into the appropriate worldbuilding and technology documents.
+
+The system includes:
+
+Layer One
+
+Smart Name Tape
+
+Displays:
+
+Name
+
+Rank
+
+Department
+
+Assignment
+
+For the Vale System the name tape automatically updates to match the currently fronting member.
+
+Layer Two
+
+Digital Identity Badge
+
+Integrated into clothing or equipment.
+
+Projects:
+
+Portrait
+
+Name
+
+Pronouns
+
+Department
+
+Rank
+
+Professional certifications
+
+Communication preferences
+
+Accessibility preferences (if the wearer chooses)
+
+Emergency information (if the wearer chooses)
+
+Layer Three
+
+Secure Crew Credential
+
+Used for authentication throughout Hearth.
+
+Layer Four
+
+Community Recognition
+
+Technology never replaces recognizing someone through lived experience.
+
+Voice.
+
+Movement.
+
+Routine.
+
+Body language.
+
+Equipment.
+
+Professional habits.
+
+Relationships.
+
+------------------------------------------------------------
+
+• Personal Beacon
+
+Every crew member carries an encrypted Personal Beacon integrated into their communicator.
+
+Supports:
+
+Emergency location.
+
+Navigation assistance.
+
+Identity confirmation.
+
+Accessibility support.
+
+Emergency rescue.
+
+Blind navigation.
+
+DeafBlind tactile output.
+
+Optional communication preferences.
+
+Privacy settings controlled by the wearer.
+
+------------------------------------------------------------
+
+• Character Presentation Requirements
+
+Every recurring character profile should permanently contain:
+
+Physical presentation.
+
+Audio identity.
+
+Visual identity.
+
+Everyday Carry.
+
+Professional equipment.
+
+Accessibility equipment.
+
+Communication methods.
+ Environmental cues.
+
+Typical movement.
+
+Typical posture.
+
+Off-duty presentation.
+
+Emergency presentation.
+
+Mission presentation.
+
+Recognition cues.
+
+------------------------------------------------------------
+
+• Vale System Updates
+
+Expand the existing Vale System canon.
+
+Do not replace it.
+
+Ensure it also documents:
+
+Dynamic smart name tape.
+
+Dynamic digital ID.
+
+Command authentication.
+
+Behavioral recognition.
+
+Voice recognition.
+
+Posture.
+
+Leadership style.
+
+Fronting through observation.
+
+Crew members treating these changes as ordinary.
+
+------------------------------------------------------------
+
+Repository Rules
+
+Do NOT create duplicate documents.
+
+Do NOT overwrite completed work.
+
+Do NOT remove canon.
+
+Do NOT shorten existing sections.
+
+Expand existing sections where appropriate.
+
+Update internal links if necessary.
+
+If a document already contains similar information, merge the new material naturally into that document.
+ ------------------------------------------------------------
+
+Deliverables
+
+After updating the repository, provide:
+
+1. Files modified.
+
+2. New sections added.
+
+3. Existing sections expanded.
+
+4. Any canon conflicts discovered.
+
+5. Any recommendations for additional supporting documents.
+
+No other changes should be made.
