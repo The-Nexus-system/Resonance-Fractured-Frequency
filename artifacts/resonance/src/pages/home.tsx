@@ -32,43 +32,43 @@ export default function Home() {
 
       <nav className="flex flex-col gap-4 w-full" aria-label="Main menu">
         {hasProgress && (
-          <Link href="/campaigns" className="w-full">
-            <Button size="lg" className="w-full text-lg h-14 flex items-center gap-3">
+          <Button asChild size="lg" className="w-full text-lg h-14 flex items-center gap-3">
+            <Link href="/campaigns">
               <Play className="w-6 h-6" aria-hidden="true" />
               Continue Journey
-            </Button>
-          </Link>
+            </Link>
+          </Button>
         )}
         
         {!hasProgress && (
-          <Link href={`/play/${firstCampaignId}`} className="w-full">
-            <Button size="lg" className="w-full text-lg h-14 flex items-center gap-3">
+          <Button asChild size="lg" className="w-full text-lg h-14 flex items-center gap-3">
+            <Link href={`/play/${firstCampaignId}`}>
               <Play className="w-6 h-6" aria-hidden="true" />
               New Game
-            </Button>
-          </Link>
+            </Link>
+          </Button>
         )}
 
-        <Link href="/campaigns" className="w-full">
-          <Button variant="secondary" size="lg" className="w-full text-lg h-14 flex items-center gap-3">
+        <Button asChild variant="secondary" size="lg" className="w-full text-lg h-14 flex items-center gap-3">
+          <Link href="/campaigns">
             <List className="w-6 h-6" aria-hidden="true" />
             Campaigns
-          </Button>
-        </Link>
+          </Link>
+        </Button>
 
-        <Link href="/settings" className="w-full">
-          <Button variant="outline" size="lg" className="w-full text-lg h-14 flex items-center gap-3">
+        <Button asChild variant="outline" size="lg" className="w-full text-lg h-14 flex items-center gap-3">
+          <Link href="/settings">
             <Settings className="w-6 h-6" aria-hidden="true" />
             Settings
-          </Button>
-        </Link>
+          </Link>
+        </Button>
 
-        <Link href="/about" className="w-full">
-          <Button variant="ghost" size="lg" className="w-full text-lg h-14 flex items-center gap-3">
+        <Button asChild variant="ghost" size="lg" className="w-full text-lg h-14 flex items-center gap-3">
+          <Link href="/about">
             <Info className="w-6 h-6" aria-hidden="true" />
             About & Accessibility
-          </Button>
-        </Link>
+          </Link>
+        </Button>
       </nav>
     </main>
   );

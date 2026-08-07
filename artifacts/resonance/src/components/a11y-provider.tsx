@@ -1,4 +1,4 @@
-import React, { createContext, useContext, useEffect, useState, useCallback } from "react";
+import React, { createContext, useContext, useEffect, useState, useCallback, useRef } from "react";
 import { GameSettings, loadSave, saveGame, defaultSettings } from "@/lib/settings";
 
 type A11yContextType = {
@@ -28,18 +28,35 @@ export function A11yProvider({ children }: { children: React.ReactNode }) {
     });
   }, []);
 
+  const announceTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
   const announce = useCallback((message: string) => {
     setAnnouncement("");
-    // small delay to force re-announcement if same string
-    setTimeout(() => setAnnouncement(message), 50);
+    // small delay to force re-announcement if same string;
+    // cancel any pending announcement so rapid navigation cannot race
+    if (announceTimeoutRef.current) clearTimeout(announceTimeoutRef.current);
+    announceTimeoutRef.current = setTimeout(() => setAnnouncement(message), 50);
+  }, []);
+
+  useEffect(() => {
+    return () => {
+      if (announceTimeoutRef.current) clearTimeout(announceTimeoutRef.current);
+    };
   }, []);
 
   useEffect(() => {
     const html = document.documentElement;
-    
-    // Theme
-    const isDark = settings.theme === "dark" || (settings.theme === "system" && window.matchMedia("(prefers-color-scheme: dark)").matches);
-    html.classList.toggle("dark", isDark);
+
+    // Theme (follow live OS changes while in system mode)
+    const media = window.matchMedia("(prefers-color-scheme: dark)");
+    const applyTheme = () => {
+      const isDark = settings.theme === "dark" || (settings.theme === "system" && media.matches);
+      html.classList.toggle("dark", isDark);
+    };
+    applyTheme();
+    if (settings.theme === "system") {
+      media.addEventListener("change", applyTheme);
+    }
     
     // High Contrast
     html.classList.toggle("high-contrast", settings.highContrast);
@@ -60,6 +77,9 @@ export function A11yProvider({ children }: { children: React.ReactNode }) {
     // Large Targets (AAC)
     html.classList.toggle("large-targets", settings.largeTargets);
 
+    return () => {
+      media.removeEventListener("change", applyTheme);
+    };
   }, [settings]);
 
   return (

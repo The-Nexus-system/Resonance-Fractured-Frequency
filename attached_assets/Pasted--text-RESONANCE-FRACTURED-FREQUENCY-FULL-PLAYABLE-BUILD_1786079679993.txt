@@ -1,0 +1,563 @@
+```text
+RESONANCE: FRACTURED FREQUENCY
+FULL PLAYABLE-BUILD ACCESSIBILITY, AUDIO, VISUAL, AND INTERACTION AUDIT + REPAIR PASS
+
+This is an IMPLEMENTATION AND REPAIR task, not a documentation-only audit.
+
+Work through the ENTIRE currently implemented and reachable playable game.
+
+You are authorized to inspect, test, and repair the existing implementation within the constraints below.
+
+DO NOT redesign Resonance from scratch.
+DO NOT replace established mechanics simply because another implementation would be easier.
+DO NOT invent new canon.
+DO NOT remove accessibility features to make tests pass.
+DO NOT silently delete content that is difficult to fix.
+DO NOT make visual presentation necessary to understand or complete gameplay.
+DO NOT make audio necessary without an equivalent non-audio pathway.
+DO NOT declare success merely because the project builds.
+
+PRIMARY GOAL
+
+Make the entire currently playable portion of Resonance internally consistent and genuinely usable across its supported accessibility pathways.
+
+The accessibility gateway/settings must correctly control the game that follows.
+
+Audio, graphics, text, interaction states, navigation, objectives, characters, environments, hazards, vehicles, mobility systems, equipment, weapons, interfaces, alerts, and feedback must agree with one another.
+
+A player using a nonvisual pathway must receive equivalent gameplay information to a player using graphics.
+
+A player who cannot hear must receive equivalent required information through text, visual, tactile/haptic where supported, or other appropriate systems.
+
+STEP 1 — CREATE A SAFE CHECKPOINT
+
+Before changing gameplay:
+
+Create a safe branch/checkpoint/commit for this audit.
+
+Record the current build state.
+
+Do not make broad destructive changes directly against the only working copy.
+
+STEP 2 — ESTABLISH THE TESTABLE GAME MAP
+
+Before fixing individual problems, identify every currently reachable:
+
+screen,
+menu,
+accessibility screen,
+character creation/setup screen,
+tutorial,
+operation/mission,
+room,
+area,
+station,
+ship,
+planet,
+dialogue sequence,
+interaction,
+objective,
+combat encounter,
+navigation sequence,
+vehicle/craft sequence,
+mobility-device interaction,
+medical interaction,
+inventory/equipment interaction,
+weapon interaction,
+save/checkpoint,
+death/failure state,
+restart/recovery state,
+pause/help screen,
+ending or current content boundary.
+
+Create an internal coverage map so areas are not accidentally skipped.
+
+Distinguish:
+
+IMPLEMENTED AND REACHABLE
+IMPLEMENTED BUT CURRENTLY UNREACHABLE
+PLACEHOLDER
+INTENTIONALLY UNFINISHED
+BROKEN
+
+Do not invent content to fill intentionally unfinished areas.
+
+STEP 3 — AUDIT THE ACCESSIBILITY GATEWAY
+
+Treat the accessibility gateway as a critical system.
+
+Test every currently implemented accessibility option individually and in meaningful combinations.
+
+Verify that settings selected before gameplay actually persist and affect gameplay correctly.
+
+Check:
+
+screen-reader mode,
+audio-first/nonvisual mode,
+spoken interface information,
+text alternatives,
+captions,
+subtitles,
+sound descriptions where implemented,
+navigation assistance,
+orientation assistance,
+interaction announcements,
+objective announcements,
+menu announcements,
+focus behavior,
+keyboard controls,
+controller controls where supported,
+touch controls where supported,
+reduced or extended timing options,
+visual contrast options,
+text sizing,
+motion-related settings,
+volume categories,
+dialogue volume,
+music volume,
+environmental audio volume,
+navigation cue volume,
+combat/hazard cue volume,
+and any other accessibility systems currently implemented.
+
+Look specifically for settings that appear to work in the gateway but stop working once gameplay begins.
+
+Repair those connections.
+
+STEP 4 — NONVISUAL COMPLETE PLAYTHROUGH
+
+Perform a complete traversal of every currently playable path while assuming the player cannot use the graphics.
+
+Do not use visual information to compensate for missing nonvisual information when judging accessibility.
+
+At every point ask:
+
+Where am I?
+
+Which direction am I facing or moving?
+
+What locations can I reach?
+
+What changed?
+
+Who is present?
+
+Who is speaking?
+
+What can I interact with?
+
+What is currently selected?
+
+What is my objective?
+
+Where is the objective?
+
+What hazards exist?
+
+Am I taking damage or otherwise in danger?
+
+Did my action succeed?
+
+Did it fail?
+
+Why did it fail?
+
+What state is my character, vehicle, equipment, mobility system, or environment currently in?
+
+Can I recover if I become disoriented?
+
+Can I determine when I have reached the edge of currently implemented content?
+
+If required information cannot be obtained nonvisually, treat that as an accessibility blocker.
+
+Fix it.
+
+STEP 5 — SCREEN READER AND BRAILLE STRUCTURE
+
+Audit every interface reachable during the playable build.
+
+Verify:
+
+every actionable control has a meaningful accessible name,
+control type/role is understandable,
+current state is exposed,
+disabled controls are identifiable,
+selected states are identifiable,
+focus order follows logical reading and interaction order,
+focus does not disappear,
+focus does not unexpectedly jump,
+opening and closing dialogs moves focus appropriately,
+errors are announced,
+success states are announced,
+dynamic changes are exposed,
+menus can be entered and exited,
+players are not trapped inside components,
+headings and regions are meaningful where appropriate,
+text is presented in a logical order,
+important information is not represented solely through icons,
+emoji or decorative characters do not create screen-reader noise,
+and output remains understandable on a refreshable braille display.
+
+Do not solve accessibility by flooding the screen reader with constant announcements.
+
+Prioritize useful, contextual information.
+
+STEP 6 — AUDIO SYSTEM AUDIT
+
+Audit every sound currently used by the playable game.
+
+Build an internal mapping between:
+
+sound file,
+game event,
+location/context,
+accessibility purpose,
+visual counterpart,
+text counterpart where required.
+
+Check for:
+
+missing sounds,
+wrong sounds,
+duplicate sounds,
+sounds attached to the wrong event,
+sounds that continue after their event ends,
+sounds that fail to play,
+incorrect spatial position,
+incorrect distance behavior,
+incorrect environmental acoustics,
+volume inconsistencies,
+sounds masked by music,
+sounds masked by dialogue,
+navigation cues confused with environmental audio,
+hazard cues confused with decorative sounds,
+characters sharing confusingly similar identification cues,
+and placeholder audio accidentally presented as final.
+
+Verify sound consistency for all implemented categories, including where applicable:
+
+movement,
+footsteps,
+wheelchairs and future mobility systems,
+prosthetics,
+exoskeletons,
+doors,
+lifts,
+airlocks,
+interfaces,
+medical equipment,
+service animals,
+droids,
+weapons,
+impacts,
+damage,
+vehicles,
+ships,
+craft,
+engines,
+reactors,
+escape pods,
+space suits,
+life-support equipment,
+environmental hazards,
+alarms,
+navigation,
+objects,
+inventory,
+characters,
+species,
+communication systems,
+and environmental ambience.
+
+Required gameplay information carried by audio must have an equivalent accessible non-audio representation.
+
+STEP 7 — AUDIO NAVIGATION
+
+Test navigation cues as an actual navigation system, not merely as sound effects.
+
+Verify that a nonvisual player can:
+
+locate objectives,
+locate doors,
+identify blocked routes,
+locate interactable objects,
+identify entrances and exits,
+orient after turning,
+recover after becoming disoriented,
+understand vertical movement where applicable,
+distinguish friendly characters from hazards where necessary,
+understand distance and direction,
+recognize arrival at a destination,
+and distinguish navigation guidance from ambience.
+
+Avoid excessive cue density.
+
+Do not make every object beep.
+
+Use meaningful audio hierarchy and spatial information.
+
+STEP 8 — VISUAL AND GRAPHICS AUDIT
+
+Traverse the same playable content visually.
+
+Check every currently implemented graphic, model, sprite, icon, background, environment, character representation, interface element, animation, vehicle, mobility device, craft, weapon, suit, object, and effect.
+
+Verify that graphics match:
+
+the event occurring,
+the environment,
+the character/species,
+the equipment being used,
+the audio being played,
+the text description,
+the current game state,
+and established canon already present in the repository.
+
+Look for:
+
+missing assets,
+wrong assets,
+stretched or distorted assets,
+placeholder graphics,
+inconsistent visual language,
+incorrect character representations,
+incorrect equipment,
+incorrect environmental state,
+visual clipping,
+unreadable text,
+poor contrast,
+information communicated only through color,
+rapid or unnecessary motion,
+flashing hazards,
+and visual states that disagree with audio or text.
+
+Do not invent culturally specific visual material where canon says consultation is pending.
+
+Do not generate Shawabti musical-cultural details that are intentionally withheld.
+
+Do not invent unresolved Talia Rusk cultural specifics.
+
+STEP 9 — CROSS-MODAL CONSISTENCY
+
+For every significant event compare:
+
+WHAT THE PLAYER SEES
+WHAT THE PLAYER HEARS
+WHAT THE SCREEN READER/BRAILLE USER RECEIVES
+WHAT THE CAPTION/TEXT USER RECEIVES
+WHAT THE GAME STATE ACTUALLY SAYS HAPPENED
+
+These must not contradict each other.
+
+Examples:
+
+If a door opens visually, the door-opening audio and state announcement must correspond.
+
+If an engine fails, graphics, audio, status text, and gameplay behavior must reflect the same failure.
+
+If a weapon is empty, the visual state, audio feedback, text/status information, and firing behavior must agree.
+
+If a wheelchair or mobility system changes mode, all relevant pathways must communicate the same state.
+
+If an escape pod launches, audio, graphics, navigation state, location state, and objective state must agree.
+
+Fix mismatches at the underlying event/state level when possible rather than creating separate hacks for each accessibility mode.
+
+STEP 10 — CAPTIONS AND NON-AUDIO PLAY
+
+Perform another traversal assuming the player cannot hear game audio.
+
+Verify that all required information conveyed through:
+
+dialogue,
+alarms,
+navigation sounds,
+hazards,
+weapons,
+machinery,
+environmental warnings,
+character calls,
+service-animal alerts,
+droid alerts,
+vehicle states,
+and mission-critical sounds
+
+has an understandable alternative.
+
+Captions should identify relevant speakers and meaningful off-screen sounds when necessary.
+
+Do not caption every decorative sound if doing so makes important information harder to find.
+
+STEP 11 — INPUT AND MOTOR ACCESSIBILITY
+
+Verify that required gameplay does not depend exclusively on:
+
+precise pointer movement,
+rapid repeated tapping,
+holding multiple buttons simultaneously,
+very short reaction windows,
+dragging with high precision,
+or inaccessible gesture-only interactions.
+
+Where such mechanics exist, use the game's established accessibility alternatives or add reasonable configurable alternatives without removing the original mechanic.
+
+STEP 12 — OBJECTIVES AND COGNITIVE ACCESSIBILITY
+
+Check whether objectives are understandable and recoverable.
+
+Players should be able to determine:
+
+what they are doing,
+why they are doing it,
+what the next actionable step is,
+what has already been completed,
+and how to request/review instructions again.
+
+Avoid relying on remembering one spoken instruction from several minutes earlier.
+
+Do not over-simplify the game.
+
+Provide recoverable information.
+
+STEP 13 — FAILURE AND RECOVERY
+
+Deliberately test incorrect actions.
+
+Get lost.
+
+Choose wrong options.
+
+Attempt unavailable interactions.
+
+Trigger failure states.
+
+Reload.
+
+Restart.
+
+Pause.
+
+Resume.
+
+Navigate backward.
+
+Attempt to leave menus unexpectedly.
+
+Verify that failures do not strand the player without explanation.
+
+Accessibility features must continue functioning after:
+
+checkpoint reload,
+save/load,
+death/failure,
+scene transition,
+menu transition,
+restart,
+and returning from pause.
+
+STEP 14 — SAVE AND STATE CONSISTENCY
+
+Where save/resume exists, verify that accessibility preferences and important gameplay state persist correctly.
+
+Do not allow a saved game to restore the player into an inaccessible or contradictory state.
+
+STEP 15 — FIX, THEN RETEST
+
+This is not an audit that ends with a report.
+
+Fix issues as they are found, using controlled changes.
+
+Prioritize:
+
+BLOCKER:
+Prevents playing or completing currently implemented content.
+
+ACCESSIBILITY BLOCKER:
+Makes required content impossible through a supported accessibility pathway.
+
+CRITICAL:
+Crash, data loss, corrupted state, severe navigation failure, or dangerous contradiction.
+
+HIGH:
+Major gameplay, audio, visual, interaction, or accessibility failure.
+
+MEDIUM:
+Meaningful defect that does not block completion.
+
+LOW:
+Polish or minor inconsistency.
+
+After each logical repair group:
+
+run relevant automated tests,
+run typecheck,
+run build,
+replay the affected section,
+and verify that the fix did not break another accessibility pathway.
+
+STEP 16 — DO NOT SELF-CERTIFY FROM AUTOMATED TESTS ALONE
+
+Automated tests are useful but insufficient.
+
+The final determination must include traversal of the actual playable game.
+
+Use browser automation/testing tools available in the Replit environment where appropriate to exercise the real interface and gameplay.
+
+Do not mark an accessibility feature working merely because its component exists in source code.
+
+Verify its behavior in the running game.
+
+STEP 17 — FINAL BETA ACCESSIBILITY GATE
+
+Do not call the current playable build ready for external beta until:
+
+the project builds,
+typecheck passes,
+required tests pass,
+the currently playable slice can be completed,
+the accessibility gateway persists into gameplay,
+a supported nonvisual pathway can complete the playable slice,
+a supported non-audio pathway can complete the playable slice,
+keyboard navigation works where applicable,
+screen-reader structure is usable,
+critical audio/visual/text mismatches are repaired,
+critical crashes are repaired,
+critical save/state problems are repaired,
+and remaining known issues are documented.
+
+FINAL REPORT
+
+When finished, provide:
+
+1. Exactly what playable content was traversed.
+2. What accessibility modes/settings were tested.
+3. What input methods were tested.
+4. Every blocker/critical/high issue discovered.
+5. Which issues were fixed.
+6. Which issues remain and why.
+7. Audio assets/events that were corrected.
+8. Graphics/assets/states that were corrected.
+9. Cross-modal inconsistencies that were corrected.
+10. Tests/build/typecheck results.
+11. Areas that could not actually be tested.
+12. Any assumptions made.
+13. Whether the current build passes the beta accessibility gate.
+
+IMPORTANT:
+
+Do not hide uncertainty.
+
+If you could not actually test something, say NOT TESTED.
+
+If an asset or behavior is ambiguous, do not invent the intended answer. Flag it for the Nexus System.
+
+Preserve established Resonance canon and accessibility philosophy.
+
+The objective is not merely WCAG-style interface compliance.
+
+The objective is that disabled players can actually PLAY Resonance, understand what is happening, make meaningful decisions, recover from errors, and receive equivalent gameplay information through the pathways available to them.
+
+Begin by creating the safe checkpoint and coverage map.
+
+Then perform the full audit and repair pass.
+```

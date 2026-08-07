@@ -15,11 +15,11 @@ export default function About() {
   return (
     <div className="min-h-[100dvh] flex flex-col p-4 md:p-8 max-w-2xl mx-auto w-full gap-6">
       <header className="flex items-center gap-4 border-b pb-4 mb-4">
-        <Link href="/">
-          <Button variant="ghost" size="icon" aria-label="Back to main menu">
+        <Button asChild variant="ghost" size="icon">
+          <Link href="/" aria-label="Back to main menu">
             <ChevronLeft className="w-6 h-6" />
-          </Button>
-        </Link>
+          </Link>
+        </Button>
         <h1 id="main-content" className="text-3xl font-bold">About & Accessibility</h1>
       </header>
 

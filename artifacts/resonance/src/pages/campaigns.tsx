@@ -21,11 +21,11 @@ export default function Campaigns() {
   return (
     <div className="min-h-[100dvh] flex flex-col p-4 md:p-8 max-w-2xl mx-auto w-full gap-6">
       <header className="flex items-center gap-4 border-b pb-4 mb-4">
-        <Link href="/">
-          <Button variant="ghost" size="icon" aria-label="Back to main menu">
+        <Button asChild variant="ghost" size="icon">
+          <Link href="/" aria-label="Back to main menu">
             <ChevronLeft className="w-6 h-6" />
-          </Button>
-        </Link>
+          </Link>
+        </Button>
         <h1 id="main-content" className="text-3xl font-bold">Campaigns</h1>
       </header>
 
@@ -71,13 +71,13 @@ export default function Campaigns() {
                     </div>
                     
                     <div className="pt-2">
-                      <Link href={`/play/${campaign.id}`}>
-                        <Button className="w-full sm:w-auto flex items-center gap-2 h-12 text-base">
-                          <PlayCircle className="w-5 h-5" />
+                      <Button asChild className="w-full sm:w-auto flex items-center gap-2 h-12 text-base">
+                        <Link href={`/play/${campaign.id}`}>
+                          <PlayCircle className="w-5 h-5" aria-hidden="true" />
                           {progress.currentNodeIndex === 0 && !progress.completed ? "Start Campaign" : 
                            progress.completed ? "Replay Campaign" : "Continue Campaign"}
-                        </Button>
-                      </Link>
+                        </Link>
+                      </Button>
                     </div>
                   </>
                 )}

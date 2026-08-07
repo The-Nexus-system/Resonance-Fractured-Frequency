@@ -1,6 +1,6 @@
 import { Link, useParams, useLocation } from "wouter";
 import { useA11y } from "@/components/a11y-provider";
-import { loadSave, saveGame, GameSave } from "@/lib/settings";
+import { loadSave, saveGame } from "@/lib/settings";
 import { campaigns, Campaign, Node, Choice } from "@/lib/campaigns";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
@@ -17,8 +17,17 @@ export default function Play() {
   const [nodeIndex, setNodeIndex] = useState(0);
   const [completed, setCompleted] = useState(false);
   const [feedback, setFeedback] = useState<{ message: string; type: "error" | "success" } | null>(null);
+  const [advancing, setAdvancing] = useState(false);
   
   const audioContextRef = useRef<AudioContext | null>(null);
+  const advanceTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  // Never leave a pending auto-advance running after leaving the page.
+  useEffect(() => {
+    return () => {
+      if (advanceTimerRef.current) clearTimeout(advanceTimerRef.current);
+    };
+  }, []);
 
   // Initialize
   useEffect(() => {
@@ -36,8 +45,14 @@ export default function Play() {
       setCompleted(true);
       announce(`${found.title} campaign completed screen.`);
     } else {
-      setNodeIndex(progress.currentNodeIndex);
-      announce(`Playing ${found.title}, node ${progress.currentNodeIndex + 1}.`);
+      // Clamp any out-of-range saved index so a damaged save can never
+      // restore the player into a nonexistent node and crash the game.
+      const safeIndex = Math.min(
+        Math.max(0, progress.currentNodeIndex),
+        Math.max(0, found.nodes.length - 1)
+      );
+      setNodeIndex(safeIndex);
+      announce(`Playing ${found.title}, node ${safeIndex + 1}.`);
     }
   }, [campaignId, setLocation, announce]);
 
@@ -85,13 +100,22 @@ export default function Play() {
   }, [settings.sound]);
 
   const handleChoice = (choice: Choice, node: Node) => {
+    // Ignore input while a correct answer is advancing to the next node,
+    // so feedback and game state can never contradict each other.
+    if (advancing) return;
     if (choice.isCorrect) {
-      setFeedback(null);
+      setAdvancing(true);
+      // Visible confirmation so success is never carried by audio or the
+      // screen reader alone (cross-modal equivalence).
+      setFeedback({ message: "Correct! Resonance established.", type: "success" });
       announce("Correct! Resonance established.");
       playTone(node.toneFreq || 440); // Play happy tone
-      
-      setTimeout(() => {
+
+      if (advanceTimerRef.current) clearTimeout(advanceTimerRef.current);
+      advanceTimerRef.current = setTimeout(() => {
         if (!campaign) return;
+        setFeedback(null);
+        setAdvancing(false);
         const nextIndex = nodeIndex + 1;
         if (nextIndex >= campaign.nodes.length) {
           setCompleted(true);
@@ -107,10 +131,7 @@ export default function Play() {
       const msg = choice.feedbackOnFail || "Incorrect resonance. Try a different alignment.";
       setFeedback({ message: msg, type: "error" });
       announce(`Incorrect. ${msg}`);
-      
-      if (settings.sound) {
-        playTone(150); // low error buzz
-      }
+      playTone(150); // low error buzz (playTone respects the sound setting)
     }
   };
 
@@ -118,6 +139,8 @@ export default function Play() {
     setCompleted(false);
     setNodeIndex(0);
     setFeedback(null);
+    setAdvancing(false);
+    if (advanceTimerRef.current) clearTimeout(advanceTimerRef.current);
     updateProgress(0, false);
     announce("Restarting campaign.");
   };
@@ -134,9 +157,9 @@ export default function Play() {
             You have successfully aligned all frequencies in {campaign.title}. The planetary network hums in harmony once more.
           </p>
           <div className="flex flex-col gap-4 mt-8 w-full max-w-xs mx-auto">
-            <Link href="/campaigns" className="w-full">
-              <Button size="lg" className="w-full h-14 text-lg">Return to Campaigns</Button>
-            </Link>
+            <Button asChild size="lg" className="w-full h-14 text-lg">
+              <Link href="/campaigns">Return to Campaigns</Link>
+            </Button>
             <Button variant="outline" size="lg" className="w-full h-14 text-lg" onClick={handleReplay}>
               Replay Campaign
             </Button>
@@ -152,11 +175,11 @@ export default function Play() {
   return (
     <div className="min-h-[100dvh] flex flex-col p-4 md:p-6 max-w-2xl mx-auto w-full gap-6">
       <header className="flex items-center gap-4">
-        <Link href="/campaigns">
-          <Button variant="ghost" size="icon" aria-label="Back to campaigns">
+        <Button asChild variant="ghost" size="icon">
+          <Link href="/campaigns" aria-label="Back to campaigns">
             <ChevronLeft className="w-6 h-6" />
-          </Button>
-        </Link>
+          </Link>
+        </Button>
         <div className="flex-1">
           <h1 className="sr-only">{campaign.title} - Puzzle {nodeIndex + 1}</h1>
           <div className="flex justify-between text-sm font-medium mb-2 text-muted-foreground" aria-hidden="true">
@@ -210,14 +233,15 @@ export default function Play() {
                       size="sm" 
                       className="mt-2 flex items-center gap-2"
                       onClick={() => playTone(node.toneFreq!)}
-                      aria-label={`Play target tone. ${settings.captions ? node.toneCaption : ""}`}
+                      aria-label="Play target tone"
                     >
                       <Volume2 className="w-4 h-4" />
                       Play Tone
                     </Button>
                   )}
                   {settings.captions && node.toneCaption && (
-                    <p className="text-sm italic text-muted-foreground mt-1" aria-hidden="true">
+                    <p className="text-sm italic text-muted-foreground mt-1">
+                      <span className="sr-only">Sound caption: </span>
                       {node.toneCaption}
                     </p>
                   )}
@@ -230,10 +254,14 @@ export default function Play() {
         {/* Feedback Area */}
         {feedback && (
           <div 
-            className={`p-4 rounded-lg flex items-start gap-3 ${feedback.type === 'error' ? 'bg-destructive/10 text-destructive-foreground dark:text-destructive' : 'bg-green-100 text-green-900'}`}
+            className={`p-4 rounded-lg flex items-start gap-3 ${feedback.type === 'error' ? 'bg-destructive/10 text-destructive-foreground dark:text-destructive' : 'bg-green-100 text-green-900 dark:bg-green-950 dark:text-green-200'}`}
             role="alert"
           >
-            <AlertCircle className="w-6 h-6 shrink-0 mt-0.5" aria-hidden="true" />
+            {feedback.type === 'error' ? (
+              <AlertCircle className="w-6 h-6 shrink-0 mt-0.5" aria-hidden="true" />
+            ) : (
+              <CheckCircle2 className="w-6 h-6 shrink-0 mt-0.5" aria-hidden="true" />
+            )}
             <p className="font-medium text-base leading-snug">
               {feedback.message}
             </p>
