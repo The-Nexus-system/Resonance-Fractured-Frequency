@@ -37,6 +37,20 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b35a6559-e14e-4256-832a-d31c41a952f1"
+      }
+    },
+    "owner": "nexus.system",
+    "updates": {
+      "url": "https://u.expo.dev/b35a6559-e14e-4256-832a-d31c41a952f1",
+      "checkAutomatically": "ON_LOAD",
+      "fallbackToCacheTimeout": 0
+    },
+    "runtimeVersion": {
+      "policy": "fingerprint"
     }
   }
 }
