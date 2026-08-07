@@ -1,0 +1,1110 @@
+RESONANCE: FRACTURED FREQUENCY
+NATIVE iOS TRANSITION + REAL-WORLD SPATIAL GAMEPLAY DEVELOPMENT MASTER PROMPT
+
+This is a controlled expansion of the EXISTING Resonance: Fractured Frequency project.
+
+DO NOT replace, delete, rewrite, or damage the existing web application.
+
+The existing web application is the validated playable reference build.
+
+It has already passed the current beta accessibility gate for the playable four-puzzle First Fracture slice.
+
+The web application must remain functional and independently playable throughout native iOS development.
+
+We are now creating a SEPARATE NATIVE iOS CLIENT for Resonance.
+
+The eventual goal is not merely to reproduce the web game on iPhone.
+
+The native iOS application will become the foundation for a hybrid conventional + real-world game using Apple-native technologies including:
+
+native iOS UI
+VoiceOver
+refreshable braille display compatibility
+Switch Control
+Voice Control where appropriate
+Dynamic Type
+accessibility actions
+3-D spatial audio
+head-tracked/spatial audio where supported and appropriate
+haptics
+Core Location
+device motion and orientation
+camera
+AR
+LiDAR where available
+real-world proximity gameplay
+route-aware gameplay
+travel-state-aware gameplay
+service-animal/droid companion systems
+and multimodal interaction.
+
+IMPORTANT ARCHITECTURAL PRINCIPLE
+
+There should not eventually be separate "blind gameplay," "Deaf gameplay," and "sighted gameplay" systems representing different worlds.
+
+There should be ONE underlying Resonance world state.
+
+The same game object/event may then have:
+
+a visual/AR representation,
+a 3-D spatial-audio representation,
+a haptic representation,
+a caption/text representation,
+and an accessibility/screen-reader/braille representation.
+
+These representations must describe the SAME underlying object, location, state, and event.
+
+Accessibility is part of the game architecture.
+
+It is not a later compatibility layer.
+
+==================================================
+GLOBAL DEVELOPMENT RULES
+==================================================
+
+DO NOT:
+
+destroy the existing web build,
+replace the web build with the iOS build,
+put the existing website inside a WebView and call that the native application,
+invent new canon,
+overwrite established canon,
+generate unresolved cultural material,
+generate Shawabti musical culture that is intentionally withheld,
+invent unresolved Talia Rusk cultural specifics,
+remove accessibility features to simplify implementation,
+make graphics mandatory for gameplay,
+make audio mandatory for gameplay,
+require physical walking,
+require standing,
+require precise camera pointing,
+require precise GPS positioning,
+require the player to leave an accessible/safe travel corridor,
+require rapid reactions to real-world objects,
+or create mechanics that encourage unsafe real-world behavior.
+
+Do not begin every feature simultaneously.
+
+Complete the phases below IN ORDER.
+
+After each phase:
+
+build,
+test,
+document,
+report failures,
+repair failures,
+retest,
+and create a safe checkpoint/commit.
+
+Do not proceed to the next major phase if the previous phase has blocker or critical failures.
+
+==================================================
+PHASE 0 — PRESERVE THE EXISTING WEB BUILD
+==================================================
+
+Before native development begins:
+
+Create a safe checkpoint of the current repository.
+
+Identify the existing web application as the current validated playable reference implementation.
+
+Record the currently validated content:
+
+main menu,
+campaign selection,
+The First Fracture,
+all four puzzle nodes,
+correct paths,
+incorrect paths,
+completion,
+replay,
+locked Echoing Chasm boundary,
+Settings,
+About,
+404 fallback,
+automatic progress saving,
+save sanitization,
+accessibility settings,
+captions,
+audio,
+keyboard pathway,
+focus behavior,
+high contrast,
+dyslexia-friendly presentation,
+XL text,
+large tap targets,
+and existing accessibility announcements.
+
+Run the existing:
+
+typecheck,
+build,
+automated tests,
+and existing end-to-end tests.
+
+Record the baseline results.
+
+Do not change existing web behavior merely to make native development easier unless a shared architecture improvement can be introduced without regression.
+
+==================================================
+PHASE 1 — CREATE THE NATIVE iOS CLIENT
+==================================================
+
+Create a SEPARATE native iOS application target/client for Resonance.
+
+Use appropriate Apple-native development architecture.
+
+The native application must be capable of later supporting:
+
+AR,
+spatial audio,
+haptics,
+Core Location,
+device motion,
+camera,
+LiDAR,
+VoiceOver,
+braille,
+Switch Control,
+background/foreground lifecycle,
+and other native Apple frameworks.
+
+Do not use a WebView as the primary game implementation.
+
+Before implementing gameplay, inspect the existing project and identify:
+
+what game-state logic can safely be shared,
+what content/data can safely be shared,
+what canon/data structures can safely be shared,
+what save format can safely be shared,
+what systems must be rewritten natively,
+and what systems should remain client-specific.
+
+Maintain ONE conceptual game state where practical.
+
+Do not create incompatible web and iOS canon.
+
+==================================================
+PHASE 2 — NATIVE PARITY WITH THE CURRENT PLAYABLE SLICE
+==================================================
+
+Before implementing AR or real-world gameplay, reproduce the CURRENT playable Resonance slice natively.
+
+Native iOS parity must include:
+
+main menu,
+campaign selection,
+The First Fracture,
+all four puzzle nodes,
+correct paths,
+incorrect paths,
+completion,
+replay,
+locked Echoing Chasm boundary,
+Settings,
+About,
+automatic progress saving,
+corrupted-save protection,
+accessible focus behavior,
+captions,
+sound-off play,
+high contrast,
+dyslexia-friendly presentation,
+large text/Dynamic Type,
+large touch targets,
+existing audio cues,
+and equivalent gameplay feedback.
+
+Use native Apple accessibility APIs.
+
+Implement meaningful:
+
+accessibility labels,
+traits,
+values,
+states,
+hints only where genuinely useful,
+custom accessibility actions where useful,
+logical VoiceOver focus order,
+focus restoration,
+dynamic announcements,
+error announcements,
+success announcements,
+and state-change announcements.
+
+Ensure interfaces remain understandable through a refreshable braille display.
+
+Do not flood VoiceOver with unnecessary announcements.
+
+Test connected keyboard operation where applicable.
+
+Do not claim actual VoiceOver hardware testing unless actual VoiceOver was used.
+
+Structural accessibility testing is not equivalent to testing with real assistive technology.
+
+==================================================
+NATIVE PARITY GATE
+==================================================
+
+Do not proceed into the real-world gameplay phases until:
+
+the native app builds,
+the native app launches,
+the complete existing four-node campaign can be played,
+correct and incorrect paths work,
+completion works,
+replay works,
+settings persist,
+automatic progress saving works,
+damaged save data cannot crash the game,
+captions work,
+sound-off play works,
+the current audio cues work,
+VoiceOver semantics are implemented,
+critical game-state information is exposed accessibly,
+and the original web application remains intact.
+
+Report anything that could not actually be tested as NOT TESTED.
+
+==================================================
+PHASE 3 — CREATE THE SHARED SPATIAL WORLD MODEL
+==================================================
+
+Before using GPS or AR, create a reusable spatial-object model.
+
+A spatial Resonance object should be capable of containing data such as:
+
+unique identifier,
+object type,
+game-state status,
+world position,
+relative position,
+distance,
+direction,
+elevation where relevant,
+interaction radius,
+interaction state,
+eligibility state,
+mission relationship,
+audio representation,
+visual representation,
+haptic representation,
+caption/text representation,
+screen-reader representation,
+accessibility priority,
+persistence behavior,
+and expiration behavior.
+
+The object must exist independently of how it is rendered.
+
+A blind player's spatial-audio target and a sighted player's AR object must represent the SAME game object.
+
+==================================================
+PHASE 4 — 3-D SPATIAL AUDIO PROTOTYPE
+==================================================
+
+3-D spatial audio is a CORE GAMEPLAY SYSTEM.
+
+It is not decorative sound.
+
+Create a controlled prototype environment using local/test objects before introducing real GPS locations.
+
+A player must be able to determine through spatial audio:
+
+whether an object is left or right,
+ahead or behind where technically reliable,
+approaching or receding,
+near or far,
+and when the object enters interaction range.
+
+Where vertical position matters and can be communicated reliably, test vertical differentiation.
+
+Create clear audio categories for:
+
+navigation,
+mission objectives,
+interactable objects,
+hazards,
+characters,
+companions,
+environment,
+vehicles/craft,
+equipment,
+and decorative ambience.
+
+Do not make every object beep.
+
+Create an audio hierarchy.
+
+Important information must remain distinguishable from ambience and music.
+
+==================================================
+REAL-WORLD ENVIRONMENTAL AUDIO PRIORITY
+==================================================
+
+Real-world safety takes priority over game audio.
+
+The game must support dynamic audio mixing appropriate for real-world travel.
+
+When environmental awareness becomes important:
+
+reduce or duck:
+
+music,
+decorative ambience,
+nonessential dialogue,
+nonessential game sounds.
+
+Preserve only appropriate critical game information.
+
+The game must NEVER intentionally mask:
+
+traffic,
+crossing signals,
+human warnings,
+service-animal information,
+mobility cues,
+emergency announcements,
+or other important environmental information.
+
+The game is NEVER an authority on whether crossing a street, entering an area, or performing a physical action is safe.
+
+==================================================
+PHASE 5 — HAPTIC SPATIAL LANGUAGE
+==================================================
+
+Create a consistent haptic vocabulary.
+
+Haptics may communicate:
+
+object detected,
+object entering interaction range,
+target alignment,
+successful interaction,
+failed interaction,
+hazard,
+mission update,
+companion alert,
+and other meaningful states.
+
+Do not create arbitrary haptic patterns for every object.
+
+Patterns must be learnable and internally consistent.
+
+Required information conveyed through haptics must have alternatives.
+
+==================================================
+PHASE 6 — SEMANTIC INTERACTION SYSTEM
+==================================================
+
+Create ONE underlying interaction command:
+
+INTERACT WITH NEAREST ELIGIBLE TARGET
+
+The mechanic is NOT "shake the phone."
+
+Shake is ONE input method for issuing the semantic interaction command.
+
+Supported interaction pathways should eventually include where technically appropriate:
+
+shake,
+accessible on-screen control,
+VoiceOver accessibility action,
+Switch Control,
+Voice Control,
+connected keyboard,
+controller,
+and other appropriate accessible input.
+
+All input methods call the same underlying interaction logic.
+
+==================================================
+SHAKE TO INTERACT
+==================================================
+
+Implement configurable shake-to-interact.
+
+Example:
+
+A Resonance object enters the player's interaction envelope.
+
+The player deliberately shakes the phone.
+
+The game determines the nearest eligible target inside the interaction envelope.
+
+If exactly one eligible target exists:
+
+perform the appropriate contextual interaction.
+
+Examples:
+
+collect,
+scan,
+activate,
+acknowledge,
+stabilize,
+open,
+communicate,
+or perform the object's established contextual action.
+
+Immediately provide multimodal confirmation.
+
+If multiple eligible objects exist:
+
+DO NOT randomly choose unless game rules explicitly permit automatic priority.
+
+Tell the player that multiple signals/objects are available and provide an accessible selection mechanism.
+
+If no eligible object exists:
+
+provide brief understandable feedback.
+
+Do not punish the player.
+
+==================================================
+PHASE 7 — ACCESSIBLE INTERACTION ENVELOPE
+==================================================
+
+Do not require coordinate precision.
+
+Initial prototype interaction distance may begin around approximately TWO METRES for appropriate stationary/walking encounters, but this must be configurable and tested.
+
+The game must account for:
+
+GPS drift,
+wheelchair access,
+railings,
+curbs,
+stairs,
+construction,
+temporary barriers,
+private property,
+inaccessible terrain,
+mobility-device turning radius,
+service-animal routes,
+orientation-and-mobility techniques,
+and other real-world accessibility factors.
+
+The important concept is:
+
+REACHABLE PROXIMITY
+
+not:
+
+EXACT COORDINATE MATCH.
+
+==================================================
+CORE REAL-WORLD RULE
+==================================================
+
+RESONANCE OBJECTS COME TO THE PLAYER'S ACCESSIBLE TRAVEL CORRIDOR.
+
+THE PLAYER IS NOT REQUIRED TO LEAVE THEIR SAFE TRAVEL CORRIDOR FOR RESONANCE OBJECTS.
+
+If an encounter would require:
+
+crossing unnecessarily,
+climbing inaccessible stairs,
+entering unsafe terrain,
+entering private property,
+leaving a known accessible route,
+or making another unreasonable physical detour,
+
+the interaction point should be relocatable or the encounter should not be offered there.
+
+==================================================
+PHASE 8 — REAL-WORLD ROUTE-AWARE GAMEPLAY
+==================================================
+
+After local spatial interaction works, begin Core Location integration.
+
+The design target is:
+
+A player is already going somewhere.
+
+Examples:
+
+walking to a store,
+rolling to work,
+taking a bus,
+riding in a car,
+traveling by train,
+moving through a station,
+going to an appointment,
+or taking another ordinary journey.
+
+Resonance transforms appropriate portions of that EXISTING journey into gameplay.
+
+The game should not normally require players to make unsafe or unnecessary detours simply to collect an object.
+
+Where technically and legally appropriate, create a route/travel corridor.
+
+Eligible Resonance encounters can be selected or positioned within accessible interaction opportunities along that corridor.
+
+==================================================
+PHASE 9 — TRAVEL STATE
+==================================================
+
+Do NOT assume that vehicle movement means the user is driving.
+
+Support conceptual travel states including:
+
+STATIONARY
+WALKING/ROLLING
+PASSENGER
+DRIVER
+UNKNOWN
+
+Do not infer DRIVER solely because the device is moving at vehicle speed.
+
+Passengers are legitimate players.
+
+Passenger gameplay may include:
+
+pass-by collection,
+signal interception,
+scanning,
+communications,
+resource collection,
+mission observation,
+and other low-risk interactions.
+
+If the system cannot reliably distinguish driver from passenger:
+
+default to conservative behavior.
+
+Do not encourage active interaction from someone who may be driving.
+
+Provide a way for the player to explicitly indicate passenger status where appropriate, while still designing conservatively.
+
+==================================================
+PASSENGER INTERACTION
+==================================================
+
+A two-metre interaction radius is inappropriate for a moving vehicle.
+
+Passenger encounters should use a larger contextual capture/interception window.
+
+Example:
+
+A Resonance signal is approaching along the travel corridor.
+
+The game provides an appropriate spatial-audio/haptic/text/visual warning.
+
+The object enters the passenger interaction window.
+
+The passenger may issue INTERACT WITH NEAREST ELIGIBLE TARGET using shake or another accessible input.
+
+The game resolves the encounter.
+
+Missing the encounter must not encourage dangerous behavior.
+
+Do not instruct players to:
+
+turn the vehicle around,
+exit unexpectedly,
+cross traffic,
+return to an unsafe location,
+or pressure a driver to change course.
+
+==================================================
+PHASE 10 — STATIONARY OPPORTUNITY GAMEPLAY
+==================================================
+
+Use naturally stationary moments as potential opportunities for richer interactions.
+
+Examples may include:
+
+waiting for transit,
+sitting in a safe location,
+waiting in a queue,
+waiting for another person,
+or being otherwise stationary.
+
+A stop at an intersection may create a potential gameplay opportunity ONLY if it can be done without interfering with real-world navigation.
+
+THE GAME MUST NEVER SAY OR IMPLY THAT IT IS SAFE TO CROSS.
+
+The player's:
+
+orientation and mobility skills,
+service animal,
+accessible pedestrian signal,
+traffic assessment,
+human assistance,
+and other real-world safety systems
+
+remain authoritative.
+
+Resonance is gameplay.
+
+It is not a mobility aid or crossing-safety authority.
+
+==================================================
+PHASE 11 — REAL-WORLD ENCOUNTER TYPES
+==================================================
+
+Once the spatial foundation is reliable, prototype simple encounter types.
+
+Examples:
+
+Resonance fragments,
+salvage,
+signals,
+transmissions,
+scans,
+anomalies,
+mission resources,
+companion interactions,
+remote repairs,
+archaeological discoveries,
+medical/support transmissions,
+and other canon-compatible encounters.
+
+Do NOT introduce all encounter types simultaneously.
+
+Start with ONE.
+
+Recommended first encounter:
+
+RESONANCE ANOMALY / FRAGMENT.
+
+The player:
+
+detects it,
+orients toward or approaches it where appropriate,
+enters interaction range,
+issues the interaction command,
+receives immediate multimodal confirmation,
+and continues their real-world journey.
+
+==================================================
+PHASE 12 — AR VISUAL LAYER
+==================================================
+
+Only after the underlying spatial model, spatial audio, haptics, and semantic interaction work reliably should the AR visual layer become a major implementation target.
+
+The AR layer renders the SAME spatial objects already used by nonvisual gameplay.
+
+Sighted players may see:
+
+Resonance anomalies,
+artifacts,
+characters,
+interfaces,
+ships,
+equipment,
+portals,
+signals,
+archaeological objects,
+or other appropriate game elements
+
+appearing in the real environment.
+
+Do not create AR-only mission-critical information.
+
+Do not require precise camera alignment to complete required gameplay.
+
+Camera use must not be mandatory when another accessible representation can support the mechanic.
+
+==================================================
+PHASE 13 — DEVICE AS IN-UNIVERSE RESONANCE TECHNOLOGY
+==================================================
+
+Where appropriate, treat the player's real iPhone as an in-universe field interface.
+
+Potential conceptual mappings:
+
+camera = scanner/visual sensor
+LiDAR = spatial sensing
+Core Location = broad positional field
+device motion = orientation/instrument alignment
+spatial audio = Resonance field positioning
+haptics = tactile Resonance field
+screen = visual interface
+VoiceOver/braille = textual/tactile interface
+headphones/AirPods = spatial field interface
+
+This should feel integrated into the fiction rather than like unrelated phone features.
+
+Do not invent canon to justify technology without creator approval.
+
+==================================================
+PHASE 14 — COMPANIONS, SERVICE ANIMALS, AND DROIDS
+==================================================
+
+Do not fully implement these until the base real-world system works.
+
+Design the architecture so later companion systems can use the same spatial model.
+
+A fictional service animal or droid may eventually communicate:
+
+nearby signals,
+mission objects,
+hazards,
+route-relative information,
+medical/support information,
+or contextual observations.
+
+These systems must not replace the player's real service animal, mobility training, navigation technology, or real-world safety judgment.
+
+==================================================
+PHASE 15 — ACCESSIBILITY ACROSS REAL-WORLD PLAY
+==================================================
+
+The real-world system must support different bodies and sensory pathways.
+
+Never assume the player:
+
+can see,
+can hear,
+can walk,
+can stand,
+can turn their entire body,
+can hold the phone steadily,
+can point a camera,
+can rapidly shake the phone,
+can use both hands,
+can perform precise gestures,
+can travel independently,
+or can physically approach an exact coordinate.
+
+Where physical orientation is part of an interaction:
+
+allow alternatives such as:
+
+device rotation,
+directional controls,
+semantic target selection,
+VoiceOver actions,
+Switch Control,
+controller input,
+or other reasonable mechanisms.
+
+A person playing from a wheelchair, bed, seat, vehicle passenger seat, or stationary location should not automatically be excluded.
+
+==================================================
+PHASE 16 — NONVISUAL REAL-WORLD PLAYTHROUGH
+==================================================
+
+For every implemented real-world prototype, test without relying on graphics.
+
+Ask continuously:
+
+Where is the target?
+
+How far away is it?
+
+What direction is it?
+
+Is it approaching?
+
+Is it leaving?
+
+Is it in interaction range?
+
+What type of object is it?
+
+What action is available?
+
+Did my interaction succeed?
+
+What changed?
+
+What should I do next?
+
+Can I recover if I become disoriented?
+
+Can I continue without looking at the screen?
+
+If required information cannot be determined nonvisually:
+
+treat that as an accessibility blocker.
+
+==================================================
+PHASE 17 — NON-AUDIO REAL-WORLD PLAYTHROUGH
+==================================================
+
+Repeat the prototype assuming the player cannot hear.
+
+Required spatial/game information must have appropriate alternatives through combinations of:
+
+visual AR,
+screen UI,
+captions,
+text,
+haptics,
+accessibility APIs,
+or other suitable mechanisms.
+
+Do not assume a Deaf player wants a neural interface, hearing technology, or audio-based solution.
+
+==================================================
+PHASE 18 — CROSS-MODAL STATE CONSISTENCY
+==================================================
+
+For every significant real-world game object/event compare:
+
+WHAT THE AR PLAYER SEES
+
+WHAT THE SPATIAL-AUDIO PLAYER HEARS
+
+WHAT THE HAPTIC SYSTEM COMMUNICATES
+
+WHAT VOICEOVER/BRAILLE COMMUNICATES
+
+WHAT CAPTIONS/TEXT COMMUNICATE
+
+WHAT THE GAME STATE ACTUALLY SAYS
+
+These must describe the SAME event.
+
+Example:
+
+If a fragment is 1.5 metres to the player's right and eligible for collection:
+
+AR must render the corresponding object appropriately.
+
+Spatial audio must represent the corresponding direction/distance appropriately.
+
+Haptics must communicate interaction availability according to the established vocabulary.
+
+VoiceOver/braille must expose the relevant state.
+
+The interaction command must target that SAME object.
+
+Successful collection must remove/change that SAME object across every representation.
+
+Fix inconsistencies at the shared state/event layer rather than creating unrelated modality-specific hacks whenever possible.
+
+==================================================
+PHASE 19 — REAL-WORLD SAFETY RULES
+==================================================
+
+Real-world gameplay must NEVER reward unsafe behavior.
+
+Do not incentivize:
+
+running into traffic,
+crossing against signals,
+entering private property,
+entering dangerous terrain,
+using inaccessible routes,
+climbing structures,
+approaching hazards,
+interacting while driving,
+ignoring a service animal,
+ignoring environmental warnings,
+or physically exceeding a player's capabilities.
+
+Do not create essential limited-time collectibles that pressure someone into unsafe movement.
+
+Missed real-world encounters should generally be recoverable, repeatable, replaceable, or nonessential.
+
+Main story completion must not depend upon performing an unsafe physical-world action.
+
+==================================================
+PHASE 20 — PRIVACY AND SENSOR MINIMIZATION
+==================================================
+
+Real-world gameplay may involve sensitive device capabilities.
+
+Use only the minimum sensor/location information necessary for the feature.
+
+Do not collect or retain unnecessary:
+
+precise location history,
+camera imagery,
+microphone recordings,
+health information,
+mobility patterns,
+or other sensitive information.
+
+Clearly separate:
+
+information required for gameplay,
+temporary sensor processing,
+information stored locally,
+information transmitted,
+and optional analytics.
+
+Do not silently expand data collection merely because native APIs make it possible.
+
+==================================================
+PHASE 21 — FIRST REAL-WORLD SHOWCASE
+==================================================
+
+After the technical foundation is ready, build ONE polished showcase encounter.
+
+Working concept:
+
+REAL-WORLD PROTOTYPE 001 — THE ORDINARY JOURNEY
+
+The player is already traveling from Point A to Point B.
+
+The game recognizes an appropriate gameplay opportunity along the accessible travel corridor.
+
+A Resonance anomaly/fragment becomes available.
+
+The player detects it through their selected sensory pathways.
+
+Possible representations:
+
+3-D spatial audio,
+haptics,
+AR,
+screen UI,
+captions/text,
+VoiceOver/braille.
+
+The player approaches or passes within an appropriate accessible interaction envelope.
+
+The player deliberately issues:
+
+INTERACT WITH NEAREST ELIGIBLE TARGET
+
+using shake or another supported input.
+
+The interaction resolves.
+
+The player receives immediate multimodal confirmation.
+
+The mission state updates.
+
+The player continues the journey they were already making.
+
+The player should not need to:
+
+see the object,
+walk,
+leave their route,
+enter an inaccessible location,
+precisely aim the camera,
+hit an exact GPS coordinate,
+hear a sound,
+or perform the shake gesture
+
+if another supported interaction pathway is appropriate.
+
+==================================================
+PHASE 22 — BETA TESTING THE REAL-WORLD PROTOTYPE
+==================================================
+
+Do not declare the real-world prototype ready based solely on simulator or automated testing.
+
+Automated and simulated tests should be used extensively, but actual-device testing will eventually be required.
+
+Explicitly distinguish:
+
+SIMULATOR TESTED
+AUTOMATED TESTED
+REAL DEVICE TESTED
+VOICEOVER TESTED
+BRAILLE TESTED
+REAL ROUTE TESTED
+PASSENGER TESTED
+AR TESTED
+SPATIAL AUDIO HARDWARE TESTED
+NOT TESTED
+
+Never claim a category was tested when it was only inferred from source code.
+
+==================================================
+IMPLEMENTATION PRIORITY
+==================================================
+
+Work in this exact broad order:
+
+1. Preserve web build.
+2. Create native iOS client.
+3. Reach native parity with existing playable slice.
+4. Build shared spatial-object architecture.
+5. Build local 3-D spatial-audio prototype.
+6. Build haptic language.
+7. Build semantic interaction command.
+8. Add shake-to-interact and accessible alternatives.
+9. Build accessible interaction envelope.
+10. Add Core Location / route corridor.
+11. Add travel states.
+12. Add passenger gameplay.
+13. Add stationary opportunity gameplay.
+14. Build ONE real-world encounter type.
+15. Add AR representation of the SAME encounter.
+16. Cross-modal audit.
+17. Safety audit.
+18. Privacy audit.
+19. Real-device accessibility testing.
+20. Expand only after the foundation passes.
+
+==================================================
+REPORTING REQUIREMENTS
+==================================================
+
+After every major phase report:
+
+WHAT WAS IMPLEMENTED
+
+WHAT FILES/SYSTEMS CHANGED
+
+WHAT WAS TESTED
+
+WHAT PASSED
+
+WHAT FAILED
+
+WHAT WAS FIXED
+
+WHAT REMAINS
+
+WHAT WAS NOT TESTED
+
+WHAT REQUIRES A REAL DEVICE
+
+WHAT REQUIRES THE NEXUS SYSTEM'S DECISION
+
+WHETHER IT IS SAFE TO CONTINUE
+
+Do not hide uncertainty.
+
+Do not fill unanswered design questions with invented answers.
+
+Ask the Nexus System when canon, accessibility behavior, cultural representation, or gameplay intent is genuinely ambiguous.
+
+==================================================
+FINAL PRINCIPLE
+==================================================
+
+The goal is not:
+
+"Pokémon Go with accessibility added."
+
+The goal is a native spatial game whose underlying mechanics were designed from the beginning for players with different sensory, cognitive, communication, and mobility needs.
+
+A sighted player may discover Resonance through AR.
+
+A blind player may discover the same Resonance object through 3-D spatial audio and haptics.
+
+A Deaf player may discover the same object through AR, text, and haptics.
+
+A DeafBlind player may use braille, haptics, accessible controls, and other supported representations.
+
+A wheelchair user may encounter it along their accessible route without being required to stand or walk.
+
+A vehicle passenger may intercept it while traveling without being treated as the driver.
+
+These players are interacting with the SAME GAME OBJECT and the SAME WORLD.
+
+The real world remains authoritative for safety.
+
+Resonance adapts to the player's journey.
+
+The player should not be required to make their journey unsafe in order to adapt to Resonance.
+
+BEGIN NOW WITH PHASE 0.
+
+Preserve and verify the current web build first.
+
+Then create the separate native iOS architecture and proceed through the phases in order.
+
+Do not begin broad AR/location feature development until native parity with the existing playable slice has passed.

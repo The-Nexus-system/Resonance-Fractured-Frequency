@@ -1,0 +1,24 @@
+kind = "mobile"
+previewPath = "/resonance-mobile/"
+title = "Resonance Mobile"
+description = "Native iOS client for Resonance: Fractured Frequency, built with React Native + Expo. Reproduces the validated playable slice (The First Fracture campaign) with native Apple accessibility — VoiceOver semantics, Dynamic Type, haptics, captions, sound-off play, and safe corrupted-save handling — as the foundation for later spatial-audio and real-world gameplay."
+version = "1.0.0"
+id = "artifacts/resonance-mobile"
+router = "expo-domain"
+
+[[services]]
+name = "expo"
+ensurePreviewReachable = "/status"
+paths = [ "/resonance-mobile/" ]
+localPort = 21372
+
+[services.development]
+run = "pnpm --filter @workspace/resonance-mobile run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/resonance-mobile", "run", "build" ]
+run = [ "pnpm", "--filter", "@workspace/resonance-mobile", "run", "serve" ]
+
+[services.env]
+PORT = "21372"
+BASE_PATH = "/resonance-mobile/"
