@@ -351,6 +351,12 @@ export default function ExploreScreen() {
   // change. No-op in Expo Go / web preview — the module is absent there.
   useEffect(() => {
     if (!isNativeSpatialAudioAvailable()) return;
+    if (!settings.sound) {
+      // Respect the sound-off setting on native builds too: the native
+      // engine loops positional tones and must be silenced explicitly.
+      stopNativeSpatialAudio().catch(() => {});
+      return;
+    }
     syncNativeSpatialAudio(world, actionCtx.isDone).catch((err) => {
       // Surface loudly (no silent fallback): the JS soundscape still runs.
       console.error('Native spatial audio sync failed:', err);
