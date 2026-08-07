@@ -357,3 +357,17 @@ test('rewards: forged earned ledger is rejected unless the save supports each co
   }));
   assert.ok(Object.keys(legit.earned).length >= Object.keys(forged.earned).length - 1);
 });
+
+test('scene adapter degrades safely on corrupted positions (§14)', () => {
+  const world = createFirstFractureWorld();
+  const victim = world.objects[0];
+  victim.position = { x: Number.NaN, y: Infinity, z: -Infinity };
+  const scene = sceneState(world, { roleOf: roleCtx.roleOf, requiredIds: FF_RESONATOR_IDS });
+  const e = scene.entities.find((x) => x.id === victim.id)!;
+  assert.equal(e.visible, false);
+  assert.equal(e.interactable, false);
+  assert.deepEqual(e.position, { x: 0, y: 0, z: 0 });
+  assert.ok(Number.isFinite(scene.environmentCoherence));
+  // Other entities are unaffected and the description contains no NaN text.
+  assert.ok(!sceneDescription(scene).includes('NaN'));
+});

@@ -97,9 +97,41 @@ export function sceneState(
   ).length;
   const environmentCoherence = required.length === 0 ? 0 : restored / required.length;
 
+  const finite = (n: number) => Number.isFinite(n);
   const entities: SceneEntity[] = world.objects.map((o) => {
+    // Malformed-data protection (§14): a corrupted position must degrade
+    // safely — the renderer draws it at the origin, hidden, rather than
+    // crashing or placing geometry at NaN/Infinity.
+    const safe = finite(o.position.x) && finite(o.position.y) && finite(o.position.z);
+    if (!safe) {
+      return {
+        id: o.id,
+        label: o.label,
+        kind: o.kind,
+        role: options.roleOf?.(o.id),
+        position: { x: 0, y: 0, z: 0 },
+        scale: KIND_SCALE[o.kind],
+        rotation: idRotation(o.id),
+        elevation: 0,
+        visible: false,
+        discovered: false,
+        interactable: false,
+        state: o.state,
+        coherence: 0,
+        distance: Infinity,
+        proximity: 0,
+        focused: false,
+        accessibility: {
+          label: o.label,
+          direction: '',
+          distanceWord: '',
+          stateWord: stateWord(o.state),
+        },
+      } satisfies SceneEntity;
+    }
     const v = viewObject(world, o);
-    const proximity = Math.max(0, Math.min(1, 1 - v.distance / 25));
+    const rawProx = 1 - v.distance / 25;
+    const proximity = Math.max(0, Math.min(1, Number.isFinite(rawProx) ? rawProx : 0));
     return {
       id: o.id,
       label: o.label,

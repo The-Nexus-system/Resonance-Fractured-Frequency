@@ -85,7 +85,19 @@ export function pingGuidance(
     else if (guidance.distance > lastPing.distance + 0.5) trend = ' You are getting farther away.';
     else trend = ' About the same distance as before.';
   }
-  return { guidance, text: guidance.text + trend };
+  // Actionable next step (§9): turn the eight-direction word into a concrete
+  // instruction so a player is never left interpreting geometry alone.
+  const target = world.objects.find((o) => o.id === guidance.objectId);
+  let step = '';
+  if (target) {
+    const dir = relativeDirection(world.player, target.position);
+    if (dir === 'ahead') step = ' Move forward to reach it.';
+    else if (dir === 'behind') step = ' Turn around, then move forward.';
+    else if (dir.startsWith('ahead-')) step = ` Turn slightly ${dir.endsWith('left') ? 'left' : 'right'}, then move forward.`;
+    else if (dir.startsWith('behind-')) step = ` Turn ${dir.endsWith('left') ? 'left' : 'right'} twice, then move forward.`;
+    else step = ` Turn ${dir}, then move forward.`;
+  }
+  return { guidance, text: guidance.text + trend + step };
 }
 
 /**

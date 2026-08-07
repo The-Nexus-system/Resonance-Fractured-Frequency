@@ -730,7 +730,13 @@ export default function ExploreScreen() {
 
   /* ---------------- render ---------------- */
 
-  const nearestView = visibleObjects(world)[0] ?? null;
+  // The "Nearest" readout must agree with Ping/guidance (§3: one nearest,
+  // not two): prefer the nearest DISCOVERED object that still has something
+  // new; fall back to the nearest discovered object of any state.
+  const nearestView = (() => {
+    const views = visibleObjects(world);
+    return views.find((v) => !actionCtx.isDone(v.object.id)) ?? views[0] ?? null;
+  })();
   const earnedCount = Object.keys(rewards.earned).length;
   const records = useMemo(
     () =>
