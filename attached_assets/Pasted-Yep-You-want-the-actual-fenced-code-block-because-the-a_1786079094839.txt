@@ -1,0 +1,32 @@
+Yep. You want the actual fenced code block because the app puts the accessible Copy control on it.
+
+TALIA RUSK — INDIGENOUS CULTURAL CONSULTATION
+1. Who is responsible for arranging the consultation?
+The Nexus System/project team will handle this directly. We are First Nations ourselves and will take responsibility for cultural consultation, research, and determining when additional community-specific expertise is needed.
+Our own Indigenous identity does not mean we automatically claim authority over every Indigenous nation, people, or tradition. If Talia's specific nation/community falls outside our own lived or community knowledge, we will seek appropriate nation/community-specific consultation rather than generalizing from our own experience.
+2. What form will the consultation take?
+Ongoing cultural review throughout development rather than a one-time sensitivity check.
+The Nexus System/project team will review Talia's character documents, cultural development, dialogue, visual representation, family/community relationships, traditions, material culture, historical references, and gameplay implementation.
+Additional community-specific consultation should be sought whenever material goes beyond our own cultural knowledge or authority.
+3. What is the minimum outcome required before her cultural specifics can be written?
+Before culturally specific material becomes locked canon, we must establish and appropriately research Talia's specific nation/community and review:
+- naming
+- family and kinship relationships
+- traditions
+- language where applicable
+- community relationships
+- material culture
+- visual representation
+- historical references
+- dialogue
+- cultural values
+- gameplay representation
+Do not invent unresolved cultural details as placeholders.
+Do not substitute generic "Indigenous culture" for a specific nation's culture.
+Do not assume one Indigenous nation or consultant represents another.
+4. Rough timing?
+Cultural review must occur before the affected material becomes player-facing.
+Talia may appear in beta before every cultural detail is finalized if that beta does not require unresolved cultural specifics.
+Any unresolved cultural material remains intentionally unspecified until reviewed.
+This should not unnecessarily block unrelated beta development.
+STATUS: Consultation ownership question resolved.

@@ -27,6 +27,12 @@ This document tracks decisions that have not yet been made. When a question is r
 - What are the detailed beats of chapters two through seven of Operation Exodus?
 - Which professions are prioritised first for full content, and which ship later?
 
+## Cultural representation
+
+- Resolved: the Talia Rusk Indigenous cultural consultation is owned by the Nexus System/project team (themselves First Nations), as ongoing cultural review throughout development rather than a one-time check, with nation/community-specific consultation sought whenever material exceeds the team's own knowledge or authority. Recorded in the Decision Log and elaborated in the Talia Rusk cultural consultation design note.
+- Which specific nation/community is Talia Rusk from? Her cultural specifics remain intentionally unspecified until established and reviewed under the consultation process. No placeholders may be invented in the meantime.
+- Shawabti musical culture: intentionally withheld; the creator has indicated this material is being prepared and will arrive in a future handoff.
+
 ## Data and privacy
 
 - What is the encryption and privacy model for optional cloud synchronisation?
