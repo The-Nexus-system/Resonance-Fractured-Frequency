@@ -113,3 +113,44 @@ announcement timing, Back Tap/Action Button Shortcut execution, camera
 overlay heading accuracy, expo-gl renderer performance tiers on-device,
 audio latency and mixing under the device audio session, shake detection
 thresholds. Each of these has a web-preview or unit-level verification only.
+
+## ADDENDUM (Aug 2026): Verified native build path exists — Q7/Q9 answers upgraded
+
+The earlier "cannot compile native modules" constraint applies only to THIS
+workspace's runtime, not to the project. Investigation (Replit integrations,
+agent tooling, Replit docs) confirmed:
+
+- **Replit Expo Launch** (the Publish button) builds this exact repo in the
+  cloud via Expo Application Services (EAS) and submits to TestFlight /
+  App Store. Custom Swift Expo Modules and config plugins in the repo ARE
+  compiled into that native build. No Expo/EAS connector or extra
+  integration is needed; no EAS CLI is run from the workspace.
+- Therefore the production native layer can be AUTHORED here and SHIPPED
+  through Expo Launch. It has now been authored:
+  - `modules/resonance-native/` — local Swift Expo Module:
+    - `SpatialAudioEngine.swift` — true 3-D positional audio
+      (AVAudioEngine + AVAudioEnvironmentNode, HRTF rendering, inverse
+      distance model), one looping tone source per semantic object using
+      the canonical tone identities (220/330/440/550 Hz).
+    - `ResonanceARView.swift` — RealityKit + ARKit world-tracking view
+      (`gravityAndHeading` alignment so AR −z = true north = semantic +y),
+      anchoring markers at real semantic coordinates.
+    - Presentation only: the JS semantic engine remains authoritative.
+  - `lib/native/bridge.ts` — pure semantic→native mapping + sync helper.
+  - `app/explore.tsx` — syncs listener pose + sources after every state
+    change when (and only when) the native module is present.
+  - `app.json` — camera/microphone usage descriptions for the AR session.
+- In Expo Go / web preview the module is absent by design
+  (`requireOptionalNativeModule` returns null) and the existing WAV
+  stereo approximation remains the development representation.
+
+**Human steps required to run the native build** (nothing the agent can do):
+1. Apple Developer Program membership (Apple charges ~US$99/yr — a cost,
+   not incurred by the agent).
+2. Click **Publish** in Replit and complete the Expo Launch wizard
+   (sign in with the Apple Developer account; certificates and upload are
+   handled by the wizard) → verify on iPhone via TestFlight.
+
+**Honest status:** the Swift sources are written and architecturally sound
+but have NOT been compiled or run — no macOS/Xcode here and no native build
+has been triggered yet. First EAS build may surface Swift compile fixes.

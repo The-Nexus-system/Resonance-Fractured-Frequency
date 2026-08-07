@@ -14,7 +14,11 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": false
+      "supportsTablet": false,
+      "infoPlist": {
+        "NSCameraUsageDescription": "Resonance uses the camera for the world-space AR view that anchors resonators in your surroundings.",
+        "NSMicrophoneUsageDescription": "Resonance uses the microphone for AR session audio features."
+      }
     },
     "android": {},
     "web": {

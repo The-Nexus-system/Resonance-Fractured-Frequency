@@ -182,6 +182,8 @@ import { CameraLayer } from '@/components/camera-layer';
 import { WorldScene } from '@/components/world3d/world-scene';
 import { sceneState, sceneDescription } from '@/lib/scene/entities';
 import { pingGuidance, prioritizedLookAround, type Guidance } from '@/lib/guidance';
+import { isNativeSpatialAudioAvailable } from '../modules/resonance-native';
+import { syncNativeSpatialAudio } from '@/lib/native/bridge';
 import baseColors from '@/constants/colors';
 
 const CAMPAIGN_ID = 'the-first-fracture';
@@ -343,6 +345,17 @@ export default function ExploreScreen() {
     }),
     [],
   );
+
+  // Native presentation sync (real iOS builds only): mirror the semantic
+  // world into the native HRTF spatial-audio engine after every state
+  // change. No-op in Expo Go / web preview — the module is absent there.
+  useEffect(() => {
+    if (!isNativeSpatialAudioAvailable()) return;
+    syncNativeSpatialAudio(world, actionCtx.isDone).catch((err) => {
+      // Surface loudly (no silent fallback): the JS soundscape still runs.
+      console.error('Native spatial audio sync failed:', err);
+    });
+  });
 
   /* ---------------- movement ---------------- */
 
