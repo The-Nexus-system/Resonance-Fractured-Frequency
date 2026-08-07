@@ -4,6 +4,8 @@ Sources (installed Aug 2026, native tooling preparation pass):
 - `expo-dev-client`, `expo-module`, `expo-native-ui`, `expo-upgrade` — from github.com/expo/skills (official Expo skills).
 - `axiom-accessibility`, `axiom-audit-accessibility`, `axiom-media`, `axiom-graphics`, `axiom-games` — from github.com/charleswiltgen/axiom (iOS/Swift specialist skills: VoiceOver, Core Haptics, AVFoundation, RealityKit/ARKit/USDZ, game controls).
 - `sound-engineer` — from github.com/curiositech/some_claude_skills (audio design/mixing expertise).
+- Second pass additions: `eas-app-stores` (official Expo — TestFlight/App Store submission knowledge; EAS commands still forbidden here), `axiom-concurrency` (Swift 6 concurrency for the native audio/AR module), `axiom-integration` (App Intents, Shortcuts, Action Button, widgets, background tasks).
+- Note: `expo-deployment`, `upgrading-expo`, `building-native-ui`, `expo-cicd-workflows` are NOT distinct skills — they are deprecated marketplace aliases for the whole `expo` plugin. No dedicated Apple PHASE skill exists in any catalogue searched.
 
 ## CRITICAL Replit constraints (these override anything the skills above say)
 - NEVER run EAS CLI or `npx expo` commands. iOS builds/App Store submission go through Replit's **Expo Launch** (the Publish pane). The expo-dev-client and expo-upgrade skills reference EAS CLI workflows — use them as conceptual knowledge only.
