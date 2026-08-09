@@ -1,5 +1,14 @@
 # Operation One: Exodus — Perspective Map
 
+> **Formal amendment (August 2026, Nexus directive).** The shared fixed seam
+> "the player ends Attack Day alone in a separate damaged pod" is amended by
+> `docs/design_notes/first_fracture_episode_one_script.md`: the player's pod
+> now carries six listed survivors, and Faience still first stirs there
+> (unchanged). All other seams stand until the reconciliation pass recorded
+> in the Master Timeline amendment is complete. Where this document
+> conflicts with the episode script on the player's Attack Day, the episode
+> script governs.
+
 The master timeline fixes what happened aboard CSV Hearth and when. The character schedule fixes where every recurring person is while it happens. This document sits alongside both and fixes the third thing: how each of the eight playable professions lives through the identical events in the identical spaces. It is the definitive reference for perspective. Where the timeline is canon over what occurred and the schedule is canon over who is where, this map is canon over how a chosen profession experiences the shared history, and it must never contradict either of the other two.
 
 ## Purpose

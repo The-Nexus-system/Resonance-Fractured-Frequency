@@ -1011,6 +1011,14 @@ Many survivors later choose to become rescuers themselves. Help carries no oblig
 
 The Chain of Rescue is not a formal institution. It is a pattern of behaviour that arose from survival, spread through culture, and became part of what space communities expect of themselves.
 
+## Rescue Is Decentralised
+
+There is no single rescue authority in human space civilisation. Rescue is carried out by whoever is nearest, ablest, and willing, coordinated through culture rather than command.
+
+Two recurring structures support this. Retrieval Networks are loose, overlapping webs of stations, ships, relays, and volunteers who share distress information and coordinate response across a region; membership is by participation, not charter. Second Chance Fleets are ships — often themselves salvaged, rebuilt, or improvised — crewed largely by people who were once rescued and who now patrol, listen, and retrieve; the name honours both the ships and the crews. Neither structure owns rescue. Both exist because the Chain of Rescue needed hands and hulls.
+
+**Why:** the culture's defining strength is people working together rather than institutions working on people; a central rescue agency would contradict that.
+
 ## The First Hand
 
 New arrivals are welcomed by someone responsible not only for professional instruction but for helping them build a life. This person is called the First Hand.
@@ -1018,6 +1026,20 @@ New arrivals are welcomed by someone responsible not only for professional instr
 The First Hand may be a mentor, sponsor, rescuer, elder apprentice, clinician, or professional guide, depending on the circumstances of the arrival. They introduce the person to technical work, shipboard culture, community expectations, accessibility resources, mutual aid practices, and local traditions. The relationship often lasts beyond any formal apprenticeship period.
 
 The First Hand system is documented in the Universe Bible. Characters in Resonance may carry First Hand relationships, and those relationships shape how they understand obligation, belonging, and the responsibility of experience.
+
+## Expertise Lives in Distributed Communities
+
+Deep knowledge in human space civilisation concentrates in communities, not head offices. Particular stations, ships, and settlements become known across the Retrieval Networks for a specialty — trauma medicine, atmospheric engineering, xenolinguistics, prosthetics and interface craft, seed archiving, grief work — because generations of practitioners settled, taught, and stayed there.
+
+A community's specialty is a living tradition: it is taught to arrivals, exchanged with visitors, and carried outward by travellers, in keeping with the principle that knowledge exchange flows in every direction. Travelling to the community known for a specialty is an ordinary and respected act; being received there falls under the Chain of Rescue and the First Hand tradition like any other arrival.
+
+The specific named communities and their specialties are recorded in the Universe Bible as they are established. No community's specialty is invented casually; a specialty implies decades of cultural history that must be documented.
+
+## Station Legacy
+
+Every long-lived station and ship carries a legacy: the recorded and remembered account of who built it, who was rescued into it, what it survived, and what it became known for. Legacy is kept in the community's own voice — in archives, in the fabric of the place (names on bulkheads, repairs left visible, memorial spaces), and in the stories residents tell arrivals.
+
+Legacy is presented to newcomers through people and place, not through briefing documents. This is an application of the cultural genealogy rule to physical communities: where a station's history cannot be fully traced, the gap is recorded honestly rather than filled in.
 
 ## Space Culture Is Alternative Civilisation
 
@@ -1104,6 +1126,14 @@ Human civilisation protects extensive bodily autonomy and distinguishes reversib
 Civilisation does not treat intentionally damaging a healthy spinal cord or comparable irreversible injury as a routine method of identity expression. People who identify strongly with wheelchair or mobility-device use may choose reversible or non-destructive systems that suppress, bypass, or replace walking without intentionally injuring the body.
 
 Medical ethics actively debate enhancement, disability, identity, informed consent, clinician refusal, and long-term consequences. These debates are part of the healthy disagreement that human civilisation sustains.
+
+## AI Companionship Channels Are Chosen at the Body's Own Terms
+
+When a person links with an AI companion or a ship's voice, the standard offer is a choice between two channel classes, honouring the graduated-permanence principle above. A neural interface is worn, external, and fully reversible — removed at will, upgraded freely, felt as equipment. A neural implant is internal and long-term — richer bandwidth and permanence of presence, accepted only after the robust informed-consent and counselling process that long-term modification requires.
+
+Neither choice is treated as braver, purer, or more committed than the other, and the choice may be revisited later under the same ethics. Clinicians present both without steering. The channel a person chooses shapes the texture of the AI relationship — where the voice sits, how private it feels, what it can share — but never the depth of the relationship itself.
+
+**Why:** the interface-versus-implant decision is a first meaningful player choice in campaign play; it must rest on the existing bodily-autonomy canon rather than on a gameplay stat difference.
 
 ## Professional Neutrality
 

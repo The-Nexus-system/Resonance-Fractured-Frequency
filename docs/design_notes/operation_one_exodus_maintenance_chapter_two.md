@@ -1,5 +1,17 @@
 # Operation One: Exodus — Chapter Two: Roll Call
 
+> **Reconciliation note (August 2026, Nexus directive).** The playable
+> episode source of truth is now
+> `docs/design_notes/first_fracture_episode_one_script.md`. It supersedes
+> this chapter's solo escape-pod opening: the player now evacuates WITH a
+> pod of survivors (after a hold-the-row versus run-the-launch branch),
+> Faience still first stirs in the pod (canon preserved), Rowan's corrupted
+> beacon and the physically-reached rescue are preserved as the first
+> pod-link, and the sequence ends with linked pods forming an improvised
+> ship that reaches the medical station. Where the two documents conflict,
+> the episode script wins. This document's original text is retained
+> unchanged below.
+
 ## Purpose
 
 Chapter Two begins immediately where Chapter One ends.

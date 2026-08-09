@@ -1,5 +1,14 @@
 # Operation One: Exodus — Chapter One: A Week Aboard Hearth — Maintenance Perspective
 
+> **Reconciliation note (August 2026, Nexus directive).** The playable
+> episode source of truth is now
+> `docs/design_notes/first_fracture_episode_one_script.md`. It preserves this
+> chapter's week aboard Hearth (Day Seven counting down to Day One) and adds
+> canon that happens BEFORE it: the player travels from Earth, transfers at a
+> lunar waystation, chooses a neural interface or implant, and boards Hearth
+> on the evening of Day Seven. Where the two documents conflict, the episode
+> script wins. This document's original text is retained unchanged below.
+
 ## Purpose
 
 Chapter One defines the first major playable prologue for Resonance: Fractured Frequency.

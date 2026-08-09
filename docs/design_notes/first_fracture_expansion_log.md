@@ -1,5 +1,14 @@
 # First Fracture Expansion Log — Noncanonical Content Register
 
+> **SUPERSEDED (August 2026, Nexus directive).** The demo campaign registered
+> in this file (quiz cards, four resonator puzzle nodes, F/A/C/high-F tones)
+> is no longer the intended First Fracture campaign. The source of truth is
+> now `docs/design_notes/first_fracture_episode_one_script.md` (one-hour
+> episode: lunar-station opening, interface/implant choice, week aboard
+> Hearth, Attack Day branch, pod-linking, medical-station ending, earned
+> F–A–C–E resonance moments, no quiz cards). This register remains as the
+> historical record of the demo builds.
+
 **Purpose.** Nexus directive: every piece of content invented to expand the
 playable slice must be written down here so it can be reviewed, approved,
 promoted, or removed. Nothing in this file is canon unless Nexus promotes it.

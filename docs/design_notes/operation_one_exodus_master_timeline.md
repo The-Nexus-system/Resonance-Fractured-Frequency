@@ -1,5 +1,19 @@
 # Operation One: Exodus — Master Timeline
 
+> **Formal amendment (August 2026, Nexus directive).** The episode script at
+> `docs/design_notes/first_fracture_episode_one_script.md` amends this
+> timeline's Attack Day end state for the PLAYER only: the player now
+> evacuates in a crewed pod with six listed survivors, links pods (Rowan's
+> first) into an improvised ship, and reaches the medical station within
+> Episode One. Everything before Attack Day is unchanged (the week, the
+> anomaly, fronting assignments — Naomi commands the emergency, Iris carries
+> civilian channels). The rule that primary crew scatter in separate pods
+> stands; the reunion of the wider crew across later chapters stands. The
+> character schedule, perspective map, and Chapters Three–Seven require a
+> reconciliation pass under the Knowledge Is Historical rule before their
+> conflicting passages are treated as current; until then, the episode
+> script governs the player's Attack Day and its aftermath.
+
 This document is the single canonical chronology of Operation One: Exodus. It records what happened aboard CSV Hearth during the last week of its ordinary life and the morning it ended. The Campaign Bible defines the shape of the operation, the chapter design notes define how the maintenance perspective lives through it, and the Crew Progression System defines how the survivors change afterward. This document sits beneath all of them as the shared spine of time that every one of those documents assumes is true.
 
 Every campaign references this timeline. Every cinematic references this timeline. Every conversation, flashback, and future operation assumes this timeline is correct. There is only one timeline. There are many perspectives.
