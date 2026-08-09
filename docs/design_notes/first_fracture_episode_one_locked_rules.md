@@ -314,6 +314,45 @@ lecture.
 arcs, and all Episode One scenes. Held for the collaboratively
 written script.
 
+## The Communications specialist: Sanaa al-Khatib (locked profile)
+
+The Communications playable character is **Sanaa al-Khatib** — a
+woman, she/her, from **Concord Relay**, the multimodal communication
+community.
+
+**Disability (preserved as locked above):** severe apraxia of speech
+with fully intact language. AAC is her primary reliable
+communication. Natural speech can occur but is unreliable and
+effortful — and is **never treated as more authentic than AAC**. Her
+speech apraxia does not make her shy or quiet.
+
+**Personality (locked):**
+
+- Fast-minded, observant, precise.
+- Socially playful, with a mischievous streak.
+- Notices ambiguities quickly.
+- Fascinated by how people communicate — across speech, timing,
+  gesture, facial expression, symbols, silence, context, and
+  community shorthand.
+- Excellent under communications pressure: enjoys sorting multiple
+  channels, identifying what matters, routing information, and
+  recognising connections between apparently unrelated messages.
+
+**Her AAC is her voice (locked):** Sanaa's AAC expresses her own
+personality — phrasing, timing, saved expressions, jokes, profanity,
+register changes, and chosen voices. It must **never** be treated as
+Faience speaking through her.
+
+**Character flaw (locked):** impatience with preventably careless
+communication — withheld context, vague references such as "you know
+what I mean", unidentified subjects, and useless emergency-channel
+chatter. She remains fully patient with disability access,
+alternative communication, signing, AAC, and processing needs.
+
+**Still reserved for Sanaa:** additional personal history,
+relationship arcs, and all Episode One scenes. Held for the
+collaboratively written script.
+
 ## The Engineering playable character: disability lock
 
 The Engineering playable character's disability is locked as **spastic
