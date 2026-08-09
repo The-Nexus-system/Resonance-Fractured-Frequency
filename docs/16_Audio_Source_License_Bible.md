@@ -166,8 +166,8 @@ Each entry records ALL of:
 - **Attribution text** if required (verbatim, ready for the credits surface)
 - **Whether modification is allowed** (and any ND-style limits)
 - **Date acquired**
-- **Whether a paid license/subscription was used**, and the
-  **proof/receipt location** for any purchase
+- **Whether a paid license/subscription was used**, the **cost**, and the
+  **proof/receipt or license-snapshot location** for any purchase or grant
 - **Modifications/derived layers** (edits, EQ, layering, renaming)
 - **Where used in Resonance** (identity number(s) from Section 3, client(s))
 - **For ZapSplat:** whether obtained under Basic or Premium terms
@@ -300,3 +300,70 @@ variants for every repeated sound (Section 3's pools).
 
 This policy expands audio sourcing only. It changes no Gate One narrative
 and expands no implementation scope beyond Gate One.
+
+---
+
+## 8. Expanded sourcing research policy (adopted later on 2026-08-09)
+
+This section extends Sections 2 and 7; together they are one policy.
+
+### 8.1 Research posture
+
+Actively check YouTube-related creator resources and other legitimate
+free/reusable sources when selecting audio — but ALWAYS verify the actual
+license for use inside a commercial game rather than assuming a YouTube
+upload is reusable. The candidate pool includes, beyond the Section 2 tiers:
+**Pixabay music/SFX**, **Mixkit** (item license verified per download),
+**itch.io audio packs** whose individual licenses permit commercial game
+use, **public-domain/CC0 field recordings**, **creators who explicitly
+grant commercial game reuse** (with the grant archived), and other
+reputable libraries discovered during research.
+
+### 8.2 YouTube Audio Library — two different jobs
+
+- ON-PLATFORM: the Audio Library is a STRONG source for the project's own
+  YouTube videos, trailers, devlogs, and promotional material, with
+  attribution handled per track.
+- IN-GAME: YouTube does not guarantee off-platform rights. An Audio Library
+  asset goes inside the distributed game ONLY when its underlying license
+  independently permits that use.
+- **Creator Music licenses are NOT game-asset licenses.** Current Creator
+  Music terms are generally tied to particular YouTube long-form videos and
+  are not transferable to other platforms. Never treat one as clearance for
+  the game.
+
+### 8.3 Attribution and money (restated as one rule)
+
+Attribution-required assets are WELCOME — a good free asset is never
+rejected just because it requires credit; the credit goes in the ledger and
+the generated Audio Credits. Paid licenses/subscriptions are allowed
+candidates, but every purchase is FLAGGED to the creator before buying,
+stating exactly what the purchase buys and whether a free/attribution route
+exists.
+
+### 8.4 License-family rules (restated)
+
+- CC-BY-SA / GPL / copyleft: document and comply with the actual
+  obligations; never reject material merely for being open source.
+- NC material: excluded from a commercial release unless separate
+  permission is obtained and archived.
+- ND material: treated cautiously wherever editing, syncing, or embedding
+  would create a derivative use.
+
+### 8.5 Provenance hygiene and acknowledgements
+
+- The game and repository carry NO metadata, generated-by labels,
+  provenance tags, comments, credits, or internal project text suggesting
+  the game was made by any particular AI product.
+- Legitimate third-party asset and license attribution is NEVER erased —
+  this hygiene rule and the attribution rules point in the same direction:
+  credits describe the work truthfully.
+- The eventual human-facing acknowledgements may use the wording/concept
+  "with help on research and design from our Kit" for the assistant's
+  contribution. It is NOT added to player-facing credits until explicitly
+  authorised.
+
+### 8.6 Scope guard
+
+This sourcing research supports Gate One production only. Nothing in this
+section unlocks later gates or changes any narrative content.

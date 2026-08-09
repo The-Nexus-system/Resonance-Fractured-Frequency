@@ -46,12 +46,20 @@ This is a pnpm monorepo. See the workspace layout under `artifacts/` and `lib/`.
 The project is connected to the GitHub repository
 `The-Nexus-system/Resonance-Fractured-Frequency` and the initial project is committed there.
 
-### ChatGPT / external AI access
+### External review access
 
-Because the GitHub repository is the source of truth, ChatGPT (via its GitHub connector,
-Codex, or Deep Research) can inspect and review the code directly from the repo, and can
-propose updates as commits/pull requests. There is no separate first-party "ChatGPT"
-Replit integration; the GitHub repository is the integration surface for external AI review.
+Because the GitHub repository is the source of truth, external review tools the creator
+authorises can inspect the code directly from the repo and propose updates as
+commits/pull requests. The GitHub repository is the integration surface for external review.
+
+### Acknowledgement policy
+
+The project must carry no metadata, generated-by labels, provenance tags, comments,
+credits, or internal text suggesting the game was made by any particular AI product.
+Legitimate third-party asset/license attribution is never removed. The eventual
+human-facing acknowledgements may use the wording/concept "with help on research and
+design from our Kit" for the assistant's contribution — do not add it to player-facing
+credits until explicitly authorised.
 
 ## User preferences
 

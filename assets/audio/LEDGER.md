@@ -21,7 +21,9 @@ License texts for attribution/copyleft sources live in
 - Modification allowed: yes | yes-with-share-alike | no (ND)
 - Date acquired:
 - Paid license/subscription used: no | yes (<which>)
-- Proof/receipt location:
+- Cost:
+- Proof/receipt or license-snapshot location:
+- Commercial/off-platform game use permitted: yes | yes-with-credit | no
 - ZapSplat tier (if applicable): Basic | Premium
 - Modifications/derived layers:
 - Used in Resonance: identity #<n> (docs/16 §3), client(s): web | iOS | both
