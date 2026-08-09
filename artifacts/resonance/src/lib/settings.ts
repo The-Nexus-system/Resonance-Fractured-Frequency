@@ -27,9 +27,30 @@ export type CampaignProgress = {
   completed: boolean;
 };
 
+export type GateOneProgress = {
+  characterId: string | null;
+  x: number;
+  y: number;
+  heading: number;
+  hatchOpen: boolean;
+  firedEvents: string[];
+  complete: boolean;
+};
+
+export const defaultGateOne: GateOneProgress = {
+  characterId: null,
+  x: 0,
+  y: 2,
+  heading: 0,
+  hatchOpen: false,
+  firedEvents: [],
+  complete: false,
+};
+
 export type GameSave = {
   settings: GameSettings;
   progress: Record<string, CampaignProgress>;
+  gateOne?: GateOneProgress;
 };
 
 const SAVE_KEY = "resonance_save_v1";
@@ -75,7 +96,26 @@ function sanitizeSave(raw: unknown): GameSave {
     }
   }
 
-  return { settings, progress };
+  // Sanitize Gate One progress.
+  let gateOne: GateOneProgress | undefined;
+  if (obj.gateOne && typeof obj.gateOne === "object") {
+    const g = obj.gateOne as Partial<GateOneProgress>;
+    const num = (v: unknown, fallback: number) =>
+      typeof v === "number" && Number.isFinite(v) ? v : fallback;
+    gateOne = {
+      characterId: typeof g.characterId === "string" ? g.characterId : null,
+      x: num(g.x, defaultGateOne.x),
+      y: num(g.y, defaultGateOne.y),
+      heading: num(g.heading, defaultGateOne.heading),
+      hatchOpen: g.hatchOpen === true,
+      firedEvents: Array.isArray(g.firedEvents)
+        ? g.firedEvents.filter((e): e is string => typeof e === "string")
+        : [],
+      complete: g.complete === true,
+    };
+  }
+
+  return { settings, progress, gateOne };
 }
 
 export function loadSave(): GameSave {

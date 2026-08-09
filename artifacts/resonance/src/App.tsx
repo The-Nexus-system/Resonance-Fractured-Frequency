@@ -7,8 +7,8 @@ import { A11yProvider } from "@/components/a11y-provider";
 
 import NotFound from "@/pages/not-found";
 import Home from "@/pages/home";
-import Campaigns from "@/pages/campaigns";
-import Play from "@/pages/play";
+import CharacterSelect from "@/pages/character-select";
+import DayOne from "@/pages/day-one";
 import Settings from "@/pages/settings";
 import About from "@/pages/about";
 
@@ -59,8 +59,8 @@ function Router() {
   return (
     <Switch>
       <Route path="/" component={Home} />
-      <Route path="/campaigns" component={Campaigns} />
-      <Route path="/play/:campaignId" component={Play} />
+      <Route path="/characters" component={CharacterSelect} />
+      <Route path="/day-one" component={DayOne} />
       <Route path="/settings" component={Settings} />
       <Route path="/about" component={About} />
       <Route component={NotFound} />

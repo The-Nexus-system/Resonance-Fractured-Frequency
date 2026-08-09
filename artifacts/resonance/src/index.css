@@ -218,3 +218,9 @@ html.text-size-xl {
     @apply font-sans antialiased bg-background text-foreground transition-colors duration-300;
   }
 }
+
+/* Gate One touch movement controls */
+.ctl {
+  @apply flex h-14 w-14 select-none items-center justify-center rounded-lg border border-border bg-card text-2xl font-bold hover:border-primary focus-visible:ring-2 focus-visible:ring-ring;
+  touch-action: none;
+}

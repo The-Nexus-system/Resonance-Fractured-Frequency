@@ -1,23 +1,18 @@
 import { Link } from "wouter";
 import { useA11y } from "@/components/a11y-provider";
 import { loadSave } from "@/lib/settings";
-import { campaigns } from "@/lib/campaigns";
 import { Button } from "@/components/ui/button";
-import { Play, List, Settings, Info } from "lucide-react";
+import { Play, Users, Settings, Info } from "lucide-react";
 import { useEffect, useState } from "react";
 
 export default function Home() {
   const { announce } = useA11y();
-  const [hasProgress, setHasProgress] = useState(false);
-  const [firstCampaignId, setFirstCampaignId] = useState("the-first-fracture");
+  const [hasDayOne, setHasDayOne] = useState(false);
 
   useEffect(() => {
     announce("Main Menu. Resonance Fractured Frequency.");
     const save = loadSave();
-    const progresses = Object.values(save.progress);
-    if (progresses.some(p => p.currentNodeIndex > 0 || p.completed)) {
-      setHasProgress(true);
-    }
+    setHasDayOne(Boolean(save.gateOne?.characterId));
   }, [announce]);
 
   return (
@@ -27,32 +22,30 @@ export default function Home() {
           Resonance
           <span className="block text-2xl text-foreground font-light mt-2">Fractured Frequency</span>
         </h1>
-        <p className="text-muted-foreground">A gentle journey of alignment.</p>
+        <p className="text-muted-foreground">Day One. The CSV Hearth is waiting.</p>
       </header>
 
       <nav className="flex flex-col gap-4 w-full" aria-label="Main menu">
-        {hasProgress && (
+        {hasDayOne ? (
           <Button asChild size="lg" className="w-full text-lg h-14 flex items-center gap-3">
-            <Link href="/campaigns">
+            <Link href="/day-one" data-testid="link-continue-day-one">
               <Play className="w-6 h-6" aria-hidden="true" />
-              Continue Journey
+              Continue Day One
             </Link>
           </Button>
-        )}
-        
-        {!hasProgress && (
+        ) : (
           <Button asChild size="lg" className="w-full text-lg h-14 flex items-center gap-3">
-            <Link href={`/play/${firstCampaignId}`}>
+            <Link href="/characters" data-testid="link-begin-day-one">
               <Play className="w-6 h-6" aria-hidden="true" />
-              New Game
+              Begin Day One
             </Link>
           </Button>
         )}
 
         <Button asChild variant="secondary" size="lg" className="w-full text-lg h-14 flex items-center gap-3">
-          <Link href="/campaigns">
-            <List className="w-6 h-6" aria-hidden="true" />
-            Campaigns
+          <Link href="/characters" data-testid="link-characters">
+            <Users className="w-6 h-6" aria-hidden="true" />
+            Crew
           </Link>
         </Button>
 
