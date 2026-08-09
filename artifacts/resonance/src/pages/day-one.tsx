@@ -5,6 +5,7 @@ import { GateOneEngine, type Caption, type EngineSnapshot } from "@/lib/gateone/
 import { getCharacter } from "@/lib/gateone/characters";
 import { WALKABLE, PLACES, zoneAt } from "@/lib/gateone/world";
 import { loadSave, saveGame, defaultGateOne } from "@/lib/settings";
+import { GateOneScene, supportsWebGL } from "@/components/gateone-scene";
 
 /**
  * Day One — Gate One: Earth transport → lunar concourse → Hearth reveal →
@@ -29,6 +30,9 @@ export default function DayOne() {
   const [complete, setComplete] = useState(save.gateOne?.complete === true);
   const engineRef = useRef<GateOneEngine | null>(null);
   const canvasRef = useRef<HTMLCanvasElement | null>(null);
+  // First-person 3D when WebGL exists; otherwise the 2D map + captions carry
+  // the same information (the preview sandbox has no WebGL — expected).
+  const [webgl] = useState(() => supportsWebGL());
   const captionsRef = useRef<HTMLOListElement | null>(null);
   const lastSaveRef = useRef(0);
 
@@ -270,7 +274,18 @@ export default function DayOne() {
       {started && !complete && (
         <div className="mt-4 grid flex-1 gap-4 lg:grid-cols-[1fr_minmax(280px,380px)]">
           <section aria-label="World view" className="flex flex-col gap-3">
-            <div className="rounded-xl border border-border bg-card p-2">
+            {webgl && snap && (
+              <div
+                className="overflow-hidden rounded-xl border border-border bg-card"
+                style={{ aspectRatio: "16 / 10" }}
+                role="img"
+                aria-label={`First-person view. You are in the ${snap.zoneName}.`}
+                data-testid="scene-world"
+              >
+                <GateOneScene snap={snap} />
+              </div>
+            )}
+            <div className={webgl ? "rounded-xl border border-border bg-card p-2 lg:max-w-xs" : "rounded-xl border border-border bg-card p-2"}>
               <canvas
                 ref={canvasRef}
                 width={640}
