@@ -9,6 +9,37 @@ by the creator, and no one may rewrite or implement the script ahead of it.
 
 ---
 
+## The locked opening sequence (Nexus/Kit, 9 August 2026)
+
+Episode One opens exactly as follows, and design/script work must not alter
+this order:
+
+1. **Earth-to-Moon transport.** The player begins aboard the transport,
+   guided at first by the **comm-badge system itself** — a system voice, not
+   a character.
+2. **Lunar transfer and boarding.** The badge system carries the player
+   through the lunar transfer and onto the Hearth. No mentor character
+   meets them.
+3. **Medical intake aboard the Hearth.** After boarding, the player goes to
+   Medical as part of intake and makes the **first major player choice**:
+   the non-invasive neural interface or the implant.
+4. **Meeting Faience.** That choice is where the player **meets Faience for
+   the first time.** From that point onward, Faience is the continuing
+   authored AI companion and guidance presence for Episode One.
+
+**There is no First Hand character guiding the player in Episode One.** The
+First Hand tradition remains canon culture (Canon Rules), but Episode One
+assigns the player no First Hand; guidance is the comm-badge system first,
+then Faience. This supersedes the reference script's lunar-clinic choice
+scene and its First Hand character (Brother-Sister Wren in that role).
+
+The **F** resonance remains tied to this initial beat — boarding, the
+interface-or-implant choice at Medical intake, and the first connection
+with Faience — consistent with the trigger below.
+
+The full Episode One script is forthcoming from Nexus/Kit. Do not write,
+rewrite, or implement Episode One script content ahead of it.
+
 ## The four resonance triggers (locked)
 
 Resonance notes are earned at these moments and no others. Each is a short

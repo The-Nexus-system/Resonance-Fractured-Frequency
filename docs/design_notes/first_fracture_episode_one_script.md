@@ -15,6 +15,15 @@
 > no cards or summary screens. This script's scene material otherwise stands
 > as reference until the creator-approved revised script is supplied; do not
 > rewrite or implement ahead of it.
+>
+> **Opening-sequence amendment (9 August 2026):** the locked rules also
+> supersede this script's opening. There is NO First Hand character in
+> Episode One (Wren's First Hand role here is void); the comm-badge system
+> guides the player from the Earth–Moon transport through lunar transfer
+> and boarding; the interface/implant choice happens at MEDICAL INTAKE
+> ABOARD THE HEARTH (not at a lunar clinic), and that choice is where the
+> player first meets Faience, who is the authored companion from then on.
+> The full script is forthcoming from Nexus/Kit.
 
 **Original status note:**
 This script supersedes the escape-pod-first opening described in the Chapter Two
