@@ -241,9 +241,42 @@ canon lineage. All disability canon locked above is preserved
 unchanged.
 
 **Still reserved for deliberate creation:** personal names, genders,
-full profiles, Episode One scenes, and all gameplay implementation.
-Held for the collaboratively written Episode One script and the
-deliberate six-character build.
+full profiles, Episode One scenes, and all gameplay implementation —
+except where a character's profile is locked below. Held for the
+collaboratively written Episode One script and the deliberate
+six-character build.
+
+## The Medic: Nia Viaraxen (locked profile)
+
+The Medical playable character is **Nia Viaraxen** — nonbinary,
+they/them, Deaf, from **Aster Vale Station**, the trauma-medicine
+community.
+
+**The name Nia (locked reason):** the given name is kept because
+N-I-A is especially appealing in how it looks and feels when
+fingerspelled. This is a subtle cultural and character detail —
+something the world can carry quietly — never exposition.
+
+**Personality (locked):**
+
+- Warm with patients; dry with colleagues.
+- Hard to rattle.
+- Attentive without being intrusive — the kind of person who
+  notices when someone has not eaten or is pushing too hard.
+- Does not romanticise rescue. Their Aster Vale upbringing treats
+  surviving the emergency and living afterward as equally important
+  parts of care.
+- Careful about informed consent for invasive procedures.
+- Can use humour once tension breaks — not before.
+
+**Deafness:** part of how Nia inhabits the world, not their whole
+personality. The already-locked multimodal communication and access
+architecture for the Medical role (sign, text, visual, and haptic
+channels integrated into how the ship works) is preserved unchanged.
+
+**Still reserved for Nia:** additional personal history, relationship
+arcs, and all Episode One scenes. Held for the collaboratively
+written script.
 
 ## The Engineering playable character: disability lock
 
