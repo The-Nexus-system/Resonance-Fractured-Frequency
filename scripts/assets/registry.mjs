@@ -13,6 +13,7 @@ import { fileURLToPath } from "node:url";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..", "..");
 const REGISTRY = join(ROOT, "assets", "REGISTRY.json");
+const CATALOG = join(ROOT, "assets", "CATALOG.json");
 
 const TYPES = ["sfx", "music", "voice", "graphic", "texture", "model3d", "animation", "font", "video", "other"];
 const ID_RE = /^RSN-(SFX|MUS|VOX|GFX|TEX|MDL|ANM|FNT|VID|OTH)-\d{3,}$/;
@@ -25,6 +26,10 @@ const REQUIRED = [
 
 function load() {
   return JSON.parse(readFileSync(REGISTRY, "utf8"));
+}
+
+function loadCatalog() {
+  return JSON.parse(readFileSync(CATALOG, "utf8"));
 }
 
 function validate() {
@@ -43,6 +48,26 @@ function validate() {
     if (/-nc\b|noncommercial/i.test(a.license || "") && !/permission/i.test(a.notes || "")) errors.push(`${label}: NC license without recorded separate permission in notes`);
     if (a.fracturedFlowOriginal !== true && !a.sourceUrl && !a.reacquisition) errors.push(`${label}: third-party asset needs sourceUrl or reacquisition pointer`);
     for (const df of a.derivedFiles || []) if (!existsSync(join(ROOT, df))) errors.push(`${label}: derived file not found in repo: ${df}`);
+  }
+  // Catalog checks + registry->catalog references
+  const cat = loadCatalog();
+  const CAT_ID_RE = /^SRC-(AUD|GFX)-\d{3,}$/;
+  const CAT_STATUS = ["approved", "approved-per-file", "reference-only", "needs-license-check"];
+  const catIds = new Set();
+  for (const s of cat.sources) {
+    const label = s.id || s.name || "(unnamed source)";
+    if (!s.id || !CAT_ID_RE.test(s.id)) errors.push(`catalog ${label}: id does not match SRC-<AUD|GFX>-<NNN>`);
+    if (s.id && catIds.has(s.id)) errors.push(`catalog ${label}: duplicate id`);
+    if (s.id) catIds.add(s.id);
+    if (!CAT_STATUS.includes(s.status)) errors.push(`catalog ${label}: unknown status "${s.status}"`);
+    for (const f of ["name", "creator", "location", "license", "preferredUse"]) if (!s[f]) errors.push(`catalog ${label}: missing "${f}"`);
+  }
+  for (const a of reg.assets) {
+    if (a.sourcePackId && !catIds.has(a.sourcePackId)) errors.push(`${a.id}: sourcePackId "${a.sourcePackId}" not found in CATALOG.json`);
+    if (a.sourcePackId) {
+      const s = cat.sources.find((x) => x.id === a.sourcePackId);
+      if (s && s.status === "reference-only") errors.push(`${a.id}: source ${s.id} is reference-only — a verified per-file license must flip it to approved-per-file before import`);
+    }
   }
   if (errors.length) {
     console.error(`REGISTRY INVALID — ${errors.length} problem(s):`);
@@ -97,7 +122,39 @@ function credits() {
   }
 }
 
+function catalogMd() {
+  const cat = loadCatalog();
+  const groups = [
+    ["audio", "Audio / Music / Voice sources"],
+    ["graphics", "Graphics / 3D / Textures / Fonts / Animation sources"],
+  ];
+  const md = ["# Resonance Source & Pack Catalog", "", "GENERATED from `assets/CATALOG.json` — do not edit by hand.", ""];
+  for (const [key, title] of groups) {
+    md.push(`## ${title}`, "");
+    for (const s of cat.sources.filter((x) => x.category === key)) {
+      md.push(`### ${s.id} — ${s.name}`);
+      md.push(`- **Status:** ${s.status}`);
+      md.push(`- **Creator/Publisher:** ${s.creator}`);
+      md.push(`- **Location/Reacquisition:** ${s.location}`);
+      md.push(`- **License:** ${s.license}`);
+      md.push(`- **Commercial use:** ${s.commercialUse ? "yes" : "not without further verification"}`);
+      md.push(`- **Attribution:** ${s.attribution}`);
+      md.push(`- **Modification/Redistribution:** ${s.modificationRedistribution}`);
+      md.push(`- **Whole pack approved:** ${s.wholePackApproved ? "yes" : "no — per-file/per-pack verification required"}`);
+      md.push(`- **Purchase/Subscription:** ${s.purchase}`);
+      md.push(`- **Preferred use in Resonance:** ${s.preferredUse}`);
+      if (s.notes) md.push(`- **Notes:** ${s.notes}`);
+      md.push("");
+    }
+  }
+  const out = join(ROOT, "assets", "generated", "CATALOG.md");
+  mkdirSync(dirname(out), { recursive: true });
+  writeFileSync(out, md.join("\n") + "\n");
+  console.log("wrote assets/generated/CATALOG.md");
+}
+
 const cmd = process.argv[2];
 if (cmd === "validate") validate();
 else if (cmd === "credits") { validate(); credits(); }
-else { console.error("usage: node scripts/assets/registry.mjs <validate|credits>"); process.exit(2); }
+else if (cmd === "catalog") { validate(); catalogMd(); }
+else { console.error("usage: node scripts/assets/registry.mjs <validate|credits|catalog>"); process.exit(2); }

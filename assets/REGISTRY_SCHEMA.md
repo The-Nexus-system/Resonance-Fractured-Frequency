@@ -17,6 +17,10 @@ Governing policy: `docs/16_Audio_Source_License_Bible.md` (protected).
   copies of the player-facing credits data, GENERATED.
 - `assets/audio/licenses/` — verbatim license texts, receipts, permission
   evidence, license-page snapshots. Referenced by entries.
+- `assets/CATALOG.json` — reusable PACK/SOURCE catalog (research record of
+  approved/reference sources so nobody re-researches the same libraries);
+  human-readable twin generated at `assets/generated/CATALOG.md` via
+  `node scripts/assets/registry.mjs catalog`.
 - `assets/audio/LEDGER.md` — historical audio ledger, now a pointer into
   this registry (kept for continuity; no longer a parallel source of truth).
 
@@ -32,6 +36,7 @@ Required fields (use `null` only where marked optional):
 | `originalFilename` | Filename as published by the source. |
 | `creator` | Creator/artist as published, or `"Fractured Flow"` for original work. |
 | `sourceLibrary` | Library/pack name (e.g. "SONNISS GameAudioGDC 2026", "Kenney Sci-Fi Sounds"), or `"original"`. |
+| `sourcePackId` | Optional: the `SRC-*` catalog id in `assets/CATALOG.json` this asset came from (e.g. `SRC-AUD-001`). The validator rejects unknown ids and imports from `reference-only` sources. |
 | `sourceUrl` | Exact URL or durable source identifier; `null` if none exists (optional). |
 | `license` | Exact license name/version (e.g. `CC0-1.0`, `CC-BY-4.0`, `SONNISS Royalty-Free`, `ZapSplat Standard (Basic)`). |
 | `commercialUse` | `true`/`false` — commercial use permitted for this project. Must be `true` to ship. |

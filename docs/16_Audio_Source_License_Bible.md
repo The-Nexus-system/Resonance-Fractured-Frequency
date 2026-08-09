@@ -436,3 +436,34 @@ commit only approved game-ready derivatives/masters. Every rule of this
 Bible (Sections 1–9) applies unchanged; where Section 4 says "ledger", read
 "registry". This is repository infrastructure only and does not alter
 narrative or gameplay scope.
+
+---
+
+## 11. Source & Pack Catalog (adopted later on 2026-08-09)
+
+The repository stores reusable PACK/SOURCE CATALOGS in addition to
+individual asset records, so future builders never re-research the same
+libraries:
+
+- Machine-readable: `assets/CATALOG.json` (stable `SRC-AUD-*` / `SRC-GFX-*`
+  ids; statuses approved / approved-per-file / reference-only /
+  needs-license-check).
+- Human-readable: `assets/generated/CATALOG.md`, GENERATED via
+  `node scripts/assets/registry.mjs catalog`.
+- Integration: registry entries reference their source via `sourcePackId`;
+  the validator rejects unknown ids and blocks imports from reference-only
+  sources until a verified license flips them.
+
+The catalog is seeded with every source already researched or approved in
+this Bible (Sections 2, 7, 8): SONNISS, Kenney audio, the OpenGameArt
+mirror, OwlishMedia, rubberduck, the OGA SoundFX collection, Freesound,
+ZapSplat, Pixabay, Mixkit, Free Music Archive, Incompetech, itch.io audio
+packs, CC-Sounds/CDDA, Miriani-Next (reference-only), Fractured Flow
+originals (including Suno generations under a qualifying commercial
+subscription), and YouTube Audio Library/Creator Music (reference-only for
+in-game use) — plus a graphics section: Kenney graphics, Poly Haven,
+ambientCG, Quaternius, OpenGameArt graphics, itch.io art packs, and
+OFL/Apache fonts. Raw source packs are not committed by default; small
+packs may be mirrored only when their license permits redistribution and it
+is technically reasonable. All crediting, hygiene, and scope rules of
+Sections 1–10 apply unchanged.
