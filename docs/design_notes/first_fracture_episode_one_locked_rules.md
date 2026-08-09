@@ -467,6 +467,43 @@ With this lock, all six playable characters are named: Nia Viaraxen
 (Communications), Ilyan Ibarra (Navigation), Mara Venn (Counselor),
 and Quillaan Folren (General Apprentice / Acting Ensign).
 
+## The six-player rank structure (locked)
+
+The six playable characters carry a recognisable naval-style rank
+ladder as a **separate field from each character's functional working
+title**. Rank fills the "rank" field the smart name tape and digital
+identity badge already carry in canon; the working title remains each
+character's professional identity. This adds no promotion track, XP,
+or levelling mechanic — deliberate crew-progression canon stands.
+
+**Boundaries (locked):**
+
+- No Commander ranks are introduced.
+- Captain remains unique to the Vale System, absolutely.
+
+**Ranks (locked):**
+
+| Character | Rank | Track |
+| --- | --- | --- |
+| Mara Venn | Lieutenant Commander | Commissioned |
+| Nia Viaraxen | Lieutenant | Commissioned |
+| Sanaa al-Khatib | Lieutenant Junior Grade | Commissioned |
+| Kesh Rennik | Ensign | Commissioned |
+| Ilyan Ibarra | Senior Chief Petty Officer | Non-commissioned |
+| Quillaan Folren | Cadet | Trainee |
+
+**Ilyan's built-in tension (locked):** Senior Chief Petty Officer is
+a high-seniority NCO role with deep practical authority — yet
+commissioned officers can still formally override Ilyan in some
+situations. This is part of Ilyan's character and story tension:
+expertise and formal authority are not always located in the same
+person.
+
+All existing character, disability, gender, cultural, and Episode One
+canon is preserved unchanged; functional working titles remain
+separate and are assigned in each character's own department
+vocabulary.
+
 ## The Engineering playable character: disability lock
 
 The Engineering playable character's disability is locked as **spastic
