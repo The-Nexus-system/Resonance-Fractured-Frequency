@@ -181,5 +181,129 @@ Faience says the department check-in is in 37 minutes, later 31. If the
 player leaves, she mentions the café between here and the assignment — as
 information, not an activity menu.
 
-**End of Part 1. Part 2 pending — do not invent it. Do not implement beyond
-Gate One.**
+**End of Part 1.**
+
+## PART 2 OF 2 — Creator-supplied narrative canon (stored 9 August 2026)
+
+Authoritative future canon. **DO NOT IMPLEMENT any of Part 2; Gate One
+remains the only authorized build scope.** Text and intent preserved.
+
+### Café
+
+An optional physical destination, busy; at least two other members of the
+core six may be present depending on role and pathing; skipped introductions
+occur naturally elsewhere later.
+
+Example, Kesh's perspective: Nia tells someone coffee does not count as
+breakfast; crew says calories; Nia says barely. Faience privately identifies
+Nia Viaraxen, Medical Response Officer, Aster Vale Station. The player
+notices Nia signing; Faience explains Nia is Deaf and the interface
+translates relevant nearby speech and environmental information across
+visual, tactile, and semantic channels — no need to shout. Kesh says he
+wasn't planning to; Faience says people do. Nia realises the AI is
+explaining them, signs/voices "Is your AI explaining me?" Kesh: a little.
+Nia: tell her to make me taller. Faience: denied. If Sanaa is present, AAC:
+"SHE DENIED BRIGGS TOO." Nia signs good. Faience identifies Sanaa
+al-Khatib, Communications Coordination Officer, Concord Relay; primary
+communication AAC due to severe apraxia of speech; language unaffected.
+Sanaa AAC: "AND SHE ALSO GIVES BIOGRAPHIES WITHOUT PERMISSION." Faience:
+"I provide context." Sanaa: "GOSSIP WITH METADATA." No disability lecture
+or profile card.
+
+### Department check-in (differs by role)
+
+- Nia reviews treatment protocols and emergency supplies, assists a routine
+  patient transfer, notices the storage logic differs from Aster Vale.
+- Kesh learns Hearth engineering conventions, inspects a maintenance
+  subsystem, discovers different connector standards.
+- Sanaa joins comm traffic, learns channel conventions, routes departures,
+  discovers a badly organised archive.
+- Ilyan takes a supervised navigation watch, builds a Hearth handling model,
+  works orientation differences, notices asymmetric lateral-thrust response.
+- Mara reviews counselling availability, staff, a routine support handoff,
+  learns the informal quiet spaces.
+- Quillaan is sent to Operations because nobody knows which department owns
+  him today; three errands, the third caused by the first two; Medical to
+  Engineering to Operations; Operations asks why a Medical requisition;
+  Quillaan: "I don't know anymore." Faience: "I do." Quillaan: "Don't ruin
+  this for me."
+
+Work is deliberately ordinary; no crisis.
+
+### Captain check-in
+
+Faience says it begins in 12 minutes. The player asks which captain;
+Faience: "The Captain." If needed she explains the office is held by the
+Vale System: one captaincy, shared body, multiple members may front. The
+other five core characters attend; Jonah stands because he is busy. Elian
+fronts today.
+
+Elian: "All right. Six people. Six departments. One ship." Jonah: five
+departments and whatever we're calling Folren. Quillaan: "Educational
+infrastructure." Jonah: "No." Elian says they've been told the Hearth is
+unusual. Sanaa AAC: "BY WHO?" Elian: "Fair." Elian says what matters:
+people aboard know things you don't; some outrank you, some don't, some are
+twelve, some are eighty, some are machines; if you need what they know,
+ask. Says if Briggs says something is missing — Jonah: "It is." Elian says
+learn the ship by living here, not memorising the deck plan: eat, work, get
+lost, ask somebody, find your way back, do it tomorrow. Jonah: preferably
+be on time. Elian: Briggs believes punctuality is a moral virtue. Jonah:
+because it is. Mara: "I'm going to enjoy this ship." Elian: "Welcome to the
+Hearth." Short; no lore dump.
+
+### After shift
+
+The ship physically opens again. Faience provides context, not activity
+cards: dinner has begun, recreation on Deck Five, relevant NPC
+destinations. NPCs continue independent schedules. Dinner can be alone, in
+a group, late, or elsewhere.
+
+Core banter: Nia asks if Kesh's newly acquired tool is his; Kesh:
+"Currently." Sanaa AAC: "THAT MEANS NO." Kesh: ownership is
+philosophically complicated. Mara: it has a serial number. Kesh: very
+judgmental table. Quillaan arrives tired without drama, conserves posture
+and energy. If needed, Faience identifies the Living Library cadet with
+myalgic encephalomyelitis / chronic fatigue syndrome; exertion can worsen
+symptoms beyond ordinary tiredness. Quillaan asks if she gave the long
+version; says he usually just says chronic fatigue unless trying to make
+someone regret asking; changes the subject: "Did Kesh steal that?" Kesh:
+no. Sanaa: yes.
+
+### Evening
+
+The player chooses through movement: recreation, observation, an
+Engineering project, quiet conversation, an unfamiliar deck, quarters.
+Mara may help with a small conflict without therapy-scene framing; Ilyan a
+tactile navigation puzzle; Sanaa collects absurd old comm-log
+mistranslations; Nia refuses off-duty medical talk; Kesh may be in
+Engineering; Quillaan may rest. On an unfamiliar route Faience says the
+player is moving away from quarters, later may mention an observation
+gallery ahead — never a wrong-way warning.
+
+### Late night and Day One's end
+
+Morning assignment 0700. Faience says seven hours of sleep, later six;
+eventually: "I have learned something about you." Asked what: "You respond
+poorly to arithmetic when it concerns bedtime." Character replies: Nia
+"Correct"; Kesh "I'm busy"; Sanaa AAC "RUDE"; Ilyan "Noted"; Mara "You've
+known me one day"; Quillaan "You learn fast."
+
+In quarters the player asks if Faience is always on. Faience: if you want;
+she can reduce presence while sleeping. Player: but you're still there.
+Faience: yes. Ship hum. She lowers presence: "Good night." Day One ends.
+
+### Part 2 protections
+
+- Where draft wording conflicts, the latest locked ranks and titles govern:
+  Ilyan is Senior Chief Petty Officer, with the expertise/formal-authority
+  tension protected; Quillaan is the youngest and a Cadet.
+- Faience is the player's individual, personal AI. She may connect to
+  authorized ship systems; she is never the ship computer.
+- The Farpoint blind-majority, nonvisual gender culture and Ilyan's
+  genderfluid state are preserved; all six established disabilities and
+  representations stand; the Production Control Specification and Episode
+  Macro Spine remain in force.
+
+**This completes the protected Day One narrative reference. Gate One only
+remains buildable, from Part 1; Medical and all Part 2 content stay
+documentation until explicitly authorized.**
