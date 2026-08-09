@@ -62,6 +62,10 @@ export function toNativeAudioSources(
 // (AVAudioEngine source bookkeeping is not re-entrant).
 let lastSignature = '';
 let syncChain: Promise<void> = Promise.resolve();
+/** IDs currently live on the native side, so zone-filtered sets can prune. */
+let liveSourceIds = new Set<string>();
+/** Bumped on stop: queued syncs from an older generation become no-ops. */
+let generation = 0;
 
 function signatureOf(world: SpatialWorld, sources: NativeAudioSource[]): string {
   const { position, headingDeg } = world.player;
@@ -83,9 +87,13 @@ export async function syncNativeSpatialAudio(
   if (signature === lastSignature) return true;
   lastSignature = signature;
   const { position, headingDeg } = world.player;
+  const gen = generation;
   syncChain = syncChain.then(async () => {
+    if (gen !== generation) return; // stopped after this sync was queued
     await native.setListenerPose(position.x, position.y, position.z, headingDeg);
+    const nextIds = new Set<string>();
     for (const source of sources) {
+      nextIds.add(source.id);
       await native.upsertAudioSource(
         source.id,
         source.x,
@@ -95,6 +103,11 @@ export async function syncNativeSpatialAudio(
         source.resolved,
       );
     }
+    // Prune sources no longer present (e.g. the previous zone's ambience).
+    for (const id of liveSourceIds) {
+      if (!nextIds.has(id)) await native.removeAudioSource(id);
+    }
+    liveSourceIds = nextIds;
   });
   await syncChain;
   return true;
@@ -103,6 +116,14 @@ export async function syncNativeSpatialAudio(
 /** Stop the native engine (unmount/sound-off). Safe no-op elsewhere. */
 export async function stopNativeSpatialAudio(): Promise<void> {
   if (!isNativeSpatialAudioAvailable() || !ResonanceNative) return;
+  const native = ResonanceNative;
   lastSignature = '';
-  await ResonanceNative.stopSpatialAudio();
+  generation += 1; // invalidate any queued syncs
+  // Serialize behind pending syncs so a queued upsert can never land after
+  // (and undo) the stop.
+  syncChain = syncChain.then(async () => {
+    liveSourceIds = new Set();
+    await native.stopSpatialAudio();
+  });
+  await syncChain;
 }

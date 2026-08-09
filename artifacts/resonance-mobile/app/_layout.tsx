@@ -24,8 +24,8 @@ function RootLayoutNav() {
   return (
     <Stack screenOptions={{ headerShown: false }}>
       <Stack.Screen name="index" />
-      <Stack.Screen name="campaigns" />
-      <Stack.Screen name="play/[campaignId]" />
+      <Stack.Screen name="characters" />
+      <Stack.Screen name="day-one" />
       <Stack.Screen name="spatial" />
       <Stack.Screen name="explore" />
       <Stack.Screen name="settings" />

@@ -26,6 +26,7 @@ import { createAudioPlayer, type AudioPlayer } from 'expo-audio';
 import baseColors from '@/constants/colors';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import {
+  defaultGateOne,
   defaultSettings,
   emptyExploreState,
   loadSave,
@@ -34,6 +35,7 @@ import {
   type ExploreState,
   type GameSave,
   type GameSettings,
+  type GateOneProgress,
 } from '@/lib/save';
 import { toneUri } from '@/lib/tones';
 import {
@@ -57,6 +59,8 @@ type GameContextValue = {
   updateProgress: (campaignId: string, currentNodeIndex: number, completed: boolean) => void;
   explore: Record<string, ExploreState>;
   updateExplore: (campaignId: string, patch: Partial<ExploreState>) => void;
+  gateOne: GateOneProgress;
+  updateGateOne: (patch: Partial<GateOneProgress>) => void;
   rewards: RewardState;
   /** Grants a reward once (duplicate-protected). Returns true when newly earned. */
   grantReward: (rewardId: string) => boolean;
@@ -81,6 +85,7 @@ export function GameProvider({ children }: { children: React.ReactNode }) {
   const [settings, setSettings] = useState<GameSettings>({ ...defaultSettings });
   const [progress, setProgress] = useState<Record<string, CampaignProgress>>({});
   const [explore, setExplore] = useState<Record<string, ExploreState>>({});
+  const [gateOne, setGateOne] = useState<GateOneProgress>({ ...defaultGateOne });
   const [rewards, setRewards] = useState<RewardState>(emptyRewardState());
   const playerRef = useRef<AudioPlayer | null>(null);
 
@@ -94,6 +99,7 @@ export function GameProvider({ children }: { children: React.ReactNode }) {
       setSettings(save.settings);
       setProgress(save.progress);
       setExplore(save.explore ?? {});
+      setGateOne(save.gateOne ?? { ...defaultGateOne });
       let loadedRewards = emptyRewardState();
       try {
         loadedRewards = rawRewards ? sanitizeRewardState(JSON.parse(rawRewards)) : emptyRewardState();
@@ -129,9 +135,9 @@ export function GameProvider({ children }: { children: React.ReactNode }) {
   // what gets written, with no lost updates.
   useEffect(() => {
     if (!loaded) return;
-    const save: GameSave = { settings, progress, explore };
+    const save: GameSave = { settings, progress, explore, gateOne };
     void saveGame(save);
-  }, [loaded, settings, progress, explore]);
+  }, [loaded, settings, progress, explore, gateOne]);
 
   // Rewards persist under their own key so the shared save shape is untouched.
   // Writes are serialized so an older snapshot can never finish last and
@@ -173,6 +179,10 @@ export function GameProvider({ children }: { children: React.ReactNode }) {
       ...prev,
       [campaignId]: { ...(prev[campaignId] ?? emptyExploreState()), ...patch },
     }));
+  }, []);
+
+  const updateGateOne = useCallback((patch: Partial<GateOneProgress>) => {
+    setGateOne((prev) => ({ ...prev, ...patch }));
   }, []);
 
   // rewardsRef is the synchronous source of truth for grants: it is updated
@@ -334,6 +344,8 @@ export function GameProvider({ children }: { children: React.ReactNode }) {
       updateProgress,
       explore,
       updateExplore,
+      gateOne,
+      updateGateOne,
       rewards,
       grantReward,
       announce,
@@ -356,6 +368,8 @@ export function GameProvider({ children }: { children: React.ReactNode }) {
       updateProgress,
       explore,
       updateExplore,
+      gateOne,
+      updateGateOne,
       rewards,
       grantReward,
       announce,

@@ -54,10 +54,32 @@ export type ExploreState = {
   listenedAtRest: string[];
 };
 
+/** Gate One (Day One opening) traversal progress. */
+export type GateOneProgress = {
+  characterId: string | null;
+  x: number;
+  y: number;
+  heading: number;
+  hatchOpen: boolean;
+  firedEvents: string[];
+  complete: boolean;
+};
+
+export const defaultGateOne: GateOneProgress = {
+  characterId: null,
+  x: 0,
+  y: 2,
+  heading: 0,
+  hatchOpen: false,
+  firedEvents: [],
+  complete: false,
+};
+
 export type GameSave = {
   settings: GameSettings;
   progress: Record<string, CampaignProgress>;
   explore?: Record<string, ExploreState>;
+  gateOne?: GateOneProgress;
 };
 
 export function emptyExploreState(): ExploreState {
@@ -77,6 +99,9 @@ function sanitizeIdList(raw: unknown): string[] {
 }
 
 const SAVE_KEY = 'resonance_save_v1';
+
+/** Locked Gate One roster (kept dependency-free of the gateone module). */
+const GATE_ONE_CHARACTER_IDS = ['nia', 'kesh', 'sanaa', 'ilyan', 'mara', 'quillaan'];
 
 export function sanitizeSave(raw: unknown): GameSave {
   const fallback: GameSave = { settings: { ...defaultSettings }, progress: {} };
@@ -146,7 +171,37 @@ export function sanitizeSave(raw: unknown): GameSave {
     }
   }
 
-  return { settings, progress, explore };
+  let gateOne: GateOneProgress | undefined;
+  const rawGateOne = (obj as { gateOne?: unknown }).gateOne;
+  if (rawGateOne && typeof rawGateOne === 'object') {
+    const g = rawGateOne as Partial<GateOneProgress>;
+    const num = (v: unknown, fallback: number) =>
+      typeof v === 'number' && Number.isFinite(v) ? v : fallback;
+    const characterId =
+      typeof g.characterId === 'string' && GATE_ONE_CHARACTER_IDS.includes(g.characterId)
+        ? g.characterId
+        : null;
+    const firedEvents = sanitizeIdList(g.firedEvents);
+    // Clamp to the Gate One world envelope; the engine additionally verifies
+    // walkability on restore and resets to the start when invalid.
+    const x = Math.max(-28, Math.min(30, num(g.x, defaultGateOne.x)));
+    const y = Math.max(0, Math.min(104, num(g.y, defaultGateOne.y)));
+    const TWO_PI = Math.PI * 2;
+    const heading = ((num(g.heading, 0) % TWO_PI) + TWO_PI) % TWO_PI;
+    gateOne = {
+      characterId,
+      x,
+      y,
+      heading,
+      hatchOpen: g.hatchOpen === true,
+      firedEvents,
+      // Completion must be evidenced by the terminal fired event — a bare
+      // flag is not trusted.
+      complete: g.complete === true && firedEvents.includes('gate-one-end'),
+    };
+  }
+
+  return { settings, progress, explore, gateOne };
 }
 
 export async function loadSave(): Promise<GameSave> {

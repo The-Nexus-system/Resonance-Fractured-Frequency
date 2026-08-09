@@ -32,6 +32,7 @@ export default function HomeScreen() {
       <View style={styles.actions}>
         <GameButton
           label="Explore the Fracture"
+          variant="outline"
           testID="button-explore"
           accessibilityHint="Opens The First Fracture as an explorable chapter"
           onPress={() => {
@@ -40,13 +41,12 @@ export default function HomeScreen() {
           }}
         />
         <GameButton
-          label="Play (Classic)"
-          variant="outline"
-          testID="button-play"
-          accessibilityHint="Opens the campaign list"
+          label="Begin Day One"
+          testID="button-day-one"
+          accessibilityHint="Starts Gate One, the Day One opening aboard the Earth transport"
           onPress={() => {
             haptic('select');
-            router.push('/campaigns');
+            router.push('/characters');
           }}
         />
         <GameButton
