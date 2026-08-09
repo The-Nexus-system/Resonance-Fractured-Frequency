@@ -215,10 +215,35 @@ functionally. Concise, natural, in dialogue — never a medical lecture.
 (The Engineering introduction requirement below is the template for
 tone.)
 
-**Still reserved for deliberate creation:** names, genders,
-home-community names, full profiles, Episode One scenes, and all
-gameplay implementation. Held for the collaboratively written Episode
-One script and the deliberate six-character build.
+**Home communities (locked, approved by the creator):** each role's
+origin community is character and worldbuilding canon. The player may
+learn these gradually rather than through exposition.
+
+1. **Engineering — Kestrel Foundry**, the mobility-engineering and
+   adaptive-infrastructure community (prosthetics, mobility systems,
+   EVA adaptation, universal design).
+2. **Medical — Aster Vale Station**, the trauma-medicine community.
+3. **Communications — Concord Relay**, the multimodal communication
+   community (sign languages, visual and tactile communication, AAC,
+   captioning, silent emergency systems).
+4. **Navigation — Farpoint Observatory**, the blind-navigation and
+   vision-sciences community (nonvisual navigation, tactile mapping,
+   sonification, spatial audio, blind astronomy).
+5. **Counselor — the Retrieval Network** culture and background —
+   the established distributed rescue web — rather than one
+   specialist station.
+6. **Living Library apprentice — the Living Library tradition**,
+   which is itinerant by canon rather than tied to one home station.
+
+These names realise four of the Universe Bible's Station Legacy
+archetypes; each community's accessibility legacy is its established
+canon lineage. All disability canon locked above is preserved
+unchanged.
+
+**Still reserved for deliberate creation:** personal names, genders,
+full profiles, Episode One scenes, and all gameplay implementation.
+Held for the collaboratively written Episode One script and the
+deliberate six-character build.
 
 ## The Engineering playable character: disability lock
 
