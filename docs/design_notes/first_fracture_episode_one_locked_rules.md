@@ -136,6 +136,39 @@ For Episode One (and as the standard for shipboard play thereafter):
   keeping with "People Introduce Mechanics, Not Menus". There are no
   briefing screens standing in for lived time.
 
+## The sixth playable role: Living Library apprentice (locked origin)
+
+The sixth canonical playable character — the **general apprentice / Acting
+Ensign generalist** — is locked as originating from the **Living Library
+tradition** (working name; the tradition's final canon name is a gap
+reserved for Nexus/Kit — it must NOT be confused with the Shawabti's
+"Living Archive", which is a different, non-human thing entirely).
+
+The Living Library tradition is a human cultural lineage grounded in
+existing canon rules (knowledge exchange flows in every direction; every
+person arrives with knowledge; cultural stewards and memory practices;
+expertise lives in distributed communities). Its people value:
+
+- broad cross-disciplinary and cross-community learning;
+- carrying practical knowledge and stories physically between communities;
+- **remembering who knows what** — the living index of distributed
+  expertise;
+- understanding, culturally and from childhood, that expertise is
+  distributed and no community holds it all.
+
+**This is not a generic unspecialised character.** The generalist's breadth
+is itself a specialty with a cultural home. This origin quietly informs the
+character's authored personality, observations, skills, and interactions
+from their first scene — before the player understands the deeper lore
+behind it. They notice who knows things. They connect people. They ask the
+question that carries an answer from one deck to another.
+
+**Reserved gaps (do not invent downstream):** the character's name, their
+exact home community/location, the tradition's final canon name, and all
+further Living Library lore. All six canonical playable characters are to
+be created deliberately, together, alongside the collaboratively written
+Episode One script.
+
 ## Relationship to other documents
 
 - Supersedes the resonance-trigger list and day-compression pacing in
