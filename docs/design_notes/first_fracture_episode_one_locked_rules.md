@@ -396,6 +396,35 @@ framed as remarkable "for a blind person."
 relationship arcs, and all Episode One scenes. Held for the
 collaboratively written script.
 
+## The Ship's Counselor: Mara Venn (locked profile)
+
+The Counselor playable character is **Mara Venn** — a woman, she/her,
+from the **Retrieval Network** culture and background.
+
+**Name note (creator decision):** the first name Mara is shared with
+Mara Chen, the Hearth's Chief Engineering Systems Specialist. This
+was kept deliberately by the creator ("it's easy to say"). The two
+are entirely distinct characters; surnames distinguish them wherever
+confusion is possible.
+
+**Disability (preserved as locked above):** dyspraxia primarily
+affecting motor planning, coordination, balance and proprioception,
+and unfamiliar physical sequencing. No speech involvement.
+
+**Personality:** the counselor personality already established in the
+character-design work is preserved unchanged; nothing here replaces
+it.
+
+**Cultural background (preserved as locked above):** Mara Venn comes
+from the Retrieval Network — the distributed rescue web — rather
+than one specialist station. Its lineages (Chain of Rescue,
+humanitarian medicine, mutual aid, gradual integration of rescued
+survivors) are her cultural inheritance.
+
+**Still reserved for Mara Venn:** additional personal history,
+relationship arcs, and all Episode One scenes. Held for the
+collaboratively written script.
+
 ## The Engineering playable character: disability lock
 
 The Engineering playable character's disability is locked as **spastic
