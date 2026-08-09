@@ -25,6 +25,8 @@ License texts for attribution/copyleft sources live in
 - Proof/receipt or license-snapshot location:
 - Commercial/off-platform game use permitted: yes | yes-with-credit | no
 - ZapSplat tier (if applicable): Basic | Premium
+- Production tool(s) used (internal record only, e.g. Suno — never a player-facing artist credit):
+- Player-facing artist credit (original creative work → "Fractured Flow"; external assets → license-required attribution exactly):
 - Modifications/derived layers:
 - Used in Resonance: identity #<n> (docs/16 §3), client(s): web | iOS | both
 ```

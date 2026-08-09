@@ -367,3 +367,47 @@ exists.
 
 This sourcing research supports Gate One production only. Nothing in this
 section unlocks later gates or changes any narrative content.
+
+---
+
+## 9. Crediting policy — LOCKED (adopted later on 2026-08-09)
+
+### 9.1 Original creative audio is credited to Fractured Flow
+
+For original music, original Suno-generated music, atmosphere, vocal
+material, sound design, and other creative audio produced by the project
+creators, the credited artist/creator identity is **Fractured Flow** — not
+Suno and not any other production tool. Suno is an APPROVED production
+tool/source for original, commercially licensed generations, but it is
+never presented as the artist or creative author in player-facing credits
+or embedded creative metadata.
+
+### 9.2 Tools are not artists
+
+No GPT/ChatGPT/OpenAI metadata and no tool-credit metadata is added to the
+game, assets, credits, descriptions, or player-facing materials merely
+because AI tools assisted production. The intended acknowledgement for
+Kit's contribution remains human-facing language along the lines of
+"With help on research and design from our Kit" (Section 8.5; not
+player-facing until explicitly authorised).
+
+### 9.3 Legal obligations override the creative-credit rule
+
+Where an external asset's license requires creator, library, or platform
+attribution, that attribution is preserved EXACTLY as required. Legal
+license obligations always override the general creative-credit rule —
+Fractured Flow is the credit for OUR original work, never a replacement
+for someone else's mandatory credit.
+
+### 9.4 The ledger stays internal
+
+The Audio Asset Ledger (Section 4) continues to document tools and
+acquisition sources — including Suno generations — for compliance and
+provenance. Being in the ledger does not make a tool a creative artist
+credit; the ledger is the internal record, the credits are the
+human-facing story, and both must stay truthful in their own register.
+
+### 9.5 Scope
+
+This policy applies to all future audio sourcing and credits. It changes
+nothing in Gate One's authorised narrative scope.
