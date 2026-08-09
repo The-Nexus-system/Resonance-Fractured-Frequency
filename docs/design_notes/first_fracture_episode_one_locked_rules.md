@@ -278,6 +278,42 @@ channels integrated into how the ship works) is preserved unchanged.
 arcs, and all Episode One scenes. Held for the collaboratively
 written script.
 
+## The Engineer: Kesh Rennik (locked profile)
+
+The Engineering playable character is **Kesh Rennik** — a man, he/him,
+from **Kestrel Foundry**, the mobility-engineering and
+adaptive-infrastructure community.
+
+**Disability (preserved as locked above):** spastic diplegic cerebral
+palsy, primarily affecting his legs; his upper-body function supports
+his engineering work, with appropriate adaptations where needed.
+Wheelchair use is his normal, efficient everyday mobility.
+
+**Personality (locked):**
+
+- A hands-on thinker.
+- Listens closely to machinery; often understands systems through
+  sound and physical interaction.
+- Tends to take things apart while talking.
+- Naturally funny — without deliberately performing for people.
+- Habitually keeps borrowed or signed-out tools longer than intended.
+- Will keep repairing or working far beyond when he should stop,
+  unless someone intervenes.
+
+**Kestrel Foundry upbringing (locked):** accessibility and adaptation
+are ordinary engineering principles to Kesh. If equipment does not
+work for the person who needs it, the equipment is not finished.
+
+**Faience's introduction (preserved requirement):** when the player
+first meaningfully encounters Kesh, Faience naturally explains the
+significance of spastic diplegic cerebral palsy per the Engineering
+disability lock above — concise, in dialogue, never a medical
+lecture.
+
+**Still reserved for Kesh:** additional personal history, relationship
+arcs, and all Episode One scenes. Held for the collaboratively
+written script.
+
 ## The Engineering playable character: disability lock
 
 The Engineering playable character's disability is locked as **spastic
