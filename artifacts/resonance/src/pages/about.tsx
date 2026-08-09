@@ -66,6 +66,22 @@ export default function About() {
             </CardContent>
           </Card>
         </section>
+
+        <section aria-labelledby="audio-credits-heading" className="space-y-4">
+          <h2 id="audio-credits-heading" className="text-2xl font-bold">Audio Credits</h2>
+          <Card>
+            <CardContent className="p-6 space-y-4">
+              <p>
+                Every third-party sound and piece of music in Resonance is recorded in the
+                project Audio Asset Ledger, and this section is generated from it.
+              </p>
+              <p className="text-sm text-muted-foreground" data-testid="text-audio-credits-empty">
+                No third-party audio has been imported yet. As licensed sounds arrive, their
+                creators and licenses will be credited here.
+              </p>
+            </CardContent>
+          </Card>
+        </section>
       </main>
     </div>
   );

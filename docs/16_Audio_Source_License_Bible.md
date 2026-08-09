@@ -146,21 +146,28 @@ variation pools are shared; the renderer is platform-specific by design.
 
 ---
 
-## 4. Provenance manifest (mandatory)
+## 4. The Audio Asset Ledger (mandatory)
 
-Manifest location: `assets/audio/PROVENANCE.md` (created with the first
-imported asset; one entry per asset or coherent pack subset).
+The human-readable AUDIO ASSET LEDGER is the project's provenance manifest.
+Location: `assets/audio/LEDGER.md` (one entry per imported sound/music asset
+or coherent pack subset; created with the ledger template and grown with
+every import).
 
 Each entry records ALL of:
 
 - **Source/library** (e.g. SONNISS GameAudioGDC 2026, Kenney Sci-Fi Sounds)
-- **Original asset or pack name** (as published)
-- **Creator** where supplied
+- **Original asset/track name** (as published)
+- **Creator** where applicable
 - **Source URL/reference**
 - **License** (exact: CC0 / CC-BY 3.0 / CC-BY-SA-4.0 / SONNISS RF / ZapSplat
-  Standard-Basic / ZapSplat Standard-Premium / GPL…)
+  Standard-Basic / ZapSplat Standard-Premium / Incompetech CC-BY /
+  Incompetech Standard / GPL…)
+- **Commercial-use status** (permitted / permitted-with-credit / excluded)
 - **Attribution text** if required (verbatim, ready for the credits surface)
+- **Whether modification is allowed** (and any ND-style limits)
 - **Date acquired**
+- **Whether a paid license/subscription was used**, and the
+  **proof/receipt location** for any purchase
 - **Modifications/derived layers** (edits, EQ, layering, renaming)
 - **Where used in Resonance** (identity number(s) from Section 3, client(s))
 - **For ZapSplat:** whether obtained under Basic or Premium terms
@@ -170,7 +177,10 @@ Rules:
 - Share-alike obligations (e.g. CC-BY-SA) are tracked in the entry and
   honoured for the derived sound files as the license requires.
 - License texts for attribution/copyleft sources are stored alongside the
-  manifest under `assets/audio/licenses/`.
+  ledger under `assets/audio/licenses/`.
+- **In-game Audio Credits are GENERATED from this ledger** into a single
+  consolidated credits section shown by both clients, so attribution-heavy
+  sources are operationally easy rather than avoided.
 
 ---
 
@@ -195,3 +205,98 @@ Rules:
 - The two-client architecture (web game client at /resonance + native iOS
   client) is unchanged by this document and applies to how these sounds are
   rendered.
+
+---
+
+## 7. Expanded source tiers and licensing decision policy
+
+This section extends Section 2 with the full decision policy based on
+current official source terms. Where Section 2 and this section describe the
+same source, they are one rule read together, not competing rules.
+
+### 7.1 Paid and subscription sources — when money is worth it
+
+- **SONNISS GameAudioGDC archive (incl. 2026)** stays the preferred
+  high-quality SFX pool: commercial, royalty-free, no attribution, unlimited
+  projects; raw files never redistributed as a standalone library; never
+  used for AI/ML training.
+- **Purchased SONNISS libraries** are also acceptable under their commercial
+  royalty-free media-production license when a specific full library is
+  worth buying.
+- **Spending rule:** prefer free-with-attribution over paying solely to
+  avoid a reasonable credit requirement. Recommend a purchase only when it
+  materially improves fidelity, WAV quality, download access, rights
+  certainty, or production efficiency.
+
+### 7.2 ZapSplat — Basic is explicitly acceptable
+
+- **Basic (free):** commercial use is allowed perpetually; clear ZapSplat
+  credit is REQUIRED. A useful asset is never rejected merely because it
+  needs credit — the attribution goes into the ledger and the generated
+  Audio Credits.
+- **Premium (paid):** optional, when WAV access, unlimited downloads, or
+  attribution-free use makes the cost worthwhile. Sounds downloaded while
+  Premium is active retain attribution-free project rights after the
+  subscription ends.
+- Record Basic vs Premium per asset. No raw redistribution; no AI/ML
+  training.
+
+### 7.3 Freesound — asset-by-asset
+
+- Prefer **CC0**. **CC BY** is acceptable with creator attribution recorded
+  and credited. **CC BY-NC is EXCLUDED** from a commercial Resonance release
+  unless separate commercial permission is obtained and archived.
+
+### 7.4 Music sources
+
+- **Incompetech:** acceptable. The Creative Commons route is free with the
+  generated attribution preserved verbatim; the paid Standard License is an
+  option when attribution is unwanted or impossible.
+- **Free Music Archive:** usable only after checking EACH track's license.
+  CC BY is viable with attribution; **NC licenses are not suitable** for a
+  commercial release without separate permission; **ND material must not be
+  used** where synchronization/editing would create a prohibited derivative.
+- **Mixkit:** considered only after verifying the applicable item-specific
+  license for the exact music/SFX item being downloaded.
+
+### 7.5 YouTube — the critical distinction
+
+- Ordinary YouTube search results ("rainstorm ambience", "no copyright
+  music") are **NOT** automatically reusable or downloadable game assets.
+  **Never rip audio from standard-license YouTube videos.**
+- **YouTube's own Audio Library** is a legitimate discovery/source pool for
+  YouTube productions: some tracks require Creative Commons attribution,
+  others do not. YouTube itself warns that off-platform licensing is not
+  guaranteed — so before embedding an Audio Library track in the distributed
+  game, VERIFY that the exact track's license grants off-platform game
+  synchronization/redistribution rights, or obtain permission.
+- A normal YouTube video may be an asset source ONLY if the uploader owns
+  the material AND provides a clear license (e.g. CC BY) or explicit written
+  permission covering commercial game use. Save the evidence of that license
+  in the ledger's proof location.
+- Titles or descriptions saying "no copyright" are never sufficient on
+  their own.
+
+### 7.6 Open/copyleft and reference sources (restated)
+
+- OpenGameArt / open-source / copyleft audio is acceptable when the actual
+  asset license permits the intended game distribution; honour CC BY
+  attribution, CC BY-SA/share-alike, GPL/copyleft, and source/notice
+  obligations rather than rejecting material for being copyleft.
+- Miriani-Next remains the blind-first sound-information architecture
+  reference; any of its actual assets are used only where their individual
+  or pack licenses are verified to permit Resonance distribution.
+
+### 7.7 Gate One sourcing emphasis
+
+For Gate One, prioritise SONNISS GDC, CC0 material (Kenney, OpenGameArt,
+Freesound CC0), and credited ZapSplat recordings for: transport vibration
+and braking, restraints, station HVAC, crowds, cargo, wheelchair and
+mobility-device movement, footsteps, spatial voices/AAC, memorial acoustics,
+docking machinery, airlock/bridge resonance, hull transmission, maintenance
+carts, and Hearth interior room tone. Layer and modify licensed sounds
+rather than expecting one sample to carry a scene, and maintain multiple
+variants for every repeated sound (Section 3's pools).
+
+This policy expands audio sourcing only. It changes no Gate One narrative
+and expands no implementation scope beyond Gate One.

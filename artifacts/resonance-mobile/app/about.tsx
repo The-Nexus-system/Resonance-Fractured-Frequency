@@ -23,6 +23,10 @@ const SECTIONS: { title: string; body: string }[] = [
     title: 'The reference build',
     body: 'This native app is the companion to the Resonance web game — the validated reference build. Both share one game world, one save format, and one canon.',
   },
+  {
+    title: 'Audio credits',
+    body: 'Every third-party sound and piece of music in Resonance is recorded in the project Audio Asset Ledger, and this section is generated from it. No third-party audio has been imported yet; as licensed sounds arrive, their creators and licenses will be credited here.',
+  },
 ];
 
 export default function AboutScreen() {
