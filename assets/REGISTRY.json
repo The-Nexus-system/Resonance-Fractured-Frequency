@@ -1,0 +1,11 @@
+{
+  "$schema": "./REGISTRY_SCHEMA.md",
+  "schemaVersion": 1,
+  "project": "Resonance: Fractured Frequency",
+  "description": "Master asset provenance registry. One source of truth for every imported or generated asset (audio, music, voices, graphics, textures, 3D models, animations, fonts, video, other). Human-readable credits are GENERATED from this file by scripts/assets/registry.mjs — never edited by hand. Portable: no Replit-specific knowledge required.",
+  "creativeIdentity": {
+    "artistCredit": "Fractured Flow",
+    "rule": "Original creative work is credited to Fractured Flow, never to a production tool. Tool/generation details are recorded internally in each entry for compliance only, unless a license legally requires player-facing attribution."
+  },
+  "assets": []
+}

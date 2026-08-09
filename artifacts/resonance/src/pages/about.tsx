@@ -4,6 +4,12 @@ import { Button } from "@/components/ui/button";
 import { ChevronLeft } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 import { useEffect } from "react";
+import creditsData from "@/generated/credits.json";
+
+const generatedCredits = creditsData as {
+  originalWorkCredit: string | null;
+  entries: { text: string; required: boolean }[];
+};
 
 export default function About() {
   const { announce } = useA11y();
@@ -72,13 +78,24 @@ export default function About() {
           <Card>
             <CardContent className="p-6 space-y-4">
               <p>
-                Every third-party sound and piece of music in Resonance is recorded in the
-                project Audio Asset Ledger, and this section is generated from it.
+                Every third-party sound, piece of music, and asset in Resonance is recorded in
+                the project's master asset registry, and this section is generated from it.
               </p>
-              <p className="text-sm text-muted-foreground" data-testid="text-audio-credits-empty">
-                No third-party audio has been imported yet. As licensed sounds arrive, their
-                creators and licenses will be credited here.
-              </p>
+              {generatedCredits.originalWorkCredit && (
+                <p className="font-medium">{generatedCredits.originalWorkCredit}</p>
+              )}
+              {generatedCredits.entries.length > 0 ? (
+                <ul className="space-y-2 list-disc list-inside px-2" data-testid="list-audio-credits">
+                  {generatedCredits.entries.map((entry) => (
+                    <li key={entry.text}>{entry.text}</li>
+                  ))}
+                </ul>
+              ) : (
+                <p className="text-sm text-muted-foreground" data-testid="text-audio-credits-empty">
+                  No third-party assets have been imported yet. As licensed sounds and assets
+                  arrive, their creators and licenses will be credited here.
+                </p>
+              )}
             </CardContent>
           </Card>
         </section>

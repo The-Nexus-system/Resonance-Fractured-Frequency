@@ -411,3 +411,28 @@ human-facing story, and both must stay truthful in their own register.
 
 This policy applies to all future audio sourcing and credits. It changes
 nothing in Gate One's authorised narrative scope.
+
+---
+
+## 10. Master Asset Registry (adopted later on 2026-08-09)
+
+The Audio Asset Ledger of Section 4 has been integrated into a project-wide
+MASTER ASSET REGISTRY covering audio, music, voices, graphics, textures, 3D
+models, animations, fonts, video, and other imported/generated assets, so
+provenance survives any future migration off the current host:
+
+- Registry: `assets/REGISTRY.json` (machine-readable, one source of truth)
+- Schema and import workflow: `assets/REGISTRY_SCHEMA.md` (portable; no
+  host-specific knowledge required)
+- Tooling: `node scripts/assets/registry.mjs validate | credits`
+- Credits are GENERATED from the registry into `assets/generated/` and into
+  both clients, so player-facing credits cannot drift from the record.
+
+The import workflow is mandatory: check the registry before searching
+externally; register every asset before use; never silently import an
+untracked asset; keep license evidence in the repository but never commit
+huge raw third-party libraries — record reacquisition instructions and
+commit only approved game-ready derivatives/masters. Every rule of this
+Bible (Sections 1–9) applies unchanged; where Section 4 says "ledger", read
+"registry". This is repository infrastructure only and does not alter
+narrative or gameplay scope.

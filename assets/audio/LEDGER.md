@@ -1,37 +1,19 @@
-# Resonance Audio Asset Ledger
+# Resonance Audio Asset Ledger → superseded by the Master Asset Registry
 
-Governed by docs/16_Audio_Source_License_Bible.md (protected). Every
-imported sound or music asset gets a complete entry BEFORE it ships. The
-in-game Audio Credits section of both clients is generated from this file.
+This audio-only ledger has been integrated into the project-wide master
+asset registry so there is exactly ONE source of truth for provenance,
+licensing, and credits across audio, music, voices, graphics, textures,
+3D models, animations, fonts, and video:
 
-License texts for attribution/copyleft sources live in
-`assets/audio/licenses/`.
+- **Registry (machine-readable):** `assets/REGISTRY.json`
+- **Schema and import workflow:** `assets/REGISTRY_SCHEMA.md`
+- **Tooling:** `node scripts/assets/registry.mjs validate | credits`
+- **Generated credits:** `assets/generated/CREDITS.md` (never hand-edited)
+- **License texts / receipts / permission evidence:** `assets/audio/licenses/`
 
-## Entry template
-
-```
-### <ledger-id> — <short asset name>
-- Source/library:
-- Original asset/track name:
-- Creator:
-- Source URL/reference:
-- License (exact):
-- Commercial-use status: permitted | permitted-with-credit | excluded
-- Attribution text (verbatim, or "none required"):
-- Modification allowed: yes | yes-with-share-alike | no (ND)
-- Date acquired:
-- Paid license/subscription used: no | yes (<which>)
-- Cost:
-- Proof/receipt or license-snapshot location:
-- Commercial/off-platform game use permitted: yes | yes-with-credit | no
-- ZapSplat tier (if applicable): Basic | Premium
-- Production tool(s) used (internal record only, e.g. Suno — never a player-facing artist credit):
-- Player-facing artist credit (original creative work → "Fractured Flow"; external assets → license-required attribution exactly):
-- Modifications/derived layers:
-- Used in Resonance: identity #<n> (docs/16 §3), client(s): web | iOS | both
-```
-
-## Entries
-
-(No audio assets have been imported yet. The first import adds the first
-entry here and its attribution, if any, to the generated Audio Credits.)
+No audio assets had been imported under this ledger before the migration,
+so the registry starts empty and complete. All rules from
+`docs/16_Audio_Source_License_Bible.md` (protected) continue to govern:
+register before use, never silently import an untracked asset, preserve
+required attribution exactly, Fractured Flow is the artist credit for
+original creative work, and production tools are never creative credits.

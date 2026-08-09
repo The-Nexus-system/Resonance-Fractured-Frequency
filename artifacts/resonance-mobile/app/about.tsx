@@ -5,6 +5,22 @@ import { Feather } from '@expo/vector-icons';
 import { ScreenContainer, ThemedText } from '@/components/ui';
 import { useGame } from '@/context/game-provider';
 import baseColors from '@/constants/colors';
+import creditsData from '@/lib/generated/credits.json';
+
+const generatedCredits = creditsData as {
+  originalWorkCredit: string | null;
+  entries: { text: string; required: boolean }[];
+};
+
+const creditsBody = [
+  'Every third-party sound, piece of music, and asset in Resonance is recorded in the project\u2019s master asset registry, and this section is generated from it.',
+  generatedCredits.originalWorkCredit ? `${generatedCredits.originalWorkCredit}.` : null,
+  generatedCredits.entries.length > 0
+    ? generatedCredits.entries.map((e) => `\u2022 ${e.text}`).join('\n')
+    : 'No third-party assets have been imported yet; as licensed sounds and assets arrive, their creators and licenses will be credited here.',
+]
+  .filter(Boolean)
+  .join('\n\n');
 
 const SECTIONS: { title: string; body: string }[] = [
   {
@@ -24,8 +40,8 @@ const SECTIONS: { title: string; body: string }[] = [
     body: 'This native app is the companion to the Resonance web game — the validated reference build. Both share one game world, one save format, and one canon.',
   },
   {
-    title: 'Audio credits',
-    body: 'Every third-party sound and piece of music in Resonance is recorded in the project Audio Asset Ledger, and this section is generated from it. No third-party audio has been imported yet; as licensed sounds arrive, their creators and licenses will be credited here.',
+    title: 'Audio & asset credits',
+    body: creditsBody,
   },
 ];
 
