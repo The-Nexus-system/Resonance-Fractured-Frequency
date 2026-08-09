@@ -353,6 +353,49 @@ alternative communication, signing, AAC, and processing needs.
 relationship arcs, and all Episode One scenes. Held for the
 collaboratively written script.
 
+## The Navigator: Ilyan Ibarra (locked profile)
+
+The Navigation playable character is **Ilyan Ibarra** — blind,
+genderfluid, from **Farpoint Observatory**, the blind-navigation and
+vision-sciences community.
+
+**Personality:** the Navigator personality already established in the
+character-design work is preserved unchanged; nothing here replaces
+it.
+
+**Genderfluidity and Farpoint culture (locked):** Ilyan's
+genderfluidity is grounded in Farpoint's predominantly blind and
+low-vision culture, where gender conventions developed with much
+less emphasis on visual presentation:
+
+- Traits that sighted Earth-derived cultures might automatically
+  code as masculine or feminine may carry no gender meaning at
+  Farpoint.
+- Farpoint gender expression can instead involve voice, language,
+  tactile adornment and jewellery texture, scent, hairstyle as felt
+  rather than seen, names, pronouns, and other nonvisual cultural
+  signals.
+
+**Pronouns (locked):** they/them is always safe and is Ilyan's
+default. Their current pronouns may shift with their gender —
+including he/him or she/her when appropriate. Ship systems and
+Faience know and respect Ilyan's current pronouns naturally, so
+Ilyan is never forced to repeatedly announce them.
+
+**Faience's explanation (locked):** when the difference becomes
+relevant, Faience may briefly explain that Ilyan is genderfluid and
+that Farpoint does not gender many presentation cues the way other
+cultures do. This is lived worldbuilding — never a repeated
+educational lecture.
+
+**Blindness (preserved rule):** Ilyan's blindness and navigation
+expertise are ordinary aspects of their life and profession — never
+framed as remarkable "for a blind person."
+
+**Still reserved for Ilyan:** additional personal history,
+relationship arcs, and all Episode One scenes. Held for the
+collaboratively written script.
+
 ## The Engineering playable character: disability lock
 
 The Engineering playable character's disability is locked as **spastic
