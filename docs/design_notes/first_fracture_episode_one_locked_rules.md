@@ -169,6 +169,42 @@ further Living Library lore. All six canonical playable characters are to
 be created deliberately, together, alongside the collaboratively written
 Episode One script.
 
+## The Engineering playable character: disability lock
+
+The Engineering playable character's disability is locked as **spastic
+diplegic cerebral palsy**, with the legs substantially more affected than
+the arms, and **wheelchair use as their normal, efficient everyday
+mobility aboard ship**.
+
+Locked details:
+
+- The arms and hands remain substantially capable; the character performs
+  full engineering work with appropriate adaptations.
+- Wheelchair use is their default mobility because it is efficient and
+  safe — it does NOT imply complete paralysis. If the final character
+  profile later chooses that presentation, the character may still stand
+  or walk short distances; this lock does not forbid it and does not
+  require it.
+- This character is distinct from Mara Chen (the blind Chief Engineering
+  Systems Specialist aboard the Hearth). Two engineers, two entirely
+  different disabilities and signatures.
+
+**Faience's introduction requirement (locked):** when Faience first
+introduces or explains this character, the explanation must briefly teach
+why the specific subtype matters:
+
+1. cerebral palsy is not one uniform presentation;
+2. spastic diplegia primarily affects the legs;
+3. mobility aid use reflects efficiency and safety, not intelligence or
+   engineering capability.
+
+The explanation must be concise and natural in dialogue — a companion
+sharing understanding, never a medical lecture.
+
+**Still reserved:** the character's name, home community, full profile,
+and all gameplay implementation. Held for the collaboratively written
+Episode One script and the deliberate six-character build.
+
 ## Relationship to other documents
 
 - Supersedes the resonance-trigger list and day-compression pacing in
