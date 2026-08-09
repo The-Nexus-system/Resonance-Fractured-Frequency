@@ -169,6 +169,57 @@ further Living Library lore. All six canonical playable characters are to
 be created deliberately, together, alongside the collaboratively written
 Episode One script.
 
+## The six-character disability framework (locked)
+
+This is the canonical home of the disability framework for all six
+playable Episode One crew characters. Each disability is locked here;
+everything else about each character remains reserved.
+
+1. **Engineering — spastic diplegic cerebral palsy.** Legs
+   substantially more affected than arms; wheelchair use as normal,
+   efficient everyday mobility aboard ship. Full detail in the
+   Engineering lock section below, which remains in force.
+
+2. **Medical — Deaf.** Works through a genuinely integrated multimodal
+   communication and access system — sign, text, visual, and haptic
+   channels working together — rather than assuming everyone around
+   them signs. The access system is part of how the ship works, not a
+   personal workaround.
+
+3. **Navigation — blind.** Comes from the established blind-navigation
+   / vision-sciences tradition (nonvisual navigation, tactile mapping,
+   sonification, spatial audio, orientation — see the Universe Bible's
+   Station Legacy material). Distinct from Mara Chen, the blind
+   engineer NPC: different profession, different signature.
+
+4. **Communications — severe apraxia of speech with fully intact
+   language.** A primary AAC (augmentative and alternative
+   communication) user. The impairment is in speech motor planning
+   only; language, comprehension, and expression are complete and
+   sophisticated.
+
+5. **Counselor — dyspraxia.** Primarily affects motor planning,
+   coordination, balance and proprioception, and unfamiliar physical
+   sequencing. No speech involvement.
+
+6. **Living Library apprentice — ME/CFS (myalgic encephalomyelitis /
+   chronic fatigue syndrome).** "Chronic fatigue" is acceptable
+   conversational shorthand when useful. The disability shapes pacing
+   and energy management without swallowing the whole character —
+   they are a Living Library apprentice first.
+
+**Representation rule (locked):** when Faience explains any of these
+disabilities, the explanation goes only as far as the player needs to
+understand how to interact with that person and what matters
+functionally. Concise, natural, in dialogue — never a medical lecture.
+(The Engineering introduction requirement below is the template for
+tone.)
+
+**Still reserved for deliberate creation:** names, genders,
+home-community names, full profiles, Episode One scenes, and all
+gameplay implementation. Held for the collaboratively written Episode
+One script and the deliberate six-character build.
+
 ## The Engineering playable character: disability lock
 
 The Engineering playable character's disability is locked as **spastic
