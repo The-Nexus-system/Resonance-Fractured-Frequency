@@ -1183,6 +1183,10 @@ As new operations, expeditions, and perspectives are experienced, humanity's und
 
 This rule extends the principle that history and understanding are earned separately, applying it to the whole recorded knowledge of the universe's species and civilisations, so that what a people believe is recorded distinctly from what is objectively true.
 
+## Audio Is Sourced Openly and Documented Completely
+
+Every sound in Resonance comes from the approved sources of the Audio Source and License Bible, in its stated priority order, under licenses that permit commercial game use. Open and copyleft licenses are welcomed, never rejected for being copyleft, and their attribution, license text, and share-alike obligations are preserved. Every imported asset carries a complete provenance record before it ships, no asset is ever ripped from a commercial game, and license-restricted libraries are never redistributed raw or used for AI or machine-learning training. Sound exists to communicate gameplay information, anchored to the same world coordinates used by movement and accessibility, rendered platform-appropriately by each client.
+
 ## Relationship to Other Documents
 
 This document is the master list of canon rules and holds precedence for the wording of a rule. Several rules are elaborated in depth elsewhere, and those documents remain the place for detail while this document remains the place for the complete set. Where another document restates a rule, that restatement is explanatory, not a second source of truth; if the wording drifts, the statement here governs. Only the Project Constitution has authority over this document.
@@ -1192,6 +1196,7 @@ This document is the master list of canon rules and holds precedence for the wor
 - The Systems Bible elaborates how mechanics are introduced and how systems reinforce the themes.
 - The Knowledge Archive Bible elaborates how knowledge changes gameplay.
 - The Audio Bible elaborates acoustic identity, silence, the comprehensive sound libraries, and sound as progression.
+- The Audio Source and License Bible elaborates the approved audio sources, their licenses and priority order, the provenance manifest, and the audio design target.
 - The Accessibility Bible elaborates accessibility as standard equipment.
 - The Network and Multiplayer Bible elaborates world persistence, the world as host, player residency, protected personal spaces, and safe logout and return.
 - The Crew Progression System design note elaborates the crew relevance, belonging, sound, and community rules.
