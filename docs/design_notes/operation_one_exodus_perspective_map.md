@@ -3,8 +3,12 @@
 > **Formal amendment (August 2026, Nexus directive).** The shared fixed seam
 > "the player ends Attack Day alone in a separate damaged pod" is amended by
 > `docs/design_notes/first_fracture_episode_one_script.md`: the player's pod
-> now carries six listed survivors, and Faience still first stirs there
-> (unchanged). All other seams stand until the reconciliation pass recorded
+> now carries six listed survivors. **Further amendment (locked rules,
+> 9 August 2026):** Faience no longer first stirs in the pod — Faience
+> comes online with the player at boarding, when the neural interface or
+> implant is chosen (see
+> `docs/design_notes/first_fracture_episode_one_locked_rules.md`).
+> All other seams stand until the reconciliation pass recorded
 > in the Master Timeline amendment is complete. Where this document
 > conflicts with the episode script on the player's Attack Day, the episode
 > script governs.

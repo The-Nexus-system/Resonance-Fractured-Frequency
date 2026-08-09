@@ -1,6 +1,22 @@
 # The First Fracture — Episode One Playable Script
 
-**Status: SOURCE OF TRUTH for the first one-hour campaign (Nexus directive, August 2026).**
+**Status: SOURCE OF TRUTH for the first one-hour campaign (Nexus directive, August 2026) — PARTIALLY SUPERSEDED, see below.**
+
+> **Locked rules amendment (9 August 2026).** The resonance triggers and the
+> compressed-day pacing in this script are superseded by
+> `first_fracture_episode_one_locked_rules.md`: F now sounds at boarding
+> (interface/implant chosen, Faience online with the player — Faience no
+> longer waits for the pod); A only in the Day Four shipwide power failure;
+> C only when linked pods function as a real improvised ship; E only after
+> docking at the medical station, survivors disembarking, and the player
+> being helped off — at which point Faience permanently locks to the player
+> and the FACE sonority resolves, transitioning directly into Chapter Two.
+> Every shipboard day must be lived in full — no day-as-mission compression,
+> no cards or summary screens. This script's scene material otherwise stands
+> as reference until the creator-approved revised script is supplied; do not
+> rewrite or implement ahead of it.
+
+**Original status note:**
 This script supersedes the escape-pod-first opening described in the Chapter Two
 maintenance document and the quiz-card demo campaign registered in the First
 Fracture expansion log. Those documents remain as history; where they conflict
