@@ -425,6 +425,48 @@ survivors) are her cultural inheritance.
 relationship arcs, and all Episode One scenes. Held for the
 collaboratively written script.
 
+## The General Apprentice / Acting Ensign: Quillaan Folren (locked profile)
+
+The sixth and final playable character is **Quillaan Folren** — a
+man, he/him, the General Apprentice / Acting Ensign from the
+itinerant **Living Library tradition**.
+
+**The name (locked):** Quillaan is intentionally spelled
+Q-U-I-L-L-A-A-N. It subtly evokes quills, learning, books, and
+knowledge — without being a literal occupational label. Folren is
+his surname.
+
+**Disability (preserved as locked above):** ME/CFS (myalgic
+encephalomyelitis / chronic fatigue syndrome). It shapes pacing,
+energy management, rest, route choices, and the consequences of
+exertion — without becoming his entire personality or storyline.
+
+**Personality:** the Living Library apprentice personality and
+character work already established in the project is preserved
+unchanged. It has been reviewed and remains compatible with
+Quillaan's name, gender, role, cultural origin, and disability; he
+is not to be reinvented around ME/CFS.
+
+**Cultural origin (preserved as locked above):** the Living Library
+is an itinerant knowledge-preservation culture. Quillaan has no
+specialist home station, and none is to be assigned.
+
+**Faience's explanation (locked):** Faience explains ME/CFS naturally
+when relevant, in accessible language — "chronic fatigue" as
+commonly recognisable wording where appropriate — while accurately
+conveying that post-exertional worsening and energy limits matter.
+The condition must never be inaccurately reduced to chronic pain.
+Never a medical lecture.
+
+**Still reserved for Quillaan:** additional personal history,
+relationship arcs, and all Episode One scenes. Held for the
+collaboratively written script.
+
+With this lock, all six playable characters are named: Nia Viaraxen
+(Medical), Kesh Rennik (Engineering), Sanaa al-Khatib
+(Communications), Ilyan Ibarra (Navigation), Mara Venn (Counselor),
+and Quillaan Folren (General Apprentice / Acting Ensign).
+
 ## The Engineering playable character: disability lock
 
 The Engineering playable character's disability is locked as **spastic
