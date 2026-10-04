@@ -122,3 +122,9 @@ This document is the definitive reference for the campaign structure of Operatio
 - The chapter design notes elaborate each chapter in full from the maintenance perspective.
 - The Gameplay Progression Matrix elaborates how progression advances across the seven chapters.
 - The Decision Log records when campaign decisions were adopted or amended.
+
+## Character perspectives, friendship, and Earth return development
+
+The [Character Perspectives, Belonging, and Earth Return development record](design_notes/character_perspectives_belonging_earth_return.md) preserves the creator’s 4 October 2026 direction: plan the opening for the existing six playable characters individually, carry their experiences into friendship and later gates, and centre dignity and a life each person values. It includes the proposed Deaf doctor/dog-rescue arc and an Earth-return family conversation whose newly accessible information advances the effort by the six and the Hearth to prevent selective evacuation followed by the deliberate murder of those left on Earth.
+
+Scene details remain provisional as labelled in that record. Gate One/Four/Nine terminology is not silently mapped onto Operation One’s seven chapter numbers. Existing chapter scripts, protected opening chronology, and escape-pod assignments are not changed by this development record.
