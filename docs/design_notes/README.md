@@ -36,3 +36,7 @@ Approved design notes are canon. Detailed chapter designs and the crew progressi
 - [Beta Readiness Plan](beta_readiness_plan.md) — canon. The pivot from lore expansion to beta readiness: the beta slice standard, six priority chunks from build health to performance and resilience, and the beta release gate.
 - [Talia Rusk Cultural Consultation](talia_rusk_cultural_consultation.md) — canon. The consultation process for Talia Rusk's Indigenous representation: ownership by the First Nations project team, ongoing review rather than a one-time check, minimum outcomes before cultural specifics can be written, and timing relative to beta.
 - [Studio Remediation Plan](studio_remediation_plan.md) — canon. Actionable companion to the readiness review: confirms the four missing bridge documents, audits cross-reference coverage and the Audio Bible's source-of-truth status, and groups every fix into five prioritised chunks with a recommended execution order.
+
+## Character and later-gate development
+
+[Character Perspectives, Belonging, and Earth Return](character_perspectives_belonging_earth_return.md) — authorised development record, 4 October 2026. Preserves creator-confirmed purpose and corrections, with provisional Gate One perspectives, the Deaf doctor’s dog-rescue arc through Gate Nine, the six characters’ friendship, and the proposed Gate Four Earth-return plot. Specific scenes and their alignment with established chronology remain in development; this is not an overwrite of locked chapters.
