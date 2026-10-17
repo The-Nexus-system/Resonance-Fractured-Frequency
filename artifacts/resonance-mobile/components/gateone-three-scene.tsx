@@ -13,6 +13,8 @@ import React, { useMemo } from 'react';
 import { View, Text } from 'react-native';
 import { useFrame } from '@react-three/fiber';
 import { Canvas } from './world3d/fiber-canvas';
+import { GateOneLighting } from './gateone-lighting';
+import * as THREE from 'three';
 import { WALKABLE, PLACES, type Rect } from '@/lib/gateone/world';
 import type { EngineSnapshot } from '@/lib/gateone/engine';
 
@@ -24,10 +26,11 @@ type SurfaceProps = {
   color: string;
   metal?: number;
   rough?: number;
+  cast?: boolean;
 };
-function Surface({ at, size, color, metal = 0.65, rough = 0.58 }: SurfaceProps) {
+function Surface({ at, size, color, metal = 0.65, rough = 0.58, cast = true }: SurfaceProps) {
   return (
-    <mesh position={at}>
+    <mesh position={at} castShadow={cast} receiveShadow>
       <boxGeometry args={size} />
       <meshStandardMaterial color={color} metalness={metal} roughness={rough} />
     </mesh>
@@ -112,7 +115,7 @@ function Architecture() {
         const finish = FINISH[i];
         return (
           <group key={i}>
-            <Surface at={[cx, -0.06, -cy]} size={[width, 0.12, depth]} color={finish.floor} />
+            <Surface at={[cx, -0.06, -cy]} size={[width, 0.12, depth]} color={finish.floor} cast={false} />
             <Surface at={[cx, HEIGHT + 0.06, -cy]} size={[width, 0.12, depth]} color={finish.wall} />
             {[r.x1 + 0.35, r.x2 - 0.35].map(x => (
               <Surface key={x} at={[x, 0.015, -cy]} size={[0.035, 0.015, depth]} color="#92a09b" />
@@ -383,14 +386,14 @@ function MovingPeople({ npcs }: { npcs: EngineSnapshot['npcs'] }) {
             ) : (
               <group>
                 {/* Clothing, posture and carried items—not colour alone—separate roles. */}
-                <mesh position={[0, height * 0.55, 0]}>
+                <mesh position={[0, height * 0.55, 0]} castShadow>
                   <capsuleGeometry args={[child ? 0.20 : 0.28, height * 0.39, 4, 9]} />
                   <meshStandardMaterial
                     color={worker ? '#9ca9a2' : child ? '#b2a080' : '#758f94'}
                     roughness={0.92}
                   />
                 </mesh>
-                <mesh position={[0, height * 0.96, 0]}>
+                <mesh position={[0, height * 0.96, 0]} castShadow>
                   <sphereGeometry args={[child ? 0.16 : 0.19, 10, 10]} />
                   <meshStandardMaterial color="#b5a89a" roughness={0.92} />
                 </mesh>
@@ -468,12 +471,18 @@ export function GateOneThreeScene({ snap, height = 190 }: { snap: EngineSnapshot
         <Canvas
           camera={{ fov: 72, near: 0.1, far: 100 }}
           gl={{ antialias: true }}
+          shadows
+          onCreated={({ gl }) => {
+            gl.toneMapping = THREE.ACESFilmicToneMapping;
+            gl.toneMappingExposure = 1.12;
+            gl.shadowMap.enabled = true;
+            gl.shadowMap.type = THREE.PCFSoftShadowMap;
+          }}
           style={{ flex: 1 }}
         >
           <color attach="background" args={['#0c1a1e']} />
           <fog attach="fog" args={['#0c1a1e', 12, 65]} />
-          <ambientLight intensity={0.65} />
-          <directionalLight position={[6, 10, -4]} intensity={0.72} />
+          <GateOneLighting zone={snap.zone} hatchOpen={snap.hatchOpen} shadowResolution={384} />
           <PlayerCamera x={snap.x} y={snap.y} heading={snap.heading} />
           <Architecture />
           <LivedInSpaces hatchOpen={snap.hatchOpen} />
