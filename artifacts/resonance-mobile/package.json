@@ -9,7 +9,9 @@
     "serve": "node server/serve.js",
     "typecheck": "tsc -p tsconfig.json --noEmit",
     "test:spatial": "tsx --test lib/spatial/__tests__/world.test.ts lib/spatial/__tests__/announce.test.ts lib/spatial/__tests__/vertical-slice.test.ts lib/spatial/__tests__/phase4-completion.test.ts",
-    "test:gateone": "tsx --test lib/gateone/__tests__/gate-one.test.ts"
+    "test:gateone": "tsx --test lib/gateone/__tests__/gate-one.test.ts",
+    "dev:local": "expo start --dev-client",
+    "bundle:ios": "expo export --platform ios"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
