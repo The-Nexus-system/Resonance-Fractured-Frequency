@@ -12,25 +12,25 @@
 import { createAudioPlayer, type AudioPlayer } from 'expo-audio';
 import type { ZoneId } from './world';
 
-// Static imports make Expo/Metro bundle real Ogg media into the app offline.
+// Static imports bundle native AAC audio offline; Ogg source files stay for provenance.
 const FOOTSTEPS = [
-  require('../../assets/audio/gateone/Fantozzi-StoneL1.ogg'),
-  require('../../assets/audio/gateone/Fantozzi-StoneR1.ogg'),
-  require('../../assets/audio/gateone/Fantozzi-StoneL2.ogg'),
-  require('../../assets/audio/gateone/Fantozzi-StoneR2.ogg'),
-  require('../../assets/audio/gateone/Fantozzi-StoneL3.ogg'),
-  require('../../assets/audio/gateone/Fantozzi-StoneR3.ogg'),
+  require('../../assets/audio/gateone/Fantozzi-StoneL1.m4a'),
+  require('../../assets/audio/gateone/Fantozzi-StoneR1.m4a'),
+  require('../../assets/audio/gateone/Fantozzi-StoneL2.m4a'),
+  require('../../assets/audio/gateone/Fantozzi-StoneR2.m4a'),
+  require('../../assets/audio/gateone/Fantozzi-StoneL3.m4a'),
+  require('../../assets/audio/gateone/Fantozzi-StoneR3.m4a'),
 ] as const;
 
 const AMBIENCE = {
-  concourse: require('../../assets/audio/gateone/boilerRoom06.ogg'),
-  bridge: require('../../assets/audio/gateone/geofon17.ogg'),
-  hearth: require('../../assets/audio/gateone/geofon24.ogg'),
+  concourse: require('../../assets/audio/gateone/boilerRoom06.m4a'),
+  bridge: require('../../assets/audio/gateone/geofon17.m4a'),
+  hearth: require('../../assets/audio/gateone/geofon24.m4a'),
 } as const;
 
-const HATCH_SWITCH = require('../../assets/audio/gateone/leverSwitch014.ogg');
-const HATCH_GEARS = require('../../assets/audio/gateone/tinyGears003.ogg');
-const SECOND_SWITCH = require('../../assets/audio/gateone/leverSwitchSmall003.ogg');
+const HATCH_SWITCH = require('../../assets/audio/gateone/leverSwitch014.m4a');
+const HATCH_GEARS = require('../../assets/audio/gateone/tinyGears003.m4a');
+const SECOND_SWITCH = require('../../assets/audio/gateone/leverSwitchSmall003.m4a');
 
 const MAX_ONESHOTS = 4;
 
