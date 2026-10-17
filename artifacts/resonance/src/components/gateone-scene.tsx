@@ -16,6 +16,8 @@ import { Component, useEffect, useMemo, type ReactNode } from "react";
 import { WALKABLE, type Rect } from "@/lib/gateone/world";
 import type { EngineSnapshot } from "@/lib/gateone/engine";
 import { GateOneEnvironment, GateOneNpc } from "./gateone-environment";
+import { GateOneLighting } from "./gateone-lighting";
+import * as THREE from "three";
 
 export function supportsWebGL(): boolean {
   try {
@@ -119,24 +121,28 @@ function GateOneSceneInner({ snap }: { snap: EngineSnapshot }) {
   return (
     <Canvas
       gl={{ antialias: true }}
+      shadows
       camera={{ fov: 70, near: 0.1, far: 90 }}
       style={{ width: "100%", height: "100%", display: "block" }}
       aria-hidden="true"
-      onCreated={({ camera }) => {
+      onCreated={({ camera, gl }) => {
         camera.rotation.order = "YXZ";
+        gl.toneMapping = THREE.ACESFilmicToneMapping;
+        gl.toneMappingExposure = 1.15;
+        gl.shadowMap.enabled = true;
+        gl.shadowMap.type = THREE.PCFSoftShadowMap;
       }}
     >
       <color attach="background" args={[tint.fog]} />
       <fog attach="fog" args={[tint.fog, 8, 60]} />
-      <ambientLight intensity={0.55} />
-      <directionalLight position={[6, 12, -4]} intensity={0.7} />
+      <GateOneLighting zone={snap.zone} hatchOpen={snap.hatchOpen} shadowResolution={768} />
 
       {/* Camera follows the engine pose exactly (never animated separately). */}
       <CameraRig x={snap.x} y={snap.y} heading={snap.heading} />
 
       {/* Floors */}
       {WALKABLE.map((r, i) => (
-        <mesh key={`f${i}`} position={[(r.x1 + r.x2) / 2, -0.05, -(r.y1 + r.y2) / 2]}>
+        <mesh key={`f${i}`} receiveShadow position={[(r.x1 + r.x2) / 2, -0.05, -(r.y1 + r.y2) / 2]}>
           <boxGeometry args={[r.x2 - r.x1, 0.1, r.y2 - r.y1]} />
           <meshStandardMaterial color={i < 2 ? ZONE_TINT.cabin.floor : i < 5 ? ZONE_TINT.concourse.floor : i === 5 ? ZONE_TINT.bridge.floor : ZONE_TINT.hearth.floor} />
         </mesh>
@@ -151,7 +157,7 @@ function GateOneSceneInner({ snap }: { snap: EngineSnapshot }) {
         const length = r.y2 - r.y1;
         return (
           <group key={"ship-fittings-" + i}>
-            <mesh position={[cx, WALL_HEIGHT + 0.08, -cy]}>
+            <mesh receiveShadow position={[cx, WALL_HEIGHT + 0.08, -cy]}>
               <boxGeometry args={[width, 0.13, length]} />
               <meshStandardMaterial color="#344449" metalness={0.68} roughness={0.54} />
             </mesh>
@@ -186,7 +192,7 @@ function GateOneSceneInner({ snap }: { snap: EngineSnapshot }) {
         const berthViewport = w.w < 0.5 && Math.abs(w.cx - 20) < 0.25 && w.cy > 58 && w.cy < 62;
         return !cabinWindow && !berthViewport;
       }).map((w, i) => (
-        <mesh key={`w${i}`} position={[w.cx, WALL_HEIGHT / 2, -w.cy]}>
+        <mesh key={`w${i}`} receiveShadow position={[w.cx, WALL_HEIGHT / 2, -w.cy]}>
           <boxGeometry args={[w.w, WALL_HEIGHT, w.d]} />
           <meshStandardMaterial color={tint.wall} />
         </mesh>
