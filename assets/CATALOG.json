@@ -385,6 +385,22 @@
       "preferredUse": "Accessible/dyslexia-friendly UI typography on both clients.",
       "status": "approved-per-file",
       "notes": "Keep each font's license file under assets/audio/licenses/ (shared evidence area)."
+    },
+    {
+      "id": "SRC-AUD-018",
+      "category": "audio",
+      "name": "Fantozzi Footsteps (OpenGameArt)",
+      "creator": "Fantozzi",
+      "location": "https://opengameart.org/node/21492",
+      "license": "CC0-1.0",
+      "commercialUse": true,
+      "attribution": "Not required (CC0); voluntary credit to Fantozzi.",
+      "modificationRedistribution": "Unrestricted under CC0.",
+      "wholePackApproved": false,
+      "purchase": "Free",
+      "preferredUse": "Footstep foley — stone and hard surfaces.",
+      "status": "approved",
+      "notes": "Added Oct 17, 2026 for the Gate One wiring: staged subset is the 6 stone footstep files (L/R pairs, RSN-SFX-071..076). Original recordings published by Fantozzi on Freesound (pack 10338) under CC0; OpenGameArt mirror uploaded by qubodup."
     }
   ]
 }
