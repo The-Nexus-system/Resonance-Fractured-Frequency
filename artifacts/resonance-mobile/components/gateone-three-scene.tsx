@@ -14,6 +14,7 @@ import { View, Text } from 'react-native';
 import { useFrame } from '@react-three/fiber';
 import { Canvas } from './world3d/fiber-canvas';
 import { GateOneLighting } from './gateone-lighting';
+import { GATE_ONE_FINISH } from './gateone-materials';
 import * as THREE from 'three';
 import { WALKABLE, PLACES, type Rect } from '@/lib/gateone/world';
 import type { EngineSnapshot } from '@/lib/gateone/engine';
@@ -32,7 +33,12 @@ function Surface({ at, size, color, metal = 0.65, rough = 0.58, cast = true }: S
   return (
     <mesh position={at} castShadow={cast} receiveShadow>
       <boxGeometry args={size} />
-      <meshStandardMaterial color={color} metalness={metal} roughness={rough} />
+      <meshStandardMaterial
+        color={color}
+        metalness={metal}
+        roughness={rough}
+        map={at[1] < 0 && size[0] > 2 ? GATE_ONE_FINISH.deck : metal >= 0.45 ? GATE_ONE_FINISH.hull : undefined}
+      />
     </mesh>
   );
 }
