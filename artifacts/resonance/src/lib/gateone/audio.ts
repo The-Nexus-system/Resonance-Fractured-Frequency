@@ -296,20 +296,28 @@ export class SpatialAudio {
     }
   }
 
-  /** One positional one-shot of a registered file (bridge accents). */
-  private playPositionalOnce(file: string, x: number, y: number, volume: number) {
+  /**
+   * One positional one-shot of a registered file (bridge accents, hatch
+   * cycle, braking event). Safe to call before the file has decoded; the
+   * shot is simply skipped if the file cannot load.
+   */
+  playFileOnce(file: string, x: number, y: number, volume: number, delayMs = 0) {
     if (!this.ctx || !this.master) return;
     const ctx = this.ctx;
-    this.loadBuffer(file).then((buf) => {
-      if (!buf || !this.ctx) return;
-      const panner = this.makePanner(x, y);
-      const gain = ctx.createGain();
-      gain.gain.value = volume;
-      const src = ctx.createBufferSource();
-      src.buffer = buf;
-      src.connect(gain).connect(panner).connect(this.master!);
-      src.start();
-    });
+    const fire = () => {
+      this.loadBuffer(file).then((buf) => {
+        if (!buf || !this.ctx) return;
+        const panner = this.makePanner(x, y);
+        const gain = ctx.createGain();
+        gain.gain.value = volume;
+        const src = ctx.createBufferSource();
+        src.buffer = buf;
+        src.connect(gain).connect(panner).connect(this.master!);
+        src.start();
+      });
+    };
+    if (delayMs > 0) setTimeout(fire, delayMs);
+    else fire();
   }
 
   /** Zone ambient bed. Replaces the previous bed with a short crossfade. */
@@ -423,24 +431,30 @@ export class SpatialAudio {
         const file = BRIDGE_ACCENTS[Math.floor(Math.random() * BRIDGE_ACCENTS.length)];
         const x = -8 + Math.random() * 16;
         const y = 64 + Math.random() * 12;
-        this.playPositionalOnce(file, x, y, file.startsWith("creak") ? 0.5 : 0.3);
+        this.playFileOnce(file, x, y, file.startsWith("creak") ? 0.5 : 0.3);
         this.accentTimer = setTimeout(tick, 9000 + Math.random() * 11000);
       };
       this.accentTimer = setTimeout(tick, 4000 + Math.random() * 4000);
     }
   }
 
-  /** Engine braking: audible pitch drop on the cabin hum. */
+  /**
+   * Engine braking event: the recorded braking one-shot at the cabin
+   * viewport [02] over a softened synthesised pitch drop (the ship's hum
+   * falling — kept as a layer because the recording carries the brake
+   * mechanics, not the hum itself).
+   */
   brakingShift() {
     if (!this.ctx || !this.master) return;
     const ctx = this.ctx;
+    this.playFileOnce("decelerate2__1210.ogg", 0, 34, 0.85);
     const osc = ctx.createOscillator();
     const gain = ctx.createGain();
     osc.type = "sine";
     osc.frequency.setValueAtTime(88, ctx.currentTime);
     osc.frequency.exponentialRampToValueAtTime(52, ctx.currentTime + 3.2);
     gain.gain.setValueAtTime(0.0001, ctx.currentTime);
-    gain.gain.exponentialRampToValueAtTime(0.07, ctx.currentTime + 0.4);
+    gain.gain.exponentialRampToValueAtTime(0.05, ctx.currentTime + 0.4);
     gain.gain.exponentialRampToValueAtTime(0.0001, ctx.currentTime + 5.5);
     osc.connect(gain).connect(this.master);
     osc.start();
