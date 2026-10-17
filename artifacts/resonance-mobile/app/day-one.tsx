@@ -5,7 +5,7 @@
  * caption and VoiceOver announcement equivalent.
  */
 import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react';
-import { Pressable, ScrollView, StyleSheet, View } from 'react-native';
+import { Pressable, ScrollView, StyleSheet, View, useWindowDimensions } from 'react-native';
 import { useRouter } from 'expo-router';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 import { GameButton, ScreenContainer, ThemedText } from '@/components/ui';
@@ -34,6 +34,7 @@ const sy = (y: number) => MAP_H - ((y - WY0) / (WY1 - WY0)) * MAP_H;
 
 export default function DayOneScreen() {
   const router = useRouter();
+  const { height: displayHeight } = useWindowDimensions();
   const {
     colors, haptic, announce, playUri, settings, gateOne, updateGateOne, minTargetHeight,
   } = useGame();
@@ -44,6 +45,7 @@ export default function DayOneScreen() {
   const [snap, setSnap] = useState<EngineSnapshot | null>(null);
   // Presentation choice only: both views read the same semantic engine state.
   const [presentation, setPresentation] = useState<'3d' | 'map'>('3d');
+  const [expanded, setExpanded] = useState(false);
   const engineRef = useRef<GateOneNativeEngine | null>(null);
   const recordedAudioRef = useRef<GateOneRecordedAudio | null>(null);
   const lastHatchRef = useRef(false);
@@ -209,6 +211,7 @@ export default function DayOneScreen() {
           <ThemedText variant="title" accessibilityRole="header" style={styles.doneTitle}>
             You have reached the first lift
           </ThemedText>
+          {snap && <GateOneThreeScene snap={snap} height={Math.min(320, displayHeight * 0.42)} />}
           <ThemedText variant="body" color={colors.mutedForeground} style={styles.introText}>
             "Medical intake first. Everybody. Forward. First lift. Deck Three."
           </ThemedText>
@@ -242,7 +245,12 @@ export default function DayOneScreen() {
         </ThemedText>
       </View>
 
-      {snap && presentation === '3d' && <GateOneThreeScene snap={snap} />}
+      {snap && presentation === '3d' && (
+        <GateOneThreeScene
+          snap={snap}
+          height={expanded ? Math.max(280, Math.min(displayHeight * 0.55, 560)) : 190}
+        />
+      )}
       {snap && presentation === 'map' && (
         <View
           accessible={false}
@@ -283,6 +291,14 @@ export default function DayOneScreen() {
         </View>
       )}
 
+      {snap && presentation === '3d' && (
+        <GameButton
+          label={expanded ? 'Compact 3-D view' : 'Expand 3-D view'}
+          variant="outline"
+          testID="button-gateone-expand"
+          onPress={() => setExpanded(current => !current)}
+        />
+      )}
       {snap && (
         <GameButton
           label={presentation === '3d' ? 'Show 2-D map' : 'Show 3-D world'}
