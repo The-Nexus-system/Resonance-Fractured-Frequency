@@ -7,5 +7,671 @@
     "artistCredit": "Fractured Flow",
     "rule": "Original creative work is credited to Fractured Flow, never to a production tool. Tool/generation details are recorded internally in each entry for compliance only, unless a license legally requires player-facing attribution."
   },
-  "assets": []
+  "assets": [
+    {
+      "id": "RSN-SFX-001",
+      "name": "Transport pod travel bed",
+      "type": "sfx",
+      "originalFilename": "pod.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file sci_fi_vehicles_transport_and_lifts_pod.ogg (local runtime assetPath m4a/miriani/misc/Lifts and Transports/pod.m4a); masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/pod__735.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 16-bit 44.1 kHz WAV master (Nexus staged selection) -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 01 (Earth transport bed) — setAmbient('cabin') main layer; also the concourse and hearth profile base layer at lower level (wiring map)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file sci_fi_vehicles_transport_and_lifts_pod.ogg); staged game-ready WAV held in the Nexus workspace at resonance-audio-ingest/selected/01-transport-bed/pod__735.wav; staged-source sha256 8e1434ddf612c49893b4b7ddb6550052d82a496cf78e58d77551f53e76b165d0.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026: no identifiable per-file origin or licence terms; the pack carries pack-level attribution only). Registered under Kit's revised ruling (Oct 17, 2026): no blanket quarantine; only sounds positively identified as franchise-derived are flagged individually — a full filename scan of the library found no franchise-identifying names in this selection. Nexus direction (Oct 17, 2026): the credit chain is preserved exactly as the pack gives it and tops out at the names the pack itself credits, including the Star Wars ULTIMATE SFX COLLECTION, because no other attribution exists; nothing in this record claims a licence from Disney or Lucasfilm, and a permission-contact list for the identifiable holders is held with the sound library research. Commercial-release posture is held separately from wiring: the project intends commercial distribution licences for all shipped sounds by publication (App Store), via replacement, permission, or exclusion for anything that cannot be cleared. The commercialUse field records the project's shipping posture per the registry rule for assets wired into the game, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-022",
+      "name": "Concourse crowd chatter wash",
+      "type": "sfx",
+      "originalFilename": "chatter.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file sci_fi_people_and_daily_life_public_chatter_and_announcements_chatter.ogg (local runtime assetPath m4a/miriani/comm/chatter.m4a); masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/chatter__328.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 16-bit 44.1 kHz WAV master (Nexus staged selection) -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 05 (crowd and announcements) — setAmbient('concourse') wash layer; positional chatter fixtures fx-child, fx-sign, fx-arrivals and NPC chatter loops (wiring map)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file sci_fi_people_and_daily_life_public_chatter_and_announcements_chatter.ogg); staged game-ready WAV held in the Nexus workspace at resonance-audio-ingest/selected/05-crowd/chatter__328.wav; staged-source sha256 f6a0ca5f89b29f9e157aeb66fdf2129dc36f9e90525b7143e3ec28f7e93eb8e0.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026: no identifiable per-file origin or licence terms; the pack carries pack-level attribution only). Registered under Kit's revised ruling (Oct 17, 2026): no blanket quarantine; only sounds positively identified as franchise-derived are flagged individually — a full filename scan of the library found no franchise-identifying names in this selection. Nexus direction (Oct 17, 2026): the credit chain is preserved exactly as the pack gives it and tops out at the names the pack itself credits, including the Star Wars ULTIMATE SFX COLLECTION, because no other attribution exists; nothing in this record claims a licence from Disney or Lucasfilm, and a permission-contact list for the identifiable holders is held with the sound library research. Commercial-release posture is held separately from wiring: the project intends commercial distribution licences for all shipped sounds by publication (App Store), via replacement, permission, or exclusion for anything that cannot be cleared. The commercialUse field records the project's shipping posture per the registry rule for assets wired into the game, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-045",
+      "name": "Docking bay machinery loop",
+      "type": "sfx",
+      "originalFilename": "dockingBay.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file sci_fi_places_and_habitats_dockingBay.ogg (local runtime assetPath m4a/miriani/ambiance/dockingBay.m4a); masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/dockingBay__164.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 16-bit 44.1 kHz WAV master (Nexus staged selection) -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 11 (arrival exterior) — positional machine loop at the concourse berth viewport, fixture fx-berth (wiring map)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file sci_fi_places_and_habitats_dockingBay.ogg); staged game-ready WAV held in the Nexus workspace at resonance-audio-ingest/selected/11-exterior/dockingBay__164.wav; staged-source sha256 73c7a31bed495c135b5125c40766ebf1f78ead1453eb472427cc1f92d797a692.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026: no identifiable per-file origin or licence terms; the pack carries pack-level attribution only). Registered under Kit's revised ruling (Oct 17, 2026): no blanket quarantine; only sounds positively identified as franchise-derived are flagged individually — a full filename scan of the library found no franchise-identifying names in this selection. Nexus direction (Oct 17, 2026): the credit chain is preserved exactly as the pack gives it and tops out at the names the pack itself credits, including the Star Wars ULTIMATE SFX COLLECTION, because no other attribution exists; nothing in this record claims a licence from Disney or Lucasfilm, and a permission-contact list for the identifiable holders is held with the sound library research. Commercial-release posture is held separately from wiring: the project intends commercial distribution licences for all shipped sounds by publication (App Store), via replacement, permission, or exclusion for anything that cannot be cleared. The commercialUse field records the project's shipping posture per the registry rule for assets wired into the game, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-050",
+      "name": "Starship deck plate 1",
+      "type": "sfx",
+      "originalFilename": "starship1.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file unclassified_starship1.ogg (local runtime assetPath m4a/miriani/steps/starship1.m4a); masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/starship1__1527.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 16-bit 44.1 kHz WAV master (Nexus staged selection) -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 12 (boarding bridge) — positional environment sources along the bridge; same source also recorded for identity 16 grating footsteps (shared source, distinct use) (wiring map)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file unclassified_starship1.ogg); staged game-ready WAV held in the Nexus workspace at resonance-audio-ingest/selected/16-footsteps-grating/starship1__1527.wav; staged-source sha256 92095402fc38b6a049dda0a8350e7febc110cf4ad0d34ff43f696db09dde7371.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026: no identifiable per-file origin or licence terms; the pack carries pack-level attribution only). Registered under Kit's revised ruling (Oct 17, 2026): no blanket quarantine; only sounds positively identified as franchise-derived are flagged individually — a full filename scan of the library found no franchise-identifying names in this selection. Nexus direction (Oct 17, 2026): the credit chain is preserved exactly as the pack gives it and tops out at the names the pack itself credits, including the Star Wars ULTIMATE SFX COLLECTION, because no other attribution exists; nothing in this record claims a licence from Disney or Lucasfilm, and a permission-contact list for the identifiable holders is held with the sound library research. Commercial-release posture is held separately from wiring: the project intends commercial distribution licences for all shipped sounds by publication (App Store), via replacement, permission, or exclusion for anything that cannot be cleared. The commercialUse field records the project's shipping posture per the registry rule for assets wired into the game, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-051",
+      "name": "Starship deck plate 2",
+      "type": "sfx",
+      "originalFilename": "starship2.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file unclassified_starship2.ogg (local runtime assetPath m4a/miriani/steps/starship2.m4a); masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/starship2__1528.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 16-bit 44.1 kHz WAV master (Nexus staged selection) -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 12 (boarding bridge) — positional environment sources along the bridge; same source also recorded for identity 16 grating footsteps (shared source, distinct use) (wiring map)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file unclassified_starship2.ogg); staged game-ready WAV held in the Nexus workspace at resonance-audio-ingest/selected/16-footsteps-grating/starship2__1528.wav; staged-source sha256 a254c2d161e9da57fcc0c396a90f70b90c2201624d2e976a8753fb91998903ba.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026: no identifiable per-file origin or licence terms; the pack carries pack-level attribution only). Registered under Kit's revised ruling (Oct 17, 2026): no blanket quarantine; only sounds positively identified as franchise-derived are flagged individually — a full filename scan of the library found no franchise-identifying names in this selection. Nexus direction (Oct 17, 2026): the credit chain is preserved exactly as the pack gives it and tops out at the names the pack itself credits, including the Star Wars ULTIMATE SFX COLLECTION, because no other attribution exists; nothing in this record claims a licence from Disney or Lucasfilm, and a permission-contact list for the identifiable holders is held with the sound library research. Commercial-release posture is held separately from wiring: the project intends commercial distribution licences for all shipped sounds by publication (App Store), via replacement, permission, or exclusion for anything that cannot be cleared. The commercialUse field records the project's shipping posture per the registry rule for assets wired into the game, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-052",
+      "name": "Starship deck plate 3",
+      "type": "sfx",
+      "originalFilename": "starship3.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file unclassified_starship3.ogg (local runtime assetPath m4a/miriani/steps/starship3.m4a); masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/starship3__1529.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 16-bit 44.1 kHz WAV master (Nexus staged selection) -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 12 (boarding bridge) — positional environment sources along the bridge; same source also recorded for identity 16 grating footsteps (shared source, distinct use) (wiring map)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file unclassified_starship3.ogg); staged game-ready WAV held in the Nexus workspace at resonance-audio-ingest/selected/16-footsteps-grating/starship3__1529.wav; staged-source sha256 a3dc57a5a1eca9e0937b02dd89dacc22734984282e3d91e05d1edfae943ea192.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026: no identifiable per-file origin or licence terms; the pack carries pack-level attribution only). Registered under Kit's revised ruling (Oct 17, 2026): no blanket quarantine; only sounds positively identified as franchise-derived are flagged individually — a full filename scan of the library found no franchise-identifying names in this selection. Nexus direction (Oct 17, 2026): the credit chain is preserved exactly as the pack gives it and tops out at the names the pack itself credits, including the Star Wars ULTIMATE SFX COLLECTION, because no other attribution exists; nothing in this record claims a licence from Disney or Lucasfilm, and a permission-contact list for the identifiable holders is held with the sound library research. Commercial-release posture is held separately from wiring: the project intends commercial distribution licences for all shipped sounds by publication (App Store), via replacement, permission, or exclusion for anything that cannot be cleared. The commercialUse field records the project's shipping posture per the registry rule for assets wired into the game, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-053",
+      "name": "Starship deck plate 4",
+      "type": "sfx",
+      "originalFilename": "starship4.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file unclassified_starship4.ogg (local runtime assetPath m4a/miriani/steps/starship4.m4a); masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/starship4__1530.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 16-bit 44.1 kHz WAV master (Nexus staged selection) -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 12 (boarding bridge) — positional environment sources along the bridge; same source also recorded for identity 16 grating footsteps (shared source, distinct use) (wiring map)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file unclassified_starship4.ogg); staged game-ready WAV held in the Nexus workspace at resonance-audio-ingest/selected/16-footsteps-grating/starship4__1530.wav; staged-source sha256 2fb3dd9763474ef96d334f23b7fc9bda6baafb7867e56deb0e14e86606ba14b3.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026: no identifiable per-file origin or licence terms; the pack carries pack-level attribution only). Registered under Kit's revised ruling (Oct 17, 2026): no blanket quarantine; only sounds positively identified as franchise-derived are flagged individually — a full filename scan of the library found no franchise-identifying names in this selection. Nexus direction (Oct 17, 2026): the credit chain is preserved exactly as the pack gives it and tops out at the names the pack itself credits, including the Star Wars ULTIMATE SFX COLLECTION, because no other attribution exists; nothing in this record claims a licence from Disney or Lucasfilm, and a permission-contact list for the identifiable holders is held with the sound library research. Commercial-release posture is held separately from wiring: the project intends commercial distribution licences for all shipped sounds by publication (App Store), via replacement, permission, or exclusion for anything that cannot be cleared. The commercialUse field records the project's shipping posture per the registry rule for assets wired into the game, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-054",
+      "name": "Starship deck plate 5",
+      "type": "sfx",
+      "originalFilename": "starship5.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file unclassified_starship5.ogg (local runtime assetPath m4a/miriani/steps/starship5.m4a); masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/starship5__1531.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 16-bit 44.1 kHz WAV master (Nexus staged selection) -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 12 (boarding bridge) — positional environment sources along the bridge; same source also recorded for identity 16 grating footsteps (shared source, distinct use) (wiring map)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file unclassified_starship5.ogg); staged game-ready WAV held in the Nexus workspace at resonance-audio-ingest/selected/16-footsteps-grating/starship5__1531.wav; staged-source sha256 b8d59c7a7c7d9349c20985bef0a68feaddd3b76ad285ddac9aed0dcd4680f96d.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026: no identifiable per-file origin or licence terms; the pack carries pack-level attribution only). Registered under Kit's revised ruling (Oct 17, 2026): no blanket quarantine; only sounds positively identified as franchise-derived are flagged individually — a full filename scan of the library found no franchise-identifying names in this selection. Nexus direction (Oct 17, 2026): the credit chain is preserved exactly as the pack gives it and tops out at the names the pack itself credits, including the Star Wars ULTIMATE SFX COLLECTION, because no other attribution exists; nothing in this record claims a licence from Disney or Lucasfilm, and a permission-contact list for the identifiable holders is held with the sound library research. Commercial-release posture is held separately from wiring: the project intends commercial distribution licences for all shipped sounds by publication (App Store), via replacement, permission, or exclusion for anything that cannot be cleared. The commercialUse field records the project's shipping posture per the registry rule for assets wired into the game, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-055",
+      "name": "Starship deck plate 6",
+      "type": "sfx",
+      "originalFilename": "starship6.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file unclassified_starship6.ogg (local runtime assetPath m4a/miriani/steps/starship6.m4a); masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/starship6__1532.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 16-bit 44.1 kHz WAV master (Nexus staged selection) -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 12 (boarding bridge) — positional environment sources along the bridge; same source also recorded for identity 16 grating footsteps (shared source, distinct use) (wiring map)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file unclassified_starship6.ogg); staged game-ready WAV held in the Nexus workspace at resonance-audio-ingest/selected/16-footsteps-grating/starship6__1532.wav; staged-source sha256 8ec72a5cef1789eb5453368b3df691133c8d95b7609937858c1e8aafc83d8377.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026: no identifiable per-file origin or licence terms; the pack carries pack-level attribution only). Registered under Kit's revised ruling (Oct 17, 2026): no blanket quarantine; only sounds positively identified as franchise-derived are flagged individually — a full filename scan of the library found no franchise-identifying names in this selection. Nexus direction (Oct 17, 2026): the credit chain is preserved exactly as the pack gives it and tops out at the names the pack itself credits, including the Star Wars ULTIMATE SFX COLLECTION, because no other attribution exists; nothing in this record claims a licence from Disney or Lucasfilm, and a permission-contact list for the identifiable holders is held with the sound library research. Commercial-release posture is held separately from wiring: the project intends commercial distribution licences for all shipped sounds by publication (App Store), via replacement, permission, or exclusion for anything that cannot be cleared. The commercialUse field records the project's shipping posture per the registry rule for assets wired into the game, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-056",
+      "name": "Starship deck plate 7",
+      "type": "sfx",
+      "originalFilename": "starship7.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file unclassified_starship7.ogg (local runtime assetPath m4a/miriani/steps/starship7.m4a); masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/starship7__1533.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 16-bit 44.1 kHz WAV master (Nexus staged selection) -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 12 (boarding bridge) — positional environment sources along the bridge; same source also recorded for identity 16 grating footsteps (shared source, distinct use) (wiring map)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file unclassified_starship7.ogg); staged game-ready WAV held in the Nexus workspace at resonance-audio-ingest/selected/16-footsteps-grating/starship7__1533.wav; staged-source sha256 9230212b529ee36c2e27085c8979c89c3471747b5645be54ac60797b8b15694f.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026: no identifiable per-file origin or licence terms; the pack carries pack-level attribution only). Registered under Kit's revised ruling (Oct 17, 2026): no blanket quarantine; only sounds positively identified as franchise-derived are flagged individually — a full filename scan of the library found no franchise-identifying names in this selection. Nexus direction (Oct 17, 2026): the credit chain is preserved exactly as the pack gives it and tops out at the names the pack itself credits, including the Star Wars ULTIMATE SFX COLLECTION, because no other attribution exists; nothing in this record claims a licence from Disney or Lucasfilm, and a permission-contact list for the identifiable holders is held with the sound library research. Commercial-release posture is held separately from wiring: the project intends commercial distribution licences for all shipped sounds by publication (App Store), via replacement, permission, or exclusion for anything that cannot be cleared. The commercialUse field records the project's shipping posture per the registry rule for assets wired into the game, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-057",
+      "name": "Starship deck plate 8",
+      "type": "sfx",
+      "originalFilename": "starship8.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file unclassified_starship8.ogg (local runtime assetPath m4a/miriani/steps/starship8.m4a); masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/starship8__1534.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 16-bit 44.1 kHz WAV master (Nexus staged selection) -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 12 (boarding bridge) — positional environment sources along the bridge; same source also recorded for identity 16 grating footsteps (shared source, distinct use) (wiring map)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file unclassified_starship8.ogg); staged game-ready WAV held in the Nexus workspace at resonance-audio-ingest/selected/16-footsteps-grating/starship8__1534.wav; staged-source sha256 28257c6a7752338214ce6b79b89ed789573835868282846ead59eaeef435756f.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026: no identifiable per-file origin or licence terms; the pack carries pack-level attribution only). Registered under Kit's revised ruling (Oct 17, 2026): no blanket quarantine; only sounds positively identified as franchise-derived are flagged individually — a full filename scan of the library found no franchise-identifying names in this selection. Nexus direction (Oct 17, 2026): the credit chain is preserved exactly as the pack gives it and tops out at the names the pack itself credits, including the Star Wars ULTIMATE SFX COLLECTION, because no other attribution exists; nothing in this record claims a licence from Disney or Lucasfilm, and a permission-contact list for the identifiable holders is held with the sound library research. Commercial-release posture is held separately from wiring: the project intends commercial distribution licences for all shipped sounds by publication (App Store), via replacement, permission, or exclusion for anything that cannot be cleared. The commercialUse field records the project's shipping posture per the registry rule for assets wired into the game, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-058",
+      "name": "Bridge hull creak 1",
+      "type": "sfx",
+      "originalFilename": "creak1.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file sci_fi_vehicles_starship_systems_and_interior_creak1.ogg (local runtime assetPath m4a/miriani/ship/misc/creak1.m4a); masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/creak1__1126.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 16-bit 44.1 kHz WAV master (Nexus staged selection) -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 12 (boarding bridge) — bridge bed creak accents, one at a time at long intervals, position varying along the bridge (wiring map)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file sci_fi_vehicles_starship_systems_and_interior_creak1.ogg); staged game-ready WAV held in the Nexus workspace at resonance-audio-ingest/selected/12-bridge/creak1__1126.wav; staged-source sha256 35a9ff5f8de37220145b67f7969035c6fde03c847cebe0eed32d9b3fffb1153a.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026: no identifiable per-file origin or licence terms; the pack carries pack-level attribution only). Registered under Kit's revised ruling (Oct 17, 2026): no blanket quarantine; only sounds positively identified as franchise-derived are flagged individually — a full filename scan of the library found no franchise-identifying names in this selection. Nexus direction (Oct 17, 2026): the credit chain is preserved exactly as the pack gives it and tops out at the names the pack itself credits, including the Star Wars ULTIMATE SFX COLLECTION, because no other attribution exists; nothing in this record claims a licence from Disney or Lucasfilm, and a permission-contact list for the identifiable holders is held with the sound library research. Commercial-release posture is held separately from wiring: the project intends commercial distribution licences for all shipped sounds by publication (App Store), via replacement, permission, or exclusion for anything that cannot be cleared. The commercialUse field records the project's shipping posture per the registry rule for assets wired into the game, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-059",
+      "name": "Bridge hull creak 2",
+      "type": "sfx",
+      "originalFilename": "creak2.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file sci_fi_vehicles_starship_systems_and_interior_creak2.ogg (local runtime assetPath m4a/miriani/ship/misc/creak2.m4a); masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/creak2__1127.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 16-bit 44.1 kHz WAV master (Nexus staged selection) -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 12 (boarding bridge) — bridge bed creak accents, one at a time at long intervals, position varying along the bridge (wiring map)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file sci_fi_vehicles_starship_systems_and_interior_creak2.ogg); staged game-ready WAV held in the Nexus workspace at resonance-audio-ingest/selected/12-bridge/creak2__1127.wav; staged-source sha256 56e41d7f46bbdf952ef0a17c3e0f9ff7f511c7de1c368ce9e4a578f66d57bc3a.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026: no identifiable per-file origin or licence terms; the pack carries pack-level attribution only). Registered under Kit's revised ruling (Oct 17, 2026): no blanket quarantine; only sounds positively identified as franchise-derived are flagged individually — a full filename scan of the library found no franchise-identifying names in this selection. Nexus direction (Oct 17, 2026): the credit chain is preserved exactly as the pack gives it and tops out at the names the pack itself credits, including the Star Wars ULTIMATE SFX COLLECTION, because no other attribution exists; nothing in this record claims a licence from Disney or Lucasfilm, and a permission-contact list for the identifiable holders is held with the sound library research. Commercial-release posture is held separately from wiring: the project intends commercial distribution licences for all shipped sounds by publication (App Store), via replacement, permission, or exclusion for anything that cannot be cleared. The commercialUse field records the project's shipping posture per the registry rule for assets wired into the game, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-060",
+      "name": "Bridge hull creak 3",
+      "type": "sfx",
+      "originalFilename": "creak3.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file sci_fi_vehicles_starship_systems_and_interior_creak3.ogg (local runtime assetPath m4a/miriani/ship/misc/creak3.m4a); masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/creak3__1128.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 16-bit 44.1 kHz WAV master (Nexus staged selection) -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 12 (boarding bridge) — bridge bed creak accents, one at a time at long intervals, position varying along the bridge (wiring map)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file sci_fi_vehicles_starship_systems_and_interior_creak3.ogg); staged game-ready WAV held in the Nexus workspace at resonance-audio-ingest/selected/12-bridge/creak3__1128.wav; staged-source sha256 d8785784e72619e5d2216707a4283f66cc985386810e96477cfe668d5be7a9bd.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026: no identifiable per-file origin or licence terms; the pack carries pack-level attribution only). Registered under Kit's revised ruling (Oct 17, 2026): no blanket quarantine; only sounds positively identified as franchise-derived are flagged individually — a full filename scan of the library found no franchise-identifying names in this selection. Nexus direction (Oct 17, 2026): the credit chain is preserved exactly as the pack gives it and tops out at the names the pack itself credits, including the Star Wars ULTIMATE SFX COLLECTION, because no other attribution exists; nothing in this record claims a licence from Disney or Lucasfilm, and a permission-contact list for the identifiable holders is held with the sound library research. Commercial-release posture is held separately from wiring: the project intends commercial distribution licences for all shipped sounds by publication (App Store), via replacement, permission, or exclusion for anything that cannot be cleared. The commercialUse field records the project's shipping posture per the registry rule for assets wired into the game, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-061",
+      "name": "Bridge hull creak 4",
+      "type": "sfx",
+      "originalFilename": "creak4.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file sci_fi_vehicles_starship_systems_and_interior_creak4.ogg (local runtime assetPath m4a/miriani/ship/misc/creak4.m4a); masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/creak4__1129.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 16-bit 44.1 kHz WAV master (Nexus staged selection) -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 12 (boarding bridge) — bridge bed creak accents, one at a time at long intervals, position varying along the bridge (wiring map)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file sci_fi_vehicles_starship_systems_and_interior_creak4.ogg); staged game-ready WAV held in the Nexus workspace at resonance-audio-ingest/selected/12-bridge/creak4__1129.wav; staged-source sha256 45c20d718a40578f3ad873730b9ae96adbacdebba92f94eee009e647af47fdfb.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026: no identifiable per-file origin or licence terms; the pack carries pack-level attribution only). Registered under Kit's revised ruling (Oct 17, 2026): no blanket quarantine; only sounds positively identified as franchise-derived are flagged individually — a full filename scan of the library found no franchise-identifying names in this selection. Nexus direction (Oct 17, 2026): the credit chain is preserved exactly as the pack gives it and tops out at the names the pack itself credits, including the Star Wars ULTIMATE SFX COLLECTION, because no other attribution exists; nothing in this record claims a licence from Disney or Lucasfilm, and a permission-contact list for the identifiable holders is held with the sound library research. Commercial-release posture is held separately from wiring: the project intends commercial distribution licences for all shipped sounds by publication (App Store), via replacement, permission, or exclusion for anything that cannot be cleared. The commercialUse field records the project's shipping posture per the registry rule for assets wired into the game, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-063",
+      "name": "Deep hull bed 1",
+      "type": "sfx",
+      "originalFilename": "background1.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file sci_fi_vehicles_starship_systems_and_interior_background1.ogg (local runtime assetPath m4a/miriani/ship/misc/background1.m4a); masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/background1__1109.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 16-bit 44.1 kHz WAV master (Nexus staged selection) -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 14 (deep hull bed) — setAmbient('cabin') low layer (wiring map)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file sci_fi_vehicles_starship_systems_and_interior_background1.ogg); staged game-ready WAV held in the Nexus workspace at resonance-audio-ingest/selected/14-hull-resonance/background1__1109.wav; staged-source sha256 9a67cd37f37301fc4a69cb38aed2a44a36d06432c359da8b3be26bcd72dbf25b.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026: no identifiable per-file origin or licence terms; the pack carries pack-level attribution only). Registered under Kit's revised ruling (Oct 17, 2026): no blanket quarantine; only sounds positively identified as franchise-derived are flagged individually — a full filename scan of the library found no franchise-identifying names in this selection. Nexus direction (Oct 17, 2026): the credit chain is preserved exactly as the pack gives it and tops out at the names the pack itself credits, including the Star Wars ULTIMATE SFX COLLECTION, because no other attribution exists; nothing in this record claims a licence from Disney or Lucasfilm, and a permission-contact list for the identifiable holders is held with the sound library research. Commercial-release posture is held separately from wiring: the project intends commercial distribution licences for all shipped sounds by publication (App Store), via replacement, permission, or exclusion for anything that cannot be cleared. The commercialUse field records the project's shipping posture per the registry rule for assets wired into the game, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-064",
+      "name": "Deep hull bed 4",
+      "type": "sfx",
+      "originalFilename": "background4.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file sci_fi_vehicles_starship_systems_and_interior_background4.ogg (local runtime assetPath m4a/miriani/ship/misc/background4.m4a); masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/background4__1112.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 16-bit 44.1 kHz WAV master (Nexus staged selection) -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 14 (deep hull bed) — setAmbient('concourse') low layer (wiring map)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file sci_fi_vehicles_starship_systems_and_interior_background4.ogg); staged game-ready WAV held in the Nexus workspace at resonance-audio-ingest/selected/14-hull-resonance/background4__1112.wav; staged-source sha256 d623d675850f4afa4b71eb1c8cfda35f0d9f94d4e4f778a101b1fcdbadf37c78.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026: no identifiable per-file origin or licence terms; the pack carries pack-level attribution only). Registered under Kit's revised ruling (Oct 17, 2026): no blanket quarantine; only sounds positively identified as franchise-derived are flagged individually — a full filename scan of the library found no franchise-identifying names in this selection. Nexus direction (Oct 17, 2026): the credit chain is preserved exactly as the pack gives it and tops out at the names the pack itself credits, including the Star Wars ULTIMATE SFX COLLECTION, because no other attribution exists; nothing in this record claims a licence from Disney or Lucasfilm, and a permission-contact list for the identifiable holders is held with the sound library research. Commercial-release posture is held separately from wiring: the project intends commercial distribution licences for all shipped sounds by publication (App Store), via replacement, permission, or exclusion for anything that cannot be cleared. The commercialUse field records the project's shipping posture per the registry rule for assets wired into the game, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-065",
+      "name": "Hearth interior bed 2",
+      "type": "sfx",
+      "originalFilename": "background2.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file sci_fi_vehicles_starship_systems_and_interior_background2.ogg (local runtime assetPath m4a/miriani/ship/misc/background2.m4a); masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/background2__1110.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 16-bit 44.1 kHz WAV master (Nexus staged selection) -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 15 (Hearth interior bed) — setAmbient('hearth') main layer (wiring map)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file sci_fi_vehicles_starship_systems_and_interior_background2.ogg); staged game-ready WAV held in the Nexus workspace at resonance-audio-ingest/selected/15-hearth-interior/background2__1110.wav; staged-source sha256 a89540be1ec44404808a71860eb56245bea470b024c09961bfbd70e1132d086c.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026: no identifiable per-file origin or licence terms; the pack carries pack-level attribution only). Registered under Kit's revised ruling (Oct 17, 2026): no blanket quarantine; only sounds positively identified as franchise-derived are flagged individually — a full filename scan of the library found no franchise-identifying names in this selection. Nexus direction (Oct 17, 2026): the credit chain is preserved exactly as the pack gives it and tops out at the names the pack itself credits, including the Star Wars ULTIMATE SFX COLLECTION, because no other attribution exists; nothing in this record claims a licence from Disney or Lucasfilm, and a permission-contact list for the identifiable holders is held with the sound library research. Commercial-release posture is held separately from wiring: the project intends commercial distribution licences for all shipped sounds by publication (App Store), via replacement, permission, or exclusion for anything that cannot be cleared. The commercialUse field records the project's shipping posture per the registry rule for assets wired into the game, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-066",
+      "name": "Bridge interior bed 3",
+      "type": "sfx",
+      "originalFilename": "background3.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file sci_fi_vehicles_starship_systems_and_interior_background3.ogg (local runtime assetPath m4a/miriani/ship/misc/background3.m4a); masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/background3__1111.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 16-bit 44.1 kHz WAV master (Nexus staged selection) -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 15 (Hearth interior bed set) — setAmbient('bridge') main layer (wiring map)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file sci_fi_vehicles_starship_systems_and_interior_background3.ogg); staged game-ready WAV held in the Nexus workspace at resonance-audio-ingest/selected/15-hearth-interior/background3__1111.wav; staged-source sha256 68f034a58a6163c76626464565c64a8bfd491f21aa3953831f4d1fb609905a54.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026: no identifiable per-file origin or licence terms; the pack carries pack-level attribution only). Registered under Kit's revised ruling (Oct 17, 2026): no blanket quarantine; only sounds positively identified as franchise-derived are flagged individually — a full filename scan of the library found no franchise-identifying names in this selection. Nexus direction (Oct 17, 2026): the credit chain is preserved exactly as the pack gives it and tops out at the names the pack itself credits, including the Star Wars ULTIMATE SFX COLLECTION, because no other attribution exists; nothing in this record claims a licence from Disney or Lucasfilm, and a permission-contact list for the identifiable holders is held with the sound library research. Commercial-release posture is held separately from wiring: the project intends commercial distribution licences for all shipped sounds by publication (App Store), via replacement, permission, or exclusion for anything that cannot be cleared. The commercialUse field records the project's shipping posture per the registry rule for assets wired into the game, not a verified per-file licence."
+    }
+  ]
 }
