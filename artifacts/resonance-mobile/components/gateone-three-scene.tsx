@@ -141,6 +141,120 @@ function Seat({ x, y }: { x: number; y: number }) {
   );
 }
 
+/**
+ * Physical dressing for Gate One's scripted spaces.
+ * These are hand-arranged hard-surface parts: practical, repaired, occupied.
+ * They do not create collision, progression or new fictional interactions.
+ */
+function WorkingStation({ x, y }: { x: number; y: number }) {
+  return (
+    <group position={[x, 0, -y]}>
+      <Surface at={[0, 0.66, 0]} size={[1.55, 0.13, 0.71]} color="#667a7a" />
+      {[-0.63, 0.63].map(edge => (
+        <Surface key={edge} at={[edge, 0.32, 0]} size={[0.09, 0.62, 0.62]} color="#60727a" />
+      ))}
+      <Surface at={[0, 1.11, -0.2]} size={[0.91, 0.70, 0.11]} color="#344e57" />
+      <Surface at={[0, 1.12, -0.14]} size={[0.75, 0.49, 0.018]} color="#83afa9" metal={0.14} rough={0.32} />
+      <Surface at={[0.62, 0.75, 0.16]} size={[0.15, 0.07, 0.12]} color="#d4bc85" />
+      <Surface at={[-0.34, 0.75, 0.06]} size={[0.38, 0.035, 0.24]} color="#aeb5ab" metal={0.18} />
+    </group>
+  );
+}
+
+function BerthExterior() {
+  const y = PLACES.berthWindow.y;
+  return (
+    <group>
+      {/* Glazed viewport, fixed structural frame, outside the walkable edge. */}
+      <Surface at={[20.05, 2.89, -y]} size={[0.33, 0.42, 3.97]} color="#8ea0a8" />
+      <Surface at={[20.05, 0.42, -y]} size={[0.33, 0.82, 3.97]} color="#6c7e87" />
+      {[-1.82, 1.82].map(dz => (
+        <Surface key={dz} at={[20.05, 1.62, -y + dz]} size={[0.33, 2.24, 0.16]} color="#b0bec1" />
+      ))}
+      <mesh position={[19.99, 1.73, -y]} rotation={[0, Math.PI / 2, 0]}>
+        <planeGeometry args={[3.5, 2.06]} />
+        <meshPhysicalMaterial
+          color="#9bbed0"
+          metalness={0.1}
+          roughness={0.18}
+          transparent
+          opacity={0.12}
+          side={2}
+          depthWrite={false}
+        />
+      </mesh>
+      {/* The existing Hearth, seen beyond the station glass. Multi-section
+          hull, service patches and airlock collar, not a separate level. */}
+      <group position={[33, 0.65, -y]}>
+        <Surface at={[0, 2.13, 0]} size={[17.8, 5.7, 15.8]} color="#6b7e83" rough={0.63} metal={0.72} />
+        <Surface at={[-8.55, 2.35, -1.8]} size={[0.10, 4.0, 10.0]} color="#859590" />
+        <Surface at={[-8.65, 1.96, 5.8]} size={[0.13, 2.5, 3.3]} color="#415d69" />
+        <Surface at={[-8.66, 3.82, 1.8]} size={[0.14, 0.18, 7.8]} color="#b4aaa0" />
+        {[-4.3, 0.3, 4.5].map((dz, i) => (
+          <group key={i}>
+            <Surface at={[-8.72, 2.2, dz]} size={[0.12, 3.3, 0.28]} color={i === 1 ? "#b5a88e" : "#a0b0aa"} />
+            <Surface at={[-8.80, 3.35, dz]} size={[0.018, 0.08, 1.05]} color="#acc3bf" metal={0.1} />
+          </group>
+        ))}
+        <Surface at={[-6.9, -0.45, 0]} size={[2.4, 0.4, 9.1]} color="#4f707a" />
+      </group>
+    </group>
+  );
+}
+
+function ConcourseEquipment() {
+  return (
+    <group>
+      {/* The signed station employee has an actual workstation. */}
+      <WorkingStation x={-9.6} y={24} />
+      {[-17.4, 17.4].map(x => (
+        <group key={x}>
+          <Surface at={[x, 0.43, -54]} size={[1.18, 0.81, 1.5]} color="#827969" />
+          <Surface at={[x, 0.87, -54]} size={[1.22, 0.09, 1.55]} color="#b2ae9f" />
+          {[-0.42, 0.42].map(dx => (
+            <Surface key={dx} at={[x + dx, 0.10, -54]} size={[0.09, 0.20, 1.52]} color="#39474d" />
+          ))}
+        </group>
+      ))}
+      {/* Station signs are abstract plates: no invented copy or names. */}
+      {[24, 39, 54].map(y => (
+        <group key={y}>
+          <Surface at={[0, 2.98, -y]} size={[5.2, 0.36, 0.22]} color="#315461" />
+          <Surface at={[-1.35, 2.96, -y + 0.12]} size={[1.85, 0.07, 0.025]} color="#b3d5d3" metal={0.08} />
+          <Surface at={[1.4, 2.96, -y + 0.12]} size={[1.1, 0.07, 0.025]} color="#e3c985" metal={0.08} />
+        </group>
+      ))}
+      <pointLight position={[-8, 2.98, -24]} color="#d5e9dd" intensity={0.72} distance={12} />
+    </group>
+  );
+}
+
+function HearthArrivalEquipment() {
+  return (
+    <group>
+      {/* Existing arrivals checkpoint and repair work, with an open centre. */}
+      {[-1.53, 1.53].map(dx => (
+        <Surface key={dx} at={[16 + dx, 1.18, -82]} size={[0.17, 2.34, 0.38]} color="#708b87" />
+      ))}
+      <Surface at={[16, 2.4, -82]} size={[3.24, 0.2, 0.39]} color="#849b94" />
+      <Surface at={[16, 2.22, -81.77]} size={[1.86, 0.048, 0.025]} color="#b6d7c7" metal={0.12} />
+      <Surface at={[4.5, 1.5, -86]} size={[0.15, 2.5, 3.0]} color="#445b61" />
+      <Surface at={[4.67, 1.52, -86]} size={[0.08, 1.51, 2.22]} color="#233c44" />
+      {[85.4, 86, 86.6].map(y => (
+        <Surface key={y} at={[4.77, 1.58, -y]} size={[0.025, 0.06, 0.31]} color="#b6c3b5" />
+      ))}
+      {/* Cargo is left at the perimeter, outside the central guided route. */}
+      {[86, 93].map((y, i) => (
+        <group key={y}>
+          <Surface at={[27.05, 0.47, -y]} size={[1.31, 0.94, 1.84]} color={i ? "#8b7a66" : "#718681"} />
+          <Surface at={[27.05, 0.96, -y]} size={[1.36, 0.06, 1.9]} color="#aaad9e" />
+        </group>
+      ))}
+      <pointLight position={[16, 2.98, -88]} color="#e5dcc7" intensity={0.8} distance={18} />
+    </group>
+  );
+}
+
 function LivedInSpaces({ hatchOpen }: { hatchOpen: boolean }) {
   const memorial = PLACES.memorial;
   return (
@@ -195,7 +309,10 @@ function LivedInSpaces({ hatchOpen }: { hatchOpen: boolean }) {
           color="#a2b6b1"
         />
       ))}
-      {/* Boarding bridge collar and the first Hearth lift. */}
+      <ConcourseEquipment />
+      <BerthExterior />
+      <HearthArrivalEquipment />
+            {/* Boarding bridge collar and the first Hearth lift. */}
       {[65, 70, 75].map(y => (
         <group key={y}>
           <Surface at={[16, 3.04, -y]} size={[4.55, 0.19, 0.22]} color="#8ea2a5" />
