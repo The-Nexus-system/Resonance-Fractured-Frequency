@@ -3407,6 +3407,2146 @@
       ],
       "reacquisition": "Fetch Models/RiggedFigure/glTF-Binary/RiggedFigure.glb from https://github.com/KhronosGroup/glTF-Sample-Assets and verify upstream per-model LICENSE.md and blob hash.",
       "notes": "IMPORTANT: This is a plain technical glTF sample for loading/skinning/animation tests, not a visually acceptable character for Resonance. It must not replace art-direction-approved models. Do not include in commercial release unless explicit decision and proper credit."
+    },
+    {
+      "id": "RSN-VOX-001",
+      "name": "Voice line — Badge: \"If blue routing cannot be perceived, this ba\"",
+      "type": "voice",
+      "originalFilename": "badge-01-guidance.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/badge-01-guidance.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/badge-01-guidance.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_sarah) at 0.95 pace",
+        "Computer-channel treatment (ffmpeg): band focus 300-3600 Hz, presence lift at 1.2 kHz, light compression",
+        "Level: peak 0.89",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Badge says \"If blue routing cannot be perceived, this badge provides equivalent directional guidance.\" (script.ts event \"pa-transfer\"); engine emitLine plays this file non-positionally instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Comm-badge system voice, cast by the Nexus (Oct 17, 2026): Kokoro af_sarah with the computer-channel treatment — the ship's-computer character (calm, clear, precise, even, unhurried). One consistent badge voice across the whole game. Non-audio twin: the line's caption (the script text itself), fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-002",
+      "name": "Voice line — Badge: \"Hearth transfer intake: forward, through the\"",
+      "type": "voice",
+      "originalFilename": "badge-02-intake.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/badge-02-intake.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/badge-02-intake.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_sarah) at 0.95 pace",
+        "Computer-channel treatment (ffmpeg): band focus 300-3600 Hz, presence lift at 1.2 kHz, light compression",
+        "Level: peak 0.89",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Badge says \"Hearth transfer intake: forward, through the central concourse.\" (script.ts event \"docking\"); engine emitLine plays this file non-positionally instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Comm-badge system voice, cast by the Nexus (Oct 17, 2026): Kokoro af_sarah with the computer-channel treatment — the ship's-computer character (calm, clear, precise, even, unhurried). One consistent badge voice across the whole game. Non-audio twin: the line's caption (the script text itself), fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-003",
+      "name": "Voice line — Badge: \"Bear right.\"",
+      "type": "voice",
+      "originalFilename": "badge-03-bear-right.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/badge-03-bear-right.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/badge-03-bear-right.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_sarah) at 0.95 pace",
+        "Computer-channel treatment (ffmpeg): band focus 300-3600 Hz, presence lift at 1.2 kHz, light compression",
+        "Level: peak 0.89",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Badge says \"Bear right.\" (script.ts event \"junction-right\"); engine emitLine plays this file non-positionally instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Comm-badge system voice, cast by the Nexus (Oct 17, 2026): Kokoro af_sarah with the computer-channel treatment — the ship's-computer character (calm, clear, precise, even, unhurried). One consistent badge voice across the whole game. Non-audio twin: the line's caption (the script text itself), fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-004",
+      "name": "Voice line — Badge: \"This is the Retrieval Network memorial. Your\"",
+      "type": "voice",
+      "originalFilename": "badge-04-memorial.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/badge-04-memorial.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/badge-04-memorial.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_sarah) at 0.95 pace",
+        "Computer-channel treatment (ffmpeg): band focus 300-3600 Hz, presence lift at 1.2 kHz, light compression",
+        "Level: peak 0.89",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Badge says \"This is the Retrieval Network memorial. Your transfer remains available by the opposite corridor.\" (script.ts event \"memorial-identify\"); engine emitLine plays this file non-positionally instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Comm-badge system voice, cast by the Nexus (Oct 17, 2026): Kokoro af_sarah with the computer-channel treatment — the ship's-computer character (calm, clear, precise, even, unhurried). One consistent badge voice across the whole game. Non-audio twin: the line's caption (the script text itself), fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-005",
+      "name": "Voice line — Badge: \"Hearth boarding bridge ahead.\"",
+      "type": "voice",
+      "originalFilename": "badge-05-bridge-ahead.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/badge-05-bridge-ahead.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/badge-05-bridge-ahead.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_sarah) at 0.95 pace",
+        "Computer-channel treatment (ffmpeg): band focus 300-3600 Hz, presence lift at 1.2 kHz, light compression",
+        "Level: peak 0.89",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Badge says \"Hearth boarding bridge ahead.\" (script.ts event \"berth-guidance\"); engine emitLine plays this file non-positionally instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Comm-badge system voice, cast by the Nexus (Oct 17, 2026): Kokoro af_sarah with the computer-channel treatment — the ship's-computer character (calm, clear, precise, even, unhurried). One consistent badge voice across the whole game. Non-audio twin: the line's caption (the script text itself), fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-006",
+      "name": "Voice line — Badge: \"CSV Hearth. Registry CSV-zero-one-zero-one-H\"",
+      "type": "voice",
+      "originalFilename": "badge-06-registry.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/badge-06-registry.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/badge-06-registry.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_sarah) at 0.95 pace",
+        "Computer-channel treatment (ffmpeg): band focus 300-3600 Hz, presence lift at 1.2 kHz, light compression",
+        "Level: peak 0.89",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Badge says \"CSV Hearth. Registry CSV-zero-one-zero-one-H.\" (script.ts event \"hearth-first-view\"); engine emitLine plays this file non-positionally instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Comm-badge system voice, cast by the Nexus (Oct 17, 2026): Kokoro af_sarah with the computer-channel treatment — the ship's-computer character (calm, clear, precise, even, unhurried). One consistent badge voice across the whole game. Non-audio twin: the line's caption (the script text itself), fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-007",
+      "name": "Voice line — Badge: \"Bridge connected. Proceed aboard.\"",
+      "type": "voice",
+      "originalFilename": "badge-07-connected.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/badge-07-connected.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/badge-07-connected.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_sarah) at 0.95 pace",
+        "Computer-channel treatment (ffmpeg): band focus 300-3600 Hz, presence lift at 1.2 kHz, light compression",
+        "Level: peak 0.89",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Badge says \"Bridge connected. Proceed aboard.\" (script.ts event \"bridge-proceed\"); engine emitLine plays this file non-positionally instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Comm-badge system voice, cast by the Nexus (Oct 17, 2026): Kokoro af_sarah with the computer-channel treatment — the ship's-computer character (calm, clear, precise, even, unhurried). One consistent badge voice across the whole game. Non-audio twin: the line's caption (the script text itself), fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-008",
+      "name": "Voice line — Badge: \"Forward. First lift. Deck Three.\"",
+      "type": "voice",
+      "originalFilename": "badge-08-lift.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/badge-08-lift.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/badge-08-lift.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_sarah) at 0.95 pace",
+        "Computer-channel treatment (ffmpeg): band focus 300-3600 Hz, presence lift at 1.2 kHz, light compression",
+        "Level: peak 0.89",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Badge says \"Forward. First lift. Deck Three.\" (script.ts event \"crew-scan\"); engine emitLine plays this file non-positionally instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Comm-badge system voice, cast by the Nexus (Oct 17, 2026): Kokoro af_sarah with the computer-channel treatment — the ship's-computer character (calm, clear, precise, even, unhurried). One consistent badge voice across the whole game. Non-audio twin: the line's caption (the script text itself), fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-009",
+      "name": "Voice line — Ship PA: lunar transfer announcement",
+      "type": "voice",
+      "originalFilename": "pa-01.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/pa-01.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/pa-01.ogg"
+      ],
+      "processing": [
+        "Kokoro render (bf_emma) at natural register",
+        "Station-PA band (ffmpeg): highpass 400 Hz, lowpass 3400 Hz, light compression",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Ship guidance says \"Lunar transfer in four minutes. Hearth-bound personnel follow blue transfer routing.\" (script.ts event \"pa-transfer\"); engine emitLine plays this file non-positionally instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Ship PA announcement voice: Kokoro bf_emma at natural register through the station-PA band (production decision recorded Oct 17, 2026 — the recommended narrator pick, bm_fable, took the narration slot, so the PA took the other unused British voice). Flagged for the Nexus: bf_emma is also the child's base voice; the child is re-pitched x1.5, so the registers sit far apart. Non-audio twin: the line's caption, fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-010",
+      "name": "Voice line — Narration: \"Engine vibration hums through the deck of th\"",
+      "type": "voice",
+      "originalFilename": "narration-01.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/narration-01.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/narration-01.ogg"
+      ],
+      "processing": [
+        "Kokoro render (bm_fable), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — (narration) says \"Engine vibration hums through the deck of the Earth transport. Cargo restraints creak. Passengers settle around you.\" (script.ts event \"cabin-open\"); engine emitLine plays this file non-positionally instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Narration — the world-description voice, cast by the Nexus (Oct 17, 2026): Kokoro bm_fable, raw. Non-audio twin: the line's caption (the script text itself), fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-011",
+      "name": "Voice line — Narration: \"The engine pitch drops. The transport is bra\"",
+      "type": "voice",
+      "originalFilename": "narration-02.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/narration-02.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/narration-02.ogg"
+      ],
+      "processing": [
+        "Kokoro render (bm_fable), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — (narration) says \"The engine pitch drops. The transport is braking.\" (script.ts event \"braking\"); engine emitLine plays this file non-positionally instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Narration — the world-description voice, cast by the Nexus (Oct 17, 2026): Kokoro bm_fable, raw. Non-audio twin: the line's caption (the script text itself), fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-012",
+      "name": "Voice line — Narration: \"A settling thud. The transfer hatch ahead un\"",
+      "type": "voice",
+      "originalFilename": "narration-03.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/narration-03.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/narration-03.ogg"
+      ],
+      "processing": [
+        "Kokoro render (bm_fable), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — (narration) says \"A settling thud. The transfer hatch ahead unseals and opens onto the lunar concourse.\" (script.ts event \"docking\"); engine emitLine plays this file non-positionally instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Narration — the world-description voice, cast by the Nexus (Oct 17, 2026): Kokoro bm_fable, raw. Non-audio twin: the line's caption (the script text itself), fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-013",
+      "name": "Voice line — Narration: \"The concourse is crowded: arrivals, departur\"",
+      "type": "voice",
+      "originalFilename": "narration-04.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/narration-04.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/narration-04.ogg"
+      ],
+      "processing": [
+        "Kokoro render (bm_fable), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — (narration) says \"The concourse is crowded: arrivals, departures, cargo, families, workers. Somewhere nearby an employee is signing to one person while answering another aloud.\" (script.ts event \"concourse-arrive\"); engine emitLine plays this file non-positionally instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Narration — the world-description voice, cast by the Nexus (Oct 17, 2026): Kokoro bm_fable, raw. Non-audio twin: the line's caption (the script text itself), fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-014",
+      "name": "Voice line — Narration: \"Through the berth viewport: the Hearth. Larg\"",
+      "type": "voice",
+      "originalFilename": "narration-05.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/narration-05.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/narration-05.ogg"
+      ],
+      "processing": [
+        "Kokoro render (bm_fable), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — (narration) says \"Through the berth viewport: the Hearth. Large, but not pristine, not elegant. Hull sections from different periods. Mismatched repairs. Badly matched paint near the docking collar. Nobody says anything.\" (script.ts event \"hearth-first-view\"); engine emitLine plays this file non-positionally instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Narration — the world-description voice, cast by the Nexus (Oct 17, 2026): Kokoro bm_fable, raw. Non-audio twin: the line's caption (the script text itself), fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-015",
+      "name": "Voice line — Narration: \"The acoustics change the moment you cross: d\"",
+      "type": "voice",
+      "originalFilename": "narration-06.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/narration-06.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/narration-06.ogg"
+      ],
+      "processing": [
+        "Kokoro render (bm_fable), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — (narration) says \"The acoustics change the moment you cross: different ventilation, a floor that resonates underfoot, more people. Busy, not ceremonial. Crew check arrivals while cargo and people move on their own errands.\" (script.ts event \"boarding\"); engine emitLine plays this file non-positionally instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Narration — the world-description voice, cast by the Nexus (Oct 17, 2026): Kokoro bm_fable, raw. Non-audio twin: the line's caption (the script text itself), fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-016",
+      "name": "Voice line — Narration: \"Ordinary life keeps happening around you: a \"",
+      "type": "voice",
+      "originalFilename": "narration-07.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/narration-07.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/narration-07.ogg"
+      ],
+      "processing": [
+        "Kokoro render (bm_fable), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — (narration) says \"Ordinary life keeps happening around you: a worker half inside an open wall compartment; two children racing until an adult says “Walk”; someone carrying dinner containers nowhere near dinner; a person asleep in a chair. Nothing here is waiting for you.\" (script.ts event \"hearth-life\"); engine emitLine plays this file non-positionally instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Narration — the world-description voice, cast by the Nexus (Oct 17, 2026): Kokoro bm_fable, raw. Non-audio twin: the line's caption (the script text itself), fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-017",
+      "name": "Voice line — Narration: \"The first lift stands ahead, marked for Deck\"",
+      "type": "voice",
+      "originalFilename": "narration-08.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/narration-08.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/narration-08.ogg"
+      ],
+      "processing": [
+        "Kokoro render (bm_fable), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — (narration) says \"The first lift stands ahead, marked for Deck Three. Medical intake waits beyond it.\" (script.ts event \"gate-one-end\"); engine emitLine plays this file non-positionally instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Narration — the world-description voice, cast by the Nexus (Oct 17, 2026): Kokoro bm_fable, raw. Non-audio twin: the line's caption (the script text itself), fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-018",
+      "name": "Voice line — Narration: \"You are still reading something you should p\"",
+      "type": "voice",
+      "originalFilename": "narration-09.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/narration-09.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/narration-09.ogg"
+      ],
+      "processing": [
+        "Kokoro render (bm_fable), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — (narration) says \"You are still reading something you should probably have put away by now. You do not put it away.\" (script.ts event \"quillaan-reading\"); engine emitLine plays this file non-positionally instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Narration — the world-description voice, cast by the Nexus (Oct 17, 2026): Kokoro bm_fable, raw. Non-audio twin: the line's caption (the script text itself), fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-019",
+      "name": "Voice line — Character blurb: Nia Viaraxen",
+      "type": "voice",
+      "originalFilename": "blurb-nia.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/blurb-nia.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/blurb-nia.ogg"
+      ],
+      "processing": [
+        "Kokoro render (bm_fable), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Character-select blurb text (characters.ts) — REGISTERED BUT UNCALLED: no playback call site in the web app yet; mapped in voices.ts (CHARACTER_BLURB_FILES). Non-audio twin: the blurb text itself, displayed on the selection screen."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Character-select blurb in the narration voice (Kokoro bm_fable, cast Oct 17, 2026). REGISTERED BUT UNCALLED: the web character-select screen renders blurbs as text only — no playback call site exists yet. The file is registered and mapped in voices.ts (CHARACTER_BLURB_FILES) for the future call site. Non-audio twin: the blurb text itself (characters.ts), displayed on the selection screen."
+    },
+    {
+      "id": "RSN-VOX-020",
+      "name": "Voice line — Character blurb: Kesh Rennik",
+      "type": "voice",
+      "originalFilename": "blurb-kesh.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/blurb-kesh.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/blurb-kesh.ogg"
+      ],
+      "processing": [
+        "Kokoro render (bm_fable), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Character-select blurb text (characters.ts) — REGISTERED BUT UNCALLED: no playback call site in the web app yet; mapped in voices.ts (CHARACTER_BLURB_FILES). Non-audio twin: the blurb text itself, displayed on the selection screen."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Character-select blurb in the narration voice (Kokoro bm_fable, cast Oct 17, 2026). REGISTERED BUT UNCALLED: the web character-select screen renders blurbs as text only — no playback call site exists yet. The file is registered and mapped in voices.ts (CHARACTER_BLURB_FILES) for the future call site. Non-audio twin: the blurb text itself (characters.ts), displayed on the selection screen."
+    },
+    {
+      "id": "RSN-VOX-021",
+      "name": "Voice line — Character blurb: Sanaa al-Khatib",
+      "type": "voice",
+      "originalFilename": "blurb-sanaa.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/blurb-sanaa.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/blurb-sanaa.ogg"
+      ],
+      "processing": [
+        "Kokoro render (bm_fable), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Character-select blurb text (characters.ts) — REGISTERED BUT UNCALLED: no playback call site in the web app yet; mapped in voices.ts (CHARACTER_BLURB_FILES). Non-audio twin: the blurb text itself, displayed on the selection screen."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Character-select blurb in the narration voice (Kokoro bm_fable, cast Oct 17, 2026). REGISTERED BUT UNCALLED: the web character-select screen renders blurbs as text only — no playback call site exists yet. The file is registered and mapped in voices.ts (CHARACTER_BLURB_FILES) for the future call site. Non-audio twin: the blurb text itself (characters.ts), displayed on the selection screen."
+    },
+    {
+      "id": "RSN-VOX-022",
+      "name": "Voice line — Character blurb: Ilyan Ibarra",
+      "type": "voice",
+      "originalFilename": "blurb-ilyan.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/blurb-ilyan.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/blurb-ilyan.ogg"
+      ],
+      "processing": [
+        "Kokoro render (bm_fable), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Character-select blurb text (characters.ts) — REGISTERED BUT UNCALLED: no playback call site in the web app yet; mapped in voices.ts (CHARACTER_BLURB_FILES). Non-audio twin: the blurb text itself, displayed on the selection screen."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Character-select blurb in the narration voice (Kokoro bm_fable, cast Oct 17, 2026). REGISTERED BUT UNCALLED: the web character-select screen renders blurbs as text only — no playback call site exists yet. The file is registered and mapped in voices.ts (CHARACTER_BLURB_FILES) for the future call site. Non-audio twin: the blurb text itself (characters.ts), displayed on the selection screen."
+    },
+    {
+      "id": "RSN-VOX-023",
+      "name": "Voice line — Character blurb: Mara Venn",
+      "type": "voice",
+      "originalFilename": "blurb-mara.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/blurb-mara.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/blurb-mara.ogg"
+      ],
+      "processing": [
+        "Kokoro render (bm_fable), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Character-select blurb text (characters.ts) — REGISTERED BUT UNCALLED: no playback call site in the web app yet; mapped in voices.ts (CHARACTER_BLURB_FILES). Non-audio twin: the blurb text itself, displayed on the selection screen."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Character-select blurb in the narration voice (Kokoro bm_fable, cast Oct 17, 2026). REGISTERED BUT UNCALLED: the web character-select screen renders blurbs as text only — no playback call site exists yet. The file is registered and mapped in voices.ts (CHARACTER_BLURB_FILES) for the future call site. Non-audio twin: the blurb text itself (characters.ts), displayed on the selection screen."
+    },
+    {
+      "id": "RSN-VOX-024",
+      "name": "Voice line — Character blurb: Quillaan Folren",
+      "type": "voice",
+      "originalFilename": "blurb-quillaan.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/blurb-quillaan.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/blurb-quillaan.ogg"
+      ],
+      "processing": [
+        "Kokoro render (bm_fable), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Character-select blurb text (characters.ts) — REGISTERED BUT UNCALLED: no playback call site in the web app yet; mapped in voices.ts (CHARACTER_BLURB_FILES). Non-audio twin: the blurb text itself, displayed on the selection screen."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Character-select blurb in the narration voice (Kokoro bm_fable, cast Oct 17, 2026). REGISTERED BUT UNCALLED: the web character-select screen renders blurbs as text only — no playback call site exists yet. The file is registered and mapped in voices.ts (CHARACTER_BLURB_FILES) for the future call site. Non-audio twin: the blurb text itself (characters.ts), displayed on the selection screen."
+    },
+    {
+      "id": "RSN-VOX-025",
+      "name": "Voice line — Child: \"Can I see Earth yet?\"",
+      "type": "voice",
+      "originalFilename": "npc-child-01.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/npc-child-01.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/npc-child-01.ogg"
+      ],
+      "processing": [
+        "Kokoro render (bf_emma)",
+        "WORLD re-synthesis: pitch x1.5 only (the settled Clip I method) to the ~274 Hz working register",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Child says \"Can I see Earth yet?\" (script.ts event \"child-earth-1\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "The child — synthetic voice per the Nexus ruling (Oct 17, 2026): no real performers; every voice in the game is produced synthetically. Recipe: British base voice bf_emma raised by pitch-only WORLD re-synthesis to the settled ~274 Hz register (Acapela's Josh was a pitch reference only, never an acquisition target). Non-audio twin: the line's caption, fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-026",
+      "name": "Voice line — Child: \"That isn't what I asked.\"",
+      "type": "voice",
+      "originalFilename": "npc-child-02.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/npc-child-02.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/npc-child-02.ogg"
+      ],
+      "processing": [
+        "Kokoro render (bf_emma)",
+        "WORLD re-synthesis: pitch x1.5 only (the settled Clip I method) to the ~274 Hz working register",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Child says \"That isn't what I asked.\" (script.ts event \"child-earth-1\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "The child — synthetic voice per the Nexus ruling (Oct 17, 2026): no real performers; every voice in the game is produced synthetically. Recipe: British base voice bf_emma raised by pitch-only WORLD re-synthesis to the settled ~274 Hz register (Acapela's Josh was a pitch reference only, never an acquisition target). Non-audio twin: the line's caption, fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-027",
+      "name": "Voice line — Parent: \"You can always see Earth from somewhere.\"",
+      "type": "voice",
+      "originalFilename": "npc-parent-01.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/npc-parent-01.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/npc-parent-01.ogg"
+      ],
+      "processing": [
+        "Kokoro render (bf_lily), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Parent says \"You can always see Earth from somewhere.\" (script.ts event \"child-earth-1\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "The parent (the mother), cast by the Nexus (Oct 17, 2026): Kokoro bf_lily, raw. Non-audio twin: the line's caption, fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-028",
+      "name": "Voice line — Spatial AAC voice: \"THE BLUE ONE. NOT THAT ONE.\"",
+      "type": "voice",
+      "originalFilename": "npc-traveller-aac-01.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/npc-traveller-aac-01.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/npc-traveller-aac-01.ogg"
+      ],
+      "processing": [
+        "Kokoro render (am_michael)",
+        "WORLD re-synthesis: pitch flattened to a constant 110 Hz (device treatment)",
+        "Light metallic crush (ffmpeg acrusher: bits=8, mix=0.35)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Spatial AAC voice says \"THE BLUE ONE. NOT THAT ONE.\" (script.ts event \"aac-blue-one\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "The concourse traveller's AAC device voice (Clip F recipe, cast Oct 17, 2026) — a classic speech-synthesizer lean, at her direction 'a tad more Stephen Hawking'. A separate person from Sanaa; the two device voices must never be confusable. Arc note: she can later upgrade to the same voice without the metallics (Clip E), held for her story. Non-audio twin: the line's caption."
+    },
+    {
+      "id": "RSN-VOX-029",
+      "name": "Voice line — Woman at the memorial: \"They got my grandfather out.\"",
+      "type": "voice",
+      "originalFilename": "npc-memorial-woman-01.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/npc-memorial-woman-01.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/npc-memorial-woman-01.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_river), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Woman, tracing a name says \"They got my grandfather out.\" (script.ts event \"memorial-identify\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Woman at the memorial, cast by the Nexus (Oct 17, 2026): Kokoro af_river, raw — quiet, restrained. Non-audio twin: the line's caption."
+    },
+    {
+      "id": "RSN-VOX-030",
+      "name": "Voice line — Woman at the memorial: \"All of them.\"",
+      "type": "voice",
+      "originalFilename": "npc-memorial-woman-02.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/npc-memorial-woman-02.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/npc-memorial-woman-02.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_river), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Woman says \"All of them.\" (script.ts event \"memorial-identify\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Woman at the memorial, cast by the Nexus (Oct 17, 2026): Kokoro af_river, raw — quiet, restrained. Non-audio twin: the line's caption."
+    },
+    {
+      "id": "RSN-VOX-031",
+      "name": "Voice line — Memorial companion: \"Which one?\"",
+      "type": "voice",
+      "originalFilename": "npc-memorial-companion-01.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/npc-memorial-companion-01.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/npc-memorial-companion-01.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_heart), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Her companion says \"Which one?\" (script.ts event \"memorial-identify\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Her companion at the memorial, cast by the Nexus (Oct 17, 2026): Kokoro af_heart, raw — a natural human read. Non-audio twin: the line's caption."
+    },
+    {
+      "id": "RSN-VOX-032",
+      "name": "Voice line — Older passenger: \"Earth customs said the chair had to stay with freight.\"",
+      "type": "voice",
+      "originalFilename": "npc-older-passenger-01.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/npc-older-passenger-01.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/npc-older-passenger-01.ogg"
+      ],
+      "processing": [
+        "Kokoro render (bm_lewis) at 0.92 speed, raw, level only",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Older passenger says \"Earth customs said the chair had to stay with freight.\" (script.ts event \"chair-argument\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Older passenger, cast by the Nexus (Oct 17, 2026): raw bm_lewis at 0.92 speed — after the processed rounds were rejected, the raw voice carried his age on its own (raw-first doctrine). Frustration aimed at the system, dignity intact. Non-audio twin: the line's caption."
+    },
+    {
+      "id": "RSN-VOX-033",
+      "name": "Voice line — Dock worker: \"Earth customs does not run this station...\"",
+      "type": "voice",
+      "originalFilename": "npc-dock-worker-01.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/npc-dock-worker-01.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/npc-dock-worker-01.ogg"
+      ],
+      "processing": [
+        "Kokoro render (am_eric), raw",
+        "Warmth EQ (ffmpeg): low-mid lift (250 Hz, +3 dB), gentle top softening (high shelf 8 kHz, -2 dB) — one waveform cue, his approved recipe",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Dock worker says \"Earth customs does not run this station. Your chair waits at the dock.\" (script.ts event \"chair-argument\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Dock worker, cast by the Nexus (Oct 17, 2026): Kokoro am_eric raw plus the warmth EQ. Non-audio twin: the line's caption."
+    },
+    {
+      "id": "RSN-VOX-034",
+      "name": "Voice line — Crew member: \"New assignment?\"",
+      "type": "voice",
+      "originalFilename": "npc-crew-boarding-01.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/npc-crew-boarding-01.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/npc-crew-boarding-01.ogg"
+      ],
+      "processing": [
+        "Kokoro render (am_liam), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Crew member says \"New assignment?\" (script.ts event \"crew-scan\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Boarding-scan crew member, cast by the Nexus (Oct 17, 2026): Kokoro am_liam, raw. Non-audio twin: the line's caption."
+    },
+    {
+      "id": "RSN-VOX-035",
+      "name": "Voice line — Crew member: \"Medical intake first. Everybody.\"",
+      "type": "voice",
+      "originalFilename": "npc-crew-boarding-02.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/npc-crew-boarding-02.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/npc-crew-boarding-02.ogg"
+      ],
+      "processing": [
+        "Kokoro render (am_liam), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Crew member says \"Medical intake first. Everybody.\" (script.ts event \"crew-scan\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Boarding-scan crew member, cast by the Nexus (Oct 17, 2026): Kokoro am_liam, raw. Non-audio twin: the line's caption."
+    },
+    {
+      "id": "RSN-VOX-036",
+      "name": "Voice line — Maintenance cart: \"Cart coming around the corner. Thank you.\"",
+      "type": "voice",
+      "originalFilename": "npc-cart-01.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/npc-cart-01.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/npc-cart-01.ogg"
+      ],
+      "processing": [
+        "Kokoro render (am_santa)",
+        "WORLD re-synthesis: pitch flattened at the voice's own median (device treatment)",
+        "Station-PA band (ffmpeg): highpass 400 Hz, lowpass 3400 Hz, light compression",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Maintenance cart says \"Cart coming around the corner. Thank you.\" (script.ts event \"cart-warning\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Maintenance cart device voice (Clip AJ recipe, cast Oct 17, 2026) — machine-flat is the cart's grammar. Non-audio twin: the line's caption."
+    },
+    {
+      "id": "RSN-VOX-037",
+      "name": "Voice line — Passenger: \"Does checked medical equipment transfer automatically?\"",
+      "type": "voice",
+      "originalFilename": "npc-passenger-cabin-01.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/npc-passenger-cabin-01.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/npc-passenger-cabin-01.ogg"
+      ],
+      "processing": [
+        "Kokoro render (bf_alice)",
+        "Human-pacing restructure (final approved build): lead breath (gain 0.020), question phrase at 1.06x, hesitation with a smaller breath (0.015), final word at 0.97x",
+        "Smoothness pass: gentle top roll-off, presence dip at 3.2 kHz, contour smoothing",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Passenger says \"Does checked medical equipment transfer automatically?\" (script.ts event \"sanaa-aac-cabin\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Cabin passenger (Sanaa's scene), cast by the Nexus (Oct 17, 2026): Kokoro bf_alice with the human-pacing final build, approved by the Nexus ('that's better, let's go with that'). Open note: a better-voice search remains open — bf_alice is the working cast; the pacing recipe transfers to any replacement. Non-audio twin: the line's caption."
+    },
+    {
+      "id": "RSN-VOX-038",
+      "name": "Voice line — Crew: \"It does. Thanks for checking.\"",
+      "type": "voice",
+      "originalFilename": "npc-crew-cabin-01.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/npc-crew-cabin-01.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/npc-crew-cabin-01.ogg"
+      ],
+      "processing": [
+        "Kokoro render (bf_isabella), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Crew says \"It does. Thanks for checking.\" (script.ts event \"sanaa-aac-cabin\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Crew in Sanaa's cabin scene, cast by the Nexus (Oct 17, 2026): Kokoro bf_isabella, raw — a distinct person from the boarding-scan crew member. Non-audio twin: the line's caption."
+    },
+    {
+      "id": "RSN-VOX-039",
+      "name": "Voice line — Surprised passenger: \"You can tell?\"",
+      "type": "voice",
+      "originalFilename": "npc-surprised-01.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/npc-surprised-01.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/npc-surprised-01.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_jessica) — context-primed read: the scripted words extracted from a full delighted utterance at the sentence-boundary gap",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — Surprised passenger says \"You can tell?\" (script.ts event \"ilyan-braking\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Surprised passenger (Ilyan's scene), cast by the Nexus (Oct 17, 2026): Kokoro af_jessica, context-primed — delighted and curious, never condescending. Non-audio twin: the line's caption."
+    },
+    {
+      "id": "RSN-VOX-040",
+      "name": "Voice line — Ilyan: \"We're braking. You can hear it in the engine pitch.\"",
+      "type": "voice",
+      "originalFilename": "Ilyan - Braking line.mp3",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-016",
+      "sourceUrl": "https://suno.com/song/8c7c049d-3e11-4769-8704-70abc4faaf9c",
+      "license": "Original work of the project; Suno commercial-subscription generation terms recorded per asset",
+      "licenseEvidence": null,
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": "Suno Premier subscription (account: fractured Flow / @thenexussystem); generation and downloads drew on included plan credits — no per-asset charge",
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Suno",
+      "masterSource": "Suno private track (see sourceUrl); downloaded take held in the Nexus workspace at resonance-audio-ingest/suno-voices/, production master WAV at resonance-audio-ingest/tts-kokoro/production-lines/player-ilyan-01.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/player-ilyan-01.ogg"
+      ],
+      "processing": [
+        "Suno spoken-word generation with the 'Dante speaking' voice card (style: spoken word, speech, narration, dry voice, plain speech, not singing, no melody)",
+        "ffmpeg: downloaded take MP3 -> trimmed at silence bounds -> WAV master",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — You (Ilyan) says \"We're braking. You can hear it in the engine pitch.\" (script.ts event \"ilyan-braking\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Regenerate on the project's Suno account with the 'Dante speaking' voice card (spoken-word style per the processing field), or re-download the private track: see sourceUrl. Downloaded takes are held in the Nexus workspace at resonance-audio-ingest/suno-voices/.",
+      "notes": "Ilyan Ibarra's voice is Dante's own voice — the Suno 'Dante speaking' voice card, picked by Dante (Nexus decision, Oct 17, 2026: 'use voice One for this' — Voice One is Dante's voice). Private generation on the project's Suno Premier account; first take used. Player-facing credit is Fractured Flow; the tool stays internal (generationSource). Non-audio twin: the line's caption, fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-041",
+      "name": "Voice line — Ilyan: \"You can't?\"",
+      "type": "voice",
+      "originalFilename": "Ilyan - You cant.mp3",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-016",
+      "sourceUrl": "https://suno.com/song/fbb76831-16d9-40cc-94eb-73091f4a8311",
+      "license": "Original work of the project; Suno commercial-subscription generation terms recorded per asset",
+      "licenseEvidence": null,
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": "Suno Premier subscription (account: fractured Flow / @thenexussystem); generation and downloads drew on included plan credits — no per-asset charge",
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Suno",
+      "masterSource": "Suno private track (see sourceUrl); downloaded take held in the Nexus workspace at resonance-audio-ingest/suno-voices/, production master WAV at resonance-audio-ingest/tts-kokoro/production-lines/player-ilyan-02.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/player-ilyan-02.ogg"
+      ],
+      "processing": [
+        "Suno spoken-word generation with the 'Dante speaking' voice card (style: spoken word, speech, narration, dry voice, plain speech, not singing, no melody)",
+        "ffmpeg: downloaded take MP3 -> trimmed at silence bounds -> WAV master",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — You (Ilyan) says \"You can't?\" (script.ts event \"ilyan-braking\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Regenerate on the project's Suno account with the 'Dante speaking' voice card (spoken-word style per the processing field), or re-download the private track: see sourceUrl. Downloaded takes are held in the Nexus workspace at resonance-audio-ingest/suno-voices/.",
+      "notes": "Ilyan Ibarra's voice is Dante's own voice — the Suno 'Dante speaking' voice card, picked by Dante (Nexus decision, Oct 17, 2026: 'use voice One for this' — Voice One is Dante's voice). Private generation on the project's Suno Premier account; first take used. Player-facing credit is Fractured Flow; the tool stays internal (generationSource). Non-audio twin: the line's caption, fired unchanged by the engine."
+    },
+    {
+      "id": "RSN-VOX-042",
+      "name": "Voice line — Sanaa (AAC): \"WELCOME.\"",
+      "type": "voice",
+      "originalFilename": "player-sanaa-welcome.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/player-sanaa-welcome.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/player-sanaa-welcome.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_nova), raw",
+        "Level: full (peak 0.97) — Sanaa's production spec (volume up is part of her voice)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — You (Sanaa, AAC) says \"WELCOME.\" (script.ts event \"sanaa-aac-cabin\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Sanaa al-Khatib's AAC voice, cast by the Nexus (Oct 17, 2026): Kokoro af_nova at full level. Her device voice is hers alone — distinct from the concourse traveller's device. Non-audio twin: the line's caption."
+    },
+    {
+      "id": "RSN-VOX-043",
+      "name": "Voice line — Boarding answer (Nia Viaraxen): \"Medical.\"",
+      "type": "voice",
+      "originalFilename": "boarding-nia.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/boarding-nia.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/boarding-nia.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_aoede), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — You says \"Medical.\" (script.ts event \"crew-scan\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Nia Viaraxen's boarding answer at the crew scan, in their cast voice (Kokoro af_aoede). Fired by the script's crew-scan event with speaker \"You\" and the chosen character's BOARDING_ANSWERS text. Non-audio twin: the line's caption. NOTE: Ilyan's answer (\"Navigation.\") has NO production file — the Suno generation could not be trimmed clean — so it intentionally stays on speech synthesis until the listening pass or a regeneration."
+    },
+    {
+      "id": "RSN-VOX-044",
+      "name": "Voice line — Boarding answer (Kesh Rennik): \"Engineering.\"",
+      "type": "voice",
+      "originalFilename": "boarding-kesh.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/boarding-kesh.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/boarding-kesh.ogg"
+      ],
+      "processing": [
+        "Kokoro render (am_puck), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — You says \"Engineering.\" (script.ts event \"crew-scan\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Kesh Rennik's boarding answer at the crew scan, in their cast voice (Kokoro am_puck). Fired by the script's crew-scan event with speaker \"You\" and the chosen character's BOARDING_ANSWERS text. Non-audio twin: the line's caption. NOTE: Ilyan's answer (\"Navigation.\") has NO production file — the Suno generation could not be trimmed clean — so it intentionally stays on speech synthesis until the listening pass or a regeneration."
+    },
+    {
+      "id": "RSN-VOX-045",
+      "name": "Voice line — Boarding answer (Sanaa al-Khatib): \"Communications.\"",
+      "type": "voice",
+      "originalFilename": "boarding-sanaa.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/boarding-sanaa.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/boarding-sanaa.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_nova), raw",
+        "Level: full (peak 0.97) — Sanaa's production spec",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — You says \"Communications.\" (script.ts event \"crew-scan\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Sanaa al-Khatib's boarding answer at the crew scan, in their cast voice (Kokoro af_nova). Fired by the script's crew-scan event with speaker \"You\" and the chosen character's BOARDING_ANSWERS text. Non-audio twin: the line's caption. NOTE: Ilyan's answer (\"Navigation.\") has NO production file — the Suno generation could not be trimmed clean — so it intentionally stays on speech synthesis until the listening pass or a regeneration."
+    },
+    {
+      "id": "RSN-VOX-046",
+      "name": "Voice line — Boarding answer (Mara Venn): \"Counseling.\"",
+      "type": "voice",
+      "originalFilename": "boarding-mara.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/boarding-mara.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/boarding-mara.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_sky), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — You says \"Counseling.\" (script.ts event \"crew-scan\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Mara Venn's boarding answer at the crew scan, in their cast voice (Kokoro af_sky). Fired by the script's crew-scan event with speaker \"You\" and the chosen character's BOARDING_ANSWERS text. Non-audio twin: the line's caption. NOTE: Ilyan's answer (\"Navigation.\") has NO production file — the Suno generation could not be trimmed clean — so it intentionally stays on speech synthesis until the listening pass or a regeneration."
+    },
+    {
+      "id": "RSN-VOX-047",
+      "name": "Voice line — Boarding answer (Quillaan Folren): \"General apprenticeship.\"",
+      "type": "voice",
+      "originalFilename": "boarding-quillaan.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/boarding-quillaan.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/boarding-quillaan.ogg"
+      ],
+      "processing": [
+        "Kokoro render (am_echo), raw, level only (peak 0.89)",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One voice trigger — You says \"General apprenticeship.\" (script.ts event \"crew-scan\"); engine emitLine plays this file positionally at the event's speaking position instead of speech synthesis. Non-audio twin: the line's caption."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Quillaan Folren's boarding answer at the crew scan, in their cast voice (Kokoro am_echo). Fired by the script's crew-scan event with speaker \"You\" and the chosen character's BOARDING_ANSWERS text. Non-audio twin: the line's caption. NOTE: Ilyan's answer (\"Navigation.\") has NO production file — the Suno generation could not be trimmed clean — so it intentionally stays on speech synthesis until the listening pass or a regeneration."
+    },
+    {
+      "id": "RSN-VOX-048",
+      "name": "Voice line — Turn help: \"Move forward.\"",
+      "type": "voice",
+      "originalFilename": "turnhelp-01.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/turnhelp-01.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/turnhelp-01.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_sarah) at 0.95 pace",
+        "Computer-channel treatment (ffmpeg): band focus 300-3600 Hz, presence lift at 1.2 kHz, light compression",
+        "Level: peak 0.89",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Guidance fragment \"Move forward.\" (engine.ts turnHelp) — REGISTERED BUT UNCALLED: occurs only inside dynamic lookAround/repeatGuidance text; no discrete playback call site. Mapped in voices.ts (TURN_HELP_FILES). Non-audio twin: the string itself in the guidance text."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Badge-voice turn-help string (engine.ts turnHelp). REGISTERED BUT UNCALLED: these strings occur only as fragments inside the dynamic lookAround/repeatGuidance output, which the page delivers as aria-live text — there is no discrete playback call site, and none was invented. Mapped in voices.ts (TURN_HELP_FILES) for the future guidance path. Non-audio twin: the string itself, carried in the guidance text."
+    },
+    {
+      "id": "RSN-VOX-049",
+      "name": "Voice line — Turn help: \"Turn around to your right, then move forward\"",
+      "type": "voice",
+      "originalFilename": "turnhelp-02.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/turnhelp-02.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/turnhelp-02.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_sarah) at 0.95 pace",
+        "Computer-channel treatment (ffmpeg): band focus 300-3600 Hz, presence lift at 1.2 kHz, light compression",
+        "Level: peak 0.89",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Guidance fragment \"Turn around to your right, then move forward.\" (engine.ts turnHelp) — REGISTERED BUT UNCALLED: occurs only inside dynamic lookAround/repeatGuidance text; no discrete playback call site. Mapped in voices.ts (TURN_HELP_FILES). Non-audio twin: the string itself in the guidance text."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Badge-voice turn-help string (engine.ts turnHelp). REGISTERED BUT UNCALLED: these strings occur only as fragments inside the dynamic lookAround/repeatGuidance output, which the page delivers as aria-live text — there is no discrete playback call site, and none was invented. Mapped in voices.ts (TURN_HELP_FILES) for the future guidance path. Non-audio twin: the string itself, carried in the guidance text."
+    },
+    {
+      "id": "RSN-VOX-050",
+      "name": "Voice line — Turn help: \"Turn around to your left, then move forward.\"",
+      "type": "voice",
+      "originalFilename": "turnhelp-03.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/turnhelp-03.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/turnhelp-03.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_sarah) at 0.95 pace",
+        "Computer-channel treatment (ffmpeg): band focus 300-3600 Hz, presence lift at 1.2 kHz, light compression",
+        "Level: peak 0.89",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Guidance fragment \"Turn around to your left, then move forward.\" (engine.ts turnHelp) — REGISTERED BUT UNCALLED: occurs only inside dynamic lookAround/repeatGuidance text; no discrete playback call site. Mapped in voices.ts (TURN_HELP_FILES). Non-audio twin: the string itself in the guidance text."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Badge-voice turn-help string (engine.ts turnHelp). REGISTERED BUT UNCALLED: these strings occur only as fragments inside the dynamic lookAround/repeatGuidance output, which the page delivers as aria-live text — there is no discrete playback call site, and none was invented. Mapped in voices.ts (TURN_HELP_FILES) for the future guidance path. Non-audio twin: the string itself, carried in the guidance text."
+    },
+    {
+      "id": "RSN-VOX-051",
+      "name": "Voice line — Turn help: \"Turn around, then move forward.\"",
+      "type": "voice",
+      "originalFilename": "turnhelp-04.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/turnhelp-04.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/turnhelp-04.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_sarah) at 0.95 pace",
+        "Computer-channel treatment (ffmpeg): band focus 300-3600 Hz, presence lift at 1.2 kHz, light compression",
+        "Level: peak 0.89",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Guidance fragment \"Turn around, then move forward.\" (engine.ts turnHelp) — REGISTERED BUT UNCALLED: occurs only inside dynamic lookAround/repeatGuidance text; no discrete playback call site. Mapped in voices.ts (TURN_HELP_FILES). Non-audio twin: the string itself in the guidance text."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Badge-voice turn-help string (engine.ts turnHelp). REGISTERED BUT UNCALLED: these strings occur only as fragments inside the dynamic lookAround/repeatGuidance output, which the page delivers as aria-live text — there is no discrete playback call site, and none was invented. Mapped in voices.ts (TURN_HELP_FILES) for the future guidance path. Non-audio twin: the string itself, carried in the guidance text."
+    },
+    {
+      "id": "RSN-VOX-052",
+      "name": "Voice line — Turn help: \"Turn right, then move forward.\"",
+      "type": "voice",
+      "originalFilename": "turnhelp-05.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/turnhelp-05.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/turnhelp-05.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_sarah) at 0.95 pace",
+        "Computer-channel treatment (ffmpeg): band focus 300-3600 Hz, presence lift at 1.2 kHz, light compression",
+        "Level: peak 0.89",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Guidance fragment \"Turn right, then move forward.\" (engine.ts turnHelp) — REGISTERED BUT UNCALLED: occurs only inside dynamic lookAround/repeatGuidance text; no discrete playback call site. Mapped in voices.ts (TURN_HELP_FILES). Non-audio twin: the string itself in the guidance text."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Badge-voice turn-help string (engine.ts turnHelp). REGISTERED BUT UNCALLED: these strings occur only as fragments inside the dynamic lookAround/repeatGuidance output, which the page delivers as aria-live text — there is no discrete playback call site, and none was invented. Mapped in voices.ts (TURN_HELP_FILES) for the future guidance path. Non-audio twin: the string itself, carried in the guidance text."
+    },
+    {
+      "id": "RSN-VOX-053",
+      "name": "Voice line — Turn help: \"Turn left, then move forward.\"",
+      "type": "voice",
+      "originalFilename": "turnhelp-06.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/turnhelp-06.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/turnhelp-06.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_sarah) at 0.95 pace",
+        "Computer-channel treatment (ffmpeg): band focus 300-3600 Hz, presence lift at 1.2 kHz, light compression",
+        "Level: peak 0.89",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Guidance fragment \"Turn left, then move forward.\" (engine.ts turnHelp) — REGISTERED BUT UNCALLED: occurs only inside dynamic lookAround/repeatGuidance text; no discrete playback call site. Mapped in voices.ts (TURN_HELP_FILES). Non-audio twin: the string itself in the guidance text."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Badge-voice turn-help string (engine.ts turnHelp). REGISTERED BUT UNCALLED: these strings occur only as fragments inside the dynamic lookAround/repeatGuidance output, which the page delivers as aria-live text — there is no discrete playback call site, and none was invented. Mapped in voices.ts (TURN_HELP_FILES) for the future guidance path. Non-audio twin: the string itself, carried in the guidance text."
+    },
+    {
+      "id": "RSN-VOX-054",
+      "name": "Voice line — Zone name: \"Earth transport cabin\"",
+      "type": "voice",
+      "originalFilename": "zone-01.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/zone-01.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/zone-01.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_sarah) at 0.95 pace",
+        "Computer-channel treatment (ffmpeg): band focus 300-3600 Hz, presence lift at 1.2 kHz, light compression",
+        "Level: peak 0.89",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Zone name \"Earth transport cabin\" (world.ts ZONES) — REGISTERED BUT UNCALLED: delivered as aria-live text/labels only; no playback call site. Mapped in voices.ts (ZONE_NAME_FILES). Non-audio twin: the zone name text itself."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Badge-voice zone name (world.ts ZONES). REGISTERED BUT UNCALLED: zone names reach the player as aria-live text and labels (e.g. 'Entering the ...'), never as a discrete spoken line — no playback call site exists, and none was invented. Mapped in voices.ts (ZONE_NAME_FILES). Non-audio twin: the zone name text itself."
+    },
+    {
+      "id": "RSN-VOX-055",
+      "name": "Voice line — Zone name: \"Lunar transfer concourse\"",
+      "type": "voice",
+      "originalFilename": "zone-02.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/zone-02.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/zone-02.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_sarah) at 0.95 pace",
+        "Computer-channel treatment (ffmpeg): band focus 300-3600 Hz, presence lift at 1.2 kHz, light compression",
+        "Level: peak 0.89",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Zone name \"Lunar transfer concourse\" (world.ts ZONES) — REGISTERED BUT UNCALLED: delivered as aria-live text/labels only; no playback call site. Mapped in voices.ts (ZONE_NAME_FILES). Non-audio twin: the zone name text itself."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Badge-voice zone name (world.ts ZONES). REGISTERED BUT UNCALLED: zone names reach the player as aria-live text and labels (e.g. 'Entering the ...'), never as a discrete spoken line — no playback call site exists, and none was invented. Mapped in voices.ts (ZONE_NAME_FILES). Non-audio twin: the zone name text itself."
+    },
+    {
+      "id": "RSN-VOX-056",
+      "name": "Voice line — Zone name: \"Boarding bridge\"",
+      "type": "voice",
+      "originalFilename": "zone-03.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/zone-03.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/zone-03.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_sarah) at 0.95 pace",
+        "Computer-channel treatment (ffmpeg): band focus 300-3600 Hz, presence lift at 1.2 kHz, light compression",
+        "Level: peak 0.89",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Zone name \"Boarding bridge\" (world.ts ZONES) — REGISTERED BUT UNCALLED: delivered as aria-live text/labels only; no playback call site. Mapped in voices.ts (ZONE_NAME_FILES). Non-audio twin: the zone name text itself."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Badge-voice zone name (world.ts ZONES). REGISTERED BUT UNCALLED: zone names reach the player as aria-live text and labels (e.g. 'Entering the ...'), never as a discrete spoken line — no playback call site exists, and none was invented. Mapped in voices.ts (ZONE_NAME_FILES). Non-audio twin: the zone name text itself."
+    },
+    {
+      "id": "RSN-VOX-057",
+      "name": "Voice line — Zone name: \"CSV Hearth — arrival deck\"",
+      "type": "voice",
+      "originalFilename": "zone-04.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/zone-04.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/zone-04.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_sarah) at 0.95 pace",
+        "Computer-channel treatment (ffmpeg): band focus 300-3600 Hz, presence lift at 1.2 kHz, light compression",
+        "Level: peak 0.89",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Zone name \"CSV Hearth — arrival deck\" (world.ts ZONES) — REGISTERED BUT UNCALLED: delivered as aria-live text/labels only; no playback call site. Mapped in voices.ts (ZONE_NAME_FILES). Non-audio twin: the zone name text itself."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Badge-voice zone name (world.ts ZONES). REGISTERED BUT UNCALLED: zone names reach the player as aria-live text and labels (e.g. 'Entering the ...'), never as a discrete spoken line — no playback call site exists, and none was invented. Mapped in voices.ts (ZONE_NAME_FILES). Non-audio twin: the zone name text itself."
+    },
+    {
+      "id": "RSN-VOX-058",
+      "name": "Voice line — UI: \"Day One reset to the Earth transport.\"",
+      "type": "voice",
+      "originalFilename": "ui-reset.wav",
+      "creator": "Fractured Flow",
+      "sourceLibrary": "original",
+      "sourcePackId": "SRC-AUD-019",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "license": "Apache-2.0 (Kokoro-82M model and kokoro-onnx runtime); the rendered line is original Fractured Flow work",
+      "licenseEvidence": "assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": null,
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": true,
+      "generationSource": "Kokoro TTS",
+      "masterSource": "Production master WAV (not committed — working file) held in the Nexus workspace: resonance-audio-ingest/tts-kokoro/production-lines/ui-reset.wav",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/voices/ui-reset.ogg"
+      ],
+      "processing": [
+        "Kokoro render (af_sarah) at 0.95 pace",
+        "Computer-channel treatment (ffmpeg): band focus 300-3600 Hz, presence lift at 1.2 kHz, light compression",
+        "Level: peak 0.89",
+        "ffmpeg: WAV -> Ogg Vorbis q5"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "UI announcement \"Day One reset to the Earth transport.\" (day-one.tsx) — REGISTERED BUT UNCALLED: delivered via aria-live announce (text) only; no playback call site. Mapped in voices.ts (UI_RESET_FILE). Non-audio twin: the announcement text itself."
+      ],
+      "reacquisition": "Re-render the authored script line with Kokoro TTS (kokoro-onnx + Kokoro-82M voices, Apache-2.0; model https://github.com/hexgrad/kokoro) using the cast voice and recipe in the processing field. Production masters are held in the Nexus workspace at resonance-audio-ingest/tts-kokoro/production-lines/.",
+      "notes": "Badge-voice UI announcement. REGISTERED BUT UNCALLED: the reset action delivers this string via the page's aria-live announce (text) in day-one.tsx; there is no audio playback call site, and none was invented. Mapped in voices.ts (UI_RESET_FILE). Non-audio twin: the announcement text itself."
     }
   ]
 }
