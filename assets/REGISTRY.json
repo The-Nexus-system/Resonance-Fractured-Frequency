@@ -3373,6 +3373,40 @@
       ],
       "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file steps/station8.ogg); staged copies held in the Nexus workspace gap-fill staging.",
       "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026). Registered under Kit's revised ruling and the Nexus operating decision (Oct 17, 2026): the downloaded libraries are the project's working set; the credit chain is preserved exactly as the pack gives it; publication posture is held separately (permission, re-creation via GarageBand / Rogue Amoeba, licensed equivalent, or exclusion per slot). The commercialUse field records the project's shipping posture, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-MDL-001",
+      "name": "Rigged Figure — isolated skeletal animation test fixture",
+      "type": "model3d",
+      "originalFilename": "RiggedFigure.glb",
+      "creator": "Cesium (model copyright)",
+      "sourceLibrary": "Khronos glTF Sample Assets — RiggedFigure",
+      "sourceUrl": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/RiggedFigure",
+      "license": "CC-BY-4.0",
+      "licenseEvidence": "assets/models/licenses/khronos-rigged-figure-license.md",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Rigged Figure © 2017 Cesium, CC BY 4.0; via Khronos glTF Sample Assets.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-17",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "KhronosGroup/glTF-Sample-Assets main /Models/RiggedFigure/glTF-Binary/RiggedFigure.glb git blob c505a33dfa5ba84bd5f3dd0a85f74ee4c9978322",
+      "derivedFiles": [
+        "artifacts/resonance/public/models/gateone/fixtures/RiggedFigure.glb"
+      ],
+      "processing": [
+        "Original Khronos test GLB copied without changing geometry, texture or animation."
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Optional model loader / skeleton-animation regression fixture only. Not approved as a shipping NPC or character."
+      ],
+      "reacquisition": "Fetch Models/RiggedFigure/glTF-Binary/RiggedFigure.glb from https://github.com/KhronosGroup/glTF-Sample-Assets and verify upstream per-model LICENSE.md and blob hash.",
+      "notes": "IMPORTANT: This is a plain technical glTF sample for loading/skinning/animation tests, not a visually acceptable character for Resonance. It must not replace art-direction-approved models. Do not include in commercial release unless explicit decision and proper credit."
     }
   ]
 }
