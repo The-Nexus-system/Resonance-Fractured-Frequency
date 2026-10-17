@@ -70,7 +70,24 @@ function wallsFrom(rects: Rect[]): Wall[] {
       }
     }
   }
-  return walls;
+  // Cut real observation openings in existing exterior walls. These are
+  // scripted locations, not new routes or navigation geometry.
+  return walls.flatMap(w => {
+    if (!(w.width < 0.3 && w.depth > 0.3)) return [w];
+    let opening: [number, number] | null = null;
+    if (Math.abs(w.x + 4) < 0.3) opening = [7, 9.1];
+    else if (Math.abs(w.x - 20) < 0.3 && w.y + w.depth / 2 > 58.35)
+      opening = [58.35, 61.05];
+    if (!opening) return [w];
+    const low = w.y - w.depth / 2;
+    const high = w.y + w.depth / 2;
+    if (opening[1] <= low || opening[0] >= high) return [w];
+    return [
+      [low, Math.min(high, opening[0])],
+      [Math.max(low, opening[1]), high],
+    ].filter(([a, b]) => b - a > 0.08)
+      .map(([a, b]) => ({ ...w, y: (a + b) / 2, depth: b - a }));
+  });
 }
 
 const FINISH = [
