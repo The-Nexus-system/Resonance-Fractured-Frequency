@@ -60,6 +60,36 @@ const BRIDGE_ACCENTS = [
   "starship5__1531.ogg", "starship6__1532.ogg", "starship7__1533.ogg", "starship8__1534.ogg",
 ];
 
+const STEP_GRATING: string[] = [
+  "starship1__1527.ogg", "starship2__1528.ogg", "starship3__1529.ogg", "starship4__1530.ogg",
+  "starship5__1531.ogg", "starship6__1532.ogg", "starship7__1533.ogg", "starship8__1534.ogg",
+];
+
+/** Gate One file wiring, phase 3-5 (wiring map, Oct 17 2026).
+ *  Positional one-shot sets + interface palette + footstep surfaces.
+ *  Every entry is a registered asset (RSN-SFX-009..076). */
+const PAPER_FILES: string[] = [
+  "crumble1__624.ogg", "crumble2__625.ogg", "crumble3__626.ogg", "page__627.ogg", "paste__628.ogg",
+];
+const PA_FILES: Record<string, string[]> = {
+  concourse: ["announcement__326.ogg", "paYou__345.ogg"],
+  hearth: ["announcement__693.ogg", "arrive1__694.ogg", "leave1__699.ogg"],
+};
+const VOICE_BAND_FILES: string[] = ["say__350.ogg", "directsay__331.ogg"];
+const VOICE_SPOTS: Record<string, { x: number; y: number }[]> = {
+  concourse: [{ x: -14, y: 40 }, { x: 10, y: 52 }, { x: -4, y: 36 }],
+  hearth: [{ x: 10, y: 86 }],
+};
+const UI_FILES: Record<string, string> = {
+  confirm: "beep1__575.ogg", select: "beep2__586.ogg", badge: "beep10__576.ogg",
+  error: "beep20__587.ogg", scan: "beep23__590.ogg",
+};
+const STEP_CABIN: string[] = [
+  "indoors1__1514.ogg", "indoors2__1515.ogg", "indoors3__1516.ogg", "indoors4__1517.ogg",
+];
+const STEP_STONE_L: string[] = ["Fantozzi-StoneL1.ogg", "Fantozzi-StoneL2.ogg", "Fantozzi-StoneL3.ogg"];
+const STEP_STONE_R: string[] = ["Fantozzi-StoneR1.ogg", "Fantozzi-StoneR2.ogg", "Fantozzi-StoneR3.ogg"];
+
 function audioUrl(file: string): string {
   // Public assets are served relative to the app base; resolve against the
   // document so sub-path deployments keep working.
@@ -91,6 +121,14 @@ export class SpatialAudio {
   private buffers = new Map<string, Promise<AudioBuffer | null>>();
   private ambientGen = 0;
   private accentTimer: ReturnType<typeof setTimeout> | null = null;
+  private sceneTimer: ReturnType<typeof setInterval> | null = null;
+  private sceneProfile: string = "";
+  private sceneT = 0;
+  private nextPA = 6;
+  private nextVoice = 4;
+  private nextPaper = 3;
+  private paIdx = 0;
+  private lastStep = "";
 
   async ensure(): Promise<boolean> {
     if (this.ctx) {
@@ -436,6 +474,62 @@ export class SpatialAudio {
       };
       this.accentTimer = setTimeout(tick, 4000 + Math.random() * 4000);
     }
+    this.startScene(profile);
+  }
+
+  /** Periodic in-world one-shots for the current zone (wiring map phase 3):
+   *  cabin paper foley at the reader's seat, concourse/hearth PA rotation,
+   *  and short voice-band phrases at traveller spots. All positional. */
+  private startScene(profile: string) {
+    if (this.sceneTimer) { clearInterval(this.sceneTimer); this.sceneTimer = null; }
+    this.sceneProfile = profile;
+    this.sceneT = 0;
+    this.nextPA = 6; this.nextVoice = 4; this.nextPaper = 3;
+    if (!this.ctx) return;
+    this.sceneTimer = setInterval(() => {
+      if (!this.enabled || !this.ctx || !this.master) return;
+      this.sceneT += 1;
+      const p = this.sceneProfile;
+      if (p === "cabin" && this.sceneT >= this.nextPaper) {
+        this.nextPaper = this.sceneT + 6 + Math.random() * 6;
+        this.playFileOnce(PAPER_FILES[Math.floor(Math.random() * PAPER_FILES.length)], -9, 28, 0.4);
+      }
+      const pa = PA_FILES[p];
+      if (pa && this.sceneT >= this.nextPA) {
+        this.nextPA = this.sceneT + 16 + Math.random() * 12;
+        const pos = p === "hearth" ? { x: 16, y: 88 } : { x: 0, y: 44 };
+        this.playFileOnce(pa[this.paIdx++ % pa.length], pos.x, pos.y, 0.5);
+      }
+      const spots = VOICE_SPOTS[p];
+      if (spots && this.sceneT >= this.nextVoice) {
+        this.nextVoice = this.sceneT + 8 + Math.random() * 8;
+        const s = spots[Math.floor(Math.random() * spots.length)];
+        this.playFileOnce(VOICE_BAND_FILES[Math.floor(Math.random() * VOICE_BAND_FILES.length)], s.x, s.y, 0.45);
+      }
+    }, 1000);
+  }
+
+  /** Non-positional one-shot through the master bus (the player's own
+   *  sounds: interface, footsteps). Silent until the file has loaded. */
+  playSelfOnce(file: string, volume = 0.5) {
+    if (!this.ctx || !this.master || !this.enabled) return;
+    const ctx = this.ctx;
+    const master = this.master;
+    void this.loadBuffer(file).then((buf) => {
+      if (!buf || !this.enabled) return;
+      const src = ctx.createBufferSource();
+      src.buffer = buf;
+      const g = ctx.createGain();
+      g.gain.value = volume;
+      src.connect(g).connect(master);
+      src.start();
+    });
+  }
+
+  /** Interface palette [08]: one consistent beep per meaning, everywhere. */
+  uiSound(name: "confirm" | "select" | "badge" | "error" | "scan") {
+    const f = UI_FILES[name];
+    if (f) this.playSelfOnce(f, 0.5);
   }
 
   /**
@@ -464,6 +558,7 @@ export class SpatialAudio {
 
   /** Badge earcon: soft two-tone chirp, personal (non-spatial). */
   badgeChirp() {
+    this.uiSound("badge");
     if (!this.ctx || !this.master) return;
     const ctx = this.ctx;
     const t = ctx.currentTime;
@@ -506,8 +601,23 @@ export class SpatialAudio {
   }
 
   /** Single soft footstep tick; alternate slightly for left/right. */
-  footstep(alt: boolean) {
-    if (!this.ctx || !this.master || !this.noise) return;
+  footstep(alt: boolean, surface?: string) {
+    // Recorded surfaces (wiring map phase 5): cabin boards, concourse stone
+    // (Fantozzi CC0, left/right matched to the step), bridge grating plates.
+    // The Hearth deck keeps the synthesized step until its own recorded set
+    // exists — the cabin set is not reused there (design rule: a surface's
+    // sound belongs to that surface).
+    if (surface === "cabin" || surface === "stone" || surface === "grating") {
+      const set = surface === "cabin" ? STEP_CABIN
+        : surface === "grating" ? STEP_GRATING
+        : alt ? STEP_STONE_R : STEP_STONE_L;
+      let f = set[Math.floor(Math.random() * set.length)];
+      if (f === this.lastStep && set.length > 1) f = set[(set.indexOf(f) + 1) % set.length];
+      this.lastStep = f;
+      this.playSelfOnce(f, surface === "grating" ? 0.4 : 0.5);
+      return;
+    }
+    if (!this.ctx || !this.master || !this.enabled) return;
     const ctx = this.ctx;
     const src = ctx.createBufferSource();
     src.buffer = this.noise;
