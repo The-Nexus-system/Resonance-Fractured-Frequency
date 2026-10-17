@@ -141,11 +141,11 @@ function ConceptChair() {
       <Shape at={[0, 1.61, -0.84]} size={[1.28, 1.0, 0.16]} shade="#536b6f" />
       {[-1, 1].map(side => (
         <group key={side}>
-          <mesh position={[side * 0.89, 0.77, -0.30]} rotation={[0, 0, Math.PI / 2]}>
+          <mesh position={[side * 0.89, 0.77, -0.30]} rotation={[0, Math.PI / 2, 0]}>
             <torusGeometry args={[0.63, 0.077, 8, 32]} />
             <meshStandardMaterial color="#9baeb0" metalness={0.52} roughness={0.46} />
           </mesh>
-          <mesh position={[side * 0.89, 0.77, -0.30]} rotation={[0, 0, Math.PI / 2]}>
+          <mesh position={[side * 0.89, 0.77, -0.30]} rotation={[0, Math.PI / 2, 0]}>
             <torusGeometry args={[0.43, 0.025, 6, 32]} />
             <meshStandardMaterial color="#718789" metalness={0.55} />
           </mesh>
