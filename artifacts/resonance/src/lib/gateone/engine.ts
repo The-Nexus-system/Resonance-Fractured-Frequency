@@ -261,6 +261,12 @@ export class GateOneEngine {
             this.applyAmbient();
             this.spawnZoneSources();
             this.cb.onAnnounce(`Entering the ${zoneAt(this.x, this.y).name}.`);
+            // Hearth threshold pair [04]: heard from the Hearth side.
+            if (prevZone === "bridge" && newZone === "hearth") {
+              this.audio.playFileOnce("hearbegin__1100.ogg", PLACES.hearthThreshold.x, PLACES.hearthThreshold.y, 0.7);
+            } else if (prevZone === "hearth" && newZone === "bridge") {
+              this.audio.playFileOnce("hearfinish__1101.ogg", PLACES.hearthThreshold.x, PLACES.hearthThreshold.y, 0.7);
+            }
           }
         }
       }
@@ -378,6 +384,9 @@ export class GateOneEngine {
     switch (effect) {
       case "openHatch":
         this.hatchOpen = true;
+        // Hatch cycle [04]: air first, then the hatch itself, at the hatch.
+        this.audio.playFileOnce("airStart__1097.ogg", PLACES.hatch.x, PLACES.hatch.y, 0.8);
+        this.audio.playFileOnce("open__1102.ogg", PLACES.hatch.x, PLACES.hatch.y, 0.8, 900);
         break;
       case "brakingAudio":
         this.audio.brakingShift();
