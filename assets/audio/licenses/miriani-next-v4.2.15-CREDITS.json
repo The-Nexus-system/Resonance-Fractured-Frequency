@@ -1,0 +1,28 @@
+{
+  "packId": "miriani-next-v4.2.15",
+  "sourceUrl": "https://github.com/distantorigin/miriani-next/tree/v4.2.15",
+  "attribution": {
+    "summary": "Miriani-Next v4.2.15 credited historical sound sources",
+    "sources": [
+      "Zapsplat",
+      "Pixabay",
+      "Miriani6 (Liam Erven, Chris Nestrud, and others)",
+      "Miriani 7",
+      "MTMiriani",
+      "Miriani Soundpack for VIP Mud",
+      "Myinstants",
+      "Star Wars ULTIMATE SFX COLLECTION",
+      "Sounds provided by Jason Harkness in his home studio"
+    ],
+    "projectThanks": [
+      "Gage Vieraah",
+      "Ryan Salvatore",
+      "Mark Sainsbury",
+      "Jason Harkness",
+      "Hannah Holloway",
+      "Buck Hadford",
+      "Alan Nez"
+    ],
+    "historicalNote": "Some recordings came from older sound sources. Preserve the existing credits and do not reconstruct historical lineage unless a particular recording needs separate review."
+  }
+}
