@@ -184,17 +184,17 @@ GENERATED from `assets/CATALOG.json` — do not edit by hand.
 - **Notes:** Copyleft is never a rejection reason; obligations are documented and honoured.
 
 ### SRC-AUD-015 — Miriani-Next
-- **Status:** reference-only
+- **Status:** needs-license-check
 - **Creator/Publisher:** Miriani-Next project
-- **Location/Reacquisition:** https://github.com/miriani-next (verify current repo)
-- **License:** DESIGN REFERENCE; asset import only where pack/file licensing demonstrably permits it
+- **Location/Reacquisition:** https://github.com/distantorigin/miriani-next
+- **License:** Pack-level attribution only: the pack credits nine sources (preserved in full in the registry attribution text of every SRC-AUD-015 entry); per-file licences undocumented — see notes
 - **Commercial use:** not without further verification
-- **Attribution:** n/a until a licensed subset is verified
-- **Modification/Redistribution:** Per verified subset only.
+- **Attribution:** Credit Miriani-Next v4.2.15 and its nine credited sources — full text in assets/REGISTRY.json (attributionText on SRC-AUD-015 entries), generated into game credits.
+- **Modification/Redistribution:** Registered per-file imports only; each import carries the pack attribution and the recorded unresolved-status notes.
 - **Whole pack approved:** no — per-file/per-pack verification required
 - **Purchase/Subscription:** Free
 - **Preferred use in Resonance:** Blind-first sound-information architecture REFERENCE (variants, informative audio).
-- **Notes:** A public repository does not relicense bundled third-party recordings; verify before any import. If a subset is demonstrably open-licensed, it flips to approved-per-file with documentation.
+- **Notes:** Oct 17, 2026: status moved from reference-only to needs-license-check to permit registered imports under recorded conditions — this is NOT approved-per-file: no verified per-file licences exist. Conditions: (1) Kit's revised ruling — no blanket quarantine over the pack's Star Wars ULTIMATE SFX COLLECTION credit; only positively identified franchise-derived sounds are flagged individually, and a full filename scan found none in the Gate One selection; (2) licence research (Oct 17, 2026) found no documented per-file licence for any of the 70 unique Gate One sources — a permission-contact list for identifiable holders is held with the sound library research, and replacement sourcing (licensed libraries) remains available; (3) Nexus directions — environments wiring proceeds now; the credit chain is preserved exactly as the pack gives it and tops out at the pack's own credited names, with the standing note that Star Wars audio/IP belongs to its rights holders and the game is unaffiliated; commercial distribution licences are intended for all shipped sounds by publication. A public repository does not relicense bundled third-party recordings.
 
 ### SRC-AUD-016 — Fractured Flow originals (incl. Suno generations under qualifying commercial subscription)
 - **Status:** approved
@@ -221,6 +221,32 @@ GENERATED from `assets/CATALOG.json` — do not edit by hand.
 - **Purchase/Subscription:** Free/paid per Creator Music track (YouTube-scoped)
 - **Preferred use in Resonance:** The project's OWN YouTube videos, trailers, devlogs, promotion. Discovery pool only for in-game use.
 - **Notes:** Never rip from standard-license videos; 'no copyright' titles mean nothing; a normal video is a source only with owner-granted clear license + saved evidence. Flips to approved-per-file only when a track's underlying license verifiably grants off-platform game rights.
+
+### SRC-AUD-018 — Fantozzi Footsteps (OpenGameArt)
+- **Status:** approved
+- **Creator/Publisher:** Fantozzi
+- **Location/Reacquisition:** https://opengameart.org/node/21492
+- **License:** CC0-1.0
+- **Commercial use:** yes
+- **Attribution:** Not required (CC0); voluntary credit to Fantozzi.
+- **Modification/Redistribution:** Unrestricted under CC0.
+- **Whole pack approved:** no — per-file/per-pack verification required
+- **Purchase/Subscription:** Free
+- **Preferred use in Resonance:** Footstep foley — stone and hard surfaces.
+- **Notes:** Added Oct 17, 2026 for the Gate One wiring: staged subset is the 6 stone footstep files (L/R pairs, RSN-SFX-071..076). Original recordings published by Fantozzi on Freesound (pack 10338) under CC0; OpenGameArt mirror uploaded by qubodup.
+
+### SRC-AUD-019 — Kokoro TTS — Kokoro-82M model (hexgrad) with the kokoro-onnx runtime
+- **Status:** approved
+- **Creator/Publisher:** hexgrad (Kokoro model); thewh1teagle (kokoro-onnx runtime)
+- **Location/Reacquisition:** https://github.com/hexgrad/kokoro and https://github.com/thewh1teagle/kokoro-onnx — open source, reacquirable
+- **License:** Apache-2.0
+- **Commercial use:** yes
+- **Attribution:** none required (Apache-2.0 licence text held at assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt)
+- **Modification/Redistribution:** Permitted under Apache-2.0; rendered output is original project work.
+- **Whole pack approved:** yes
+- **Purchase/Subscription:** Free (open source); no purchase.
+- **Preferred use in Resonance:** Cast voice-line production — renders of authored script lines with the cast voices (Gate One voice wiring).
+- **Notes:** Voices ship inside the Kokoro-82M model release (voices-v1.0). Cast voice + production recipe are recorded per line in each registry entry's processing field; the casting record is held in the Nexus workspace (resonance-audio-ingest/tts-kokoro/CHARACTER-PROFILES.md).
 
 ## Graphics / 3D / Textures / Fonts / Animation sources
 
