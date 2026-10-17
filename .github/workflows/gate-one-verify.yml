@@ -1,0 +1,47 @@
+name: Resonance Gate One checks
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/gate-one-verify.yml"
+      - "artifacts/resonance-mobile/**"
+      - "artifacts/resonance/src/**"
+      - "assets/REGISTRY.json"
+      - "scripts/assets/**"
+      - "pnpm-lock.yaml"
+      - "pnpm-workspace.yaml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  typecheck-and-tests:
+    name: Web + native typecheck, accessibility/game tests, asset validation
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10.24.0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+      - name: Install project dependencies
+        run: pnpm install --frozen-lockfile
+      - name: Verify all registered asset files and credits metadata
+        run: node scripts/assets/registry.mjs validate
+      - name: Typecheck Gate One web app
+        run: pnpm --filter @workspace/resonance run typecheck
+      - name: Typecheck Gate One native app
+        run: pnpm --filter @workspace/resonance-mobile run typecheck
+      - name: Spatial and accessibility gameplay regression tests
+        run: pnpm --filter @workspace/resonance-mobile run test:spatial
+      - name: Verify Apple-compatible recorded assets exist
+        shell: bash
+        run: |
+          set -euo pipefail
+          count=$(find artifacts/resonance-mobile/assets/audio/gateone -maxdepth 1 -name '*.m4a' -type f | wc -l)
+          test "$count" -eq 13
