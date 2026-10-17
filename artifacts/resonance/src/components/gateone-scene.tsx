@@ -13,8 +13,9 @@
  */
 import { Canvas, useThree } from "@react-three/fiber";
 import { Component, useEffect, useMemo, type ReactNode } from "react";
-import { WALKABLE, PLACES, type Rect } from "@/lib/gateone/world";
+import { WALKABLE, type Rect } from "@/lib/gateone/world";
 import type { EngineSnapshot } from "@/lib/gateone/engine";
+import { GateOneEnvironment, GateOneNpc } from "./gateone-environment";
 
 export function supportsWebGL(): boolean {
   try {
@@ -91,15 +92,6 @@ function buildWalls(rects: Rect[]): WallSeg[] {
   return segs;
 }
 
-const LANDMARKS: { key: keyof typeof PLACES; color: string; height: number }[] = [
-  { key: "hatch", color: "#7fd4c1", height: 2.6 },
-  { key: "memorial", color: "#c9d8d5", height: 2.2 },
-  { key: "berthWindow", color: "#8fd0e8", height: 2.4 },
-  { key: "hearthThreshold", color: "#7fd4c1", height: 2.6 },
-  { key: "crewCheck", color: "#e8d48f", height: 1.4 },
-  { key: "lift", color: "#7fe0a8", height: 2.8 },
-];
-
 /** Renderer errors must never take down the game: fall back to nothing —
  * the 2D map and captions remain on screen and carry the same information. */
 class SceneBoundary extends Component<{ children: ReactNode }, { failed: boolean }> {
@@ -146,7 +138,7 @@ function GateOneSceneInner({ snap }: { snap: EngineSnapshot }) {
       {WALKABLE.map((r, i) => (
         <mesh key={`f${i}`} position={[(r.x1 + r.x2) / 2, -0.05, -(r.y1 + r.y2) / 2]}>
           <boxGeometry args={[r.x2 - r.x1, 0.1, r.y2 - r.y1]} />
-          <meshStandardMaterial color={tint.floor} />
+          <meshStandardMaterial color={i < 2 ? ZONE_TINT.cabin.floor : i < 5 ? ZONE_TINT.concourse.floor : i === 5 ? ZONE_TINT.bridge.floor : ZONE_TINT.hearth.floor} />
         </mesh>
       ))}
 
@@ -186,12 +178,49 @@ function GateOneSceneInner({ snap }: { snap: EngineSnapshot }) {
       })}
 
       {/* Walls */}
-      {walls.map((w, i) => (
+      {walls.filter((w) => {
+        // Renderer-only openings for two existing script landmarks.
+        // The cabin's left window (x=-4) and east berth viewport (x=20)
+        // are not walkable doors; the game collision stays untouched.
+        const cabinWindow = w.w < 0.5 && Math.abs(w.cx + 4) < 0.25 && w.cy > 0 && w.cy < 12;
+        const berthViewport = w.w < 0.5 && Math.abs(w.cx - 20) < 0.25 && w.cy > 58 && w.cy < 62;
+        return !cabinWindow && !berthViewport;
+      }).map((w, i) => (
         <mesh key={`w${i}`} position={[w.cx, WALL_HEIGHT / 2, -w.cy]}>
           <boxGeometry args={[w.w, WALL_HEIGHT, w.d]} />
           <meshStandardMaterial color={tint.wall} />
         </mesh>
       ))}
+      {/* A real side window cut into the transport wall. The exterior view is
+          deliberately dark: no unapproved planet position or cutscene image. */}
+      <group>
+        <mesh position={[-4, WALL_HEIGHT / 2, -3.2]}>
+          <boxGeometry args={[WALL_THICKNESS, WALL_HEIGHT, 6.4]} />
+          <meshStandardMaterial color={ZONE_TINT.cabin.wall} />
+        </mesh>
+        <mesh position={[-4, WALL_HEIGHT / 2, -10.7]}>
+          <boxGeometry args={[WALL_THICKNESS, WALL_HEIGHT, 2.6]} />
+          <meshStandardMaterial color={ZONE_TINT.cabin.wall} />
+        </mesh>
+        <mesh position={[-4, 3.12, -8]}>
+          <boxGeometry args={[0.33, 0.58, 3.25]} />
+          <meshStandardMaterial color="#8099a3" metalness={0.7} roughness={0.42} />
+        </mesh>
+        <mesh position={[-4, 0.43, -8]}>
+          <boxGeometry args={[0.33, 0.85, 3.25]} />
+          <meshStandardMaterial color="#758f9a" metalness={0.7} roughness={0.42} />
+        </mesh>
+        {[6.5, 9.5].map((y) => (
+          <mesh key={y} position={[-4, 1.73, -y]}>
+            <boxGeometry args={[0.33, 2.55, 0.13]} />
+            <meshStandardMaterial color="#8ea6aa" metalness={0.7} roughness={0.45} />
+          </mesh>
+        ))}
+        <mesh position={[-4, 1.79, -8]} rotation={[0, Math.PI / 2, 0]}>
+          <planeGeometry args={[2.9, 2.25]} />
+          <meshPhysicalMaterial color="#376582" roughness={0.19} metalness={0.12} transparent opacity={0.38} side={2} depthWrite={false} />
+        </mesh>
+      </group>
 
       {/* Transfer hatch: a framed pressure door that opens with the real docking state.
           Visual geometry never changes the authoritative walkable collision space. */}
@@ -226,30 +255,12 @@ function GateOneSceneInner({ snap }: { snap: EngineSnapshot }) {
         )}
       </group>
 
-      {/* Landmarks — dim emissive markers at authored fixture positions */}
-      {LANDMARKS.map(({ key, color, height }) => {
-        const p = PLACES[key];
-        return (
-          <mesh key={key} position={[p.x, height / 2, -p.y]}>
-            <boxGeometry args={[1.2, height, 0.5]} />
-            <meshStandardMaterial color={color} emissive={color} emissiveIntensity={0.25} />
-          </mesh>
-        );
-      })}
+      {/* Authored scene fixtures replace generic glowing landmark cubes.
+          All physical travel and interaction remain in the Gate One engine. */}
+      <GateOneEnvironment />
 
-      {/* NPCs in the current zone — simple figures at their live positions */}
-      {snap.npcs.map((n) => (
-        <group key={n.id} position={[n.x, 0, -n.y]}>
-          <mesh position={[0, 0.85, 0]}>
-            <capsuleGeometry args={[0.28, 1.0, 4, 10]} />
-            <meshStandardMaterial color="#5f8a94" />
-          </mesh>
-          <mesh position={[0, 1.62, 0]}>
-            <sphereGeometry args={[0.2, 12, 12]} />
-            <meshStandardMaterial color="#78a4ae" />
-          </mesh>
-        </group>
-      ))}
+      {/* Each existing moving entity keeps its authoritative simulation pose. */}
+      {snap.npcs.map((n) => <GateOneNpc key={n.id} npc={n} />)}
     </Canvas>
   );
 }
