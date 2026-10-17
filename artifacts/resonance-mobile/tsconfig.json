@@ -21,6 +21,6 @@
     }
   ],
   "exclude": [
-    "lib/spatial/__tests__/**/*.ts"
+    "lib/**/__tests__/**/*.ts"
   ]
 }
