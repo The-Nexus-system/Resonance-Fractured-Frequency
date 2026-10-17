@@ -10,6 +10,7 @@
  */
 import type { EngineSnapshot } from "@/lib/gateone/engine";
 import { PLACES } from "@/lib/gateone/world";
+import { GATE_ONE_FINISH } from "./gateone-materials";
 
 type NpcSnapshot = EngineSnapshot["npcs"][number];
 
@@ -19,9 +20,9 @@ function Panel({ position, size, color = "#4e6971" }: {
   color?: string;
 }) {
   return (
-    <mesh position={position} receiveShadow>
+    <mesh position={position} castShadow receiveShadow>
       <boxGeometry args={size} />
-      <meshStandardMaterial color={color} metalness={0.56} roughness={0.48} />
+      <meshStandardMaterial color={color} map={GATE_ONE_FINISH.repair} metalness={0.56} roughness={0.61} />
     </mesh>
   );
 }
