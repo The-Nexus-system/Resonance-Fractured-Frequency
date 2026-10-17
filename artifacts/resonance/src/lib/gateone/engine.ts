@@ -59,7 +59,7 @@ export class GateOneEngine {
   private captionSeq = 0;
   private stepAccum = 0;
   private stepAlt = false;
-  private npcState = new Map<string, { x: number; y: number; wp: number }>();
+  private npcState = new Map<string, { x: number; y: number; wp: number; moveAcc?: number; spins?: number; wasMoving?: boolean }>();
   private audio = new SpatialAudio();
   private cb: EngineCallbacks;
   private running = false;
@@ -150,6 +150,7 @@ export class GateOneEngine {
 
   /** Look Around — describes surroundings; never moves the player. */
   lookAround(): string {
+    this.audio.uiSound("select");
     const z = zoneAt(this.x, this.y);
     const parts: string[] = [`You are in the ${z.name}.`];
     const nearby: { label: string; d: number; dir: string }[] = [];
@@ -242,6 +243,7 @@ export class GateOneEngine {
           if (this.stepAccum > 0.5) {
             this.stepAccum = 0;
             this.audio.bump();
+            this.audio.uiSound("error");
             if (!this.hatchOpen && dist(this.x, this.y, PLACES.hatch.x, PLACES.hatch.y) < 2.5) {
               this.cb.onAnnounce("The transfer hatch is still sealed.");
             } else {
@@ -254,7 +256,8 @@ export class GateOneEngine {
           if (this.stepAccum > 0.72) {
             this.stepAccum = 0;
             this.stepAlt = !this.stepAlt;
-            this.audio.footstep(this.stepAlt);
+            const sz = zoneAt(this.x, this.y).id;
+            this.audio.footstep(this.stepAlt, sz === "cabin" ? "cabin" : sz === "bridge" ? "grating" : sz === "concourse" ? "stone" : undefined);
           }
           const newZone = zoneAt(this.x, this.y).id;
           if (newZone !== prevZone) {
@@ -278,10 +281,26 @@ export class GateOneEngine {
       const target = p.waypoints[s.wp];
       const d = dist(s.x, s.y, target.x, target.y);
       if (d < 0.3) {
+        if (p.voice === "cart" && s.wasMoving) {
+          this.audio.playFileOnce("wheel_stop__684.ogg", s.x, s.y, 0.3);
+          s.wasMoving = false;
+        }
         s.wp = (s.wp + 1) % p.waypoints.length;
       } else {
         s.x += ((target.x - s.x) / d) * p.speed * dt;
         s.y += ((target.y - s.y) / d) * p.speed * dt;
+        if (p.voice === "cart") {
+          // Cart foley [06]: wheel rotation one-shots while it rolls, an
+          // occasional load shift; silent at rest (state-and-action rule).
+          s.wasMoving = true;
+          s.moveAcc = (s.moveAcc ?? 0) + p.speed * dt;
+          if (s.moveAcc > 7) {
+            s.moveAcc = 0;
+            s.spins = (s.spins ?? 0) + 1;
+            this.audio.playFileOnce("spin_wheel__683.ogg", s.x, s.y, 0.32);
+            if (s.spins % 4 === 0) this.audio.playFileOnce("cargoBang__44.ogg", s.x, s.y, 0.22);
+          }
+        }
       }
       this.audio.movePositional(`npc-${p.id}`, s.x, s.y);
     }
@@ -329,6 +348,7 @@ export class GateOneEngine {
   }
 
   private fire(ev: ScriptEvent, t: number) {
+    if (ev.id === "crew-scan") this.audio.uiSound("scan");
     this.fired.add(ev.id);
     this.firedAt.set(ev.id, t);
     const last = ev.lines.length - 1;
