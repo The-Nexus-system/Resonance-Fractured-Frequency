@@ -15,6 +15,7 @@ import {
 } from "./world";
 import { buildScript, type ScriptEvent, type ScriptLine } from "./script";
 import { SpatialAudio, type AmbientProfile } from "./audio";
+import { voiceFileFor } from "./voices";
 import type { CharacterId } from "./characters";
 
 export type Caption = { id: number; speaker: string; kind: ScriptLine["kind"]; text: string };
@@ -61,6 +62,7 @@ export class GateOneEngine {
   private stepAlt = false;
   private npcState = new Map<string, { x: number; y: number; wp: number; moveAcc?: number; spins?: number; wasMoving?: boolean }>();
   private audio = new SpatialAudio();
+  private speechOn = true;
   private cb: EngineCallbacks;
   private running = false;
   private lineQueue: { line: ScriptLine; at?: { x: number; y: number }; effectAfter?: ScriptEvent["effect"] }[] = [];
@@ -115,6 +117,7 @@ export class GateOneEngine {
     }
     this.audio.setEnabled(soundOn);
     this.audio.setSpeechEnabled(speechOn);
+    this.speechOn = speechOn;
     this.startTime = performance.now();
     this.lastFrame = this.startTime;
     this.running = true;
@@ -124,7 +127,10 @@ export class GateOneEngine {
   }
 
   setSound(on: boolean) { this.audio.setEnabled(on); }
-  setSpeech(on: boolean) { this.audio.setSpeechEnabled(on); }
+  setSpeech(on: boolean) {
+    this.speechOn = on;
+    this.audio.setSpeechEnabled(on);
+  }
 
   keyDown(code: string) { this.keys.add(code); }
   keyUp(code: string) { this.keys.delete(code); }
@@ -386,15 +392,30 @@ export class GateOneEngine {
     this.cb.onCaption(caption);
     const spoken = line.speaker ? `${line.speaker}: ${line.text}` : line.text;
     this.cb.onAnnounce(spoken);
+    // Recorded voice (voice wiring phase): a produced line plays its
+    // recording INSTEAD of speech synthesis. Badge, PA and narration are
+    // "with you", so their recordings are non-positional; NPC and player
+    // recordings play at the event's speaking position, the same position
+    // the voice cue above marks. Unmapped lines — the dynamic lookAround /
+    // repeatGuidance strings and Ilyan's "Navigation." — keep synthesis.
+    // Captions and the announcement above fire exactly as before either
+    // way, and with speech off nothing is voiced at all.
+    const voiceFile = this.speechOn ? voiceFileFor(line.speaker, line.text) : undefined;
     if (line.kind === "badge") {
       this.audio.badgeChirp();
       vibrate(40);
       this.lastGuidance = line.text;
-      this.audio.speak(line.text, { rate: 1.05, pitch: 1.1 });
+      if (voiceFile) this.audio.playSelfOnce(voiceFile, 0.9);
+      else this.audio.speak(line.text, { rate: 1.05, pitch: 1.1 });
     } else if (line.kind === "pa") {
-      this.audio.speak(line.text, { rate: 0.98, pitch: 0.9 });
+      if (voiceFile) this.audio.playSelfOnce(voiceFile, 0.9);
+      else this.audio.speak(line.text, { rate: 0.98, pitch: 0.9 });
     } else if (line.kind === "narration") {
-      this.audio.speak(line.text, { rate: 1.04 });
+      if (voiceFile) this.audio.playSelfOnce(voiceFile, 0.9);
+      else this.audio.speak(line.text, { rate: 1.04 });
+    } else if (voiceFile) {
+      if (at) this.audio.playFileOnce(voiceFile, at.x, at.y, 0.95);
+      else this.audio.playSelfOnce(voiceFile, 0.9);
     } else {
       this.audio.speak(spoken, { rate: 1.0 });
     }
