@@ -34,9 +34,11 @@ const BED_LAYERS: Record<AmbientProfile, { file: string; volume: number; lowpass
     { file: "pod__735.ogg", volume: 0.28 }, // [01] same transport presence, set back
     { file: "chatter__328.ogg", volume: 0.34 }, // [05] crowd wash
     { file: "background4__1112.ogg", volume: 0.26 }, // [14] deep hull bed
+    { file: "boilerRoom06.ogg", volume: 0.2, lowpass: 500 }, // [07] concourse HVAC — SONNISS boiler-room texture (phase 6)
   ],
   bridge: [
     { file: "background3__1111.ogg", volume: 0.5 }, // [15] bridge interior bed — main
+    { file: "geofon17.ogg", volume: 0.3, lowpass: 300 }, // [12] geophone rumble base — SONNISS (phase 6)
   ],
   hearth: [
     { file: "background2__1110.ogg", volume: 0.5 }, // [15] Hearth interior bed — main
@@ -89,6 +91,10 @@ const STEP_CABIN: string[] = [
 ];
 const STEP_STONE_L: string[] = ["Fantozzi-StoneL1.ogg", "Fantozzi-StoneL2.ogg", "Fantozzi-StoneL3.ogg"];
 const STEP_STONE_R: string[] = ["Fantozzi-StoneR1.ogg", "Fantozzi-StoneR2.ogg", "Fantozzi-StoneR3.ogg"];
+const STEP_HEARTH: string[] = [
+  "station1.ogg", "station2.ogg", "station3.ogg", "station4.ogg",
+  "station5.ogg", "station6.ogg", "station7.ogg", "station8.ogg",
+];
 
 function audioUrl(file: string): string {
   // Public assets are served relative to the app base; resolve against the
@@ -542,6 +548,7 @@ export class SpatialAudio {
     if (!this.ctx || !this.master) return;
     const ctx = this.ctx;
     this.playFileOnce("decelerate2__1210.ogg", 0, 34, 0.85);
+    this.playFileOnce("buckle1.ogg", 0, 20, 0.4); // [01] restraint buckle at the seats (phase 6)
     const osc = ctx.createOscillator();
     const gain = ctx.createGain();
     osc.type = "sine";
@@ -604,12 +611,13 @@ export class SpatialAudio {
   footstep(alt: boolean, surface?: string) {
     // Recorded surfaces (wiring map phase 5): cabin boards, concourse stone
     // (Fantozzi CC0, left/right matched to the step), bridge grating plates.
-    // The Hearth deck keeps the synthesized step until its own recorded set
-    // exists — the cabin set is not reused there (design rule: a surface's
-    // sound belongs to that surface).
-    if (surface === "cabin" || surface === "stone" || surface === "grating") {
+    // The Hearth deck has its own recorded set (station steps, phase 6) —
+    // the cabin set is never reused there (design rule: a surface's sound
+    // belongs to that surface).
+    if (surface === "cabin" || surface === "stone" || surface === "grating" || surface === "hearth") {
       const set = surface === "cabin" ? STEP_CABIN
         : surface === "grating" ? STEP_GRATING
+        : surface === "hearth" ? STEP_HEARTH
         : alt ? STEP_STONE_R : STEP_STONE_L;
       let f = set[Math.floor(Math.random() * set.length)];
       if (f === this.lastStep && set.length > 1) f = set[(set.indexOf(f) + 1) % set.length];
