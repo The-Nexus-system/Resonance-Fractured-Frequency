@@ -19,6 +19,7 @@ import {
 } from '@/lib/gateone/engine';
 import { WALKABLE } from '@/lib/gateone/world';
 import { GateOneThreeScene } from '@/components/gateone-three-scene';
+import { GateOneRecordedAudio } from '@/lib/gateone/recorded-audio';
 import { defaultGateOne } from '@/lib/save';
 
 const MAP_W = 300;
@@ -44,11 +45,18 @@ export default function DayOneScreen() {
   // Presentation choice only: both views read the same semantic engine state.
   const [presentation, setPresentation] = useState<'3d' | 'map'>('3d');
   const engineRef = useRef<GateOneNativeEngine | null>(null);
+  const recordedAudioRef = useRef<GateOneRecordedAudio | null>(null);
+  const lastHatchRef = useRef(false);
+  const collarPlayedRef = useRef(false);
   const scrollRef = useRef<ScrollView>(null);
   const persistRef = useRef(0);
 
   const begin = useCallback(() => {
     if (!character || engineRef.current) return; // idempotent: no double engines
+    if (!recordedAudioRef.current) recordedAudioRef.current = new GateOneRecordedAudio();
+    recordedAudioRef.current.setEnabled(settings.sound);
+    lastHatchRef.current = gateOne.hatchOpen;
+    collarPlayedRef.current = gateOne.y >= 70;
     const engine = new GateOneNativeEngine(
       character.id,
       {
@@ -60,7 +68,15 @@ export default function DayOneScreen() {
         onStateChange: () => {
           const e = engineRef.current;
           if (!e) return;
-          setSnap(e.snapshot());
+          const next = e.snapshot();
+          setSnap(next);
+          recordedAudioRef.current?.setZone(next.zone);
+          if (next.hatchOpen && !lastHatchRef.current) recordedAudioRef.current?.hatchRelease();
+          lastHatchRef.current = next.hatchOpen;
+          if (next.y >= 70 && !collarPlayedRef.current) {
+            collarPlayedRef.current = true;
+            recordedAudioRef.current?.collar();
+          }
           const now = Date.now();
           if (now - persistRef.current > 2000) {
             persistRef.current = now;
@@ -73,6 +89,7 @@ export default function DayOneScreen() {
         },
         onGateOneComplete: () => {
           setComplete(true);
+          recordedAudioRef.current?.setEnabled(false);
           updateGateOne({ complete: true });
           haptic('restoration', 'gameplay');
         },
@@ -80,7 +97,13 @@ export default function DayOneScreen() {
         onHaptic: (kind) => {
           if (kind === 'badge') haptic('discovery', 'gameplay');
           else if (kind === 'bump') haptic('error', 'gameplay');
-          else haptic('approach', 'gameplay');
+          else {
+            haptic('approach', 'gameplay');
+            if (kind === 'step') {
+              const zone = engineRef.current?.snapshot().zone;
+              if (zone) recordedAudioRef.current?.step(zone);
+            }
+          }
         },
       },
       gateOne.firedEvents.length > 0 || gateOne.y > 2
@@ -107,12 +130,15 @@ export default function DayOneScreen() {
         });
         e.dispose();
       }
+      recordedAudioRef.current?.dispose();
+      recordedAudioRef.current = null;
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   useEffect(() => {
     engineRef.current?.setSound(settings.sound);
+    recordedAudioRef.current?.setEnabled(settings.sound);
   }, [settings.sound]);
 
   const hold = (c: HeldControl) => engineRef.current?.hold(c);
@@ -124,6 +150,10 @@ export default function DayOneScreen() {
 
   const restart = useCallback(() => {
     engineRef.current?.dispose();
+    recordedAudioRef.current?.dispose();
+    recordedAudioRef.current = null;
+    lastHatchRef.current = false;
+    collarPlayedRef.current = false;
     engineRef.current = null;
     updateGateOne({ ...defaultGateOne, characterId: gateOne.characterId });
     setCaptions([]);
