@@ -194,7 +194,13 @@ function GateOneSceneInner({ snap }: { snap: EngineSnapshot }) {
       }).map((w, i) => (
         <mesh key={`w${i}`} receiveShadow position={[w.cx, WALL_HEIGHT / 2, -w.cy]}>
           <boxGeometry args={[w.w, WALL_HEIGHT, w.d]} />
-          <meshStandardMaterial color={tint.wall} />
+          <meshStandardMaterial
+            color={w.cy < 14 ? ZONE_TINT.cabin.wall :
+              w.cy < 62 ? ZONE_TINT.concourse.wall :
+              w.cy < 78 ? ZONE_TINT.bridge.wall : ZONE_TINT.hearth.wall}
+            metalness={0.45}
+            roughness={0.69}
+          />
         </mesh>
       ))}
       {/* A real side window cut into the transport wall. The exterior view is
