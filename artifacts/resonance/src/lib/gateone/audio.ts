@@ -1,9 +1,19 @@
 /**
  * Gate One layered spatial audio — Web Audio API with HRTF panning.
- * All sound is synthesised (no assets): ambient beds, positional sources,
- * footsteps, badge earcons. Speech is delivered via captions + optional
- * browser speech synthesis (a personal, non-spatial channel — the badge and
- * narration are "with you", world voices are attributed in captions).
+ *
+ * Sound sources (Gate One audio wiring, phase 1 — environments):
+ * - Zone beds and mapped positional fixtures play REGISTERED audio files
+ *   (assets/REGISTRY.json; served from /audio/gateone/) composed per zone
+ *   from layered recordings — see the Gate One wiring map.
+ * - The original synthesised beds remain as a FALLBACK ONLY: they start
+ *   immediately (no silent gap) and fade out once every file layer of the
+ *   current profile is playing. Unmapped fixtures (memorial, wall worker),
+ *   NPC/cart loops, event one-shots, footsteps and earcons are still
+ *   synthesised in this phase; those layers are scaffolding pending their
+ *   own wiring phases and must not be mistaken for finished audio.
+ * Speech is delivered via captions + optional browser speech synthesis (a
+ * personal, non-spatial channel — the badge and narration are "with you",
+ * world voices are attributed in captions).
  */
 
 export type AmbientProfile = "cabin" | "concourse" | "bridge" | "hearth";
@@ -13,6 +23,48 @@ type Positional = {
   gain: GainNode;
   stop: () => void;
 };
+
+/** Registered file layers per zone profile (wiring map identities in brackets). */
+const BED_LAYERS: Record<AmbientProfile, { file: string; volume: number; lowpass?: number }[]> = {
+  cabin: [
+    { file: "pod__735.ogg", volume: 0.55 }, // [01] transport pod bed — main
+    { file: "background1__1109.ogg", volume: 0.3, lowpass: 600 }, // [14] deep hull bed, low layer
+  ],
+  concourse: [
+    { file: "pod__735.ogg", volume: 0.28 }, // [01] same transport presence, set back
+    { file: "chatter__328.ogg", volume: 0.34 }, // [05] crowd wash
+    { file: "background4__1112.ogg", volume: 0.26 }, // [14] deep hull bed
+  ],
+  bridge: [
+    { file: "background3__1111.ogg", volume: 0.5 }, // [15] bridge interior bed — main
+  ],
+  hearth: [
+    { file: "background2__1110.ogg", volume: 0.5 }, // [15] Hearth interior bed — main
+    { file: "pod__735.ogg", volume: 0.22 }, // [01] ship systems beneath
+    { file: "chatter__328.ogg", volume: 0.16 }, // [05] arrivals presence
+  ],
+};
+
+/** Positional fixtures with a registered file (wiring map). Keyed by fixture id. */
+const FIXTURE_FILES: Record<string, { file: string; lowpass?: number }> = {
+  "fx-berth": { file: "dockingBay__164.ogg", lowpass: 900 }, // [11] berth viewport machinery
+  "fx-child": { file: "chatter__328.ogg" }, // [05] chatter fixtures
+  "fx-sign": { file: "chatter__328.ogg" },
+  "fx-arrivals": { file: "chatter__328.ogg" },
+};
+
+/** Bridge accent rotation: hull creaks [12] + starship deck plates [12]. */
+const BRIDGE_ACCENTS = [
+  "creak1__1126.ogg", "creak2__1127.ogg", "creak3__1128.ogg", "creak4__1129.ogg",
+  "starship1__1527.ogg", "starship2__1528.ogg", "starship3__1529.ogg", "starship4__1530.ogg",
+  "starship5__1531.ogg", "starship6__1532.ogg", "starship7__1533.ogg", "starship8__1534.ogg",
+];
+
+function audioUrl(file: string): string {
+  // Public assets are served relative to the app base; resolve against the
+  // document so sub-path deployments keep working.
+  return new URL(`audio/gateone/${file}`, document.baseURI).href;
+}
 
 function makeNoiseBuffer(ctx: AudioContext, seconds = 2): AudioBuffer {
   const buffer = ctx.createBuffer(1, ctx.sampleRate * seconds, ctx.sampleRate);
@@ -36,6 +88,9 @@ export class SpatialAudio {
   private enabled = true;
   private speechEnabled = true;
   private brakingOsc: OscillatorNode | null = null;
+  private buffers = new Map<string, Promise<AudioBuffer | null>>();
+  private ambientGen = 0;
+  private accentTimer: ReturnType<typeof setTimeout> | null = null;
 
   async ensure(): Promise<boolean> {
     if (this.ctx) {
@@ -62,6 +117,26 @@ export class SpatialAudio {
   setSpeechEnabled(on: boolean) {
     this.speechEnabled = on;
     if (!on && typeof speechSynthesis !== "undefined") speechSynthesis.cancel();
+  }
+
+  /** Fetch + decode a registered audio file once; null on any failure. */
+  private loadBuffer(file: string): Promise<AudioBuffer | null> {
+    let p = this.buffers.get(file);
+    if (!p) {
+      p = (async () => {
+        if (!this.ctx) return null;
+        try {
+          const res = await fetch(audioUrl(file));
+          if (!res.ok) return null;
+          const raw = await res.arrayBuffer();
+          return await this.ctx.decodeAudioData(raw);
+        } catch {
+          return null;
+        }
+      })();
+      this.buffers.set(file, p);
+    }
+    return p;
   }
 
   updateListener(x: number, y: number, heading: number) {
@@ -118,6 +193,49 @@ export class SpatialAudio {
     const panner = this.makePanner(x, y);
     const gain = ctx.createGain();
     gain.gain.value = volume;
+
+    const fixture = FIXTURE_FILES[id];
+    if (fixture) {
+      // Registered file loop. The entry exists immediately (silent) so
+      // movePositional works while the file decodes; on failure the source
+      // simply stays silent and the zone bed still carries the space.
+      let src: AudioBufferSourceNode | null = null;
+      let cancelled = false;
+      let lfo: OscillatorNode | null = null;
+      this.loadBuffer(fixture.file).then((buf) => {
+        if (cancelled || !buf) return;
+        src = ctx.createBufferSource();
+        src.buffer = buf;
+        src.loop = true;
+        let node: AudioNode = src;
+        if (fixture.lowpass) {
+          const f = ctx.createBiquadFilter();
+          f.type = "lowpass";
+          f.frequency.value = fixture.lowpass;
+          node.connect(f);
+          node = f;
+        }
+        node.connect(gain).connect(panner).connect(this.master!);
+        src.start();
+        if (kind === "chatter") {
+          lfo = ctx.createOscillator();
+          const lfoGain = ctx.createGain();
+          lfo.frequency.value = 0.23 + Math.random() * 0.3;
+          lfoGain.gain.value = volume * 0.45;
+          lfo.connect(lfoGain).connect(gain.gain);
+          lfo.start();
+        }
+      });
+      this.sources.set(id, {
+        panner,
+        gain,
+        stop: () => {
+          cancelled = true;
+          try { src?.stop(); lfo?.stop(); } catch { /* already stopped */ }
+        },
+      });
+      return;
+    }
 
     const src = ctx.createBufferSource();
     src.buffer = this.noise;
@@ -178,13 +296,35 @@ export class SpatialAudio {
     }
   }
 
+  /** One positional one-shot of a registered file (bridge accents). */
+  private playPositionalOnce(file: string, x: number, y: number, volume: number) {
+    if (!this.ctx || !this.master) return;
+    const ctx = this.ctx;
+    this.loadBuffer(file).then((buf) => {
+      if (!buf || !this.ctx) return;
+      const panner = this.makePanner(x, y);
+      const gain = ctx.createGain();
+      gain.gain.value = volume;
+      const src = ctx.createBufferSource();
+      src.buffer = buf;
+      src.connect(gain).connect(panner).connect(this.master!);
+      src.start();
+    });
+  }
+
   /** Zone ambient bed. Replaces the previous bed with a short crossfade. */
   setAmbient(profile: AmbientProfile) {
     if (!this.ctx || !this.noise || !this.master) return;
     const ctx = this.ctx;
     for (const a of this.ambient) a.stop();
     this.ambient = [];
+    if (this.accentTimer) {
+      clearTimeout(this.accentTimer);
+      this.accentTimer = null;
+    }
+    const gen = ++this.ambientGen;
 
+    const synthStops: (() => void)[] = [];
     const mk = (type: BiquadFilterType, freq: number, vol: number, oscFreq?: number) => {
       const gain = ctx.createGain();
       gain.gain.value = 0;
@@ -212,9 +352,13 @@ export class SpatialAudio {
         gain.gain.setTargetAtTime(0, ctx.currentTime, 0.4);
         setTimeout(stopInner, 1200);
       };
+      synthStops.push(stop);
       this.ambient.push({ stop });
     };
 
+    // Synthesised fallback bed (scaffolding): audible immediately so a zone
+    // is never silent while files load; faded out below once every file
+    // layer of this profile is playing. If any file fails, it stays.
     if (profile === "cabin") {
       mk("lowpass", 140, 0.20);          // engine rumble bed
       mk("lowpass", 0, 0.05, 62);        // engine fundamental hum
@@ -228,6 +372,61 @@ export class SpatialAudio {
       mk("lowpass", 260, 0.14);          // Hearth ventilation — different colour
       mk("lowpass", 0, 0.045, 49);       // deeper hull resonance
       mk("bandpass", 800, 0.05);         // more people
+    }
+
+    // Registered file layers for this profile.
+    const layers = BED_LAYERS[profile];
+    const fileStops: (() => void)[] = [];
+    let ready = 0;
+    let failed = false;
+    for (const layer of layers) {
+      this.loadBuffer(layer.file).then((buf) => {
+        if (gen !== this.ambientGen) return;
+        if (!buf) {
+          failed = true;
+          return;
+        }
+        const gain = ctx.createGain();
+        gain.gain.value = 0;
+        gain.gain.setTargetAtTime(layer.volume, ctx.currentTime, 0.8);
+        const src = ctx.createBufferSource();
+        src.buffer = buf;
+        src.loop = true;
+        let node: AudioNode = src;
+        if (layer.lowpass) {
+          const f = ctx.createBiquadFilter();
+          f.type = "lowpass";
+          f.frequency.value = layer.lowpass;
+          node.connect(f);
+          node = f;
+        }
+        node.connect(gain).connect(this.master!);
+        src.start();
+        const stop = () => {
+          gain.gain.setTargetAtTime(0, ctx.currentTime, 0.4);
+          setTimeout(() => { try { src.stop(); } catch { /**/ } }, 1200);
+        };
+        fileStops.push(stop);
+        this.ambient.push({ stop });
+        ready++;
+        if (ready === layers.length && !failed) {
+          // The real environment is fully up — retire the synth fallback.
+          for (const s of synthStops) s();
+        }
+      });
+    }
+
+    // Bridge accents: occasional positional creaks and deck ticks [12].
+    if (profile === "bridge") {
+      const tick = () => {
+        if (gen !== this.ambientGen) return;
+        const file = BRIDGE_ACCENTS[Math.floor(Math.random() * BRIDGE_ACCENTS.length)];
+        const x = -8 + Math.random() * 16;
+        const y = 64 + Math.random() * 12;
+        this.playPositionalOnce(file, x, y, file.startsWith("creak") ? 0.5 : 0.3);
+        this.accentTimer = setTimeout(tick, 9000 + Math.random() * 11000);
+      };
+      this.accentTimer = setTimeout(tick, 4000 + Math.random() * 4000);
     }
   }
 
@@ -344,6 +543,11 @@ export class SpatialAudio {
 
   dispose() {
     this.stopSpeech();
+    if (this.accentTimer) {
+      clearTimeout(this.accentTimer);
+      this.accentTimer = null;
+    }
+    this.ambientGen++;
     for (const a of this.ambient) a.stop();
     for (const [, s] of this.sources) s.stop();
     this.sources.clear();
