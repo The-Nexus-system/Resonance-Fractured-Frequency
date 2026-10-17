@@ -257,7 +257,7 @@ export class GateOneEngine {
             this.stepAccum = 0;
             this.stepAlt = !this.stepAlt;
             const sz = zoneAt(this.x, this.y).id;
-            this.audio.footstep(this.stepAlt, sz === "cabin" ? "cabin" : sz === "bridge" ? "grating" : sz === "concourse" ? "stone" : undefined);
+            this.audio.footstep(this.stepAlt, sz === "cabin" ? "cabin" : sz === "bridge" ? "grating" : sz === "concourse" ? "stone" : sz === "hearth" ? "hearth" : undefined);
           }
           const newZone = zoneAt(this.x, this.y).id;
           if (newZone !== prevZone) {
@@ -404,7 +404,10 @@ export class GateOneEngine {
     switch (effect) {
       case "openHatch":
         this.hatchOpen = true;
-        // Hatch cycle [04]: air first, then the hatch itself, at the hatch.
+        // Hatch cycle [04]: collar release first (gears + lever, phase 6),
+        // then air, then the hatch itself, at the hatch.
+        this.audio.playFileOnce("tinyGears003.ogg", PLACES.hatch.x, PLACES.hatch.y, 0.45);
+        this.audio.playFileOnce("leverSwitch014.ogg", PLACES.hatch.x, PLACES.hatch.y, 0.55, 250);
         this.audio.playFileOnce("airStart__1097.ogg", PLACES.hatch.x, PLACES.hatch.y, 0.8);
         this.audio.playFileOnce("open__1102.ogg", PLACES.hatch.x, PLACES.hatch.y, 0.8, 900);
         break;
