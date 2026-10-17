@@ -150,6 +150,41 @@ function GateOneSceneInner({ snap }: { snap: EngineSnapshot }) {
         </mesh>
       ))}
 
+      {/* Fixed ship interior fittings, generated from the real walkable geometry.
+          These are visual only: the game engine retains movement and audio authority. */}
+      {WALKABLE.map((r, i) => {
+        const cx = (r.x1 + r.x2) / 2;
+        const cy = (r.y1 + r.y2) / 2;
+        const width = r.x2 - r.x1;
+        const length = r.y2 - r.y1;
+        return (
+          <group key={"ship-fittings-" + i}>
+            <mesh position={[cx, WALL_HEIGHT + 0.08, -cy]}>
+              <boxGeometry args={[width, 0.13, length]} />
+              <meshStandardMaterial color="#344449" metalness={0.68} roughness={0.54} />
+            </mesh>
+            {[r.x1 + 0.3, r.x2 - 0.3].map((edge) => (
+              <mesh key={edge} position={[edge, 0.015, -cy]}>
+                <boxGeometry args={[0.045, 0.02, length]} />
+                <meshStandardMaterial color="#687e82" metalness={0.72} roughness={0.5} />
+              </mesh>
+            ))}
+            {Array.from({ length: Math.floor(length / 5) }, (_, j) => (
+              <group key={j} position={[cx, WALL_HEIGHT - 0.1, -(r.y1 + (j + 1) * 5)]}>
+                <mesh>
+                  <boxGeometry args={[width, 0.16, 0.15]} />
+                  <meshStandardMaterial color="#60767a" metalness={0.7} roughness={0.5} />
+                </mesh>
+                <mesh position={[0, -0.095, 0]}>
+                  <boxGeometry args={[Math.min(width * 0.45, 4), 0.02, 0.09]} />
+                  <meshBasicMaterial color="#d6e8df" toneMapped={false} />
+                </mesh>
+              </group>
+            ))}
+          </group>
+        );
+      })}
+
       {/* Walls */}
       {walls.map((w, i) => (
         <mesh key={`w${i}`} position={[w.cx, WALL_HEIGHT / 2, -w.cy]}>
