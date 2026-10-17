@@ -22,6 +22,9 @@ class ResonanceARView: ExpoView {
 
   required init(appContext: AppContext? = nil) {
     super.init(appContext: appContext)
+    // We own the ARKit configuration so RealityKit cannot replace the
+    // carefully selected environment, depth and lighting options.
+    arView.automaticallyConfigureSession = false
     addSubview(arView)
   }
 
@@ -35,7 +38,20 @@ class ResonanceARView: ExpoView {
     guard !sessionStarted, ARWorldTrackingConfiguration.isSupported else { return }
     let configuration = ARWorldTrackingConfiguration()
     configuration.worldAlignment = .gravityAndHeading // AR -z = true north, matching semantic +y
-    configuration.planeDetection = [.horizontal]
+    configuration.planeDetection = [.horizontal, .vertical]
+    configuration.environmentTexturing = .automatic
+    configuration.isLightEstimationEnabled = true
+    // Real surfaces can hide virtual geometry on LiDAR-capable devices.
+    // Non-LiDAR devices keep the ordinary tracked placement instead.
+    if ARWorldTrackingConfiguration.supportsSceneReconstruction(.mesh) {
+      configuration.sceneReconstruction = .mesh
+      arView.environment.sceneUnderstanding.options.insert(.occlusion)
+    }
+    // People can also pass in front of the objects if depth segmentation
+    // is supported. Never force this on unsupported older hardware.
+    if ARWorldTrackingConfiguration.supportsFrameSemantics(.personSegmentationWithDepth) {
+      configuration.frameSemantics.insert(.personSegmentationWithDepth)
+    }
     arView.session.run(configuration)
     sessionStarted = true
   }
@@ -67,9 +83,10 @@ class ResonanceARView: ExpoView {
       }
     }
     // Remove anchors for entities no longer present.
-    for (id, anchor) in anchors where !seen.contains(id) {
-      arView.scene.removeAnchor(anchor)
-      anchors.removeValue(forKey: id)
+    for id in Array(anchors.keys) where !seen.contains(id) {
+      if let anchor = anchors.removeValue(forKey: id) {
+        arView.scene.removeAnchor(anchor)
+      }
     }
   }
 
@@ -91,7 +108,7 @@ class ResonanceARView: ExpoView {
     marker.model?.materials = [material(kind: kind, resolved: resolved)]
   }
 
-  private func material(kind: String, resolved: Bool) -> SimpleMaterial {
+  private func material(kind: String, resolved: Bool) -> PhysicallyBasedMaterial {
     let color: UIColor
     if resolved {
       color = UIColor(red: 0.35, green: 0.85, blue: 0.75, alpha: 1.0) // attuned teal
@@ -103,6 +120,10 @@ class ResonanceARView: ExpoView {
       default: color = UIColor(white: 0.85, alpha: 1.0)
       }
     }
-    return SimpleMaterial(color: color, isMetallic: false)
+    var finish = PhysicallyBasedMaterial()
+    finish.baseColor = .init(tint: color)
+    finish.metallic = .float(kind == "pillar" ? 0.78 : 0.32)
+    finish.roughness = .float(resolved ? 0.32 : 0.57)
+    return finish
   }
 }
