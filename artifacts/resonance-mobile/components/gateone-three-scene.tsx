@@ -457,11 +457,11 @@ class RendererBoundary extends React.Component<
   }
 }
 
-export function GateOneThreeScene({ snap }: { snap: EngineSnapshot }) {
+export function GateOneThreeScene({ snap, height = 190 }: { snap: EngineSnapshot; height?: number }) {
   return (
     <RendererBoundary>
       <View
-        style={{ height: 190, borderRadius: 12, overflow: 'hidden' }}
+        style={{ height, borderRadius: 12, overflow: 'hidden' }}
         accessible={false}
         importantForAccessibility="no-hide-descendants"
       >
