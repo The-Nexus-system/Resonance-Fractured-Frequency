@@ -2483,10 +2483,12 @@
       "masterSource": "OpenGameArt pack file Fantozzi-footsteps.7z (https://opengameart.org/sites/default/files/Fantozzi-footsteps.7z); original recordings published on Freesound as pack 10338 by Fantozzi under CC0.",
       "derivedFiles": [
         "artifacts/resonance/public/audio/gateone/Fantozzi-StoneL1.ogg",
-        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneL1.ogg"
+        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneL1.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneL1.m4a"
       ],
       "processing": [
-        "ffmpeg: 16-bit 44.1 kHz WAV (converted from the pack FLAC) -> Ogg Vorbis q5"
+        "ffmpeg: 16-bit 44.1 kHz WAV (converted from the pack FLAC) -> Ogg Vorbis q5",
+        "GitHub Actions: Ogg Vorbis source -> AAC-LC 160 kb/s in M4A for Apple native playback; preserves original Ogg."
       ],
       "targets": [
         "web",
@@ -2521,10 +2523,12 @@
       "masterSource": "OpenGameArt pack file Fantozzi-footsteps.7z (https://opengameart.org/sites/default/files/Fantozzi-footsteps.7z); original recordings published on Freesound as pack 10338 by Fantozzi under CC0.",
       "derivedFiles": [
         "artifacts/resonance/public/audio/gateone/Fantozzi-StoneL2.ogg",
-        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneL2.ogg"
+        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneL2.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneL2.m4a"
       ],
       "processing": [
-        "ffmpeg: 16-bit 44.1 kHz WAV (converted from the pack FLAC) -> Ogg Vorbis q5"
+        "ffmpeg: 16-bit 44.1 kHz WAV (converted from the pack FLAC) -> Ogg Vorbis q5",
+        "GitHub Actions: Ogg Vorbis source -> AAC-LC 160 kb/s in M4A for Apple native playback; preserves original Ogg."
       ],
       "targets": [
         "web",
@@ -2559,10 +2563,12 @@
       "masterSource": "OpenGameArt pack file Fantozzi-footsteps.7z (https://opengameart.org/sites/default/files/Fantozzi-footsteps.7z); original recordings published on Freesound as pack 10338 by Fantozzi under CC0.",
       "derivedFiles": [
         "artifacts/resonance/public/audio/gateone/Fantozzi-StoneL3.ogg",
-        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneL3.ogg"
+        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneL3.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneL3.m4a"
       ],
       "processing": [
-        "ffmpeg: 16-bit 44.1 kHz WAV (converted from the pack FLAC) -> Ogg Vorbis q5"
+        "ffmpeg: 16-bit 44.1 kHz WAV (converted from the pack FLAC) -> Ogg Vorbis q5",
+        "GitHub Actions: Ogg Vorbis source -> AAC-LC 160 kb/s in M4A for Apple native playback; preserves original Ogg."
       ],
       "targets": [
         "web",
@@ -2597,10 +2603,12 @@
       "masterSource": "OpenGameArt pack file Fantozzi-footsteps.7z (https://opengameart.org/sites/default/files/Fantozzi-footsteps.7z); original recordings published on Freesound as pack 10338 by Fantozzi under CC0.",
       "derivedFiles": [
         "artifacts/resonance/public/audio/gateone/Fantozzi-StoneR1.ogg",
-        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneR1.ogg"
+        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneR1.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneR1.m4a"
       ],
       "processing": [
-        "ffmpeg: 16-bit 44.1 kHz WAV (converted from the pack FLAC) -> Ogg Vorbis q5"
+        "ffmpeg: 16-bit 44.1 kHz WAV (converted from the pack FLAC) -> Ogg Vorbis q5",
+        "GitHub Actions: Ogg Vorbis source -> AAC-LC 160 kb/s in M4A for Apple native playback; preserves original Ogg."
       ],
       "targets": [
         "web",
@@ -2635,10 +2643,12 @@
       "masterSource": "OpenGameArt pack file Fantozzi-footsteps.7z (https://opengameart.org/sites/default/files/Fantozzi-footsteps.7z); original recordings published on Freesound as pack 10338 by Fantozzi under CC0.",
       "derivedFiles": [
         "artifacts/resonance/public/audio/gateone/Fantozzi-StoneR2.ogg",
-        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneR2.ogg"
+        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneR2.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneR2.m4a"
       ],
       "processing": [
-        "ffmpeg: 16-bit 44.1 kHz WAV (converted from the pack FLAC) -> Ogg Vorbis q5"
+        "ffmpeg: 16-bit 44.1 kHz WAV (converted from the pack FLAC) -> Ogg Vorbis q5",
+        "GitHub Actions: Ogg Vorbis source -> AAC-LC 160 kb/s in M4A for Apple native playback; preserves original Ogg."
       ],
       "targets": [
         "web",
@@ -2673,10 +2683,12 @@
       "masterSource": "OpenGameArt pack file Fantozzi-footsteps.7z (https://opengameart.org/sites/default/files/Fantozzi-footsteps.7z); original recordings published on Freesound as pack 10338 by Fantozzi under CC0.",
       "derivedFiles": [
         "artifacts/resonance/public/audio/gateone/Fantozzi-StoneR3.ogg",
-        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneR3.ogg"
+        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneR3.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneR3.m4a"
       ],
       "processing": [
-        "ffmpeg: 16-bit 44.1 kHz WAV (converted from the pack FLAC) -> Ogg Vorbis q5"
+        "ffmpeg: 16-bit 44.1 kHz WAV (converted from the pack FLAC) -> Ogg Vorbis q5",
+        "GitHub Actions: Ogg Vorbis source -> AAC-LC 160 kb/s in M4A for Apple native playback; preserves original Ogg."
       ],
       "targets": [
         "web",
@@ -2712,10 +2724,12 @@
       "masterSource": "SONNISS GDC 2024 Part 1 archive (Sonniss-GDC2024-Part1of9.zip), file DSGNErie_EerieBoilerRoom06_InMotionAudio_Sinister Textures Volume 1.wav; masters held in the Nexus workspace gap-fill extraction.",
       "derivedFiles": [
         "artifacts/resonance/public/audio/gateone/boilerRoom06.ogg",
-        "artifacts/resonance-mobile/assets/audio/gateone/boilerRoom06.ogg"
+        "artifacts/resonance-mobile/assets/audio/gateone/boilerRoom06.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/boilerRoom06.m4a"
       ],
       "processing": [
-        "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz"
+        "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz",
+        "GitHub Actions: Ogg Vorbis source -> AAC-LC 160 kb/s in M4A for Apple native playback; preserves original Ogg."
       ],
       "targets": [
         "web",
@@ -2751,10 +2765,12 @@
       "masterSource": "SONNISS GDC 2024 Part 1 archive (Sonniss-GDC2024-Part1of9.zip), file Bluezone_BC0302_industrial_lever_switch_014.wav; masters held in the Nexus workspace gap-fill extraction.",
       "derivedFiles": [
         "artifacts/resonance/public/audio/gateone/leverSwitch014.ogg",
-        "artifacts/resonance-mobile/assets/audio/gateone/leverSwitch014.ogg"
+        "artifacts/resonance-mobile/assets/audio/gateone/leverSwitch014.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/leverSwitch014.m4a"
       ],
       "processing": [
-        "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz"
+        "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz",
+        "GitHub Actions: Ogg Vorbis source -> AAC-LC 160 kb/s in M4A for Apple native playback; preserves original Ogg."
       ],
       "targets": [
         "web",
@@ -2790,10 +2806,12 @@
       "masterSource": "SONNISS GDC 2024 Part 1 archive (Sonniss-GDC2024-Part1of9.zip), file Bluezone_BC0302_industrial_lever_switch_039.wav; masters held in the Nexus workspace gap-fill extraction.",
       "derivedFiles": [
         "artifacts/resonance/public/audio/gateone/leverSwitch039.ogg",
-        "artifacts/resonance-mobile/assets/audio/gateone/leverSwitch039.ogg"
+        "artifacts/resonance-mobile/assets/audio/gateone/leverSwitch039.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/leverSwitch039.m4a"
       ],
       "processing": [
-        "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz"
+        "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz",
+        "GitHub Actions: Ogg Vorbis source -> AAC-LC 160 kb/s in M4A for Apple native playback; preserves original Ogg."
       ],
       "targets": [
         "web",
@@ -2829,10 +2847,12 @@
       "masterSource": "SONNISS GDC 2024 Part 1 archive (Sonniss-GDC2024-Part1of9.zip), file Bluezone_BC0302_industrial_lever_switch_small_003.wav; masters held in the Nexus workspace gap-fill extraction.",
       "derivedFiles": [
         "artifacts/resonance/public/audio/gateone/leverSwitchSmall003.ogg",
-        "artifacts/resonance-mobile/assets/audio/gateone/leverSwitchSmall003.ogg"
+        "artifacts/resonance-mobile/assets/audio/gateone/leverSwitchSmall003.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/leverSwitchSmall003.m4a"
       ],
       "processing": [
-        "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz"
+        "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz",
+        "GitHub Actions: Ogg Vorbis source -> AAC-LC 160 kb/s in M4A for Apple native playback; preserves original Ogg."
       ],
       "targets": [
         "web",
@@ -2868,10 +2888,12 @@
       "masterSource": "SONNISS GDC 2024 Part 1 archive (Sonniss-GDC2024-Part1of9.zip), file Bluezone_BC0301_tiny_gears_small_mechanism_click_003.wav; masters held in the Nexus workspace gap-fill extraction.",
       "derivedFiles": [
         "artifacts/resonance/public/audio/gateone/tinyGears003.ogg",
-        "artifacts/resonance-mobile/assets/audio/gateone/tinyGears003.ogg"
+        "artifacts/resonance-mobile/assets/audio/gateone/tinyGears003.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/tinyGears003.m4a"
       ],
       "processing": [
-        "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz"
+        "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz",
+        "GitHub Actions: Ogg Vorbis source -> AAC-LC 160 kb/s in M4A for Apple native playback; preserves original Ogg."
       ],
       "targets": [
         "web",
@@ -2907,10 +2929,12 @@
       "masterSource": "SONNISS GDC 2024 Part 1 archive (Sonniss-GDC2024-Part1of9.zip), file DSGNDron_Geofon17_InMotionAudio_GEODRONE.wav; masters held in the Nexus workspace gap-fill extraction.",
       "derivedFiles": [
         "artifacts/resonance/public/audio/gateone/geofon17.ogg",
-        "artifacts/resonance-mobile/assets/audio/gateone/geofon17.ogg"
+        "artifacts/resonance-mobile/assets/audio/gateone/geofon17.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/geofon17.m4a"
       ],
       "processing": [
-        "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz"
+        "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz",
+        "GitHub Actions: Ogg Vorbis source -> AAC-LC 160 kb/s in M4A for Apple native playback; preserves original Ogg."
       ],
       "targets": [
         "web",
@@ -2946,10 +2970,12 @@
       "masterSource": "SONNISS GDC 2024 Part 1 archive (Sonniss-GDC2024-Part1of9.zip), file DSGNDron_Geofon24_InMotionAudio_GEODRONE.wav; masters held in the Nexus workspace gap-fill extraction.",
       "derivedFiles": [
         "artifacts/resonance/public/audio/gateone/geofon24.ogg",
-        "artifacts/resonance-mobile/assets/audio/gateone/geofon24.ogg"
+        "artifacts/resonance-mobile/assets/audio/gateone/geofon24.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/geofon24.m4a"
       ],
       "processing": [
-        "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz"
+        "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz",
+        "GitHub Actions: Ogg Vorbis source -> AAC-LC 160 kb/s in M4A for Apple native playback; preserves original Ogg."
       ],
       "targets": [
         "web",
