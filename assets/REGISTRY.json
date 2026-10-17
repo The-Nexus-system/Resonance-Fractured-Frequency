@@ -2665,6 +2665,636 @@
       ],
       "reacquisition": "Download https://opengameart.org/sites/default/files/Fantozzi-footsteps.7z (pack page https://opengameart.org/node/21492); staged WAVs in the Nexus workspace at resonance-audio-ingest/selected/16-footsteps-stone/.",
       "notes": "CC0 1.0 public domain dedication — no attribution required and no permission needed; credited voluntarily per project practice. Recordings by Fantozzi; OpenGameArt upload by qubodup. Credit follows the sound's origin (Fantozzi), not the download point (Nexus direction, Oct 17, 2026)."
+    },
+    {
+      "id": "RSN-SFX-077",
+      "name": "Concourse HVAC boiler-room bed (SONNISS)",
+      "type": "sfx",
+      "originalFilename": "DSGNErie_EerieBoilerRoom06_InMotionAudio_Sinister Textures Volume 1.wav",
+      "creator": "InMotion Audio",
+      "sourceLibrary": "SONNISS GDC 2024 Bundle (Part 1)",
+      "sourcePackId": "SRC-AUD-001",
+      "sourceUrl": "https://www.sonniss.com/gameaudiogdc/",
+      "license": "SONNISS GDC Bundle License — royalty-free commercial use in games; no attribution required; AI-training use prohibited",
+      "licenseEvidence": "assets/audio/licenses/sonniss-gdc-bundle-license.pdf",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": "Concourse HVAC boiler-room bed (SONNISS) — sound from the SONNISS GDC 2024 bundle (InMotion Audio); no attribution required under the bundle licence, credited voluntarily.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "SONNISS GDC 2024 Part 1 archive (Sonniss-GDC2024-Part1of9.zip), file DSGNErie_EerieBoilerRoom06_InMotionAudio_Sinister Textures Volume 1.wav; masters held in the Nexus workspace gap-fill extraction.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/boilerRoom06.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 07 (concourse HVAC) — concourse bed layer, file bed (wiring phase 6)."
+      ],
+      "reacquisition": "Held archive Sonniss-GDC2024-Part1of9.zip in the Nexus workspace (resonance-audio-ingest); bundle originally distributed free by SONNISS for GDC 2024.",
+      "notes": "SONNISS GDC 2024 bundle (Part 1), held by the Nexus System and verified complete Oct 17, 2026 (full CRC pass, 219 entries). Bundle licence read first-hand: royalty-free commercial use in games, no attribution required; standalone resale and AI-training use prohibited (this project does not train on audio). Staged by the Oct 17, 2026 gap-fill pass; matched by filename and metadata — audition by ear is pending the Nexus listening pass, like all wired layers."
+    },
+    {
+      "id": "RSN-SFX-078",
+      "name": "Airlock collar lever switch 014 (SONNISS)",
+      "type": "sfx",
+      "originalFilename": "Bluezone_BC0302_industrial_lever_switch_014.wav",
+      "creator": "Bluezone Corporation",
+      "sourceLibrary": "SONNISS GDC 2024 Bundle (Part 1)",
+      "sourcePackId": "SRC-AUD-001",
+      "sourceUrl": "https://www.sonniss.com/gameaudiogdc/",
+      "license": "SONNISS GDC Bundle License — royalty-free commercial use in games; no attribution required; AI-training use prohibited",
+      "licenseEvidence": "assets/audio/licenses/sonniss-gdc-bundle-license.pdf",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": "Airlock collar lever switch 014 (SONNISS) — sound from the SONNISS GDC 2024 bundle (Bluezone Corporation); no attribution required under the bundle licence, credited voluntarily.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "SONNISS GDC 2024 Part 1 archive (Sonniss-GDC2024-Part1of9.zip), file Bluezone_BC0302_industrial_lever_switch_014.wav; masters held in the Nexus workspace gap-fill extraction.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/leverSwitch014.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 04 (airlock system) — collar release layer in the hatch-opening sequence at the transfer hatch (wiring phase 6)."
+      ],
+      "reacquisition": "Held archive Sonniss-GDC2024-Part1of9.zip in the Nexus workspace (resonance-audio-ingest); bundle originally distributed free by SONNISS for GDC 2024.",
+      "notes": "SONNISS GDC 2024 bundle (Part 1), held by the Nexus System and verified complete Oct 17, 2026 (full CRC pass, 219 entries). Bundle licence read first-hand: royalty-free commercial use in games, no attribution required; standalone resale and AI-training use prohibited (this project does not train on audio). Staged by the Oct 17, 2026 gap-fill pass; matched by filename and metadata — audition by ear is pending the Nexus listening pass, like all wired layers."
+    },
+    {
+      "id": "RSN-SFX-079",
+      "name": "Airlock collar lever switch 039 (SONNISS)",
+      "type": "sfx",
+      "originalFilename": "Bluezone_BC0302_industrial_lever_switch_039.wav",
+      "creator": "Bluezone Corporation",
+      "sourceLibrary": "SONNISS GDC 2024 Bundle (Part 1)",
+      "sourcePackId": "SRC-AUD-001",
+      "sourceUrl": "https://www.sonniss.com/gameaudiogdc/",
+      "license": "SONNISS GDC Bundle License — royalty-free commercial use in games; no attribution required; AI-training use prohibited",
+      "licenseEvidence": "assets/audio/licenses/sonniss-gdc-bundle-license.pdf",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": "Airlock collar lever switch 039 (SONNISS) — sound from the SONNISS GDC 2024 bundle (Bluezone Corporation); no attribution required under the bundle licence, credited voluntarily.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "SONNISS GDC 2024 Part 1 archive (Sonniss-GDC2024-Part1of9.zip), file Bluezone_BC0302_industrial_lever_switch_039.wav; masters held in the Nexus workspace gap-fill extraction.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/leverSwitch039.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 04 (airlock system) — collar mechanism variant pool, held for the hatch sequence (wiring phase 6)."
+      ],
+      "reacquisition": "Held archive Sonniss-GDC2024-Part1of9.zip in the Nexus workspace (resonance-audio-ingest); bundle originally distributed free by SONNISS for GDC 2024.",
+      "notes": "SONNISS GDC 2024 bundle (Part 1), held by the Nexus System and verified complete Oct 17, 2026 (full CRC pass, 219 entries). Bundle licence read first-hand: royalty-free commercial use in games, no attribution required; standalone resale and AI-training use prohibited (this project does not train on audio). Staged by the Oct 17, 2026 gap-fill pass; matched by filename and metadata — audition by ear is pending the Nexus listening pass, like all wired layers."
+    },
+    {
+      "id": "RSN-SFX-080",
+      "name": "Airlock collar lever switch small 003 (SONNISS)",
+      "type": "sfx",
+      "originalFilename": "Bluezone_BC0302_industrial_lever_switch_small_003.wav",
+      "creator": "Bluezone Corporation",
+      "sourceLibrary": "SONNISS GDC 2024 Bundle (Part 1)",
+      "sourcePackId": "SRC-AUD-001",
+      "sourceUrl": "https://www.sonniss.com/gameaudiogdc/",
+      "license": "SONNISS GDC Bundle License — royalty-free commercial use in games; no attribution required; AI-training use prohibited",
+      "licenseEvidence": "assets/audio/licenses/sonniss-gdc-bundle-license.pdf",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": "Airlock collar lever switch small 003 (SONNISS) — sound from the SONNISS GDC 2024 bundle (Bluezone Corporation); no attribution required under the bundle licence, credited voluntarily.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "SONNISS GDC 2024 Part 1 archive (Sonniss-GDC2024-Part1of9.zip), file Bluezone_BC0302_industrial_lever_switch_small_003.wav; masters held in the Nexus workspace gap-fill extraction.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/leverSwitchSmall003.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 04 (airlock system) — collar mechanism variant pool, held for the hatch sequence (wiring phase 6)."
+      ],
+      "reacquisition": "Held archive Sonniss-GDC2024-Part1of9.zip in the Nexus workspace (resonance-audio-ingest); bundle originally distributed free by SONNISS for GDC 2024.",
+      "notes": "SONNISS GDC 2024 bundle (Part 1), held by the Nexus System and verified complete Oct 17, 2026 (full CRC pass, 219 entries). Bundle licence read first-hand: royalty-free commercial use in games, no attribution required; standalone resale and AI-training use prohibited (this project does not train on audio). Staged by the Oct 17, 2026 gap-fill pass; matched by filename and metadata — audition by ear is pending the Nexus listening pass, like all wired layers."
+    },
+    {
+      "id": "RSN-SFX-081",
+      "name": "Airlock collar tiny gears click (SONNISS)",
+      "type": "sfx",
+      "originalFilename": "Bluezone_BC0301_tiny_gears_small_mechanism_click_003.wav",
+      "creator": "Bluezone Corporation",
+      "sourceLibrary": "SONNISS GDC 2024 Bundle (Part 1)",
+      "sourcePackId": "SRC-AUD-001",
+      "sourceUrl": "https://www.sonniss.com/gameaudiogdc/",
+      "license": "SONNISS GDC Bundle License — royalty-free commercial use in games; no attribution required; AI-training use prohibited",
+      "licenseEvidence": "assets/audio/licenses/sonniss-gdc-bundle-license.pdf",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": "Airlock collar tiny gears click (SONNISS) — sound from the SONNISS GDC 2024 bundle (Bluezone Corporation); no attribution required under the bundle licence, credited voluntarily.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "SONNISS GDC 2024 Part 1 archive (Sonniss-GDC2024-Part1of9.zip), file Bluezone_BC0301_tiny_gears_small_mechanism_click_003.wav; masters held in the Nexus workspace gap-fill extraction.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/tinyGears003.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 04 (airlock system) — collar release layer in the hatch-opening sequence at the transfer hatch (wiring phase 6)."
+      ],
+      "reacquisition": "Held archive Sonniss-GDC2024-Part1of9.zip in the Nexus workspace (resonance-audio-ingest); bundle originally distributed free by SONNISS for GDC 2024.",
+      "notes": "SONNISS GDC 2024 bundle (Part 1), held by the Nexus System and verified complete Oct 17, 2026 (full CRC pass, 219 entries). Bundle licence read first-hand: royalty-free commercial use in games, no attribution required; standalone resale and AI-training use prohibited (this project does not train on audio). Staged by the Oct 17, 2026 gap-fill pass; matched by filename and metadata — audition by ear is pending the Nexus listening pass, like all wired layers."
+    },
+    {
+      "id": "RSN-SFX-082",
+      "name": "Bridge bed geophone rumble 17 (SONNISS)",
+      "type": "sfx",
+      "originalFilename": "DSGNDron_Geofon17_InMotionAudio_GEODRONE.wav",
+      "creator": "InMotion Audio",
+      "sourceLibrary": "SONNISS GDC 2024 Bundle (Part 1)",
+      "sourcePackId": "SRC-AUD-001",
+      "sourceUrl": "https://www.sonniss.com/gameaudiogdc/",
+      "license": "SONNISS GDC Bundle License — royalty-free commercial use in games; no attribution required; AI-training use prohibited",
+      "licenseEvidence": "assets/audio/licenses/sonniss-gdc-bundle-license.pdf",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": "Bridge bed geophone rumble 17 (SONNISS) — sound from the SONNISS GDC 2024 bundle (InMotion Audio); no attribution required under the bundle licence, credited voluntarily.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "SONNISS GDC 2024 Part 1 archive (Sonniss-GDC2024-Part1of9.zip), file DSGNDron_Geofon17_InMotionAudio_GEODRONE.wav; masters held in the Nexus workspace gap-fill extraction.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/geofon17.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 12 (bridge acoustics) — bridge bed base layer under the existing bed and accents (wiring phase 6)."
+      ],
+      "reacquisition": "Held archive Sonniss-GDC2024-Part1of9.zip in the Nexus workspace (resonance-audio-ingest); bundle originally distributed free by SONNISS for GDC 2024.",
+      "notes": "SONNISS GDC 2024 bundle (Part 1), held by the Nexus System and verified complete Oct 17, 2026 (full CRC pass, 219 entries). Bundle licence read first-hand: royalty-free commercial use in games, no attribution required; standalone resale and AI-training use prohibited (this project does not train on audio). Staged by the Oct 17, 2026 gap-fill pass; matched by filename and metadata — audition by ear is pending the Nexus listening pass, like all wired layers."
+    },
+    {
+      "id": "RSN-SFX-083",
+      "name": "Bridge bed geophone rumble 24 (SONNISS)",
+      "type": "sfx",
+      "originalFilename": "DSGNDron_Geofon24_InMotionAudio_GEODRONE.wav",
+      "creator": "InMotion Audio",
+      "sourceLibrary": "SONNISS GDC 2024 Bundle (Part 1)",
+      "sourcePackId": "SRC-AUD-001",
+      "sourceUrl": "https://www.sonniss.com/gameaudiogdc/",
+      "license": "SONNISS GDC Bundle License — royalty-free commercial use in games; no attribution required; AI-training use prohibited",
+      "licenseEvidence": "assets/audio/licenses/sonniss-gdc-bundle-license.pdf",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": false,
+      "attributionText": "Bridge bed geophone rumble 24 (SONNISS) — sound from the SONNISS GDC 2024 bundle (InMotion Audio); no attribution required under the bundle licence, credited voluntarily.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "SONNISS GDC 2024 Part 1 archive (Sonniss-GDC2024-Part1of9.zip), file DSGNDron_Geofon24_InMotionAudio_GEODRONE.wav; masters held in the Nexus workspace gap-fill extraction.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/geofon24.ogg"
+      ],
+      "processing": [
+        "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 12 (bridge acoustics) — bridge bed base-layer variant pool, held (wiring phase 6)."
+      ],
+      "reacquisition": "Held archive Sonniss-GDC2024-Part1of9.zip in the Nexus workspace (resonance-audio-ingest); bundle originally distributed free by SONNISS for GDC 2024.",
+      "notes": "SONNISS GDC 2024 bundle (Part 1), held by the Nexus System and verified complete Oct 17, 2026 (full CRC pass, 219 entries). Bundle licence read first-hand: royalty-free commercial use in games, no attribution required; standalone resale and AI-training use prohibited (this project does not train on audio). Staged by the Oct 17, 2026 gap-fill pass; matched by filename and metadata — audition by ear is pending the Nexus listening pass, like all wired layers."
+    },
+    {
+      "id": "RSN-SFX-084",
+      "name": "Transport restraint buckle 1",
+      "type": "sfx",
+      "originalFilename": "buckle1.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file sounds/misc/Chairs/buckle1.ogg; masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/buckle1.ogg"
+      ],
+      "processing": [
+        "ffmpeg: Ogg Vorbis (upstream) -> Ogg Vorbis q5 (uniform game encode)"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 01 (transport cabin) — restraint buckle layered into the braking moment at the cabin seats (wiring phase 6)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file misc/Chairs/buckle1.ogg); staged copies held in the Nexus workspace gap-fill staging.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026). Registered under Kit's revised ruling and the Nexus operating decision (Oct 17, 2026): the downloaded libraries are the project's working set; the credit chain is preserved exactly as the pack gives it; publication posture is held separately (permission, re-creation via GarageBand / Rogue Amoeba, licensed equivalent, or exclusion per slot). The commercialUse field records the project's shipping posture, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-085",
+      "name": "Transport restraint buckle 2",
+      "type": "sfx",
+      "originalFilename": "buckle2.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file sounds/misc/Chairs/buckle2.ogg; masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/buckle2.ogg"
+      ],
+      "processing": [
+        "ffmpeg: Ogg Vorbis (upstream) -> Ogg Vorbis q5 (uniform game encode)"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 01 (transport cabin) — restraint buckle variant pool, held (wiring phase 6)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file misc/Chairs/buckle2.ogg); staged copies held in the Nexus workspace gap-fill staging.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026). Registered under Kit's revised ruling and the Nexus operating decision (Oct 17, 2026): the downloaded libraries are the project's working set; the credit chain is preserved exactly as the pack gives it; publication posture is held separately (permission, re-creation via GarageBand / Rogue Amoeba, licensed equivalent, or exclusion per slot). The commercialUse field records the project's shipping posture, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-086",
+      "name": "Transport restraint unbuckle",
+      "type": "sfx",
+      "originalFilename": "unbuckle1.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file sounds/misc/Chairs/unbuckle1.ogg; masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/unbuckle1.ogg"
+      ],
+      "processing": [
+        "ffmpeg: Ogg Vorbis (upstream) -> Ogg Vorbis q5 (uniform game encode)"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 01 (transport cabin) — restraint unbuckle variant pool, held (wiring phase 6)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file misc/Chairs/unbuckle1.ogg); staged copies held in the Nexus workspace gap-fill staging.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026). Registered under Kit's revised ruling and the Nexus operating decision (Oct 17, 2026): the downloaded libraries are the project's working set; the credit chain is preserved exactly as the pack gives it; publication posture is held separately (permission, re-creation via GarageBand / Rogue Amoeba, licensed equivalent, or exclusion per slot). The commercialUse field records the project's shipping posture, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-087",
+      "name": "Hearth deck footstep 1",
+      "type": "sfx",
+      "originalFilename": "station1.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file sounds/steps/station1.ogg; masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/station1.ogg"
+      ],
+      "processing": [
+        "ffmpeg: Ogg Vorbis (upstream) -> Ogg Vorbis q5 (uniform game encode)"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 16 (footsteps, Hearth deck surface) — player footstep rotation in the Hearth zone; the Hearth's own recorded set (wiring phase 6)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file steps/station1.ogg); staged copies held in the Nexus workspace gap-fill staging.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026). Registered under Kit's revised ruling and the Nexus operating decision (Oct 17, 2026): the downloaded libraries are the project's working set; the credit chain is preserved exactly as the pack gives it; publication posture is held separately (permission, re-creation via GarageBand / Rogue Amoeba, licensed equivalent, or exclusion per slot). The commercialUse field records the project's shipping posture, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-088",
+      "name": "Hearth deck footstep 2",
+      "type": "sfx",
+      "originalFilename": "station2.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file sounds/steps/station2.ogg; masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/station2.ogg"
+      ],
+      "processing": [
+        "ffmpeg: Ogg Vorbis (upstream) -> Ogg Vorbis q5 (uniform game encode)"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 16 (footsteps, Hearth deck surface) — player footstep rotation in the Hearth zone; the Hearth's own recorded set (wiring phase 6)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file steps/station2.ogg); staged copies held in the Nexus workspace gap-fill staging.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026). Registered under Kit's revised ruling and the Nexus operating decision (Oct 17, 2026): the downloaded libraries are the project's working set; the credit chain is preserved exactly as the pack gives it; publication posture is held separately (permission, re-creation via GarageBand / Rogue Amoeba, licensed equivalent, or exclusion per slot). The commercialUse field records the project's shipping posture, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-089",
+      "name": "Hearth deck footstep 3",
+      "type": "sfx",
+      "originalFilename": "station3.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file sounds/steps/station3.ogg; masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/station3.ogg"
+      ],
+      "processing": [
+        "ffmpeg: Ogg Vorbis (upstream) -> Ogg Vorbis q5 (uniform game encode)"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 16 (footsteps, Hearth deck surface) — player footstep rotation in the Hearth zone; the Hearth's own recorded set (wiring phase 6)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file steps/station3.ogg); staged copies held in the Nexus workspace gap-fill staging.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026). Registered under Kit's revised ruling and the Nexus operating decision (Oct 17, 2026): the downloaded libraries are the project's working set; the credit chain is preserved exactly as the pack gives it; publication posture is held separately (permission, re-creation via GarageBand / Rogue Amoeba, licensed equivalent, or exclusion per slot). The commercialUse field records the project's shipping posture, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-090",
+      "name": "Hearth deck footstep 4",
+      "type": "sfx",
+      "originalFilename": "station4.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file sounds/steps/station4.ogg; masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/station4.ogg"
+      ],
+      "processing": [
+        "ffmpeg: Ogg Vorbis (upstream) -> Ogg Vorbis q5 (uniform game encode)"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 16 (footsteps, Hearth deck surface) — player footstep rotation in the Hearth zone; the Hearth's own recorded set (wiring phase 6)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file steps/station4.ogg); staged copies held in the Nexus workspace gap-fill staging.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026). Registered under Kit's revised ruling and the Nexus operating decision (Oct 17, 2026): the downloaded libraries are the project's working set; the credit chain is preserved exactly as the pack gives it; publication posture is held separately (permission, re-creation via GarageBand / Rogue Amoeba, licensed equivalent, or exclusion per slot). The commercialUse field records the project's shipping posture, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-091",
+      "name": "Hearth deck footstep 5",
+      "type": "sfx",
+      "originalFilename": "station5.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file sounds/steps/station5.ogg; masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/station5.ogg"
+      ],
+      "processing": [
+        "ffmpeg: Ogg Vorbis (upstream) -> Ogg Vorbis q5 (uniform game encode)"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 16 (footsteps, Hearth deck surface) — player footstep rotation in the Hearth zone; the Hearth's own recorded set (wiring phase 6)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file steps/station5.ogg); staged copies held in the Nexus workspace gap-fill staging.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026). Registered under Kit's revised ruling and the Nexus operating decision (Oct 17, 2026): the downloaded libraries are the project's working set; the credit chain is preserved exactly as the pack gives it; publication posture is held separately (permission, re-creation via GarageBand / Rogue Amoeba, licensed equivalent, or exclusion per slot). The commercialUse field records the project's shipping posture, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-092",
+      "name": "Hearth deck footstep 6",
+      "type": "sfx",
+      "originalFilename": "station6.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file sounds/steps/station6.ogg; masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/station6.ogg"
+      ],
+      "processing": [
+        "ffmpeg: Ogg Vorbis (upstream) -> Ogg Vorbis q5 (uniform game encode)"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 16 (footsteps, Hearth deck surface) — player footstep rotation in the Hearth zone; the Hearth's own recorded set (wiring phase 6)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file steps/station6.ogg); staged copies held in the Nexus workspace gap-fill staging.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026). Registered under Kit's revised ruling and the Nexus operating decision (Oct 17, 2026): the downloaded libraries are the project's working set; the credit chain is preserved exactly as the pack gives it; publication posture is held separately (permission, re-creation via GarageBand / Rogue Amoeba, licensed equivalent, or exclusion per slot). The commercialUse field records the project's shipping posture, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-093",
+      "name": "Hearth deck footstep 7",
+      "type": "sfx",
+      "originalFilename": "station7.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file sounds/steps/station7.ogg; masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/station7.ogg"
+      ],
+      "processing": [
+        "ffmpeg: Ogg Vorbis (upstream) -> Ogg Vorbis q5 (uniform game encode)"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 16 (footsteps, Hearth deck surface) — player footstep rotation in the Hearth zone; the Hearth's own recorded set (wiring phase 6)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file steps/station7.ogg); staged copies held in the Nexus workspace gap-fill staging.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026). Registered under Kit's revised ruling and the Nexus operating decision (Oct 17, 2026): the downloaded libraries are the project's working set; the credit chain is preserved exactly as the pack gives it; publication posture is held separately (permission, re-creation via GarageBand / Rogue Amoeba, licensed equivalent, or exclusion per slot). The commercialUse field records the project's shipping posture, not a verified per-file licence."
+    },
+    {
+      "id": "RSN-SFX-094",
+      "name": "Hearth deck footstep 8",
+      "type": "sfx",
+      "originalFilename": "station8.ogg",
+      "creator": "Miriani-Next project (pack-level attribution; per-file creator undocumented)",
+      "sourceLibrary": "Miriani-Next v4.2.15",
+      "sourcePackId": "SRC-AUD-015",
+      "sourceUrl": "https://github.com/distantorigin/miriani-next",
+      "license": "Miriani-Next pack-level attribution — per-file licence undocumented (see notes)",
+      "licenseEvidence": "assets/audio/licenses/miriani-next-v4.2.15-CREDITS.json",
+      "commercialUse": true,
+      "modificationAllowed": true,
+      "attributionRequired": true,
+      "attributionText": "Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.",
+      "purchaseRef": null,
+      "acquiredDate": "2026-10-02",
+      "fracturedFlowOriginal": false,
+      "generationSource": null,
+      "masterSource": "Miriani-Next v4.2.15 upstream file sounds/steps/station8.ogg; masters are not committed to this repo (bulk library) — reacquire per the reacquisition field.",
+      "derivedFiles": [
+        "artifacts/resonance/public/audio/gateone/station8.ogg"
+      ],
+      "processing": [
+        "ffmpeg: Ogg Vorbis (upstream) -> Ogg Vorbis q5 (uniform game encode)"
+      ],
+      "targets": [
+        "web"
+      ],
+      "usedIn": [
+        "Gate One identity 16 (footsteps, Hearth deck surface) — player footstep rotation in the Hearth zone; the Hearth's own recorded set (wiring phase 6)."
+      ],
+      "reacquisition": "git clone --branch v4.2.15 --depth 1 https://github.com/distantorigin/miriani-next.git (upstream sounds file steps/station8.ogg); staged copies held in the Nexus workspace gap-fill staging.",
+      "notes": "Per-file licence status: UNRESOLVED on documentary evidence (licence research, Oct 17, 2026). Registered under Kit's revised ruling and the Nexus operating decision (Oct 17, 2026): the downloaded libraries are the project's working set; the credit chain is preserved exactly as the pack gives it; publication posture is held separately (permission, re-creation via GarageBand / Rogue Amoeba, licensed equivalent, or exclusion per slot). The commercialUse field records the project's shipping posture, not a verified per-file licence."
     }
   ]
 }
