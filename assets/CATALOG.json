@@ -401,6 +401,22 @@
       "preferredUse": "Footstep foley — stone and hard surfaces.",
       "status": "approved",
       "notes": "Added Oct 17, 2026 for the Gate One wiring: staged subset is the 6 stone footstep files (L/R pairs, RSN-SFX-071..076). Original recordings published by Fantozzi on Freesound (pack 10338) under CC0; OpenGameArt mirror uploaded by qubodup."
+    },
+    {
+      "id": "SRC-AUD-019",
+      "category": "audio",
+      "name": "Kokoro TTS — Kokoro-82M model (hexgrad) with the kokoro-onnx runtime",
+      "creator": "hexgrad (Kokoro model); thewh1teagle (kokoro-onnx runtime)",
+      "location": "https://github.com/hexgrad/kokoro and https://github.com/thewh1teagle/kokoro-onnx — open source, reacquirable",
+      "license": "Apache-2.0",
+      "commercialUse": true,
+      "attribution": "none required (Apache-2.0 licence text held at assets/audio/licenses/kokoro-apache-2.0-LICENSE.txt)",
+      "modificationRedistribution": "Permitted under Apache-2.0; rendered output is original project work.",
+      "wholePackApproved": true,
+      "purchase": "Free (open source); no purchase.",
+      "preferredUse": "Cast voice-line production — renders of authored script lines with the cast voices (Gate One voice wiring).",
+      "status": "approved",
+      "notes": "Voices ship inside the Kokoro-82M model release (voices-v1.0). Cast voice + production recipe are recorded per line in each registry entry's processing field; the casting record is held in the Nexus workspace (resonance-audio-ingest/tts-kokoro/CHARACTER-PROFILES.md)."
     }
   ]
 }
