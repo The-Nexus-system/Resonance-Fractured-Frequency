@@ -1,0 +1,56 @@
+name: Gate One native audio conversion
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/gate-one-native-audio.yml"
+      - "artifacts/resonance-mobile/assets/audio/gateone/*.ogg"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gate-one-native-audio
+  cancel-in-progress: false
+
+jobs:
+  transcode:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          persist-credentials: true
+      - name: Prepare licensed mobile audio in Apple-compatible AAC
+        shell: bash
+        run: |
+          set -euo pipefail
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          count=$(find artifacts/resonance-mobile/assets/audio/gateone -maxdepth 1 -name '*.ogg' -type f | wc -l)
+          if [ "$count" -ne 13 ]; then
+            echo "::error::Expected exactly 13 licensed source assets, found $count"
+            exit 1
+          fi
+          for input in artifacts/resonance-mobile/assets/audio/gateone/*.ogg; do
+            output="$(dirname "$input")/$(basename "$input" .ogg).m4a"
+            ffmpeg -hide_banner -loglevel error -y -i "$input" -vn -c:a aac -b:a 160k "$output"
+            ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1 "$output"
+          done
+      - name: Commit Apple-compatible derivatives
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "Resonance CI"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add artifacts/resonance-mobile/assets/audio/gateone/*.m4a
+          if git diff --cached --quiet; then
+            echo "Audio derivatives already match the current sources."
+            exit 0
+          fi
+          git commit -m "build(mobile-audio): transcode licensed Gate One effects to AAC"
+          git pull --rebase origin main
+          git push origin HEAD:main
