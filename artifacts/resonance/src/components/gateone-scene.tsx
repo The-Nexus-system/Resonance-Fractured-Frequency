@@ -193,13 +193,38 @@ function GateOneSceneInner({ snap }: { snap: EngineSnapshot }) {
         </mesh>
       ))}
 
-      {/* Sealed hatch reads as a door until docking opens it */}
-      {!snap.hatchOpen && (
-        <mesh position={[0, 1.5, -12]}>
-          <boxGeometry args={[2.6, 3, 0.3]} />
-          <meshStandardMaterial color="#3a6b66" emissive="#12332f" />
+      {/* Transfer hatch: a framed pressure door that opens with the real docking state.
+          Visual geometry never changes the authoritative walkable collision space. */}
+      <group position={[0, 0, -12]}>
+        {[-1.35, 1.35].map((x) => (
+          <mesh key={x} position={[x, 1.52, 0]}>
+            <boxGeometry args={[0.19, 3.04, 0.36]} />
+            <meshStandardMaterial color="#718c8d" metalness={0.76} roughness={0.46} />
+          </mesh>
+        ))}
+        <mesh position={[0, 3.03, 0]}>
+          <boxGeometry args={[2.86, 0.2, 0.36]} />
+          <meshStandardMaterial color="#718c8d" metalness={0.76} roughness={0.46} />
         </mesh>
-      )}
+        {!snap.hatchOpen && (
+          <group>
+            <mesh position={[0, 1.5, 0]}>
+              <boxGeometry args={[2.53, 2.95, 0.22]} />
+              <meshStandardMaterial color="#334d55" metalness={0.79} roughness={0.52} />
+            </mesh>
+            <mesh position={[0, 1.5, 0.12]}>
+              <boxGeometry args={[1.94, 2.45, 0.025]} />
+              <meshStandardMaterial color="#517079" metalness={0.73} roughness={0.48} />
+            </mesh>
+            {[0.72, 1.52, 2.32].map((height) => (
+              <mesh key={height} position={[0, height, 0.15]}>
+                <boxGeometry args={[2.02, 0.06, 0.035]} />
+                <meshStandardMaterial color="#8ba9aa" metalness={0.78} roughness={0.37} />
+              </mesh>
+            ))}
+          </group>
+        )}
+      </group>
 
       {/* Landmarks — dim emissive markers at authored fixture positions */}
       {LANDMARKS.map(({ key, color, height }) => {
