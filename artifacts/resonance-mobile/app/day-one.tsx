@@ -18,6 +18,7 @@ import {
   type HeldControl,
 } from '@/lib/gateone/engine';
 import { WALKABLE } from '@/lib/gateone/world';
+import { GateOneThreeScene } from '@/components/gateone-three-scene';
 import { defaultGateOne } from '@/lib/save';
 
 const MAP_W = 300;
@@ -40,6 +41,8 @@ export default function DayOneScreen() {
   const [complete, setComplete] = useState(gateOne.complete);
   const [captions, setCaptions] = useState<Caption[]>([]);
   const [snap, setSnap] = useState<EngineSnapshot | null>(null);
+  // Presentation choice only: both views read the same semantic engine state.
+  const [presentation, setPresentation] = useState<'3d' | 'map'>('3d');
   const engineRef = useRef<GateOneNativeEngine | null>(null);
   const scrollRef = useRef<ScrollView>(null);
   const persistRef = useRef(0);
@@ -209,7 +212,8 @@ export default function DayOneScreen() {
         </ThemedText>
       </View>
 
-      {!settings.reduceMotion && snap && (
+      {snap && presentation === '3d' && <GateOneThreeScene snap={snap} />}
+      {snap && presentation === 'map' && (
         <View
           accessible={false}
           importantForAccessibility="no-hide-descendants"
@@ -247,6 +251,15 @@ export default function DayOneScreen() {
             ]}
           />
         </View>
+      )}
+
+      {snap && (
+        <GameButton
+          label={presentation === '3d' ? 'Show 2-D map' : 'Show 3-D world'}
+          variant="outline"
+          testID="button-gateone-presentation"
+          onPress={() => setPresentation(current => current === '3d' ? 'map' : '3d')}
+        />
       )}
 
       <ScrollView
