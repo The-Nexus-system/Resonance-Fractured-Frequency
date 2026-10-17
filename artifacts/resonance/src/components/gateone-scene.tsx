@@ -16,6 +16,7 @@ import { Component, useEffect, useMemo, type ReactNode } from "react";
 import { WALKABLE, type Rect } from "@/lib/gateone/world";
 import type { EngineSnapshot } from "@/lib/gateone/engine";
 import { GateOneEnvironment, GateOneNpc } from "./gateone-environment";
+import { GateOneAnimatedNpc } from "./gateone-animated-character";
 import { GateOneLighting } from "./gateone-lighting";
 import { GATE_ONE_FINISH } from "./gateone-materials";
 import * as THREE from "three";
@@ -274,7 +275,9 @@ function GateOneSceneInner({ snap }: { snap: EngineSnapshot }) {
       <GateOneEnvironment />
 
       {/* Each existing moving entity keeps its authoritative simulation pose. */}
-      {snap.npcs.map((n) => <GateOneNpc key={n.id} npc={n} />)}
+      {snap.npcs.map((n) => (
+        <GateOneAnimatedNpc key={n.id} npc={n} fallback={<GateOneNpc npc={n} />} />
+      ))}
     </Canvas>
   );
 }
