@@ -332,6 +332,11 @@ function LivedInSpaces({ hatchOpen }: { hatchOpen: boolean }) {
   );
 }
 
+/**
+ * Generic travellers keep recognisable movement silhouettes and belongings.
+ * No identity, medical or cultural traits are invented for story characters.
+ * The moving coordinates still come directly from the Game One engine.
+ */
 function MovingPeople({ npcs }: { npcs: EngineSnapshot['npcs'] }) {
   return (
     <group>
@@ -339,24 +344,70 @@ function MovingPeople({ npcs }: { npcs: EngineSnapshot['npcs'] }) {
         const cargo = n.id.includes('cargo') || n.id.includes('cart');
         const worker = n.id.includes('worker') || n.id.includes('crew');
         const child = n.id.includes('kids');
+        const traveller = n.id.includes('trav');
+        const dinner = n.id.includes('dinner');
         const height = child ? 1.05 : 1.58;
         return (
           <group key={n.id} position={[n.x, 0, -n.y]}>
             {cargo ? (
               <group>
-                <Surface at={[0, 0.55, 0]} size={[1.12, 0.84, 1.36]} color="#738480" />
-                <Surface at={[0, 1.01, 0]} size={[0.95, 0.1, 1.1]} color="#b2aa97" />
+                <Surface at={[0, 0.56, 0]} size={[1.22, 0.78, 1.46]} color="#718683" />
+                <Surface at={[0, 1.02, -0.04]} size={[1.04, 0.17, 1.19]} color="#a79e8d" />
+                <Surface at={[0.55, 0.86, 0.04]} size={[0.08, 0.85, 0.84]} color="#a7b2af" />
+                {[-0.49, 0.49].map(x =>
+                  [-0.51, 0.51].map(z => (
+                    <mesh key={x + ':' + z} position={[x, 0.17, z]} rotation={[Math.PI / 2, 0, 0]}>
+                      <cylinderGeometry args={[0.15, 0.15, 0.10, 12]} />
+                      <meshStandardMaterial color="#2a353b" roughness={0.93} />
+                    </mesh>
+                  )),
+                )}
               </group>
             ) : (
               <group>
+                {/* Clothing, posture and carried items—not colour alone—separate roles. */}
                 <mesh position={[0, height * 0.55, 0]}>
-                  <capsuleGeometry args={[child ? 0.2 : 0.28, height * 0.39, 4, 9]} />
-                  <meshStandardMaterial color={worker ? '#9daaa4' : '#758f94'} roughness={0.92} />
+                  <capsuleGeometry args={[child ? 0.20 : 0.28, height * 0.39, 4, 9]} />
+                  <meshStandardMaterial
+                    color={worker ? '#9ca9a2' : child ? '#b2a080' : '#758f94'}
+                    roughness={0.92}
+                  />
                 </mesh>
                 <mesh position={[0, height * 0.96, 0]}>
                   <sphereGeometry args={[child ? 0.16 : 0.19, 10, 10]} />
                   <meshStandardMaterial color="#b5a89a" roughness={0.92} />
                 </mesh>
+                {/* Distinct legs and practical shoes, avoiding a floating pawn shape. */}
+                {[-0.13, 0.13].map(x => (
+                  <group key={x}>
+                    <Surface at={[x, height * 0.18, 0]} size={[child ? 0.11 : 0.14, height * 0.33, 0.16]} color="#394a51" metal={0.05} rough={0.96} />
+                    <Surface at={[x, 0.065, -0.055]} size={[child ? 0.15 : 0.18, 0.13, 0.29]} color="#30393d" metal={0.05} rough={0.96} />
+                  </group>
+                ))}
+                {worker && (
+                  <group>
+                    <Surface at={[0.32, height * 0.53, 0.02]} size={[0.17, 0.40, 0.28]} color="#637b7c" />
+                    <Surface at={[0, height * 0.68, 0.295]} size={[0.28, 0.09, 0.026]} color="#d1d1be" />
+                  </group>
+                )}
+                {traveller && (
+                  <group position={[0.43, 0, 0.26]}>
+                    <Surface at={[0, 0.39, 0]} size={[0.33, 0.63, 0.30]} color="#927b65" rough={0.88} metal={0.12} />
+                    <Surface at={[0, 0.77, 0]} size={[0.05, 0.28, 0.08]} color="#a1a6a4" />
+                    {[-0.10, 0.10].map(x => (
+                      <mesh key={x} position={[x, 0.075, 0]}>
+                        <sphereGeometry args={[0.066, 8, 6]} />
+                        <meshStandardMaterial color="#39434a" />
+                      </mesh>
+                    ))}
+                  </group>
+                )}
+                {dinner && (
+                  <group position={[0.43, height * 0.52, 0.28]}>
+                    <Surface at={[0, 0, 0]} size={[0.52, 0.19, 0.40]} color="#ac9c7f" rough={0.84} metal={0.12} />
+                    <Surface at={[0, 0.13, 0]} size={[0.48, 0.08, 0.39]} color="#d1c6a4" rough={0.9} metal={0.08} />
+                  </group>
+                )}
               </group>
             )}
           </group>
