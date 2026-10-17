@@ -2482,16 +2482,20 @@
       "generationSource": null,
       "masterSource": "OpenGameArt pack file Fantozzi-footsteps.7z (https://opengameart.org/sites/default/files/Fantozzi-footsteps.7z); original recordings published on Freesound as pack 10338 by Fantozzi under CC0.",
       "derivedFiles": [
-        "artifacts/resonance/public/audio/gateone/Fantozzi-StoneL1.ogg"
+        "artifacts/resonance/public/audio/gateone/Fantozzi-StoneL1.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneL1.ogg"
       ],
       "processing": [
         "ffmpeg: 16-bit 44.1 kHz WAV (converted from the pack FLAC) -> Ogg Vorbis q5"
       ],
       "targets": [
-        "web"
+        "web",
+        "ios",
+        "android"
       ],
       "usedIn": [
-        "Gate One identity 16 (footsteps, concourse stone surface) — player footstep left rotation in the concourse zone (wiring map)."
+        "Gate One identity 16 (footsteps, concourse stone surface) — player footstep left rotation in the concourse zone (wiring map).",
+        "Gate One native recorded-audio layer — assets/audio/gateone, alongside semantic HRTF, captions and haptics."
       ],
       "reacquisition": "Download https://opengameart.org/sites/default/files/Fantozzi-footsteps.7z (pack page https://opengameart.org/node/21492); staged WAVs in the Nexus workspace at resonance-audio-ingest/selected/16-footsteps-stone/.",
       "notes": "CC0 1.0 public domain dedication — no attribution required and no permission needed; credited voluntarily per project practice. Recordings by Fantozzi; OpenGameArt upload by qubodup. Credit follows the sound's origin (Fantozzi), not the download point (Nexus direction, Oct 17, 2026)."
@@ -2516,16 +2520,20 @@
       "generationSource": null,
       "masterSource": "OpenGameArt pack file Fantozzi-footsteps.7z (https://opengameart.org/sites/default/files/Fantozzi-footsteps.7z); original recordings published on Freesound as pack 10338 by Fantozzi under CC0.",
       "derivedFiles": [
-        "artifacts/resonance/public/audio/gateone/Fantozzi-StoneL2.ogg"
+        "artifacts/resonance/public/audio/gateone/Fantozzi-StoneL2.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneL2.ogg"
       ],
       "processing": [
         "ffmpeg: 16-bit 44.1 kHz WAV (converted from the pack FLAC) -> Ogg Vorbis q5"
       ],
       "targets": [
-        "web"
+        "web",
+        "ios",
+        "android"
       ],
       "usedIn": [
-        "Gate One identity 16 (footsteps, concourse stone surface) — player footstep left rotation in the concourse zone (wiring map)."
+        "Gate One identity 16 (footsteps, concourse stone surface) — player footstep left rotation in the concourse zone (wiring map).",
+        "Gate One native recorded-audio layer — assets/audio/gateone, alongside semantic HRTF, captions and haptics."
       ],
       "reacquisition": "Download https://opengameart.org/sites/default/files/Fantozzi-footsteps.7z (pack page https://opengameart.org/node/21492); staged WAVs in the Nexus workspace at resonance-audio-ingest/selected/16-footsteps-stone/.",
       "notes": "CC0 1.0 public domain dedication — no attribution required and no permission needed; credited voluntarily per project practice. Recordings by Fantozzi; OpenGameArt upload by qubodup. Credit follows the sound's origin (Fantozzi), not the download point (Nexus direction, Oct 17, 2026)."
@@ -2550,16 +2558,20 @@
       "generationSource": null,
       "masterSource": "OpenGameArt pack file Fantozzi-footsteps.7z (https://opengameart.org/sites/default/files/Fantozzi-footsteps.7z); original recordings published on Freesound as pack 10338 by Fantozzi under CC0.",
       "derivedFiles": [
-        "artifacts/resonance/public/audio/gateone/Fantozzi-StoneL3.ogg"
+        "artifacts/resonance/public/audio/gateone/Fantozzi-StoneL3.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneL3.ogg"
       ],
       "processing": [
         "ffmpeg: 16-bit 44.1 kHz WAV (converted from the pack FLAC) -> Ogg Vorbis q5"
       ],
       "targets": [
-        "web"
+        "web",
+        "ios",
+        "android"
       ],
       "usedIn": [
-        "Gate One identity 16 (footsteps, concourse stone surface) — player footstep left rotation in the concourse zone (wiring map)."
+        "Gate One identity 16 (footsteps, concourse stone surface) — player footstep left rotation in the concourse zone (wiring map).",
+        "Gate One native recorded-audio layer — assets/audio/gateone, alongside semantic HRTF, captions and haptics."
       ],
       "reacquisition": "Download https://opengameart.org/sites/default/files/Fantozzi-footsteps.7z (pack page https://opengameart.org/node/21492); staged WAVs in the Nexus workspace at resonance-audio-ingest/selected/16-footsteps-stone/.",
       "notes": "CC0 1.0 public domain dedication — no attribution required and no permission needed; credited voluntarily per project practice. Recordings by Fantozzi; OpenGameArt upload by qubodup. Credit follows the sound's origin (Fantozzi), not the download point (Nexus direction, Oct 17, 2026)."
@@ -2584,16 +2596,20 @@
       "generationSource": null,
       "masterSource": "OpenGameArt pack file Fantozzi-footsteps.7z (https://opengameart.org/sites/default/files/Fantozzi-footsteps.7z); original recordings published on Freesound as pack 10338 by Fantozzi under CC0.",
       "derivedFiles": [
-        "artifacts/resonance/public/audio/gateone/Fantozzi-StoneR1.ogg"
+        "artifacts/resonance/public/audio/gateone/Fantozzi-StoneR1.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneR1.ogg"
       ],
       "processing": [
         "ffmpeg: 16-bit 44.1 kHz WAV (converted from the pack FLAC) -> Ogg Vorbis q5"
       ],
       "targets": [
-        "web"
+        "web",
+        "ios",
+        "android"
       ],
       "usedIn": [
-        "Gate One identity 16 (footsteps, concourse stone surface) — player footstep right rotation in the concourse zone (wiring map)."
+        "Gate One identity 16 (footsteps, concourse stone surface) — player footstep right rotation in the concourse zone (wiring map).",
+        "Gate One native recorded-audio layer — assets/audio/gateone, alongside semantic HRTF, captions and haptics."
       ],
       "reacquisition": "Download https://opengameart.org/sites/default/files/Fantozzi-footsteps.7z (pack page https://opengameart.org/node/21492); staged WAVs in the Nexus workspace at resonance-audio-ingest/selected/16-footsteps-stone/.",
       "notes": "CC0 1.0 public domain dedication — no attribution required and no permission needed; credited voluntarily per project practice. Recordings by Fantozzi; OpenGameArt upload by qubodup. Credit follows the sound's origin (Fantozzi), not the download point (Nexus direction, Oct 17, 2026)."
@@ -2618,16 +2634,20 @@
       "generationSource": null,
       "masterSource": "OpenGameArt pack file Fantozzi-footsteps.7z (https://opengameart.org/sites/default/files/Fantozzi-footsteps.7z); original recordings published on Freesound as pack 10338 by Fantozzi under CC0.",
       "derivedFiles": [
-        "artifacts/resonance/public/audio/gateone/Fantozzi-StoneR2.ogg"
+        "artifacts/resonance/public/audio/gateone/Fantozzi-StoneR2.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneR2.ogg"
       ],
       "processing": [
         "ffmpeg: 16-bit 44.1 kHz WAV (converted from the pack FLAC) -> Ogg Vorbis q5"
       ],
       "targets": [
-        "web"
+        "web",
+        "ios",
+        "android"
       ],
       "usedIn": [
-        "Gate One identity 16 (footsteps, concourse stone surface) — player footstep right rotation in the concourse zone (wiring map)."
+        "Gate One identity 16 (footsteps, concourse stone surface) — player footstep right rotation in the concourse zone (wiring map).",
+        "Gate One native recorded-audio layer — assets/audio/gateone, alongside semantic HRTF, captions and haptics."
       ],
       "reacquisition": "Download https://opengameart.org/sites/default/files/Fantozzi-footsteps.7z (pack page https://opengameart.org/node/21492); staged WAVs in the Nexus workspace at resonance-audio-ingest/selected/16-footsteps-stone/.",
       "notes": "CC0 1.0 public domain dedication — no attribution required and no permission needed; credited voluntarily per project practice. Recordings by Fantozzi; OpenGameArt upload by qubodup. Credit follows the sound's origin (Fantozzi), not the download point (Nexus direction, Oct 17, 2026)."
@@ -2652,16 +2672,20 @@
       "generationSource": null,
       "masterSource": "OpenGameArt pack file Fantozzi-footsteps.7z (https://opengameart.org/sites/default/files/Fantozzi-footsteps.7z); original recordings published on Freesound as pack 10338 by Fantozzi under CC0.",
       "derivedFiles": [
-        "artifacts/resonance/public/audio/gateone/Fantozzi-StoneR3.ogg"
+        "artifacts/resonance/public/audio/gateone/Fantozzi-StoneR3.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/Fantozzi-StoneR3.ogg"
       ],
       "processing": [
         "ffmpeg: 16-bit 44.1 kHz WAV (converted from the pack FLAC) -> Ogg Vorbis q5"
       ],
       "targets": [
-        "web"
+        "web",
+        "ios",
+        "android"
       ],
       "usedIn": [
-        "Gate One identity 16 (footsteps, concourse stone surface) — player footstep right rotation in the concourse zone (wiring map)."
+        "Gate One identity 16 (footsteps, concourse stone surface) — player footstep right rotation in the concourse zone (wiring map).",
+        "Gate One native recorded-audio layer — assets/audio/gateone, alongside semantic HRTF, captions and haptics."
       ],
       "reacquisition": "Download https://opengameart.org/sites/default/files/Fantozzi-footsteps.7z (pack page https://opengameart.org/node/21492); staged WAVs in the Nexus workspace at resonance-audio-ingest/selected/16-footsteps-stone/.",
       "notes": "CC0 1.0 public domain dedication — no attribution required and no permission needed; credited voluntarily per project practice. Recordings by Fantozzi; OpenGameArt upload by qubodup. Credit follows the sound's origin (Fantozzi), not the download point (Nexus direction, Oct 17, 2026)."
@@ -2687,16 +2711,20 @@
       "generationSource": null,
       "masterSource": "SONNISS GDC 2024 Part 1 archive (Sonniss-GDC2024-Part1of9.zip), file DSGNErie_EerieBoilerRoom06_InMotionAudio_Sinister Textures Volume 1.wav; masters held in the Nexus workspace gap-fill extraction.",
       "derivedFiles": [
-        "artifacts/resonance/public/audio/gateone/boilerRoom06.ogg"
+        "artifacts/resonance/public/audio/gateone/boilerRoom06.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/boilerRoom06.ogg"
       ],
       "processing": [
         "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz"
       ],
       "targets": [
-        "web"
+        "web",
+        "ios",
+        "android"
       ],
       "usedIn": [
-        "Gate One identity 07 (concourse HVAC) — concourse bed layer, file bed (wiring phase 6)."
+        "Gate One identity 07 (concourse HVAC) — concourse bed layer, file bed (wiring phase 6).",
+        "Gate One native recorded-audio layer — assets/audio/gateone, alongside semantic HRTF, captions and haptics."
       ],
       "reacquisition": "Held archive Sonniss-GDC2024-Part1of9.zip in the Nexus workspace (resonance-audio-ingest); bundle originally distributed free by SONNISS for GDC 2024.",
       "notes": "SONNISS GDC 2024 bundle (Part 1), held by the Nexus System and verified complete Oct 17, 2026 (full CRC pass, 219 entries). Bundle licence read first-hand: royalty-free commercial use in games, no attribution required; standalone resale and AI-training use prohibited (this project does not train on audio). Staged by the Oct 17, 2026 gap-fill pass; matched by filename and metadata — audition by ear is pending the Nexus listening pass, like all wired layers."
@@ -2722,16 +2750,20 @@
       "generationSource": null,
       "masterSource": "SONNISS GDC 2024 Part 1 archive (Sonniss-GDC2024-Part1of9.zip), file Bluezone_BC0302_industrial_lever_switch_014.wav; masters held in the Nexus workspace gap-fill extraction.",
       "derivedFiles": [
-        "artifacts/resonance/public/audio/gateone/leverSwitch014.ogg"
+        "artifacts/resonance/public/audio/gateone/leverSwitch014.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/leverSwitch014.ogg"
       ],
       "processing": [
         "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz"
       ],
       "targets": [
-        "web"
+        "web",
+        "ios",
+        "android"
       ],
       "usedIn": [
-        "Gate One identity 04 (airlock system) — collar release layer in the hatch-opening sequence at the transfer hatch (wiring phase 6)."
+        "Gate One identity 04 (airlock system) — collar release layer in the hatch-opening sequence at the transfer hatch (wiring phase 6).",
+        "Gate One native recorded-audio layer — assets/audio/gateone, alongside semantic HRTF, captions and haptics."
       ],
       "reacquisition": "Held archive Sonniss-GDC2024-Part1of9.zip in the Nexus workspace (resonance-audio-ingest); bundle originally distributed free by SONNISS for GDC 2024.",
       "notes": "SONNISS GDC 2024 bundle (Part 1), held by the Nexus System and verified complete Oct 17, 2026 (full CRC pass, 219 entries). Bundle licence read first-hand: royalty-free commercial use in games, no attribution required; standalone resale and AI-training use prohibited (this project does not train on audio). Staged by the Oct 17, 2026 gap-fill pass; matched by filename and metadata — audition by ear is pending the Nexus listening pass, like all wired layers."
@@ -2757,16 +2789,20 @@
       "generationSource": null,
       "masterSource": "SONNISS GDC 2024 Part 1 archive (Sonniss-GDC2024-Part1of9.zip), file Bluezone_BC0302_industrial_lever_switch_039.wav; masters held in the Nexus workspace gap-fill extraction.",
       "derivedFiles": [
-        "artifacts/resonance/public/audio/gateone/leverSwitch039.ogg"
+        "artifacts/resonance/public/audio/gateone/leverSwitch039.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/leverSwitch039.ogg"
       ],
       "processing": [
         "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz"
       ],
       "targets": [
-        "web"
+        "web",
+        "ios",
+        "android"
       ],
       "usedIn": [
-        "Gate One identity 04 (airlock system) — collar mechanism variant pool, held for the hatch sequence (wiring phase 6)."
+        "Gate One identity 04 (airlock system) — collar mechanism variant pool, held for the hatch sequence (wiring phase 6).",
+        "Gate One native recorded-audio layer — assets/audio/gateone, alongside semantic HRTF, captions and haptics."
       ],
       "reacquisition": "Held archive Sonniss-GDC2024-Part1of9.zip in the Nexus workspace (resonance-audio-ingest); bundle originally distributed free by SONNISS for GDC 2024.",
       "notes": "SONNISS GDC 2024 bundle (Part 1), held by the Nexus System and verified complete Oct 17, 2026 (full CRC pass, 219 entries). Bundle licence read first-hand: royalty-free commercial use in games, no attribution required; standalone resale and AI-training use prohibited (this project does not train on audio). Staged by the Oct 17, 2026 gap-fill pass; matched by filename and metadata — audition by ear is pending the Nexus listening pass, like all wired layers."
@@ -2792,16 +2828,20 @@
       "generationSource": null,
       "masterSource": "SONNISS GDC 2024 Part 1 archive (Sonniss-GDC2024-Part1of9.zip), file Bluezone_BC0302_industrial_lever_switch_small_003.wav; masters held in the Nexus workspace gap-fill extraction.",
       "derivedFiles": [
-        "artifacts/resonance/public/audio/gateone/leverSwitchSmall003.ogg"
+        "artifacts/resonance/public/audio/gateone/leverSwitchSmall003.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/leverSwitchSmall003.ogg"
       ],
       "processing": [
         "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz"
       ],
       "targets": [
-        "web"
+        "web",
+        "ios",
+        "android"
       ],
       "usedIn": [
-        "Gate One identity 04 (airlock system) — collar mechanism variant pool, held for the hatch sequence (wiring phase 6)."
+        "Gate One identity 04 (airlock system) — collar mechanism variant pool, held for the hatch sequence (wiring phase 6).",
+        "Gate One native recorded-audio layer — assets/audio/gateone, alongside semantic HRTF, captions and haptics."
       ],
       "reacquisition": "Held archive Sonniss-GDC2024-Part1of9.zip in the Nexus workspace (resonance-audio-ingest); bundle originally distributed free by SONNISS for GDC 2024.",
       "notes": "SONNISS GDC 2024 bundle (Part 1), held by the Nexus System and verified complete Oct 17, 2026 (full CRC pass, 219 entries). Bundle licence read first-hand: royalty-free commercial use in games, no attribution required; standalone resale and AI-training use prohibited (this project does not train on audio). Staged by the Oct 17, 2026 gap-fill pass; matched by filename and metadata — audition by ear is pending the Nexus listening pass, like all wired layers."
@@ -2827,16 +2867,20 @@
       "generationSource": null,
       "masterSource": "SONNISS GDC 2024 Part 1 archive (Sonniss-GDC2024-Part1of9.zip), file Bluezone_BC0301_tiny_gears_small_mechanism_click_003.wav; masters held in the Nexus workspace gap-fill extraction.",
       "derivedFiles": [
-        "artifacts/resonance/public/audio/gateone/tinyGears003.ogg"
+        "artifacts/resonance/public/audio/gateone/tinyGears003.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/tinyGears003.ogg"
       ],
       "processing": [
         "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz"
       ],
       "targets": [
-        "web"
+        "web",
+        "ios",
+        "android"
       ],
       "usedIn": [
-        "Gate One identity 04 (airlock system) — collar release layer in the hatch-opening sequence at the transfer hatch (wiring phase 6)."
+        "Gate One identity 04 (airlock system) — collar release layer in the hatch-opening sequence at the transfer hatch (wiring phase 6).",
+        "Gate One native recorded-audio layer — assets/audio/gateone, alongside semantic HRTF, captions and haptics."
       ],
       "reacquisition": "Held archive Sonniss-GDC2024-Part1of9.zip in the Nexus workspace (resonance-audio-ingest); bundle originally distributed free by SONNISS for GDC 2024.",
       "notes": "SONNISS GDC 2024 bundle (Part 1), held by the Nexus System and verified complete Oct 17, 2026 (full CRC pass, 219 entries). Bundle licence read first-hand: royalty-free commercial use in games, no attribution required; standalone resale and AI-training use prohibited (this project does not train on audio). Staged by the Oct 17, 2026 gap-fill pass; matched by filename and metadata — audition by ear is pending the Nexus listening pass, like all wired layers."
@@ -2862,16 +2906,20 @@
       "generationSource": null,
       "masterSource": "SONNISS GDC 2024 Part 1 archive (Sonniss-GDC2024-Part1of9.zip), file DSGNDron_Geofon17_InMotionAudio_GEODRONE.wav; masters held in the Nexus workspace gap-fill extraction.",
       "derivedFiles": [
-        "artifacts/resonance/public/audio/gateone/geofon17.ogg"
+        "artifacts/resonance/public/audio/gateone/geofon17.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/geofon17.ogg"
       ],
       "processing": [
         "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz"
       ],
       "targets": [
-        "web"
+        "web",
+        "ios",
+        "android"
       ],
       "usedIn": [
-        "Gate One identity 12 (bridge acoustics) — bridge bed base layer under the existing bed and accents (wiring phase 6)."
+        "Gate One identity 12 (bridge acoustics) — bridge bed base layer under the existing bed and accents (wiring phase 6).",
+        "Gate One native recorded-audio layer — assets/audio/gateone, alongside semantic HRTF, captions and haptics."
       ],
       "reacquisition": "Held archive Sonniss-GDC2024-Part1of9.zip in the Nexus workspace (resonance-audio-ingest); bundle originally distributed free by SONNISS for GDC 2024.",
       "notes": "SONNISS GDC 2024 bundle (Part 1), held by the Nexus System and verified complete Oct 17, 2026 (full CRC pass, 219 entries). Bundle licence read first-hand: royalty-free commercial use in games, no attribution required; standalone resale and AI-training use prohibited (this project does not train on audio). Staged by the Oct 17, 2026 gap-fill pass; matched by filename and metadata — audition by ear is pending the Nexus listening pass, like all wired layers."
@@ -2897,16 +2945,20 @@
       "generationSource": null,
       "masterSource": "SONNISS GDC 2024 Part 1 archive (Sonniss-GDC2024-Part1of9.zip), file DSGNDron_Geofon24_InMotionAudio_GEODRONE.wav; masters held in the Nexus workspace gap-fill extraction.",
       "derivedFiles": [
-        "artifacts/resonance/public/audio/gateone/geofon24.ogg"
+        "artifacts/resonance/public/audio/gateone/geofon24.ogg",
+        "artifacts/resonance-mobile/assets/audio/gateone/geofon24.ogg"
       ],
       "processing": [
         "ffmpeg: 24-bit 96 kHz WAV -> Ogg Vorbis q5, resampled 44.1 kHz"
       ],
       "targets": [
-        "web"
+        "web",
+        "ios",
+        "android"
       ],
       "usedIn": [
-        "Gate One identity 12 (bridge acoustics) — bridge bed base-layer variant pool, held (wiring phase 6)."
+        "Gate One identity 12 (bridge acoustics) — bridge bed base-layer variant pool, held (wiring phase 6).",
+        "Gate One native recorded-audio layer — assets/audio/gateone, alongside semantic HRTF, captions and haptics."
       ],
       "reacquisition": "Held archive Sonniss-GDC2024-Part1of9.zip in the Nexus workspace (resonance-audio-ingest); bundle originally distributed free by SONNISS for GDC 2024.",
       "notes": "SONNISS GDC 2024 bundle (Part 1), held by the Nexus System and verified complete Oct 17, 2026 (full CRC pass, 219 entries). Bundle licence read first-hand: royalty-free commercial use in games, no attribution required; standalone resale and AI-training use prohibited (this project does not train on audio). Staged by the Oct 17, 2026 gap-fill pass; matched by filename and metadata — audition by ear is pending the Nexus listening pass, like all wired layers."
