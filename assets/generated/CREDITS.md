@@ -2,4 +2,4 @@
 
 GENERATED from `assets/REGISTRY.json` — do not edit by hand.
 
-*(No third-party assets imported yet.)*
+- Sounds from the Miriani-Next v4.2.15 community soundpack. Pack credits: ZapSplat; Pixabay; Miriani6 (Liam Erven, Chris Nestrud, and others); Miriani 7; MTMiriani; Miriani Soundpack for VIP Mud; Myinstants; Star Wars ULTIMATE SFX COLLECTION; home-studio recordings by Jason Harkness. Star Wars audio and IP belong to their respective rights holders; this game is not affiliated with or endorsed by them. Per-file source unresolved — see registry notes.
