@@ -17,6 +17,7 @@ import { WALKABLE, type Rect } from "@/lib/gateone/world";
 import type { EngineSnapshot } from "@/lib/gateone/engine";
 import { GateOneEnvironment, GateOneNpc } from "./gateone-environment";
 import { GateOneLighting } from "./gateone-lighting";
+import { GATE_ONE_FINISH } from "./gateone-materials";
 import * as THREE from "three";
 
 export function supportsWebGL(): boolean {
@@ -144,7 +145,7 @@ function GateOneSceneInner({ snap }: { snap: EngineSnapshot }) {
       {WALKABLE.map((r, i) => (
         <mesh key={`f${i}`} receiveShadow position={[(r.x1 + r.x2) / 2, -0.05, -(r.y1 + r.y2) / 2]}>
           <boxGeometry args={[r.x2 - r.x1, 0.1, r.y2 - r.y1]} />
-          <meshStandardMaterial color={i < 2 ? ZONE_TINT.cabin.floor : i < 5 ? ZONE_TINT.concourse.floor : i === 5 ? ZONE_TINT.bridge.floor : ZONE_TINT.hearth.floor} />
+          <meshStandardMaterial map={GATE_ONE_FINISH.deck} metalness={0.55} roughness={0.7} color={i < 2 ? ZONE_TINT.cabin.floor : i < 5 ? ZONE_TINT.concourse.floor : i === 5 ? ZONE_TINT.bridge.floor : ZONE_TINT.hearth.floor} />
         </mesh>
       ))}
 
@@ -159,7 +160,7 @@ function GateOneSceneInner({ snap }: { snap: EngineSnapshot }) {
           <group key={"ship-fittings-" + i}>
             <mesh receiveShadow position={[cx, WALL_HEIGHT + 0.08, -cy]}>
               <boxGeometry args={[width, 0.13, length]} />
-              <meshStandardMaterial color="#344449" metalness={0.68} roughness={0.54} />
+              <meshStandardMaterial map={GATE_ONE_FINISH.hull} color="#596c70" metalness={0.68} roughness={0.54} />
             </mesh>
             {[r.x1 + 0.3, r.x2 - 0.3].map((edge) => (
               <mesh key={edge} position={[edge, 0.015, -cy]}>
@@ -200,6 +201,7 @@ function GateOneSceneInner({ snap }: { snap: EngineSnapshot }) {
               w.cy < 78 ? ZONE_TINT.bridge.wall : ZONE_TINT.hearth.wall}
             metalness={0.45}
             roughness={0.69}
+            map={GATE_ONE_FINISH.hull}
           />
         </mesh>
       ))}
