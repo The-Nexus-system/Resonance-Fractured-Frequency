@@ -39,6 +39,10 @@ jobs:
         run: pnpm --filter @workspace/resonance-mobile run typecheck
       - name: Spatial and accessibility gameplay regression tests
         run: pnpm --filter @workspace/resonance-mobile run test:spatial
+      - name: Gate One narrative and traversal regression tests
+        run: pnpm --filter @workspace/resonance-mobile run test:gateone
+      - name: Export the actual iOS JavaScript app bundle
+        run: pnpm --filter @workspace/resonance-mobile exec expo export --platform ios --output-dir /tmp/resonance-gate-one-ios
       - name: Verify Apple-compatible recorded assets exist
         shell: bash
         run: |
