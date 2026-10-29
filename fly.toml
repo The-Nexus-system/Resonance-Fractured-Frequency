@@ -1,0 +1,13 @@
+# Resonance Frequency — PARKED PRIVATE copy.
+# Deliberately NO [[services]] and NO [http_service] sections:
+# Fly must allocate no public IPs and route no public traffic to this app.
+# Reachable only over Fly private networking / flyctl for verification.
+app = "nexus-resonance-frequency"
+primary_region = "iad"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  PORT = "8080"
+  NODE_ENV = "production"
