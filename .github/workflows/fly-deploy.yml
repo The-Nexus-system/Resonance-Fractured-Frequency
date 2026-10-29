@@ -1,0 +1,42 @@
+name: Deploy to Fly (parked, private)
+
+# Deploys this repo to the Fly app "nexus-resonance-frequency".
+# That app is a PARKED, PRIVATE copy: its fly.toml declares no [[services]]
+# and no [http_service], so Fly allocates it no public IPs and nothing is
+# reachable on the public internet. The final step of every run stops the
+# app's machines again, so each deploy settles back to parked/stopped.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: fly-deploy-resonance
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: superfly/flyctl-actions/setup-flyctl@master
+
+      - name: Deploy (remote-only build)
+        run: flyctl deploy --remote-only -a nexus-resonance-frequency
+
+      - name: Park — stop all machines
+        if: always()
+        run: |
+          ids=$(flyctl machine list -a nexus-resonance-frequency --json | jq -r '.[].id')
+          if [ -z "$ids" ]; then
+            echo "No machines found; nothing to park."
+            exit 0
+          fi
+          for id in $ids; do
+            echo "Stopping machine $id"
+            flyctl machine stop "$id" -a nexus-resonance-frequency || true
+          done
